@@ -4,10 +4,10 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" sizes="76x76" href="/static/favicons/apple-touch-icon.png" />
+          <link rel="apple-touch-icon" sizes="76x76" href="/static/images/me.png" />
           <link rel="icon" type="image/png" sizes="32x32" href="/static/images/me.png" />
           <link rel="manifest" href="/static/favicons/site.webmanifest" />
-          <link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#5bbad5" />
+          {/* <link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#5bbad5" /> */}
           <meta name="msapplication-TileColor" content="#000000" />
           <meta name="theme-color" content="#000000" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
