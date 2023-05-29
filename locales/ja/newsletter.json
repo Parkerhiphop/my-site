@@ -1,0 +1,10 @@
+{
+  "mail": "メールアドレス",
+  "title": "ニュースレターを購読する",
+  "messageError": "あなたのメールアドレスが無効であるか、すでに購読されています！",
+  "messageSuccess": "成功！🎉あなたは今購読者です。",
+  "placeholderSucces": "購読完了！🎉",
+  "placeholderDefault": "あなたのメールを入力してください",
+  "buttonSuccess": "ありがとう！",
+  "buttonDefault": "登録する"
+}

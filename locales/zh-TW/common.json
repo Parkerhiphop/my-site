@@ -1,0 +1,17 @@
+{
+  "greeting": "最新文章",
+  "more": "閱讀更多",
+  "all": "所有文章",
+  "search": "搜尋文章",
+  "comment": "載入評論",
+  "pub": "發佈",
+  "authors": "作者",
+  "name": "名字",
+  "nexta": "下一篇",
+  "preva": "上一篇",
+  "nextp": "下一頁",
+  "prevp": "上一頁",
+  "back": "返回列表",
+  "twitter": "Discuss on Twitter",
+  "github": "View on GitHub"
+}

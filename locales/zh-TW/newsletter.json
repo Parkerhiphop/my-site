@@ -1,0 +1,10 @@
+{
+  "mail": "電子信箱",
+  "title": "訂閱電子報",
+  "messageError": "該信箱無效 或是 已訂閱",
+  "messageSuccess": "訂閱成功 🎉 ！",
+  "placeholderSucces": "已成功 !  🎉",
+  "placeholderDefault": "輸入你的電子信箱",
+  "buttonSuccess": "感謝你!",
+  "buttonDefault": "訂閱"
+}

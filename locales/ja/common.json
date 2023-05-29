@@ -1,0 +1,17 @@
+{
+  "greeting": "最新",
+  "more": "もっと読む",
+  "all": "全ての投稿",
+  "search": "記事を検索",
+  "comment": "コメントを読み込む",
+  "pub": "公開",
+  "authors": "著者",
+  "name": "名前",
+  "nexta": "次の記事",
+  "preva": "前の記事",
+  "nextp": "次",
+  "prevp": "前",
+  "back": "ブログに戻る",
+  "twitter": "Twitterで議論する",
+  "github": "GitHubで見る"
+}
