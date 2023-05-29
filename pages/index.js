@@ -23,7 +23,7 @@ export default function Home({ posts, locale, availableLocales }) {
   return (
     <>
       <PageSEO
-        title={siteMetadata.title[locale]}
+        title={siteMetadata.title}
         description={siteMetadata.description[locale]}
         availableLocales={availableLocales}
       />

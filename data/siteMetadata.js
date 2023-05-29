@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: "Parker's Blog",
+  title: "Parker's Personal Site",
   author: 'Parker Chang',
   headerTitle: "Parker's Personal Site",
   description: "Record Parker's Life, Thoughts, Works, and Projects",

@@ -59,14 +59,15 @@ export async function getStaticProps({ params, defaultLocale, locale, locales })
 
 export default function Tag({ posts, tag, locale, availableLocales }) {
   const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
+
   return (
     <>
       <TagSEO
-        title={`${tag} - ${siteMetadata.title[locale]}`}
-        description={`${tag} tags - ${siteMetadata.title[locale]}`}
+        title={`${tag} - ${siteMetadata.title}`}
+        description={`${tag} tags - ${siteMetadata.title}`}
         availableLocales={availableLocales}
       />
-      <ListLayout posts={posts} title={title} />
+      <ListLayout posts={posts} title={`Tag: ${title}`} />
     </>
   )
 }

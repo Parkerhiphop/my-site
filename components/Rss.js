@@ -9,7 +9,7 @@ const Rss = () => {
       key={locale}
       rel="alternate"
       type="application/rss+xml"
-      title={`${siteMetadata.title[locale]} - ${locale.toLocaleUpperCase()} RSS feed`}
+      title={`${siteMetadata.title} - ${locale.toLocaleUpperCase()} RSS feed`}
       href={`/feed${locale === defaultLocale ? '' : `.${locale}`}.xml`}
     />
   )

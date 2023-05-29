@@ -84,7 +84,7 @@ export default function PostPage({
   return (
     <>
       <PageSEO
-        title={siteMetadata.title[locale]}
+        title={siteMetadata.title}
         description={siteMetadata.description[locale]}
         availableLocales={availableLocales}
       />
