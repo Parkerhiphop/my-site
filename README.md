@@ -23,8 +23,9 @@ All of the main repo Features &
 ### TODO
 
 - [ ] Check the grammar of Japanese
+- [ ] Migrate blogs
 - [ ] Customize Style
-- [ ] Table of Contents
+- [ ] Table of Contents: https://ithelp.ithome.com.tw/articles/10306476
 - [ ] Comment Area
 - [ ] Newsletter
 - [ ] Sponsor(Buy me a coffee, QRCode)
