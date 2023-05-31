@@ -17,8 +17,11 @@ const LayoutWrapper = ({ children }) => {
   const router = useRouter()
   const { locale, locales } = router
 
+  // TODO: implement useLocale hook to preserve the state of user's previous selection
+  // 目前只有首頁會在 reload 的時候被轉換為預設語言
   const changeLanguage = (e) => {
     const locale = e.target.value
+    // localStorage.setItem('locale', locale)
     router.push(router.asPath, router.asPath, { locale })
   }
 
