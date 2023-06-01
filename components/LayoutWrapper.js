@@ -17,6 +17,12 @@ const LayoutWrapper = ({ children }) => {
   const router = useRouter()
   const { locale, locales } = router
 
+  const langMap = {
+    'zh-TW': '繁體中文',
+    en: 'English',
+    ja: '日本語',
+  }
+
   // TODO: implement useLocale hook to preserve the state of user's previous selection
   // 目前只有首頁會在 reload 的時候被轉換為預設語言
   const changeLanguage = (e) => {
@@ -71,7 +77,7 @@ const LayoutWrapper = ({ children }) => {
             >
               {locales.map((e) => (
                 <option value={e} key={e}>
-                  {e}
+                  {langMap[e]}
                 </option>
               ))}
             </select>
