@@ -61,7 +61,7 @@ summary: 關於「為什麼要架設個人網站？」、「為什麼要寫作�
 
 除了上述寫作的好處之外，其實練習其他外語也很有幫助。我認為做什麼都是從做中學最快、最有感悟，直接開始用目標語言來寫文章，絕對可以快速累積對單字、文法的理解，剛開始一定不輕鬆，但我相信寫到後面一定倒吃甘蔗。
 
-> 討論完 Why 都討論完之後，接著就來講 How（技術上的選擇）！
+> 討論完 Why 之後，接著就來講 How（技術上的選擇）！
 
 ---
 
@@ -84,9 +84,13 @@ summary: 關於「為什麼要架設個人網站？」、「為什麼要寫作�
 
 這些如果都要我自己一個個把功能寫出來的話真的太累了，但也不想去用新工具踩坑（Hexo 的 Theme 很多都沒在維護了、Astro 則是要理解一堆新語法），突然想到就算要用 Next.js 也不代表要全部手寫，一定也會有很多人幫忙寫好部落格的樣版。
 
-我後來有先參考 [一個炫砲技術部落格的誕生 - Modern Next.js Blog 系列](https://easonchang.com/posts/modern-nextjs-blog-summary)，雖然含金量高，文章也寫很好，但真的太炫炮，對我來說有太多不需要的功能。
+於是我先參考了 [一個炫砲技術部落格的誕生 - Modern Next.js Blog 系列](https://easonchang.com/posts/modern-nextjs-blog-summary)，雖然含金量高，文章也寫很好，但真的太炫炮，對我來說有太多不需要的功能。
 
-接著就是使用 **"nextjs blog template"** 這組關鍵字找到了 [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)，以及他的 [i18n 版本](https://github.com/GautierArcin/i18n-tailwind-nextjs-starter-blog)，最後就是以這個版本來修修改改成為你們現在看到的樣子！
+最後是使用 **"nextjs blog template"** 這組關鍵字找到了 [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)，以及他的 [i18n 版本](https://github.com/GautierArcin/i18n-tailwind-nextjs-starter-blog)，以這個版本來修修改改成為你們現在看到的樣子！
+
+網域在 GoDaddy （聽說很盤，歡迎推薦其他品牌）上買的，因為是紀錄生活，覺得選用 `life` 挺不錯的。
+
+上線則是先使用 Vercel ，等流量有起來再看要不要換。
 
 ---
 

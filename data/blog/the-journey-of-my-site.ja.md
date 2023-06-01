@@ -79,6 +79,10 @@ Next.jsは仕事でも使えるし、ますます多くの会社が採用して�
 
 その後、**"nextjs blog template"** というキーワードで[tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) というテンプレート、そしてその [i18n版](https://github.com/GautierArcin/i18n-tailwind-nextjs-starter-blog)を見つけました。最終的には、このバージョンを少しずつ修正して、今見ているような形にしました！
 
+ドメインは GoDaddyで购买しました。 これは生活を记录するためのものなので、`life`を使うのは良いと思います。
+
+配備は、まずVercelを使い、トラフィックが増えるのを待って変更するかどうか検討します。
+
 ---
 
 ## ウェブサイトの現在の計画と期待

@@ -54,7 +54,7 @@ Writing down what you think and learn can clarify your thoughts, and occasionall
 
 In addition to the benefits of writing mentioned above, practicing other languages is also helpful. I believe the fastest and most enlightening way to learn anything is through doing it. Start writing articles in the target language, and you can quickly accumulate understanding of vocabulary and grammar. It won't be easy at the beginning, but I believe it will be rewarding as you progress.
 
-> Now that we've discussed the "why," let's move on to the "how" (the technical choices)!
+> After discussed the "why," let's move on to the "how" (the technical choices)!
 
 ---
 
@@ -80,6 +80,10 @@ Actually, my goal is quite simple: support multiple languages, Markdown format, 
 If I were to write all these features myself, it would be really exhausting. But I also don't want to deal with the pitfalls of new tools (many Hexo Themes are not maintained anymore, Astro requires understanding a bunch of new syntax). I suddenly realized that even if I use Next.js, it doesn't mean I have to write everything by hand. There must be many people who have already created blog templates.
 
 By using the keywords **"nextjs blog template"**, I found [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog), and its [i18n version](https://github.com/GautierArcin/i18n-tailwind-nextjs-starter-blog). Finally, I used this version as the base and made modifications to create what you see now!
+
+As for the domain, I buy it from GoDaddy. The suffix `life` is because of the content of the site would be anything I think, encounter.
+
+Deployment is to use Vercel first, and then wait for the traffic to increase to see if I have to change it.
 
 ---
 

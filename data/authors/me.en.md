@@ -11,4 +11,7 @@ A software engineer from a philosophy background, preparing to transition from f
 
 Enjoys words and sharing, fond of stories, often reads novels, comics, watches animation, movies.
 
-Recently, favorite author is Kotaro Isaka, and lifetime favorite is Airi Suzuki.
+The most favorite author is Brandon Sanderson(Mistborn).
+Recently, favorite author is Isaka Kotaro
+
+My lifetime favorite idol is Airi Suzuki.
