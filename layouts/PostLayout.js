@@ -2,7 +2,6 @@ import Link from '@/components/Link'
 import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
 import { BlogSEO } from '@/components/SEO'
-import Image from '@/components/Image'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import Comments from '@/components/comments'
@@ -10,6 +9,7 @@ import useTranslation from 'next-translate/useTranslation'
 import formatDate from '@/lib/utils/formatDate'
 import { useRouter } from 'next/router'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
+import TOCInline from '@/components/TOCInline'
 
 const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`
 const discussUrl = (slug) =>
@@ -21,6 +21,7 @@ const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day:
 
 export default function PostLayout({
   frontMatter,
+  toc, // TODO: Add toc in general
   authorDetails,
   availableLocales,
   next,
