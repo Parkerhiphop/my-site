@@ -20,7 +20,6 @@
  *
  */
 const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, exclude = '' }) => {
-  console.log({ toc })
   const re = Array.isArray(exclude)
     ? new RegExp('^(' + exclude.join('|') + ')$', 'i')
     : new RegExp('^(' + exclude + ')$', 'i')
@@ -40,7 +39,7 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
   }
 
   const tocList = (
-    <ul>
+    <ul className="mb-0 pb-5">
       {filteredToc.map((heading) => (
         <li key={heading.value} className={`${hierachy[heading.depth]}`}>
           <a href={heading.url}>{heading.value}</a>
@@ -52,7 +51,10 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
   return (
     <>
       {asDisclosure ? (
-        <details open>
+        <details
+          open
+          className="prose my-8 px-1 py-1 rounded dark:prose-dark bg-gray-100 dark:bg-gray-800 cursor-pointer"
+        >
           <summary className="ml-6 pt-2 pb-2 text-xl font-bold">Table of Contents</summary>
           <div className="ml-6">{tocList}</div>
         </details>

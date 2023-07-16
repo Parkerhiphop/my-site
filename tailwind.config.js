@@ -77,14 +77,6 @@ module.exports = {
             'code::after': {
               content: 'none',
             },
-            details: {
-              backgroundColor: theme('colors.gray.100'),
-              paddingLeft: '4px',
-              paddingRight: '4px',
-              paddingTop: '2px',
-              paddingBottom: '2px',
-              borderRadius: '0.25rem',
-            },
             hr: { borderColor: theme('colors.gray.200') },
             'ol li::marker': {
               fontWeight: '600',
@@ -131,9 +123,6 @@ module.exports = {
               backgroundColor: theme('colors.gray.800'),
             },
             code: {
-              backgroundColor: theme('colors.gray.800'),
-            },
-            details: {
               backgroundColor: theme('colors.gray.800'),
             },
             hr: { borderColor: theme('colors.gray.700') },
