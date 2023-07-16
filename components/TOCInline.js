@@ -31,10 +31,10 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
   )
 
   const hierachy = {
-    1: 'ml-0 text-3xl',
-    2: 'ml-4 text-2xl',
-    3: 'ml-8 text-xl',
-    4: 'ml-12 text-lg',
+    1: 'ml-0',
+    2: 'ml-4',
+    3: 'ml-8',
+    4: 'ml-12',
     5: 'ml-16',
     6: 'ml-20',
   }
@@ -42,7 +42,7 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
   const tocList = (
     <ul>
       {filteredToc.map((heading) => (
-        <li key={heading.value} className={`${hierachy[heading.depth]} mb-5`}>
+        <li key={heading.value} className={`${hierachy[heading.depth]}`}>
           <a href={heading.url}>{heading.value}</a>
         </li>
       ))}

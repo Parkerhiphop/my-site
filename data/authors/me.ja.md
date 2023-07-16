@@ -1,8 +1,7 @@
 ---
 name: Parker
 avatar: /static/images/me.png
-occupation: Full Stack Enginneer
-# company: InboundAsia
+occupation: ソフトウェアエンジニア
 twitter: https://twitter.com/parkerchang11
 linkedin: https://www.linkedin.com/in/cheng-yi-chang-19b148176/
 ---
