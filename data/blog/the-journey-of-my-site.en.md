@@ -6,10 +6,6 @@ draft: false
 summary: About "Why set up a personal website", "why write" and "how to choose the tech stack"
 ---
 
-<TOCInline toc={props.toc} asDisclosure />
-
----
-
 ## Why Set Up a Personal Website?
 
 As front-end engineers, most of us might thought about (or dreamed of) setting up our own websites. However, we may be held back by the curse of knowledge and the burden of perfectionism.
