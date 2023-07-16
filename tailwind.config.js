@@ -90,6 +90,9 @@ module.exports = {
               color: theme('colors.gray.900'),
               borderLeftColor: theme('colors.gray.200'),
             },
+            p: {
+              color: theme('colors.gray.600'),
+            },
           },
         },
         dark: {
@@ -133,6 +136,9 @@ module.exports = {
             'ul li::marker': {
               backgroundColor: theme('colors.gray.400'),
             },
+            li: {
+              color: theme('colors.gray.400'),
+            },
             strong: { color: theme('colors.gray.100') },
             thead: {
               th: {
@@ -147,6 +153,9 @@ module.exports = {
             blockquote: {
               color: theme('colors.gray.100'),
               borderLeftColor: theme('colors.gray.700'),
+            },
+            p: {
+              color: theme('colors.gray.400'),
             },
           },
         },
