@@ -12,7 +12,6 @@
  *
  * @param {{
  *  toc: TocHeading[],
- *  indentDepth?: number,
  *  fromHeading?: number,
  *  toHeading?: number,
  *  asDisclosure?: boolean,
@@ -20,14 +19,8 @@
  * }} props
  *
  */
-const TOCInline = ({
-  toc,
-  indentDepth = 3,
-  fromHeading = 1,
-  toHeading = 6,
-  asDisclosure = false,
-  exclude = '',
-}) => {
+const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, exclude = '' }) => {
+  console.log({ toc })
   const re = Array.isArray(exclude)
     ? new RegExp('^(' + exclude.join('|') + ')$', 'i')
     : new RegExp('^(' + exclude + ')$', 'i')
@@ -37,10 +30,19 @@ const TOCInline = ({
       heading.depth >= fromHeading && heading.depth <= toHeading && !re.test(heading.value)
   )
 
+  const hierachy = {
+    1: 'ml-0 text-3xl',
+    2: 'ml-4 text-2xl',
+    3: 'ml-8 text-xl',
+    4: 'ml-12 text-lg',
+    5: 'ml-16',
+    6: 'ml-20',
+  }
+
   const tocList = (
     <ul>
       {filteredToc.map((heading) => (
-        <li key={heading.value} className={`${heading.depth >= indentDepth && 'ml-6'}`}>
+        <li key={heading.value} className={`${hierachy[heading.depth]} mb-5`}>
           <a href={heading.url}>{heading.value}</a>
         </li>
       ))}
