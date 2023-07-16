@@ -35,6 +35,28 @@ Usually, finding a gym closer to your location can help solve the 'time' problem
 
 That's because you can incorporate your gym time into three parts of your day: "Before work", "After work", and "Before heading home". Without needing to commute separately to the gym, you can save a lot of time. It also makes the process of working out more comfortable, creating a smooth routine for your exercise regimen.
 
+### What If I Don’t Know How To Use The Equipment?
+
+> You may ask, "As a beginner, I don't know the movements and get overwhelmed by equipment. What should I do?"
+
+1. Go with friends
+   - First, go with friends who know how to exercise and follow their workout plan, slowly accumulating movements you can do.
+2. Ask the gym staff
+   - Don't be afraid to ask. Their job is partly to ensure no one is doing movements improperly and risking injury. The few times I've asked, they've been very helpful and I haven't experienced any pushy sales tactics.
+3. Take a intro coaching class first (10-12 lessons)
+   - Build foundational knowledge of proper movement and form. Then you can stop to focus on building the habit.
+4. Youtube
+   - Although there are many videos, as a beginner it's hard to filter good information. Videos also have some degree of misinformation and can't cover everything in one video. Try options 1-3 first before resorting to Youtube.
+
+#### Don't Let Coaching Classes Be the End of Your Fitness
+
+Many people, myself included, run into this:
+
+> Taking coaching classes at first without building an exercise habit. The cost was a burden. My form was still poor from lack of practice.
+> When I stopped classes, I stopped exercising too.
+
+Building the habit of regular gym sessions is more important than classes alone. **Classes without practice puts the cart before the horse!**
+
 ### The Two-Minute Rule
 
 This rule, also borrowed from Atomic Habits, suggests condensing a new habit down to just "two minutes". The crux is to make starting the habit as easy as possible.
@@ -73,6 +95,12 @@ This applies **the Paper Clip Strategy** from Atomic Habits. Originally, a sal
 
 I keep a list of my workouts, checking them off as I complete them. The satisfaction from checking things off helps me maintain the habit.
 
+### Have A Workout Schedule
+
+Having a set workout schedule reduces cognitive load. You don't have to figure out what to do when you get to the gym - you already know your plan and just need to execute it.
+
+My schedule includes two sets each for chest, back, and legs. I alternate between two different workouts. One schedule can last at least three months, gradually increasing the weight each workout.
+
 ### In The Beginning: Compound Exercises > Isolation Exercises
 
 For office workers, we usually don't have much time for exercise. Hence, choosing compound exercises, which work multiple muscle groups at once, can be more efficient than isolation exercises.
@@ -82,34 +110,6 @@ If you follow a typical "chest, back, legs" split, training each muscle group ju
 > Note: This is not against isolation exercises. It's just from the perspective of "low training frequency", compound exercises can better stimulate all body parts.
 
 As you increase your training frequency, you can gradually transition from compounds to more isolation work.
-
-### Have A Workout Schedule
-
-Having a set workout schedule reduces cognitive load. You don't have to figure out what to do when you get to the gym - you already know your plan and just need to execute it.
-
-My schedule includes two sets each for chest, back, and legs. I alternate between two different workouts. One schedule can last at least three months, gradually increasing the weight each workout.
-
-### What If I Don’t Know How To Use The Equipment?
-
-> You may ask, "As a beginner, I don't know the movements and get overwhelmed by equipment. What should I do?"
-
-1. Go with friends
-   - First, go with friends who know how to exercise and follow their workout plan, slowly accumulating movements you can do.
-2. Ask the gym staff
-   - Don't be afraid to ask. Their job is partly to ensure no one is doing movements improperly and risking injury. The few times I've asked, they've been very helpful and I haven't experienced any pushy sales tactics.
-3. Take a intro coaching class first (10-12 lessons)
-   - Build foundational knowledge of proper movement and form. Then you can stop to focus on building the habit.
-4. Youtube
-   - Although there are many videos, as a beginner it's hard to filter good information. Videos also have some degree of misinformation and can't cover everything in one video. Try options 1-3 first before resorting to Youtube.
-
-#### Don't Let Coaching Classes Be the End of Your Fitness
-
-Many people, myself included, run into this:
-
-> Taking coaching classes at first without building an exercise habit. The cost was a burden. My form was still poor from lack of practice.
-> When I stopped classes, I stopped exercising too.
-
-Building the habit of regular gym sessions is more important than classes alone. **Classes without practice puts the cart before the horse!**
 
 ---
 
