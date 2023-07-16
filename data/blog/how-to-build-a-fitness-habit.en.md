@@ -102,7 +102,7 @@ My schedule includes two sets each for chest, back, and legs. I alternate betwee
 4. Youtube
    - Although there are many videos, as a beginner it's hard to filter good information. Videos also have some degree of misinformation and can't cover everything in one video. Try options 1-3 first before resorting to Youtube.
 
-#### Coaching class
+#### Don't Let Coaching Classes Be the End of Your Fitness
 
 Many people, myself included, run into this:
 
