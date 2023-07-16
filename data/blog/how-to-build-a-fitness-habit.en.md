@@ -1,0 +1,141 @@
+---
+title: How to Build a Fitness Habit
+date: '2023-07-15'
+tags: ['Workout', 'self-discovery']
+summary: Methodology and mindset about how I build my workout habits as an office workers
+---
+
+> We born weak, but we know how to make us strong.
+
+As an office worker who hasn't exercised much since graduating from college, I used to struggle with maintaining a gym routine. I would usually give up after a month at the most. Working remotely for a period only exacerbated the issue, with my physical activity dipping to less than 2,000 steps a day.
+
+However, I've recently managed to establish a long-term workout habit, and the change in my physique has been quite noticeable. Today, I want to share with you my journey, focusing on "methodology" and "mindset".
+
+## Methodology
+
+### 1. Location, Location, Location.
+
+> What's the best gym? The one closest to your home or office.
+
+**The starting point for exercising is transport, not the gym itself**
+
+Making it as easy as possible to exercise is the key to forming a habit. This ties into the concept of "environment" from Atomic Habits, rather than relying solely on willpower.
+
+After the location, you can find a gym with strong air conditions. The gym I used to go has a large shower space. It's comfortable to taking a shower there. After shower, it has Sauna and steam room 😂.
+
+(In my personal experiences, I don't believe you can force yourself to gym with a contact. I had signed the contract for World Gym, but I changed my job after half of an year, then I didn't step in for the rest one and half year.)
+
+## 2. What if I don't have time.
+
+Usually, the time issue will be solve if you have choose a closer location, since we can go to the gym at those three times: "Before work", "After work" and "Before going home".
+
+If you don't have to go to gym separately, it can save you a lot of time, making you comfortable with workout and the moving life of workout.
+
+### 3. The Two-Minute Rule
+
+This rule, also from Atomic Habits, suggests condensing a new habit down to "two minutes". The key of new habit is to make it as easy as possible to start.
+
+With regards to fitness, this means not aiming for too heavy or too much. You can just do two sets at the gym. Being able to sustain the habit is what matters the most.
+
+New habits should not feel like a challenge. They can become challenging later, but **in the beginning, they should be easy**.
+
+**Repetition is more important than perfection**, so just keep going!
+
+### 4. Push Through the Valley of the Beginner
+
+According to **the Learning Curve theory**, initial progress can be slow and difficult. But as we keep investing effort and gaining experience, learning efficiency increases and the progress curve steepens. I call this initial phase the "Valley of the Beginner".
+
+In fitness, you will face this Valley of the Beginner too. At first, you might not know what you're doing and might not feel or see much difference. But once you get past this stage and start receiving feedback, a virtuous cycle will begin.
+
+### 5. Post When You Hit The Gym, Leverage The Power of Community
+
+I often share my workouts at the gym on social media. Receiving responses from people around me, such as likes or comments like "Strong, fierce, huge, looking good" act as psychological motivators to keep me going.
+
+(Don't hesitate to praise others!)
+
+When I see my friends posting about their workouts, it often motivates me to go exercise the next day.
+
+### 6. Habit Tracking
+
+Keeping a record of what you do each time can help remind you of how far you've come and how long you've been going.
+
+This applies the Paper Clip Strategy from Atomic Habits. The strategy is from a sale. The sale put a paper clip for each phone calls, so that he can get instant feedback. He can feel statisfied from the can of a full paper clips.
+
+I keep a list of my workouts, ticking them off as I complete each one. The satisfaction of ticking things off the list helps me maintain the habit.
+
+### 7. In The Beginning: Compound Exercises > Isolation Exercises
+
+For office workers, we usually don't have much time for exercise. Hence, choosing compound exercises, which work multiple muscle groups at once, can be more efficient than isolation exercises.
+
+If you follow the common workout plan of focusing on "chest, back, legs", and only train once or twice a week, each body part only gets trained once every week or two weeks. This is not enough stimulation, and the results might not meet your expectations.
+
+> Note: This is not against isolation exercises. It's just from the perspective of "low training frequency", compound exercises can better stimulate all body parts.
+
+If you start to enhance your training frequency, you can gradually migrate from compund execises to isolation exercises.
+
+### 8. Have A Fitness Class Schedule
+
+Have a fitness class schedule can minus your cognitive load. We don't have to think what should we do in the gym. Instad, we know what we do before going to gym and do just enough workout. Not too much or not too less.
+
+As for my schedule, I incorporate two sets for chest, back, and legs in each workout and for two variants. A single schedule should last at least three months, during which you can gradually increase the weight of each exercise.
+
+### 9. How Beginners Start To Workout?
+
+You may ask: "As a fitness novice, I can't do the movements. When I go to the gym, I am dizzled by a bunch of equipment. What should I do?"
+
+1. Rely on friends
+
+- First go with a friend who can exercise, follow his menu, and slowly accumulate movements that you can do
+
+2. (If there is any) Ask the gym tour coach
+
+- Don’t be afraid to ask, they are also making sure that no one is doing random moves to hurt themselves. I have asked them a few times and they are very enthusiastic, but I haven’t met them yet. Situation of forced courses
+
+3. Take a set of coaching class first (10-12 lessons)
+
+- establish basic movement cognition, and then you can stop first to develop the habit.
+
+4. Youtube
+   - I think this is the least ideal, because many people make mistakes, and it is tiring to filter information. After trying the first two, consider this.
+
+#### About the coaching class
+
+Let me first talk about the situation that I and many people around me have encountered.
+
+> I took coaching classes at the beginning, but I didn’t usually establish a good fitness habit, and the money for coaching classes was really a burden. Every time I went to class, because I didn’t usually train independently, my movements were still not accurate. When I stopped taking coaching classes, Also stopped exercising.
+
+Therefore, I think it is more important to create the habit of going to the gym regularly before taking coaching classes. **Only taking coaching classes without independent practice is putting the cart before the horse! **
+
+---
+
+## Mindset
+
+### 1. Don't Beat Yourself Up When You Miss a Day
+
+Sometimes, work or other factors may prevent you from working out. The key is not to give up entirely because of one missed session. Missing one session doesn't mean you've failed. It's crucial to get back on track immediately.
+
+Every missed session should be seen as an independent event. It's not the first mistake that ruins you, but the repeated ones. After every mistake, stop the losses and get back on track.
+
+> The point is not the act itself, but becoming the person who won't miss the act.
+
+### 2. Find Why You Workout
+
+Finding an exercise identity that suits you is key to maintaining the habit.
+
+This could be for longevity, to stay healthy and keep learning and growing, or to have enough energy to explore the world. I personally enjoy the challenges and training of "Spartan obstacle marathon".
+
+### 3. Don't value numbers too much
+
+I've only lost four kilograms from March to now.
+
+Although the weight change is not large, many people think that I look healthier and have more obvious muscle lines.
+
+In the process of fitness, instead of focusing on the changes in numbers we should pay more attention o the changes in the body and our perception of health.
+
+## Summary
+
+Except for the above methodologies, there's one thought keeping me to the gym:
+
+> When I hesitate to workout, I always ask myself, "Have I ever regret to hit the gym?" The answer always be "NO". I might be regret to not hit the gym, or I don't put to good use of the time I can hit the gym. It gives me more pressure.
+
+So, that's it! I hope the article can help or guild you to building your workout habit!
