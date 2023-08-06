@@ -22,15 +22,20 @@ All of the main repo Features &
 
 ### TODO
 
-- [ ] Check the grammar of Japanese
-- [ ] Migrate blogs
-- [ ] Customize Style
-- [ ] Table of Contents: https://ithelp.ithome.com.tw/articles/10306476
-- [ ] Comment Area
-- [ ] Newsletter
+- [x] 6/01 GA
+- [x] 7/16 Table of Contents: https://ithelp.ithome.com.tw/articles/10306476
+- [x] 8/06 Comment Area: Giscus
+- [ ] Social Share
 - [ ] Sponsor(Buy me a coffee, QRCode)
-- [ ] GA
+- [ ] Emotions for Articles: Clap, Like, Thumb, fire, ...
+- [ ] Newsletter
 - [ ] RSS
+- [ ] Migrate blogs
+- [ ] Refactor Design System?
+
+### References
+
+1. https://cali.so/blog/8-laws-to-a-successful-engineer#d0f08538662a
 
 ## Quick Start Guide
 

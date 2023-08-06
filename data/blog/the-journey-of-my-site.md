@@ -30,6 +30,7 @@ summary: 關於「為什麼要架設個人網站？」、「為什麼要寫作�
 2. [寫一年技術文章的心得](https://dotblogs.com.tw/hatelove/2017/03/26/why-engineers-should-keep-blogging)
 3. [我為什麼鼓勵工程師寫 blog](https://dotblogs.com.tw/hatelove/2017/03/26/why-engineers-should-keep-blogging)
 4. [技術寫作六步驟 讓工程師撰寫流暢的技術部落格](https://tw.alphacamp.co/blog/2018-06-14-18352)
+5. [你應該要嘗試的 WDL（Writing-Drive Learn，寫作驅動學習）](https://medium.com/starbugs/%E4%BD%A0%E6%87%89%E8%A9%B2%E8%A6%81%E5%98%97%E8%A9%A6%E7%9A%84-wdl-writing-drive-learn-%E5%AF%AB%E4%BD%9C%E9%A9%85%E5%8B%95%E5%AD%B8%E7%BF%92-3f157c0ab30c)
 
 對我來説：
 
