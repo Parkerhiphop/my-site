@@ -1,59 +1,68 @@
 import PageTitle from '@/components/PageTitle';
 // import generateRss from '@/lib/generate-rss'
 import { MDXLayoutRenderer } from '@/components/MDXComponents';
-import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx';
+import { formatSlug, getAllFilesFrontMatter, getFileBySlug } from '@/lib/mdx';
+import { getCurrentLocale } from '@/lib/utils/getCurrentLocale';
+import { getBlogPosts } from '@/lib/utils/getBlogPosts';
 
 const DEFAULT_LAYOUT = 'PostLayout';
 
 export async function getStaticPaths({ locales, defaultLocale }) {
-  const localesPost = locales
+  const paths = locales
     .map((locale) => {
-      const otherLocale = locale !== defaultLocale ? locale : '';
-      const posts = getFiles('blog', otherLocale);
-      return posts.map((post) => [post, locale]);
+      const posts = getBlogPosts('blog', locale === defaultLocale ? 'zh-TW' : locale);
+      return posts.map((post) => ({
+        params: { slug: [post.split('/')[0]] },
+        locale,
+      }));
     })
     .flat();
 
   return {
-    paths: localesPost.map(([p, l]) => ({
-      params: {
-        slug: formatSlug(p).split('/'),
-      },
-      locale: l,
-    })),
+    paths,
     fallback: false,
   };
 }
 
 export async function getStaticProps({ defaultLocale, locales, locale, params }) {
-  const otherLocale = locale !== defaultLocale ? locale : '';
-  const allPosts = await getAllFilesFrontMatter('blog', otherLocale);
-  const postIndex = allPosts.findIndex((post) => formatSlug(post.slug) === params.slug.join('/'));
+  const currentLocale = getCurrentLocale(locale, defaultLocale);
+  const slug = params.slug.join('/');
+
+  // Get the post with the given slug and locale
+  const post = await getFileBySlug('blog', slug, currentLocale);
+
+  // Get all posts to determine previous and next posts
+  const allPosts = await getAllFilesFrontMatter('blog', currentLocale);
+  const postIndex = allPosts.findIndex((post) => formatSlug(post.slug) === slug);
   const prev = allPosts[postIndex + 1] || null;
   const next = allPosts[postIndex - 1] || null;
-  const post = await getFileBySlug('blog', params.slug.join('/'), otherLocale);
+
+  // Get author details if needed
   const authorList = post.frontMatter.authors || ['default'];
-  const authorPromise = authorList.map(async (author) => {
-    const authorResults = await getFileBySlug('authors', [author], otherLocale);
-    return authorResults.frontMatter;
-  });
+  const authorPromise = authorList.map((author) =>
+    getFileBySlug('authors', [author], currentLocale)
+  );
   const authorDetails = await Promise.all(authorPromise);
 
-  // rss
-  // const rss = generateRss(allPosts, locale, defaultLocale)
-  // fs.writeFileSync(`./public/feed${otherLocale === '' ? '' : `.${otherLocale}`}.xml`, rss)
-
-  // Checking if available in other locale for SEO
+  // Check available locales for SEO
   const availableLocales = [];
   await locales.forEach(async (ilocal) => {
-    const otherLocale = ilocal !== defaultLocale ? ilocal : '';
-    const iAllPosts = await getAllFilesFrontMatter('blog', otherLocale);
+    const currentLocale = getCurrentLocale(ilocal, defaultLocale);
+    const iAllPosts = await getAllFilesFrontMatter('blog', currentLocale);
     iAllPosts.map((ipost) => {
       if (ipost.slug === post.frontMatter.slug && ipost.slug !== '') availableLocales.push(ilocal);
     });
   });
 
-  return { props: { post, authorDetails, prev, next, availableLocales } };
+  return {
+    props: {
+      post,
+      authorDetails,
+      prev,
+      next,
+      availableLocales,
+    },
+  };
 }
 
 export default function Blog({ post, authorDetails, prev, next, availableLocales }) {

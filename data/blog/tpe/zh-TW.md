@@ -1,14 +1,14 @@
 ---
-title: 「TPE 台北國際成人展」參加心得
+title: 2023 「TPE 台北國際成人展」參加心得
 date: '2023-08-07'
 tags: ['生活']
-draft: false
+draft: true
 summary: 如何參加成人展、選擇票種、對活動的問題跟感想
 ---
 
 不囉唆，先上圖！
 
-![me](/static/images/blog/tpe/me.jpg)
+![me](/public/static/images/blog/tpe/me.jpg)
 
 ## 為什麼會想參成人展？
 
@@ -49,7 +49,7 @@ summary: 如何參加成人展、選擇票種、對活動的問題跟感想
 
 1. 先去各自活動的櫃檯報到，領取女優卡片，活動開始前 5-30 分鐘可以拿著卡片去排隊
 
-![card](/static/images/blog/tpe/card.jpg)
+![card](/public/static/images/blog/tpe/card.jpg)
 
 2. 每個隊伍都會有「排隊隊伍尾端」的舉牌手
 

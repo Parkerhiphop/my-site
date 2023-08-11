@@ -4,12 +4,13 @@ import ListLayout from '@/layouts/ListLayout';
 import { PageSEO } from '@/components/SEO';
 
 import useTranslation from 'next-translate/useTranslation';
+import { getCurrentLocale } from '@/lib/utils/getCurrentLocale';
 
 export const POSTS_PER_PAGE = 5;
 
 export async function getStaticProps({ locale, defaultLocale, locales }) {
-  const otherLocale = locale !== defaultLocale ? locale : '';
-  const posts = await getAllFilesFrontMatter('blog', otherLocale);
+  const currentLocale = getCurrentLocale(locale, defaultLocale);
+  const posts = await getAllFilesFrontMatter('blog', currentLocale);
   const initialDisplayPosts = posts.slice(0, POSTS_PER_PAGE);
   const pagination = {
     currentPage: 1,

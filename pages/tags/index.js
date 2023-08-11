@@ -3,13 +3,14 @@ import { PageSEO } from '@/components/SEO';
 import Tag from '@/components/Tag';
 import siteMetadata from '@/data/siteMetadata';
 import { getAllTags } from '@/lib/tags';
+import { getCurrentLocale } from '@/lib/utils/getCurrentLocale';
 import kebabCase from '@/lib/utils/kebabCase';
 
 import useTranslation from 'next-translate/useTranslation';
 
 export async function getStaticProps({ defaultLocale, locale, locales }) {
-  const otherLocale = locale !== defaultLocale ? locale : '';
-  const tags = await getAllTags('blog', otherLocale);
+  const currentLocale = getCurrentLocale(locale, defaultLocale);
+  const tags = await getAllTags('blog', currentLocale);
 
   return { props: { tags, locale, availableLocales: locales } };
 }

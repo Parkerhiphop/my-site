@@ -5,13 +5,14 @@ import ListLayout from '@/layouts/ListLayout';
 import { POSTS_PER_PAGE } from '../../blog';
 
 import useTranslation from 'next-translate/useTranslation';
+import { getCurrentLocale } from '@/lib/utils/getCurrentLocale';
 
 export async function getStaticPaths({ locales, defaultLocale }) {
   const paths = (
     await Promise.all(
       locales.map(async (locale) => {
-        const otherLocale = locale !== defaultLocale ? locale : '';
-        const totalPosts = await getAllFilesFrontMatter('blog', otherLocale); // don't forget to useotherLocale
+        const currentLocale = getCurrentLocale(locale, defaultLocale);
+        const totalPosts = await getAllFilesFrontMatter('blog', currentLocale);
         const totalPages = Math.ceil(totalPosts.length / POSTS_PER_PAGE);
         return Array.from({ length: totalPages }, (_, i) => [(i + 1).toString(), locale]);
       })
@@ -36,8 +37,8 @@ export async function getStaticProps(context) {
     locales,
     locale,
   } = context;
-  const otherLocale = locale !== defaultLocale ? locale : '';
-  const posts = await getAllFilesFrontMatter('blog', otherLocale);
+  const currentLocale = getCurrentLocale(locale, defaultLocale);
+  const posts = await getAllFilesFrontMatter('blog', currentLocale);
   const pageNumber = parseInt(page);
   const initialDisplayPosts = posts.slice(
     POSTS_PER_PAGE * (pageNumber - 1),
@@ -51,8 +52,8 @@ export async function getStaticProps(context) {
   // Checking if available in other locale for SEO
   const availableLocales = [];
   await locales.forEach(async (ilocal) => {
-    const otherLocale = ilocal !== defaultLocale ? ilocal : '';
-    const iAllPosts = await getAllFilesFrontMatter('blog', otherLocale);
+    const currentLocale = getCurrentLocale(ilocal, defaultLocale);
+    const iAllPosts = await getAllFilesFrontMatter('blog', currentLocale);
     iAllPosts.forEach(() => {
       if (
         pageNumber <= Math.ceil(iAllPosts.length / POSTS_PER_PAGE) &&
