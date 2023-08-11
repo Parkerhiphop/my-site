@@ -1,35 +1,35 @@
 /* eslint-disable jsx-a11y/no-onchange */
-import siteMetadata from '@/data/siteMetadata'
-import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '@/data/logo.svg'
-import Link from './Link'
-import SectionContainer from './SectionContainer'
-import Footer from './Footer'
-import MobileNav from './MobileNav'
-import ThemeSwitch from './ThemeSwitch'
-import Image from '@/components/Image'
+import siteMetadata from '@/data/siteMetadata';
+import headerNavLinks from '@/data/headerNavLinks';
+import Logo from '@/data/logo.svg';
+import Link from './Link';
+import SectionContainer from './SectionContainer';
+import Footer from './Footer';
+import MobileNav from './MobileNav';
+import ThemeSwitch from './ThemeSwitch';
+import Image from '@/components/Image';
 
-import useTranslation from 'next-translate/useTranslation'
-import { useRouter } from 'next/router'
+import useTranslation from 'next-translate/useTranslation';
+import { useRouter } from 'next/router';
 
 const LayoutWrapper = ({ children }) => {
-  const { t } = useTranslation()
-  const router = useRouter()
-  const { locale, locales } = router
+  const { t } = useTranslation();
+  const router = useRouter();
+  const { locale, locales } = router;
 
   const langMap = {
     'zh-TW': '繁體中文',
     en: 'English',
     ja: '日本語',
-  }
+  };
 
   // TODO: implement useLocale hook to preserve the state of user's previous selection
   // 目前只有首頁會在 reload 的時候被轉換為預設語言
   const changeLanguage = (e) => {
-    const locale = e.target.value
+    const locale = e.target.value;
     // localStorage.setItem('locale', locale)
-    router.push(router.asPath, router.asPath, { locale })
-  }
+    router.push(router.asPath, router.asPath, { locale });
+  };
 
   return (
     <SectionContainer>
@@ -89,7 +89,7 @@ const LayoutWrapper = ({ children }) => {
         <Footer />
       </div>
     </SectionContainer>
-  )
-}
+  );
+};
 
-export default LayoutWrapper
+export default LayoutWrapper;

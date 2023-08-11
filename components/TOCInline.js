@@ -22,12 +22,12 @@
 const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, exclude = '' }) => {
   const re = Array.isArray(exclude)
     ? new RegExp('^(' + exclude.join('|') + ')$', 'i')
-    : new RegExp('^(' + exclude + ')$', 'i')
+    : new RegExp('^(' + exclude + ')$', 'i');
 
   const filteredToc = toc.filter(
     (heading) =>
       heading.depth >= fromHeading && heading.depth <= toHeading && !re.test(heading.value)
-  )
+  );
 
   const hierachy = {
     1: 'ml-0',
@@ -36,7 +36,7 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
     4: 'ml-12',
     5: 'ml-16',
     6: 'ml-20',
-  }
+  };
 
   const tocList = (
     <ul className="mb-0 pb-5">
@@ -46,7 +46,7 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
         </li>
       ))}
     </ul>
-  )
+  );
 
   return (
     <>
@@ -62,7 +62,7 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
         tocList
       )}
     </>
-  )
-}
+  );
+};
 
-export default TOCInline
+export default TOCInline;
