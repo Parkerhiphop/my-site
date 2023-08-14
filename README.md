@@ -25,6 +25,8 @@ All of the main repo Features &
 - [x] 6/01 GA
 - [x] 7/16 Table of Contents: https://ithelp.ithome.com.tw/articles/10306476
 - [x] 8/06 Comment Area: Giscus
+- [x] 8/11 Refactor data/blog
+  - [ ] Fix mdx and image issues
 - [ ] Social Share
 - [ ] Sponsor(Buy me a coffee, QRCode)
 - [ ] Emotions for Articles: Clap, Like, Thumb, fire, ...

@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: "Parker's Personal Site",
+  title: "Path - Parker's Thinking",
   author: 'Parker Chang',
-  headerTitle: "Parker's Personal Site",
+  headerTitle: "Path - Parker's Thinking",
   description: "Record Parker's Life, Thoughts, Works, and Projects",
   language: 'zh-TW',
   theme: 'system', // system, dark or light
@@ -80,6 +80,6 @@ const siteMetadata = {
       shortname: process.env.NEXT_PUBLIC_DISQUS_SHORTNAME,
     },
   },
-}
+};
 
-module.exports = siteMetadata
+module.exports = siteMetadata;
