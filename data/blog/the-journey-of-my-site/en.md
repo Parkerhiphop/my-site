@@ -1,5 +1,5 @@
 ---
-title: 'Building a Personal Website from Scratch: Why write and Technology Choices'
+title: 'The Journey of My Site: Why write and Technology Choices'
 date: '2023-05-30'
 tags: ['self-discovery']
 draft: false
