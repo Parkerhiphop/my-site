@@ -1,6 +1,6 @@
 ---
 name: Parker 張
-avatar: /static/images/me.png
+avatar: /me.png
 occupation: 軟體工程師
 twitter: https://twitter.com/parkerchang11
 linkedin: https://www.linkedin.com/in/cheng-yi-chang-19b148176/

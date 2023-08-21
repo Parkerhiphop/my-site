@@ -7,9 +7,9 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.parkerchang.life',
   siteRepo: 'https://github.com/Parkerhiphop/my-site',
-  siteLogo: '/static/images/me.png',
-  image: '/static/images/me.png',
-  socialBanner: '/static/images/me.png',
+  siteLogo: 'me.png',
+  image: 'me.png',
+  socialBanner: 'me.png',
   email: '',
   github: 'https://github.com/Parkerhiphop',
   twitter: 'https://twitter.com/parkerchang11',

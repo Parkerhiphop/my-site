@@ -1,6 +1,6 @@
 ---
 name: Parker
-avatar: /static/images/me.png
+avatar: /me.png
 occupation: ソフトウェアエンジニア
 twitter: https://twitter.com/parkerchang11
 linkedin: https://www.linkedin.com/in/cheng-yi-chang-19b148176/
