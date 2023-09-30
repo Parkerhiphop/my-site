@@ -28,6 +28,10 @@ All of the main repo Features &
 - [x] 8/11 Refactor data/blog
 - [x] 8/20 Fix mdx and image issues
 - [ ] Social Share
+  - [ ] twitter: 可參考這篇文下方：https://yurenju.blog/posts/2023-08-28_taming-the-distraction-monster/
+  - [ ] line
+  - [ ] facebook
+  - [ ] ig(?) -> 仿 medium
 - [ ] Sponsor(Buy me a coffee, QRCode)
 - [ ] Emotions for Articles: Clap, Like, Thumb, fire, ...
 - [ ] Newsletter

@@ -86,7 +86,7 @@ greet('John', sayGoodbye);
 
 ![Pyramid Of Doom](/blog/from-callback-to-async/pyramid-of-doom.webp)
 
-相信大家看完那記波動拳，已經很明確（想對開發者使出波動拳），但別急，先細數一下 Callback Hell 的罪狀：
+相信大家看完那記波動拳，~~已經很想對開發者使出波動拳~~，但別急，先細數一下 Callback Hell 的罪狀：
 
 1. **可讀性差**、**維護困難**
 
@@ -176,7 +176,7 @@ function fetchStarWarsCharacter(id) {
         } else {
           // Fetch 回傳的 Promise 預設只要接到 response 就會 resolve
           // 因此需要針對 HTTP 狀態碼不是 2xx 的情境來 reject
-          reject('請求失敗';
+          reject('請求失敗');
         }
       })
       .then((character) => {
@@ -198,30 +198,31 @@ fetchStarWarsCharacter(1)
     // Error: 請求失敗 or Error: 無法預期的錯誤
     console.log('Error:', error);
   });
-
 ```
 
 ### Promise 的另外四個靜態方法
 
-這邊的 resolve 和 reject 雖然跟被當作參數的 executor callback function 的 `(resolve, reject) ⇒ {}` 同名，但其實概念是不樣的。
+這邊的 resolve 和 reject 雖然跟被當作參數的 executor callback function 的 `(resolve, reject) ⇒ {}` 同名，但其實概念是不樣的，這邊的是靜態方法，用來創建一個已解析或已拒絕的 Promise，而 executor callback 中的 resolve 和 reject 函數是用來控制 Promise 物件的狀態（Pending / Fulfilled / Rejected）。
 
 但今天其實不會用到所以就不贅述，以下摘錄自 [MDN - Promise Methods](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise#%E6%96%B9%E6%B3%95)：
 
 1. Promise.resolve
 
-   ```javascript
-   Promise.resolve(value);
-   Promise.resolve(promise);
-   Promise.resolve(thenable);
-   ```
+- 將非 Promise 值轉換為 Promise 或創建一個立即接受的 Promise 時可以用。
+  ```javascript
+  Promise.resolve(value);
+  Promise.resolve(promise);
+  Promise.resolve(thenable);
+  ```
 
-2. Promise.reject
+3. Promise.reject
 
-   ```javascript
-   Promise.reject(reason);
-   ```
+- 將非 Promise 值轉換為 Promise 或創建一個立即失敗的 Promise 時可以用。
+  ```javascript
+  Promise.reject(reason);
+  ```
 
-3. Promise.all
+4. Promise.all
 
    - 回傳一個 promise，當在 iterable 中所有 promises 都被實現時被實現，或在當中有一個 promise 被拒絕時立刻被拒絕。
 
@@ -240,7 +241,7 @@ fetchStarWarsCharacter(1)
    });
    ```
 
-4. Promise.race
+5. Promise.race
 
    - 當傳入的 iterable 中有 promise 被實現或拒絕時，立刻回傳被實現或拒絕的 [`Promise`](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
@@ -320,7 +321,7 @@ startBtn.addEventListener('click', function () {
 
    - 集中處理錯誤，代碼更乾淨，也達成關注點分離
 
-<center> **_但…我們還有機會更清爽嗎？_** </center>
+<center><h2>**但…我們還有機會更清爽嗎？**</h2></center>
 
 有的！認真的孩子有糖吃，來吃真香真好吃的 Promise 語法糖 [Async/Await](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Statements/async_function) ！
 
@@ -359,7 +360,9 @@ async function fetchData() {
 - 大家有注意到這邊的錯誤處理是使用 `try…catch` 嗎？
 - 就像 `Promise` 可以用 `.catch` 捕捉處理錯誤， `async/await` 的標配就是 `try…catch` ，我個人認為把成功區域跟錯誤區域區分開來有提供更好的可讀性
 
-<center>**Async / Await 的好處：可讀性、DX 更佳，並可使用 `try…catch` 的非同步處理方式**</center>
+### Async/Await 的好處
+
+- 可讀性、DX 更佳，並可使用 `try…catch` 的非同步處理方式
 
 ### **用 Async/Await 進一步簡化的最終版**
 
