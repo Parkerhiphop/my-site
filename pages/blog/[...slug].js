@@ -8,7 +8,6 @@ import { getBlogPosts } from '@/lib/utils/getBlogPosts';
 const DEFAULT_LAYOUT = 'PostLayout';
 
 export async function getStaticPaths({ locales, defaultLocale }) {
-  console.log({ locales, defaultLocale });
   const paths = locales
     .map((locale) => {
       const posts = getBlogPosts('blog', locale === defaultLocale ? 'zh-TW' : locale);
@@ -29,12 +28,8 @@ export async function getStaticProps({ defaultLocale, locales, locale, params })
   const currentLocale = getCurrentLocale(locale, defaultLocale);
   const slug = params.slug.join('/');
 
-  console.log({ currentLocale, slug });
-
   // Get the post with the given slug and locale
   const post = await getFileBySlug('blog', slug, currentLocale);
-
-  console.log({ post });
 
   // Get all posts to determine previous and next posts
   const allPosts = await getAllFilesFrontMatter('blog', currentLocale);
