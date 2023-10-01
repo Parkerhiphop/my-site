@@ -294,6 +294,8 @@ ShadowRealm 是一個獨特的全域環境，擁有自己的全域對象，其�
 
 `sandbox` 屬性會給予 iframe 諸多限制，像是禁止表單送出、禁止發送 API 等等。可以用於隔離不信任的程式碼。
 
+- 但注意 `allow-scripts` 和 `allow-same-origin` 一起用時，iframe 就可以運行 script 並訪問 parent DOM ，甚至會導致 sandbox 底下的屬性可以被重置，失去了原本的功用。
+
 ```html
 <body>
   <button id="runCodeButton">執行不信任的程式碼</button>
@@ -318,35 +320,24 @@ ShadowRealm 是一個獨特的全域環境，擁有自己的全域對象，其�
       const iframe = document.createElement('iframe');
 
       // 使用 sandbox 屬性來隔離程式碼
-      iframe.sandbox.add('allow-scripts', 'allow-same-origin');
-
+      iframe.sandbox = 'allow-scripts'
       // 使用 srcdoc 屬性設定要運行的程式碼
-      iframe.srcdoc = untrustedCode;
+      iframe.srcdoc = `
+        <script>
+          ${untrustedCode}
+          top.postMessage({data: ytInitialData}, '*');
+        <\/script>
+      `;
+
+      onmessage = () => (event) => {
+        console.log('message received');
+        console.log(event.data); // 取得資料！
+      });
 
       iframe.style.display = 'none';
 
       // 將 iframe 添加到文檔中
       document.body.appendChild(iframe);
-
-      // 監聽 iframe 的載入事件
-      iframe.onload = () => {
-        try {
-          // 從 iframe 中獲取執行結果
-          const ytInitialData = iframe.contentWindow.eval(iframe.srcdoc);
-          const title = ytInitialData.header.c4TabbedHeaderRenderer.title;
-          const subscriberCount =
-            ytInitialData.header.c4TabbedHeaderRenderer.subscriberCountText.simpleText;
-          console.log([title, subscriberCount]);
-          document.getElementById(
-            'output'
-          ).textContent = `名稱： ${title} 粉絲人數： ${subscriberCount}`;
-        } catch (error) {
-          document.getElementById('output').textContent = `執行時發生錯誤: ${error}`;
-        }
-
-        // 刪除 iframe
-        document.body.removeChild(iframe);
-      };
     });
   </script>
 </body>
