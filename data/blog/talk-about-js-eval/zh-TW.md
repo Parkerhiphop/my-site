@@ -3,7 +3,7 @@ title: 談談 JavaScript 中的 eval、風險及替代方案
 date: '2023-09-30'
 tags: ['JavaScript', '軟體開發']
 draft: false
-summary: 介紹 JavaScript 中的 eval，再談談為什麼不要用它，最後以 App script 爬蟲時需要讀取 `<script />` 和 取得 JS 運算結果的面試考題來看它的應用，以及它的替代方案。
+summary: 介紹 JavaScript 中的 eval，再談談為什麼不要用它，最後以 App script 爬蟲時需要讀取`<script />` 和 取得 JS 運算結果的面試考題來看它的應用，以及它的替代方案。
 ---
 
 ## 前言
@@ -80,8 +80,6 @@ console.log(eval(123));
 
 只要填入「 YouTuber 網址」，再去 App Script 上按執行就可以自動填入 YouTuber 的「頻道名稱」和「訂閱人數」。
 
-{/_ TODO: 放影片 _/}
-
 雖然 App scripts 不能模擬出瀏覽器，但可以讀取 HTML source，而就算 JS 再怎麼 uglify，要顯示的 String 一定還會是原狀，所以只需要找一下想要的資料在整包 HTML 裡面位於哪個地方就好。
 
 在 YouTuber 的 about 頁面點右鍵再選取「View Page Source」，可以找到「頻道名稱」和「訂閱人數」是在以下這段 `script` 裡面的 `ytInitialData`：
@@ -89,7 +87,6 @@ console.log(eval(123));
 ```html
 <!-- HTML source contains: -->
 <script>
-
   ...
 
   let ytInitialData = {
