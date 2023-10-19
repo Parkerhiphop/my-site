@@ -38,7 +38,7 @@ export async function getStaticProps({ defaultLocale, locales, locale, params })
   const next = allPosts[postIndex - 1] || null;
 
   // Get author details if needed
-  const authorList = post.frontMatter.authors || ['default'];
+  const authorList = post.frontMatter.authors || ['me'];
   const authorPromise = authorList.map((author) =>
     getFileBySlug('authors', [author], currentLocale)
   );
