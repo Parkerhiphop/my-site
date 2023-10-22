@@ -150,7 +150,6 @@ TL;DR
 ![Burnout 101](https://miro.medium.com/v2/resize:fit:720/format:webp/1*1mukEI6eoPbwvZ7rF6C5xQ.png)
 [source](https://www.instagram.com/p/ChHkk1VKxnL/?igshid=YmMyMTA2M2Y=)
 
-
 - 軟體工程師普遍都有嚴重的知識焦慮，而當代其實許多產業都有類似的問題
   - 建議看這篇：[https://www.ithome.com.tw/voice/152322?fbclid=IwAR2s3bhNPmb2\_\_0djF9pclaQ4TO8lCf8r0HCTzntLEi3Wvs0PCIZixpQp9w]
 - 讓我意識到需要平衡是在我開始健身跟學日文之後。
@@ -162,6 +161,7 @@ TL;DR
 **日文** 是因為我很喜歡日本，能更接近喜歡的文化讓我感到很幸福，而語言相較於程式單純很多，就是有背有練就有，這種簡單粗暴的反饋也讓我對自己更有自信，而這份自信也可以擴及到寫程式的自己身上。
 
 **最後，多跟人聊聊 & 滑 Twitter & 刷 Leetcode 心得**
+
 > 這三件事讓我理解了我沒有問題，我在寫程式所面對的挫折，是一種普世的經驗。
 > 就像 [Leetcode - Coin Change] 的某解答留言區這樣
 
@@ -209,24 +209,13 @@ TL;DR
 
 **職涯**
 
-我目前的夢想就是 **「去日本工作」**。
-再來是想進大外商，希望資源充足、體制完整（雖然可能冗）然後產品要真的有很多使用者。
-以日本為目標的話，Line 會是我的 Dream Job，Rakuten 和 PayPay 之類的也都會投。
-
-因為 Leetcode 才刷一個多月，加上技術債跟英日文面試的準備，在跟一些 Recruiters 討論過後決定先準備到 10 月中再看看狀況，不用急這幾個月然後沒上又會被冷凍一年。
-（許多外商面試沒上會有一定期間的冷凍期，日本的通常是一年）。
-
-自己當初的期許是退伍後兩年內要去日本工作，今年 12/18 就是期限。
-在剛退伍時面過一次樂天，面到 Final 因為基礎不穩、太緊張和印度英文聽不太懂等因素 Fail。
-現在計劃調整成改成 12/18 之前開始投遞履歷，反正台灣租屋合約到 6 月中，我沒有打算再租下一間了，租約到期前我就要踏上日本的土地。（我會盡全力也希望可以 > < ）
-
-另外就是工程師的職涯發展有分 Engineer Manager 跟 Individual Contributor。
+工程師的職涯發展有分 Engineer Manager 跟 Individual Contributor。
 未來會想往 Engineer Manager 發展，但這也要先跳到有那種制度跟規模的公司呢！
 推薦閱讀：[軟體工程師的修煉與成長](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-1-7b906f837d74) 、[Podcast](zhttps://www.facebook.com/vgod.blog/posts/525960862517583)
 
 **Technical Stack**
 
-首先就是補技術債 —— 整理一下經手過專案的技術，處理過的問題，以及當初在寫時沒搞懂的東西，在面試時要確保跟專案相關的不會被問倒。
+補技術債，整理一下經手過專案的技術，處理過的問題，以及當初在寫時沒搞懂的東西，在面試時要確保跟專案相關的不會被問倒。
 再來就是「走深」跟「走廣」。
 
 走深
