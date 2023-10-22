@@ -2,7 +2,7 @@
 title: 重新理解習慣這檔事—《原子習慣》書摘（上）
 date: '2020-04-28'
 tags: ['讀書心得', '原子習慣']
-draft: false
+draft: true
 summary: 原子習慣系列第一篇
 ---
 

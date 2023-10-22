@@ -2,6 +2,6 @@
 title: 從理解到實踐：打造自己的原子習慣 — 《原子習慣》 書摘 （下之一）
 date: '2020-05-03'
 tags: ['讀書心得', '原子習慣']
-draft: false
+draft: true
 summary: 原子習慣系列第二篇
 ---
