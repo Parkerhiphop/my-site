@@ -17,11 +17,9 @@ const discussUrl = (slug) =>
     `${siteMetadata.siteUrl}/blog/${slug}`
   )}`;
 
-const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-
 export default function PostLayout({
   frontMatter,
-  toc, // TODO: Add toc in general
+  toc,
   authorDetails,
   availableLocales,
   next,
@@ -30,7 +28,7 @@ export default function PostLayout({
 }) {
   const { t } = useTranslation();
   const { locale } = useRouter();
-  const { slug, fileName, date, title, images, tags } = frontMatter;
+  const { slug, fileName, date, title, tags } = frontMatter;
 
   return (
     <SectionContainer>
@@ -38,6 +36,7 @@ export default function PostLayout({
         url={`${siteMetadata.siteUrl}/blog/${slug}`}
         authorDetails={authorDetails}
         availableLocales={availableLocales}
+        locale={locale}
         {...frontMatter}
       />
       <ScrollTopAndComment />
@@ -63,41 +62,6 @@ export default function PostLayout({
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
             <dl className="pt-6 xl:p-0"></dl>
-            {/* <dl className="pt-6 pb-10 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">
-              <dt className="sr-only">{t('common:authors')}</dt>
-              <dd>
-                <ul className="flex justify-center space-x-8 sm:space-x-12 xl:block xl:space-x-0 xl:space-y-8">
-                  {authorDetails.map((author) => (
-                    <li className="flex items-center space-x-2" key={author.name}>
-                      {author.avatar && (
-                        <Image
-                          src={author.avatar}
-                          width="38px"
-                          height="38px"
-                          alt="avatar"
-                          className="h-10 w-10 rounded-full"
-                        />
-                      )}
-                      <dl className="whitespace-nowrap text-sm font-medium leading-5">
-                        <dt className="sr-only">{t('common:name')}</dt>
-                        <dd className="text-gray-900 dark:text-gray-100">{author.name}</dd>
-                        <dt className="sr-only">Twitter</dt>
-                        <dd>
-                          {author.twitter && (
-                            <Link
-                              href={author.twitter}
-                              className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-                            >
-                              {author.twitter.replace('https://twitter.com/', '@')}
-                            </Link>
-                          )}
-                        </dd>
-                      </dl>
-                    </li>
-                  ))}
-                </ul>
-              </dd>
-            </dl> */}
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
               <TOCInline toc={toc} asDisclosure />
               <div className="prose max-w-none pb-8 dark:prose-dark !border-0">{children}</div>
