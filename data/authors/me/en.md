@@ -1,17 +1,17 @@
 ---
 name: Parker
 avatar: /me.png
-occupation: Software Enginneer
+occupation: Software Engineer
 twitter: https://twitter.com/parkerchang11
 linkedin: https://www.linkedin.com/in/cheng-yi-chang-19b148176/
 ---
 
 Hi, I am Parker!
 
-A software engineer with philosophy background. Fighting with the imposter syndrome at first. However, while I coding more and learning more, I get lots of accomplishments from solving problems, attending community events and teaching.
+A software engineer with a background in philosophy. I initially struggled with impostor syndrome, but as I coded more and learned more, I gained a lot of satisfaction from solving problems, participating in community events, and teaching.
 
-I enjoy sharing, believe the magic of words. That's why I created the website. I hope my thoughts can benefit others, but I find that the person who gains the most from my writing is me.
+I enjoy sharing and believe in the magic of words, which is why I created the website. While I hope my thoughts can benefit others, I find that the person who gains the most from my writing is me.
 
-My hobbies are reading novels, comics, animations, and movies. My favorite author is Brandon Sanderson(Mistborn series). My favorite anime is ...too many to list. My lifelong idol is Airi Suzuki.
+My hobbies include reading novels, comics, watching anime, and movies. My favorite author is Brandon Sanderson('Mistborn' series). I have too many favorite anime to list. My lifelong idol is Airi Suzuki.
 
-Anyway, I hope you like my articles. Welcome to contact me through any channel on the bottom of the website.
+Anyway, I hope you enjoy my articles. Feel free to contact me through any channel listed at the bottom of the website.
