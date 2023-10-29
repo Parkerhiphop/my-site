@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: 'me.png',
   image: 'me.png',
   socialBanner: 'me.png',
-  email: '',
+  email: 'parkerhiphop027@gmail.com',
   github: 'https://github.com/Parkerhiphop',
   twitter: 'https://twitter.com/parkerchang11',
   facebook: 'https://www.facebook.com/Parkerhiphop/',

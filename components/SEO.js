@@ -51,7 +51,7 @@ const generateLinks = (router, availableLocales) =>
 //   )
 // }
 
-const CommonSEO = ({ title, description, ogType, ogImage, twImage, availableLocales }) => {
+const CommonSEO = ({ title, description, ogType, ogImage, availableLocales }) => {
   const router = useRouter();
   return (
     <Head>
@@ -77,7 +77,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, availableLoca
       <meta name="twitter:site" content={siteMetadata.twitter} />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
-      <meta name="twitter:image" content={twImage} />
+      <meta name="twitter:image" content={ogImage} />
       {availableLocales && generateLinks(router, availableLocales)}
     </Head>
   );
@@ -93,16 +93,18 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, availableLoca
 //   availableLocales,
 //   images = [],
 // }) => {
-export const PageSEO = ({ title, description, availableLocales }) => {
-  const ogImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner;
-  const twImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner;
+export const PageSEO = ({ locale, title, description, availableLocales }) => {
+  const ogImageUrl = locale
+    ? `${siteMetadata.siteUrl}/blog/${title}/cover-${locale}.png`
+    : `${siteMetadata.siteUrl}/${siteMetadata.socialBanner}`;
+
   return (
     <CommonSEO
       title={title}
       description={description}
       ogType="website"
       ogImage={ogImageUrl}
-      twImage={twImageUrl}
+      twImage={ogImageUrl}
       availableLocales={availableLocales}
     />
   );

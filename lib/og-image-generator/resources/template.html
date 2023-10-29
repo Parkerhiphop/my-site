@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <style>
+      body {
+        background: white;
+        color: #14b8a6;
+        font-family: HelveticaNeue, 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif;
+      }
+
+      /* window BEGIN */
+
+      a {
+        text-decoration: none;
+      }
+
+      .window {
+        background: #262626;
+        box-sizing: border-box;
+        width: 1200px;
+        height: 630px;
+        padding: 96px;
+        position: relative;
+      }
+
+      .logo {
+        display: flex;
+        align-items: center;
+      }
+
+      .author-logo {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+      }
+
+      .title {
+        font-size: 60px;
+        font-weight: bold;
+        margin-right: 50px;
+        margin-top: 48px;
+      }
+
+      .site-name {
+        font-size: 48px;
+        font-weight: bold;
+        margin-left: 32px;
+      }
+
+      .date {
+        position: absolute;
+        bottom: 96px;
+        right: 96px;
+        font-size: 24px;
+        font-weight: bold;
+        letter-spacing: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="window">
+      <div class="logo">
+        <img class="author-logo" src="./me.png" />
+        <span class="site-name">Parker's Thinking Path</span>
+      </div>
+      <div class="title">{{title}}</div>
+      <br />
+      <div class="date">{{publishedDate}}</div>
+    </div>
+  </body>
+</html>

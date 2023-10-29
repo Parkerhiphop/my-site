@@ -4,6 +4,7 @@ import { MDXLayoutRenderer } from '@/components/MDXComponents';
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug } from '@/lib/mdx';
 import { getCurrentLocale } from '@/lib/utils/getCurrentLocale';
 import { getBlogPosts } from '@/lib/utils/getBlogPosts';
+import { PageSEO } from '@/components/SEO';
 
 const DEFAULT_LAYOUT = 'PostLayout';
 
@@ -61,14 +62,21 @@ export async function getStaticProps({ defaultLocale, locales, locale, params })
       prev,
       next,
       availableLocales,
+      locale,
     },
   };
 }
 
-export default function Blog({ post, authorDetails, prev, next, availableLocales }) {
+export default function Blog({ post, authorDetails, prev, next, availableLocales, locale }) {
   const { mdxSource, toc, frontMatter } = post;
   return (
     <>
+      <PageSEO
+        locale={locale}
+        title={frontMatter.slug}
+        description={frontMatter.summary}
+        availableLocales={availableLocales}
+      />
       {frontMatter.draft !== true ? (
         <MDXLayoutRenderer
           layout={frontMatter.layout || DEFAULT_LAYOUT}
