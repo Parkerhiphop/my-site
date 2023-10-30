@@ -97,12 +97,12 @@ export default function Blog({ posts, locale, availableLocales }) {
                   >
                     {formatDate(date, locale, false)}
                   </time>
-                  <article className="md:basis-5/6 space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
+                  <article className="md:basis-5/6 space-y-2">
                     <Link
                       href={`/blog/${slug}`}
                       className="text-gray-900 dark:text-gray-100 hover:text-primary-600 dark:hover:text-primary-400"
                     >
-                      <div className="space-y-3 xl:col-span-3">
+                      <div className="space-y-3">
                         <div>
                           <h3 className="text-lg md:text-2xl font-bold leading-8 tracking-tight">
                             {title}
