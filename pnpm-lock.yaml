@@ -17,8 +17,8 @@ dependencies:
     specifier: ^3.0.58
     version: 3.0.80
   '@tailwindcss/forms':
-    specifier: ^0.4.0
-    version: 0.4.1(tailwindcss@3.3.2)
+    specifier: ^0.5.0
+    version: 0.5.6(tailwindcss@3.3.2)
   '@tailwindcss/typography':
     specifier: ^0.5.0
     version: 0.5.9(tailwindcss@3.3.2)
@@ -1984,8 +1984,8 @@ packages:
       - supports-color
     dev: true
 
-  /@tailwindcss/forms@0.4.1(tailwindcss@3.3.2):
-    resolution: {integrity: sha512-gS9xjCmJjUBz/eP12QlENPLnf0tCx68oYE3mri0GMP5jdtVwLbGUNSRpjsp6NzLAZzZy3ueOwrcqB78Ax6Z84A==}
+  /@tailwindcss/forms@0.5.6(tailwindcss@3.3.2):
+    resolution: {integrity: sha512-Fw+2BJ0tmAwK/w01tEFL5TiaJBX1NLT1/YbWgvm7ws3Qcn11kiXxzNTEQDMs5V3mQemhB56l3u0i9dwdzSQldA==}
     peerDependencies:
       tailwindcss: '>=3.0.0 || >= 3.0.0-alpha.1'
     dependencies:
