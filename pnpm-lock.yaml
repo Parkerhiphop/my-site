@@ -41,8 +41,8 @@ dependencies:
     specifier: ^4.0.2
     version: 4.0.3
   image-size:
-    specifier: 1.0.0
-    version: 1.0.0
+    specifier: 1.1.1
+    version: 1.1.1
   mdast-util-to-string:
     specifier: ^3.1.0
     version: 3.2.0
@@ -4869,9 +4869,9 @@ packages:
     engines: {node: '>= 4'}
     dev: true
 
-  /image-size@1.0.0:
-    resolution: {integrity: sha512-JLJ6OwBfO1KcA+TvJT+v8gbE6iWbj24LyDNFgFEN0lzegn6cC6a/p3NIDaepMsJjQjlUWqIC7wJv8lBFxPNjcw==}
-    engines: {node: '>=12.0.0'}
+  /image-size@1.1.1:
+    resolution: {integrity: sha512-541xKlUw6jr/6gGuk92F+mYM5zaFAc5ahphvkqvNe2bQ6gVBkd6bfrmVJ2t4KDAfikAYZyIqTnktX3i6/aQDrQ==}
+    engines: {node: '>=16.x'}
     hasBin: true
     dependencies:
       queue: 6.0.2
