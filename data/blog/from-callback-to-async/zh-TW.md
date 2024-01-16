@@ -202,10 +202,6 @@ fetchStarWarsCharacter(1)
 
 ### Promise 的另外四個靜態方法
 
-這邊的 resolve 和 reject 雖然跟被當作參數的 executor callback function 的 `(resolve, reject) ⇒ {}` 同名，但其實概念是不樣的，這邊的是靜態方法，用來創建一個已解析或已拒絕的 Promise，而 executor callback 中的 resolve 和 reject 函數是用來控制 Promise 物件的狀態（Pending / Fulfilled / Rejected）。
-
-但今天其實不會用到所以就不贅述，以下摘錄自 [MDN - Promise Methods](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise#%E6%96%B9%E6%B3%95)：
-
 1. Promise.resolve
 
 - 將非 Promise 值轉換為 Promise 或創建一個立即接受的 Promise 時可以用。
@@ -215,14 +211,14 @@ fetchStarWarsCharacter(1)
   Promise.resolve(thenable);
   ```
 
-3. Promise.reject
+2. Promise.reject
 
 - 將非 Promise 值轉換為 Promise 或創建一個立即失敗的 Promise 時可以用。
   ```javascript
   Promise.reject(reason);
   ```
 
-4. Promise.all
+3. Promise.all
 
    - 回傳一個 promise，當在 iterable 中所有 promises 都被實現時被實現，或在當中有一個 promise 被拒絕時立刻被拒絕。
 
@@ -241,7 +237,9 @@ fetchStarWarsCharacter(1)
    });
    ```
 
-5. Promise.race
+   想更了解 `Promise.all` 的話，推薦寫看看 Leetcode - JS30 的 [2721. Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/)
+
+4. Promise.race
 
    - 當傳入的 iterable 中有 promise 被實現或拒絕時，立刻回傳被實現或拒絕的 [`Promise`](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
@@ -264,6 +262,14 @@ fetchStarWarsCharacter(1)
    // the stack is now empty
    // Promise { <state>: "fulfilled", <value>: 33 }
    ```
+
+   Leetcode - JS30 一樣也有一題 [2637. Promise Time Limit](https://leetcode.com/problems/promise-time-limit/description/) 可以做憐惜！
+
+> 這邊的 `Promise.resolve` 和 `Promise.reject` 雖然跟 `new Promise((resolve, reject) => {...}` 裡面的參數命名慣例同名，但其實概念是不樣的。
+
+這邊的是靜態方法，用來創建一個已解決或已拒絕的 Promise，而 executor callback 中的 resolve 和 reject 函數是用來控制 Promise 物件的狀態（Pending / Fulfilled / Rejected）。
+
+還有其他可參考 [MDN - Promise Methods](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise#%E6%96%B9%E6%B3%95)。
 
 ### **用 Promise 解決 Callback Hell**
 

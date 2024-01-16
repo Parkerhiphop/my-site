@@ -177,15 +177,15 @@ if (jsCodeMatch && jsCodeMatch.length >= 2) {
 }
 ```
 
-### 2. 取得 JS 計算結果
+### 2. 面試題：取得 JS 計算結果
 
 > 在 `const a = '1 + 2 + 3';` 中，a 是一個包含 JavaScript Expression 的 String
 >
 > 該如何取得 a 變數運算完的結果？
 
-這來自於：https://israynotarray.com/javascript/20230321/3298342448/ 的文章。
+這題是來自於：[是 Ray 不是 Array](https://israynotarray.com/javascript/20230321/3298342448/) 的文章。
 
-透過 `eval` 可以很快地得到結果，但 `eval` 是一個不該被使用的方法，所以可以先當作沒有這個解法。
+透過 `eval` 可以很快地得到結果，但它有如上所述的問題，有沒有更萬無一失的作法？
 
 ```js
 const a = '1 + 2 + 3';
