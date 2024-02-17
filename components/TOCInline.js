@@ -39,13 +39,13 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
   };
 
   const tocList = (
-    <ul className="mb-0 pb-5">
+    <div className="mb-0 pb-5 leading-8">
       {filteredToc.map((heading) => (
-        <li key={heading.value} className={`${hierachy[heading.depth]}`}>
+        <div key={heading.value} className={`${hierachy[heading.depth]}`}>
           <a href={heading.url}>{heading.value}</a>
-        </li>
+        </div>
       ))}
-    </ul>
+    </div>
   );
 
   return (
