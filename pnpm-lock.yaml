@@ -53,8 +53,8 @@ dependencies:
     specifier: 12.1.4
     version: 12.1.4(@babel/core@7.22.1)(react-dom@17.0.2)(react@17.0.2)
   next-themes:
-    specifier: ^0.0.14
-    version: 0.0.14(next@12.1.4)(react-dom@17.0.2)(react@17.0.2)
+    specifier: ^0.3.0
+    version: 0.3.0(react-dom@17.0.2)(react@17.0.2)
   next-translate:
     specifier: ^1.0.7
     version: 1.6.0(next@12.1.4)(react@17.0.2)
@@ -6174,14 +6174,12 @@ packages:
       - supports-color
     dev: true
 
-  /next-themes@0.0.14(next@12.1.4)(react-dom@17.0.2)(react@17.0.2):
-    resolution: {integrity: sha512-x09OaM+wg3SIlEjOv8B21aw/E36jxTtfW3Dm/DPwMsSMluGt7twe1LigA6nc+mXP1u0qu9MxBaIrPPH6UTiKnA==}
+  /next-themes@0.3.0(react-dom@17.0.2)(react@17.0.2):
+    resolution: {integrity: sha512-/QHIrsYpd6Kfk7xakK4svpDI5mmXP0gfvCoJdGpZQ2TOrQZmsW0QxjaiLn8wbIKjtm4BTSqLoix4lxYYOnLJ/w==}
     peerDependencies:
-      next: '*'
-      react: '*'
-      react-dom: '*'
+      react: ^16.8 || ^17 || ^18
+      react-dom: ^16.8 || ^17 || ^18
     dependencies:
-      next: 12.1.4(@babel/core@7.22.1)(react-dom@17.0.2)(react@17.0.2)
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
     dev: false
