@@ -1,7 +1,7 @@
 ---
 title: 北極百貨的秋乃小姐 The Concierge
 date: '2024-03-27'
-tags: ['心路歷程', '影評']
+tags: ['電影', '觀後感']
 draft: false
 summary: 關於《北極百貨的秋乃小姐》這部電影的心得，以及被觸動的生活感想
 ---
