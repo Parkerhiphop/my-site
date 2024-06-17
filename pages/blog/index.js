@@ -47,6 +47,7 @@ export default function Blog({ posts, locale, availableLocales }) {
         summary: post.summary,
       })),
   }));
+
   return (
     <>
       <PageSEO
@@ -98,26 +99,26 @@ export default function Blog({ posts, locale, availableLocales }) {
                     {formatDate(date, locale, false)}
                   </time>
                   <article className="md:basis-5/6 space-y-2">
-                    <Link
-                      href={`/blog/${slug}`}
-                      className="text-gray-900 dark:text-gray-100 hover:text-primary-600 dark:hover:text-primary-400"
-                    >
-                      <div className="space-y-3">
-                        <div>
+                    <div className="space-y-3">
+                      <div>
+                        <Link
+                          href={`/blog/${slug}`}
+                          className="text-gray-900 dark:text-gray-100 hover:text-primary-600 dark:hover:text-primary-400"
+                        >
                           <h3 className="text-lg md:text-2xl font-bold leading-8 tracking-tight">
                             {title}
                           </h3>
-                          <div className="flex flex-wrap">
-                            {tags.map((tag) => (
-                              <Tag key={tag} text={tag} />
-                            ))}
-                          </div>
-                        </div>
-                        <div className="prose max-w-none text-gray-500 dark:text-gray-400 hidden md:block">
-                          {summary}
+                        </Link>
+                        <div className="flex flex-wrap">
+                          {tags.map((tag) => (
+                            <Tag key={tag} text={tag} />
+                          ))}
                         </div>
                       </div>
-                    </Link>
+                      <div className="prose max-w-none text-gray-500 dark:text-gray-400 hidden md:block">
+                        {summary}
+                      </div>
+                    </div>
                   </article>
                 </div>
               </li>
