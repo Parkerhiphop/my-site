@@ -41,8 +41,8 @@ const LayoutWrapper = ({ children }) => {
                 <div className="mr-3">
                   <Image
                     src="/me.png"
-                    width="38px"
-                    height="38px"
+                    width="54px"
+                    height="54px"
                     alt="avatar"
                     className="h-10 w-10 rounded-full"
                   />

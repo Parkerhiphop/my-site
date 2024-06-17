@@ -2,7 +2,7 @@
 title: WIND BREAKER —防風少年— 〈獅子頭連篇〉
 date: '2024-06-10'
 tags: ['動畫', '觀後感']
-draft: false
+draft: true
 summary: 對於獅子頭連篇的心得，我在這之中看見關於目標和過程。把兔耳山的黑化、十龜的自責和梅宮的豁達都呈現得很好。
 ---
 
