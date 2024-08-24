@@ -85,5 +85,10 @@ module.exports = nextTranslate(
 
       return config;
     },
+    i18n: {
+      locales: ['en', 'zh-TW', 'ja'],
+      defaultLocale: 'zh-TW',
+      localeDetection: false,
+    },
   })
 );

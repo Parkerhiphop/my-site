@@ -4,7 +4,7 @@ import Tag from '@/components/Tag';
 import siteMetadata from '@/data/siteMetadata';
 import { getAllFilesFrontMatter } from '@/lib/mdx';
 import formatDate from '@/lib/utils/formatDate';
-import { getCurrentLocale } from '@/lib/utils/getCurrentLocale';
+// import { getCurrentLocale } from '@/lib/utils/getCurrentLocale';
 import useTranslation from 'next-translate/useTranslation';
 
 // import NewsletterForm from '@/components/NewsletterForm'
@@ -12,8 +12,8 @@ import useTranslation from 'next-translate/useTranslation';
 const MAX_DISPLAY = 5;
 
 export async function getStaticProps({ locale, defaultLocale, locales }) {
-  const currentLocale = getCurrentLocale(locale, defaultLocale);
-  const posts = await getAllFilesFrontMatter('blog', currentLocale);
+  // const currentLocale = getCurrentLocale(locale, defaultLocale);
+  const posts = await getAllFilesFrontMatter('blog', locale);
 
   return { props: { posts, locale, availableLocales: locales } };
 }

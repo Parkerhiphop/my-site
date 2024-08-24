@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/no-onchange */
 import siteMetadata from '@/data/siteMetadata';
 import headerNavLinks from '@/data/headerNavLinks';
-import Logo from '@/data/logo.svg';
 import Link from './Link';
 import SectionContainer from './SectionContainer';
 import Footer from './Footer';
@@ -25,6 +24,7 @@ const LayoutWrapper = ({ children }) => {
 
   // TODO: implement useLocale hook to preserve the state of user's previous selection
   // 目前只有首頁會在 reload 的時候被轉換為預設語言
+
   const changeLanguage = (e) => {
     const locale = e.target.value;
     // localStorage.setItem('locale', locale)
