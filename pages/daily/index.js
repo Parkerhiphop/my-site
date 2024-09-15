@@ -1,27 +1,27 @@
 import siteMetadata from '@/data/siteMetadata';
-import ListLayout from '@/layouts/ListLayout';
+// import ListLayout from '@/layouts/ListLayout';
 import { PageSEO } from '@/components/SEO';
 
 import useTranslation from 'next-translate/useTranslation';
-import { getCategoryProps } from '@/lib/utils/getCategoryProps';
+// import { getCategoryProps } from '@/lib/utils/getCategoryProps';
 import { useState } from 'react';
 
-export async function getStaticProps({ locale, locales }) {
-  const props = await getCategoryProps({ type: 'daily', locale, locales });
-  return {
-    props,
-  };
-}
+// export async function getStaticProps({ locale, locales }) {
+//   const props = await getCategoryProps({ type: 'daily', locale, locales });
+//   return {
+//     props,
+//   };
+// }
 
 export default function Daily({ posts, locale, availableLocales }) {
   const { t } = useTranslation();
 
   const [searchValue, setSearchValue] = useState('');
 
-  const filteredBlogPosts = posts.filter((frontMatter) => {
-    const searchContent = frontMatter.title + frontMatter.summary + frontMatter.tags.join(' ');
-    return searchContent.toLowerCase().includes(searchValue.toLowerCase());
-  });
+  // const filteredBlogPosts = posts.filter((frontMatter) => {
+  //   const searchContent = frontMatter.title + frontMatter.summary + frontMatter.tags.join(' ');
+  //   return searchContent.toLowerCase().includes(searchValue.toLowerCase());
+  // });
 
   return (
     <>
