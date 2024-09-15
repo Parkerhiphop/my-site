@@ -5,11 +5,8 @@ import siteMetadata from '@/data/siteMetadata';
 import formatDate from '@/lib/utils/formatDate';
 import getAllPosts from '@/lib/utils/getAllPosts';
 import useTranslation from 'next-translate/useTranslation';
-import generateRss from '@/lib/generate-rss';
-import fs from 'fs';
-import path from 'path';
 
-export async function getStaticProps({ locale, defaultLocale, locales }) {
+export async function getStaticProps({ locale, locales }) {
   const posts = await getAllPosts(locale);
 
   const start = {
@@ -33,14 +30,6 @@ export async function getStaticProps({ locale, defaultLocale, locales }) {
         summary: post.summary,
       })),
   }));
-
-  // Generate RSS feed
-  if (locale === defaultLocale) {
-    const root = process.cwd();
-    const rss = generateRss(posts, locale, defaultLocale);
-    const rssPath = path.join(root, 'public', 'feed.xml');
-    fs.writeFileSync(rssPath, rss);
-  }
 
   return { props: { posts: postsByYear, locale, availableLocales: locales } };
 }

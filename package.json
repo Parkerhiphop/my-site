@@ -7,7 +7,7 @@
     "generate-multiple-image": "node lib/og-image-generator/generate-multiple-image.js",
     "start": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
     "dev": "next dev -p  3030",
-    "build": "next build && node ./scripts/generate-sitemap",
+    "build": "next build && node ./scripts/generate-sitemap && node ./scripts/generate-rss",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
