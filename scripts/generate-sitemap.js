@@ -9,8 +9,14 @@ const i18nConfig = require('../i18n.json');
   const pages = await globby([
     'pages/*.js',
     'pages/*.tsx',
-    'data/blog/**/*.mdx',
-    'data/blog/**/*.md',
+    'data/reviews/**/*.mdx',
+    'data/reviews/**/*.md',
+    'data/life/**/*.mdx',
+    'data/life/**/*.md',
+    'data/reading/**/*.mdx',
+    'data/reading/**/*.md',
+    'data/software-development/**/*.mdx',
+    'data/software-development/**/*.md',
     'public/tags/**/*.xml',
     '!pages/_*.js',
     '!pages/_*.tsx',
@@ -42,7 +48,10 @@ const i18nConfig = require('../i18n.json');
         (loc !== defaultLocale ? `/${loc}` : '') +
         page
           .replace('pages/', '/')
-          .replace('data/blog', '/blog')
+          .replace('data/reviews', '/reviews')
+          .replace('data/life', '/life')
+          .replace('data/reading', '/reading')
+          .replace('data/software-development', '/software-development')
           .replace('public/', '/')
           .replace('.js', '')
           .replace('.mdx', '')
@@ -74,7 +83,10 @@ const i18nConfig = require('../i18n.json');
                 const route = path.includes('/index') ? path.replace('/index', '') : path;
                 if (
                   path.includes(`/404.js`) ||
-                  path.includes(`/blog/[...slug].js`) ||
+                  path.includes(`/reviews/[...slug].js`) ||
+                  path.includes(`/life/[...slug].js`) ||
+                  path.includes(`/reading/[...slug].js`) ||
+                  path.includes(`/software-development/[...slug].js`) ||
                   alreadyPresent
                 ) {
                   // Not sure about the [...slug] condition...

@@ -32,7 +32,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, availableLocales }) =>
       <meta name="description" content={description} />
       <meta property="og:url" content={`${siteMetadata.siteUrl}${router.asPath}`} />
       <meta property="og:type" content={ogType} />
-      <meta property="og:site_name" content={siteMetadata.title[router.locale]} />
+      <meta property="og:site_name" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:title" content={title} />
       {ogImage.constructor.name === 'Array' ? (
@@ -99,6 +99,7 @@ export const TagSEO = ({ title, description, availableLocales }) => {
 export const BlogSEO = ({
   authorDetails,
   title,
+  category,
   slug,
   summary,
   date,
@@ -111,7 +112,7 @@ export const BlogSEO = ({
   const publishedAt = new Date(date).toISOString();
   const modifiedAt = new Date(lastmod || date).toISOString();
 
-  const ogImage = `${siteMetadata.siteUrl}/blog/${slug}/cover-${locale}.png`;
+  const ogImage = `${siteMetadata.siteUrl}/${category}/${slug}/cover-${locale}.png`;
 
   let authorList;
   if (authorDetails) {

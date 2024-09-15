@@ -2,34 +2,34 @@ import { TagSEO } from '@/components/SEO';
 import siteMetadata from '@/data/siteMetadata';
 import ListLayout from '@/layouts/ListLayout';
 // import generateRss from '@/lib/generate-rss';
-import { getAllFilesFrontMatter } from '@/lib/mdx';
 import { getAllTags } from '@/lib/tags';
-import { getCurrentLocale } from '@/lib/utils/getCurrentLocale';
+import getAllPosts from '@/lib/utils/getAllPosts';
 import kebabCase from '@/lib/utils/kebabCase';
+import useTranslation from 'next-translate/useTranslation';
 
 export async function getStaticPaths({ locales, defaultLocale }) {
   const tags = await Promise.all(
     locales.map(async (locale) => {
-      const currentLocale = getCurrentLocale(locale, defaultLocale);
-      const tags = await getAllTags('blog', currentLocale);
-      return Object.entries(tags).map((k) => [k[0], locale]);
+      const tags = await getAllTags(locale);
+      return tags.map((tag) => [tag.name, locale]);
     })
   );
 
+  const paths = tags.flat().map(([tag, locale]) => ({
+    params: {
+      tag,
+    },
+    locale,
+  }));
+
   return {
-    paths: tags.flat().map(([tag, locale]) => ({
-      params: {
-        tag,
-      },
-      locale,
-    })),
+    paths,
     fallback: false,
   };
 }
 
 export async function getStaticProps({ params, defaultLocale, locale, locales }) {
-  const currentLocale = getCurrentLocale(locale, defaultLocale);
-  const allPosts = await getAllFilesFrontMatter('blog', currentLocale);
+  const allPosts = await getAllPosts(locale);
   const filteredPosts = allPosts.filter(
     (post) => post.draft !== true && post.tags.map((t) => kebabCase(t)).includes(params.tag)
   );
@@ -46,19 +46,24 @@ export async function getStaticProps({ params, defaultLocale, locale, locales })
 
   // Checking if available in other locale for SEO
   const availableLocales = [];
-  await locales.forEach(async (ilocal) => {
-    const currentLocale = getCurrentLocale(ilocal, defaultLocale);
-    const itags = await getAllTags('blog', currentLocale);
-    Object.entries(itags).map((itag) => {
-      if (itag[0] === params.tag) availableLocales.push(ilocal);
+  await locales.forEach(async (locale) => {
+    const tags = await getAllTags(locale);
+    tags.map((tag) => {
+      if (tag.name === params.tag) availableLocales.push(locale);
     });
   });
 
   return { props: { posts: filteredPosts, tag: params.tag, locale, availableLocales } };
 }
 
-export default function Tag({ posts, tag, locale, availableLocales }) {
+export default function Tag({ locale, posts, tag, availableLocales }) {
   const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1);
+
+  const tags = {
+    'zh-TW': '標籤：',
+    en: 'Tags:',
+    ja: 'タグ：',
+  };
 
   return (
     <>
@@ -67,7 +72,7 @@ export default function Tag({ posts, tag, locale, availableLocales }) {
         description={`${tag} tags - ${siteMetadata.title}`}
         availableLocales={availableLocales}
       />
-      <ListLayout posts={posts} title={`Tag: ${title}`} />
+      <ListLayout posts={posts} title={`${tags[locale]}${title}`} />
     </>
   );
 }

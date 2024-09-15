@@ -1,6 +1,5 @@
 import '@/css/tailwind.css';
 import '@/css/prism.css';
-// import 'katex/dist/katex.css'
 
 import '@fontsource/inter/variable-full.css';
 
@@ -9,7 +8,7 @@ import Head from 'next/head';
 
 import siteMetadata from '@/data/siteMetadata';
 import Analytics from '@/components/analytics';
-import LayoutWrapper from '@/components/LayoutWrapper';
+import Layout from '@/layouts/Layout';
 import RSS from '@/components/Rss';
 import { ClientReload } from '@/components/ClientReload';
 
@@ -24,9 +23,9 @@ export default function App({ Component, pageProps }) {
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
-      <LayoutWrapper>
+      <Layout>
         <Component {...pageProps} />
-      </LayoutWrapper>
+      </Layout>
       <RSS />
     </ThemeProvider>
   );

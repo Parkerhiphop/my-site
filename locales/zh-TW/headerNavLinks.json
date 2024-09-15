@@ -1,5 +1,14 @@
 {
-  "blog": "文章",
+  "life": "生活",
+  "reading": "閱讀",
+  "review": "作品心得",
+  "software-development": "軟體開發",
+  "daily": "日記",
   "tags": "標籤",
-  "about": "關於我"
+  "about": "關於我",
+  "life-description": "對生活的想法、對事情的看法、對社會的觀察，都會寫在這。",
+  "reading-description": "主要是工具書、商業思維、自我成長相關的讀書筆記和心得。",
+  "review-description": "紀錄看完電影、影集、動畫、漫畫、小說後的感想和悸動，也是留給未來處在不同時期和階段的自己來回顧。",
+  "software-development-description": "在軟體開發（目前多為網頁前端）遇到的困難和技術筆記，偶爾也會有些職場心得。",
+  "daily-description": "流水帳式記錄日常生活中一閃而逝的想法（多從社群媒體上轉貼過來）。"
 }

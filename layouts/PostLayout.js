@@ -1,5 +1,4 @@
 import Link from '@/components/Link';
-import PageTitle from '@/components/PageTitle';
 import SectionContainer from '@/components/SectionContainer';
 import { BlogSEO } from '@/components/SEO';
 import Tag from '@/components/Tag';
@@ -11,10 +10,12 @@ import { useRouter } from 'next/router';
 import ScrollTopAndComment from '@/components/ScrollTopAndComment';
 import TOCInline from '@/components/TOCInline';
 
-const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`;
-const discussUrl = (slug) =>
+const editUrl = (category, fileName) =>
+  `${siteMetadata.siteRepo}/blob/master/data/${category}/${fileName}`;
+
+const discussUrl = (category, slug) =>
   `https://mobile.twitter.com/search?q=${encodeURIComponent(
-    `${siteMetadata.siteUrl}/blog/${slug}`
+    `${siteMetadata.siteUrl}/${category}/${slug}`
   )}`;
 
 export default function PostLayout({
@@ -28,12 +29,12 @@ export default function PostLayout({
 }) {
   const { t } = useTranslation();
   const { locale } = useRouter();
-  const { slug, fileName, date, title, tags } = frontMatter;
+  const { category, slug, fileName, date, title, tags } = frontMatter;
 
   return (
     <SectionContainer>
       <BlogSEO
-        url={`${siteMetadata.siteUrl}/blog/${slug}`}
+        url={`${siteMetadata.siteUrl}/${category}/${slug}`}
         authorDetails={authorDetails}
         availableLocales={availableLocales}
         locale={locale}
@@ -53,7 +54,7 @@ export default function PostLayout({
                 </div>
               </dl>
               <div>
-                <PageTitle>{title}</PageTitle>
+                <h1>{title}</h1>
               </div>
             </div>
           </header>
@@ -96,7 +97,7 @@ export default function PostLayout({
                           {t('common:preva')}
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                          <Link href={`/blog/${prev.slug}`}>{prev.title}</Link>
+                          <Link href={`/category/${prev.slug}`}>{prev.title}</Link>
                         </div>
                       </div>
                     )}
@@ -106,7 +107,7 @@ export default function PostLayout({
                           {t('common:nexta')}
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                          <Link href={`/blog/${next.slug}`}>{next.title}</Link>
+                          <Link href={`/category/${next.slug}`}>{next.title}</Link>
                         </div>
                       </div>
                     )}
@@ -115,7 +116,7 @@ export default function PostLayout({
               </div>
               <div className="pt-4 xl:pt-8">
                 <Link
-                  href="/blog"
+                  href={`/${category}`}
                   className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                 >
                   &larr; {t('common:back')}

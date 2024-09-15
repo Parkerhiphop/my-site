@@ -1,8 +1,6 @@
 const siteMetadata = {
-  title: "Path - Parker's Thinking",
+  title: "Parker Chang's Web",
   author: 'Parker Chang',
-  headerTitle: "Path - Parker's Thinking",
-  description: "Record Parker's Life, Thoughts, Works, and Projects",
   language: 'zh-TW',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.parkerchang.life',
@@ -12,8 +10,8 @@ const siteMetadata = {
   socialBanner: 'me.png',
   email: 'parkerhiphop027@gmail.com',
   github: 'https://github.com/Parkerhiphop',
-  // twitter: 'https://twitter.com/parkerchang11',
-  facebook: 'https://www.facebook.com/path.web.development/',
+  twitter: 'https://twitter.com/parkerchang11',
+  // facebook: 'https://www.facebook.com/path.web.development/',
   // youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/cheng-yi-chang-19b148176/',
   locale: 'zh-TW',

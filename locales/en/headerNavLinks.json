@@ -1,5 +1,14 @@
 {
-  "blog": "Blog",
+  "Life": "Life",
+  "reading": "Reading",
+  "review": "Review",
+  "software-development": "Software development",
+  "daily": "Daily",
   "tags": "Tags",
-  "about": "About me"
+  "about": "About me",
+  "life-description": "Thoughts on life, perspectives on things, and observations about society are all written here.",
+  "reading-description": "Mainly reading notes and reflections on reference books, business thinking, and personal growth.",
+  "review-description": "Recording impressions and emotions after watching movies, TV series, animations, comics, and novels. It's also for my future self to look back on during different periods and stages of life.",
+  "software-development-description": "Difficulties encountered and technical notes in software development (currently mostly web frontend), with occasional workplace insights.",
+  "daily-description": "Journal-style records of fleeting thoughts in daily life (mostly reposted from social media)."
 }
