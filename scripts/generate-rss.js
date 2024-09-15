@@ -4,6 +4,7 @@ const globby = require('globby');
 const matter = require('gray-matter');
 const siteMetadata = require('../data/siteMetadata');
 const i18nConfig = require('../i18n.json');
+const { marked } = require('marked');
 
 // escape
 const es = /&(?:amp|#38|lt|#60|gt|#62|apos|#39|quot|#34);/g;
@@ -45,7 +46,7 @@ const generateRssItem = (post, locale, defaultLocale) => `
     <pubDate>${new Date(post.date).toUTCString()}</pubDate>
     <author>${siteMetadata.email} (${siteMetadata.author})</author>
     ${post.tags && post.tags.map((t) => `<category>${t}</category>`).join('')}
-    <content:encoded><![CDATA[${post.content}]]></content:encoded>
+    <content:encoded><![CDATA[${marked(post.content)}]]></content:encoded>
   </item>
 `;
 
