@@ -3,10 +3,7 @@
 @tailwind utilities;
 
 h1 {
-  @apply text-xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-2xl sm:leading-10 md:text-3xl md:leading-14;
-}
-
-h2 {
+  @apply text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:leading-10 md:text-4xl md:leading-14;
 }
 
 .task-list-item::before {

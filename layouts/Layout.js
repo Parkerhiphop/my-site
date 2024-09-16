@@ -13,16 +13,6 @@ import useTranslation from 'next-translate/useTranslation';
 const Layout = ({ children }) => {
   const { t } = useTranslation();
 
-  const iconMap = {
-    life: '💭',
-    reading: '📚',
-    review: '📝',
-    'software-development': '🧑‍💻',
-    daily: '🌊',
-    tags: '🏷️',
-    about: '🙌',
-  };
-
   return (
     <SectionContainer>
       <div className="flex h-screen flex-col justify-between">
@@ -50,13 +40,14 @@ const Layout = ({ children }) => {
                   href={link.href}
                   className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4"
                 >
-                  {iconMap[link.title]} {t(`headerNavLinks:${link.title.toLowerCase()}`)}
+                  {siteMetadata.iconMap[link.title]}{' '}
+                  {t(`headerNavLinks:${link.title.toLowerCase()}`)}
                 </Link>
               ))}
             </div>
             {/* <LangSwitch /> */}
             <ThemeSwitch />
-            <MobileNav />
+            <MobileNav iconMap={siteMetadata.iconMap} />
           </div>
         </header>
         <main className="mb-auto">{children}</main>

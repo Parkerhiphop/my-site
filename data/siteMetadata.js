@@ -78,6 +78,15 @@ const siteMetadata = {
       shortname: process.env.NEXT_PUBLIC_DISQUS_SHORTNAME,
     },
   },
+  iconMap: {
+    life: '💭',
+    reading: '📚',
+    review: '🎬',
+    'software-development': '🧑‍💻',
+    daily: '🌊',
+    tags: '🏷️',
+    about: '🙌',
+  },
 };
 
 module.exports = siteMetadata;

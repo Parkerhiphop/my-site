@@ -4,7 +4,7 @@ import headerNavLinks from '@/data/headerNavLinks';
 
 import useTranslation from 'next-translate/useTranslation';
 
-const MobileNav = () => {
+const MobileNav = ({ iconMap }) => {
   const { t } = useTranslation();
   const [navShow, setNavShow] = useState(false);
 
@@ -24,7 +24,7 @@ const MobileNav = () => {
     <div className="lg:hidden">
       <button
         type="button"
-        className="ml-1 mr-1 h-8 w-8 rounded py-1"
+        className="ml-1 mr-1 h-8 w-8 pt-1 rounded"
         aria-label="Toggle Menu"
         onClick={onToggleNav}
       >
@@ -75,7 +75,7 @@ const MobileNav = () => {
                 className="text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100"
                 onClick={onToggleNav}
               >
-                {t(`headerNavLinks:${link.title.toLowerCase()}`)}
+                {iconMap[link.title]} {t(`headerNavLinks:${link.title.toLowerCase()}`)}
               </Link>
             </div>
           ))}

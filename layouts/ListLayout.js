@@ -5,6 +5,7 @@ import Pagination from '@/components/Pagination';
 import formatDate from '@/lib/utils/formatDate';
 import useTranslation from 'next-translate/useTranslation';
 import { useRouter } from 'next/router';
+import siteMetadata from '@/data/siteMetadata';
 
 export default function ListLayout({
   type,
@@ -32,7 +33,9 @@ export default function ListLayout({
     <>
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 md:pt-6 pb-8 md:space-y-5">
-          <h1>{title}</h1>
+          <h1>
+            {siteMetadata.iconMap[type]} {title}
+          </h1>
           <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400">{description}</h2>
           <div className="relative max-w-lg">
             <input
@@ -73,7 +76,7 @@ export default function ListLayout({
                   </dl>
                   <div className="space-y-3 xl:col-span-3">
                     <div>
-                      <h3 className="text-2xl font-bold leading-8 tracking-tight">
+                      <h3 className="text-xl font-bold leading-8 tracking-tight">
                         <Link
                           href={`/${type}/${slug}`}
                           className="text-gray-900 dark:text-gray-100"
