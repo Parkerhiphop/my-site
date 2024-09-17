@@ -66,12 +66,11 @@ const generateRssItem = (post, locale, defaultLocale) => `
 
   const allPosts = await Promise.all(
     contentFiles.map(async (filePath) => {
-      console.log('filePath', filePath);
       const source = fs.readFileSync(filePath, 'utf8');
       const { data, content } = matter(source);
       const category = filePath.split('/')[1];
       const slug = filePath.split('/')[2];
-      const locale = filePath.split('/')[3];
+      const locale = filePath.split('/')[3].replace('.md', '');
 
       return {
         ...data,
