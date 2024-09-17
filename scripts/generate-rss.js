@@ -90,10 +90,14 @@ const generateRssItem = (post, locale, defaultLocale) => `
 
     const rss = `
       <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+        <follow_challenge>
+          <feedId>58786730569507840</feedId>
+          <userId>57981446489318400</userId>
+        </follow_challenge>
         <channel>
           <title>${escape(siteMetadata.title)}</title>
           <link>${siteMetadata.siteUrl}${defaultLocale === locale ? '' : '/' + locale}</link>
-          <description>${siteMetadata.description[locale]}</description>
+          <description>${siteMetadata.description[locale]} </description>
           <language>${locale}</language>
           <managingEditor>${siteMetadata.email} (${siteMetadata.author})</managingEditor>
           <webMaster>${siteMetadata.email} (${siteMetadata.author})</webMaster>
