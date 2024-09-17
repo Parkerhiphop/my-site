@@ -17,9 +17,12 @@ const siteMetadata = {
   email: 'parkerhiphop027@gmail.com',
   github: 'https://github.com/Parkerhiphop',
   twitter: 'https://twitter.com/parkerchang11',
-  // facebook: 'https://www.facebook.com/path.web.development/',
-  // youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/cheng-yi-chang-19b148176/',
+  rss: {
+    'zh-TW': 'https://www.parkerchang.life/feed.xml',
+    en: 'https://www.parkerchang.life/feed.ja.xml',
+    ja: 'https://www.parkerchang.life/feed.en.xml',
+  },
   locale: 'zh-TW',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
