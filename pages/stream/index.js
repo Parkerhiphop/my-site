@@ -7,13 +7,13 @@ import useTranslation from 'next-translate/useTranslation';
 import { useState } from 'react';
 
 // export async function getStaticProps({ locale, locales }) {
-//   const props = await getCategoryProps({ type: 'daily', locale, locales });
+//   const props = await getCategoryProps({ type: 'stream', locale, locales });
 //   return {
 //     props,
 //   };
 // }
 
-export default function Daily({ posts, locale, availableLocales }) {
+export default function Stream({ posts, locale, availableLocales }) {
   const { t } = useTranslation();
 
   const [searchValue, setSearchValue] = useState('');
@@ -27,14 +27,14 @@ export default function Daily({ posts, locale, availableLocales }) {
     <>
       <PageSEO
         title={`${t('headerNavLinks:life')} - ${siteMetadata.author}`}
-        description={t('headerNavLinks:daily-description')}
+        description={t('headerNavLinks:stream-description')}
         availableLocales={availableLocales}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 md:pt-6 pb-8 md:space-y-5">
-          <h1>{t('headerNavLinks:daily')}</h1>
+          <h1>{t('headerNavLinks:stream')}</h1>
           <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            {t('headerNavLinks:daily-description')}
+            {t('headerNavLinks:stream-description')}
           </h2>
           <div className="relative max-w-lg">
             <input

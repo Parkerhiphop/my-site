@@ -92,7 +92,7 @@ const siteMetadata = {
     reading: '📚',
     review: '🎬',
     'software-development': '🧑‍💻',
-    daily: '🌊',
+    stream: '🌊',
     tags: '🏷️',
     about: '🙌',
   },

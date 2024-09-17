@@ -3,7 +3,7 @@ const headerNavLinks = [
   { href: '/software-development', title: 'software-development' },
   { href: '/review', title: 'review' },
   { href: '/reading', title: 'reading' },
-  { href: '/daily', title: 'daily' },
+  { href: '/stream', title: 'stream' },
   { href: '/tags', title: 'tags' },
   { href: '/about', title: 'about' },
 ];
