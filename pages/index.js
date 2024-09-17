@@ -48,7 +48,7 @@ export default function Home({ posts, locale, availableLocales }) {
         <div className="space-y-2 pb-4 md:pb-8 md:pt-6 md:space-y-5">
           <h1>{siteMetadata.title} 🕸️</h1>
           <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            {t('common:description')}
+            {siteMetadata.description[locale]}
           </h2>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">

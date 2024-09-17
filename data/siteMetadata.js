@@ -1,5 +1,11 @@
 const siteMetadata = {
   title: "Parker Chang's Web",
+  description: {
+    'zh-TW':
+      '喜歡寫作，在這裡記錄自己的所思所想，若這些想法能給其他人帶來點啟發會很高興。可能會寫軟體開發、生活感想、讀書筆記和對各種作品的感想。',
+    en: "I like writing and record my thoughts and ideas here. I'd be happy if I can inspire others during the journey. The topics cover technology, life, reading, and reflections on various works.",
+    ja: '私は書くことが好きで、ここに自分の考えや思いを記録しています。もしこれらのアイデアが他の人に少しでもインスピレーションを与えることができれば嬉しいです。ソフトウェア開発、生活の感想、読書ノート、そして様々な作品についての感想などを書くかもしれません。',
+  },
   author: 'Parker Chang',
   language: 'zh-TW',
   theme: 'system', // system, dark or light

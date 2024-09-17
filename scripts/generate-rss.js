@@ -54,28 +54,29 @@ const generateRssItem = (post, locale, defaultLocale) => `
   const { locales, defaultLocale } = i18nConfig;
 
   const contentFiles = await globby([
-    'data/reviews/**/*.mdx',
-    'data/reviews/**/*.md',
     'data/life/**/*.mdx',
     'data/life/**/*.md',
-    'data/reading/**/*.mdx',
-    'data/reading/**/*.md',
     'data/software-development/**/*.mdx',
     'data/software-development/**/*.md',
+    'data/review/**/*.mdx',
+    'data/review/**/*.md',
+    'data/reading/**/*.mdx',
+    'data/reading/**/*.md',
   ]);
 
   const allPosts = await Promise.all(
     contentFiles.map(async (filePath) => {
+      console.log('filePath', filePath);
       const source = fs.readFileSync(filePath, 'utf8');
       const { data, content } = matter(source);
       const category = filePath.split('/')[1];
-      const slug = path.basename(filePath).replace(/\.mdx?$/, '');
-      const locale = slug.split('.').pop();
+      const slug = filePath.split('/')[2];
+      const locale = filePath.split('/')[3];
 
       return {
         ...data,
         category,
-        slug: slug.replace(`.${locale}`, ''),
+        slug,
         locale: locales.includes(locale) ? locale : defaultLocale,
         content,
       };
@@ -85,6 +86,7 @@ const generateRssItem = (post, locale, defaultLocale) => `
   for (const locale of locales) {
     const posts = allPosts
       .filter((post) => post.locale === locale)
+      .filter((post) => !post.draft)
       .sort((a, b) => new Date(b.date) - new Date(a.date));
 
     const rss = `
@@ -92,11 +94,11 @@ const generateRssItem = (post, locale, defaultLocale) => `
         <channel>
           <title>${escape(siteMetadata.title)}</title>
           <link>${siteMetadata.siteUrl}${defaultLocale === locale ? '' : '/' + locale}</link>
-          <description>${siteMetadata.description}</description>
+          <description>${siteMetadata.description[locale]}</description>
           <language>${locale}</language>
           <managingEditor>${siteMetadata.email} (${siteMetadata.author})</managingEditor>
           <webMaster>${siteMetadata.email} (${siteMetadata.author})</webMaster>
-          <lastBuildDate>${new Date(posts[0].date).toUTCString()}</lastBuildDate>
+          <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
           <atom:link href="${siteMetadata.siteUrl}/${page.replace(
       '.xml',
       defaultLocale === locale ? '.xml' : '.' + locale + '.xml'
