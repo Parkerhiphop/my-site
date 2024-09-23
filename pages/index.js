@@ -4,7 +4,7 @@ import Tag from '@/components/Tag';
 import siteMetadata from '@/data/siteMetadata';
 import formatDate from '@/lib/utils/formatDate';
 import getAllPosts from '@/lib/utils/getAllPosts';
-import Head from 'next/head';
+import useTranslation from 'next-translate/useTranslation';
 
 export async function getStaticProps({ locale, locales }) {
   const posts = await getAllPosts(locale);
@@ -35,13 +35,15 @@ export async function getStaticProps({ locale, locales }) {
 }
 
 export default function Home({ posts, locale, availableLocales }) {
+  const { t } = useTranslation();
+
   return (
     <>
-      <Head>
-        <title>{siteMetadata.title}</title>
-        <meta name="robots" content="follow, index" />
-        <meta name="description" content={siteMetadata.description[locale]} />
-      </Head>
+      <PageSEO
+        title={siteMetadata.title}
+        description={t('common:description')}
+        availableLocales={availableLocales}
+      />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pb-4 md:pb-8 md:pt-6 md:space-y-5">
           <h1>{siteMetadata.title} 🕸️</h1>
