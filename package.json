@@ -1,16 +1,15 @@
 {
-  "name": "tailwind-nextjs-starter-blog",
+  "name": "parker-chang-web",
   "version": "1.5.6",
   "private": true,
   "scripts": {
     "og-image": "node lib/og-image-generator/app.js",
     "generate-multiple-image": "node lib/og-image-generator/generate-multiple-image.js",
-    "start": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
+    "serve": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
     "dev": "next dev -p  3030",
     "build": "next build && node ./scripts/generate-sitemap && node ./scripts/generate-rss",
     "generate-sitemap": "node ./scripts/generate-sitemap",
     "generate-rss": "node ./scripts/generate-rss",
-    "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install",
