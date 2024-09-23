@@ -4,7 +4,6 @@ import Tag from '@/components/Tag';
 import siteMetadata from '@/data/siteMetadata';
 import formatDate from '@/lib/utils/formatDate';
 import getAllPosts from '@/lib/utils/getAllPosts';
-import useTranslation from 'next-translate/useTranslation';
 
 export async function getStaticProps({ locale, locales }) {
   const posts = await getAllPosts(locale);
@@ -35,13 +34,11 @@ export async function getStaticProps({ locale, locales }) {
 }
 
 export default function Home({ posts, locale, availableLocales }) {
-  const { t } = useTranslation();
-
   return (
     <>
       <PageSEO
         title={siteMetadata.title}
-        description={t('common:description')}
+        description={siteMetadata.description[locale]}
         availableLocales={availableLocales}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
