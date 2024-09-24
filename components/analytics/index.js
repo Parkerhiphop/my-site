@@ -10,11 +10,11 @@ const isProduction = process.env.NODE_ENV === 'production';
 const Analytics = () => {
   return (
     <>
-      {isProduction && siteMetadata.analytics.plausibleDataDomain && <Plausible />}
-      {isProduction && siteMetadata.analytics.simpleAnalytics && <SimpleAnalytics />}
-      {isProduction && siteMetadata.analytics.umamiWebsiteId && <Umami />}
+      {/* {isProduction && siteMetadata.analytics.plausibleDataDomain && <Plausible />} */}
+      {/* {isProduction && siteMetadata.analytics.simpleAnalytics && <SimpleAnalytics />} */}
+      {/* {isProduction && siteMetadata.analytics.umamiWebsiteId && <Umami />} */}
       {isProduction && siteMetadata.analytics.googleAnalyticsId && <GA />}
-      {isProduction && siteMetadata.analytics.posthogAnalyticsId && <Posthog />}
+      {/* {isProduction && siteMetadata.analytics.posthogAnalyticsId && <Posthog />} */}
     </>
   );
 };
