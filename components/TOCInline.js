@@ -29,7 +29,7 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
       heading.depth >= fromHeading && heading.depth <= toHeading && !re.test(heading.value)
   );
 
-  const hierachy = {
+  const hierarchy = {
     1: 'ml-0',
     2: 'ml-4',
     3: 'ml-8',
@@ -38,35 +38,31 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
     6: 'ml-20',
   };
 
-  const tocList = (
-    <div className="mb-0 pb-5 text-sm leading-8 text-primary-500">
-      {filteredToc.map((heading) => (
-        <div
-          key={heading.value}
-          className={`${
-            hierachy[heading.depth]
-          } border-l-primary-500 border-l pl-2 my-2 overflow-hidden whitespace-nowrap text-ellipsis`}
-        >
-          <a href={heading.url}>{heading.value}</a>
-        </div>
-      ))}
-    </div>
-  );
+  if (!filteredToc.length) return <></>;
 
   return (
-    <>
-      {asDisclosure ? (
-        <details
-          open
-          className="my-8 px-1 py-1 rounded dark:prose-dark bg-gray-100 dark:bg-gray-800 cursor-pointer"
-        >
-          <summary className="ml-6 pt-2 pb-2 text-xl font-bold">Table of Contents</summary>
-          <div className="ml-6">{tocList}</div>
-        </details>
-      ) : (
-        tocList
-      )}
-    </>
+    <details
+      open
+      className="sticky top-3 max-h-[300px] md:max-h-[500px] rounded overflow-auto scrollbar-hide px-1 py-1 my-8 dark:prose-dark bg-gray-100 dark:bg-gray-800 cursor-pointer"
+    >
+      <summary className="sticky top-0 m-0 pt-2 pb-2 pl-5 h-8 md:h-auto text-[1rem] leading-4 md:text-xl font-bold bg-gray-100 dark:bg-gray-800">
+        目錄
+      </summary>
+      <div>
+        <div className="mb-0 pb-5 text-base leading-8 text-primary-500">
+          {filteredToc.map((heading) => (
+            <div
+              key={heading.value}
+              className={`${
+                hierarchy[heading.depth]
+              } border-l-primary-500 border-l pl-2 my-2 overflow-hidden whitespace-nowrap text-ellipsis`}
+            >
+              <a href={heading.url}>{heading.value}</a>
+            </div>
+          ))}
+        </div>
+      </div>
+    </details>
   );
 };
 

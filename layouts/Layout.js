@@ -19,16 +19,14 @@ const Layout = ({ children }) => {
         <header className="flex items-center justify-between py-10">
           <div>
             <Link href="/" aria-label={siteMetadata.headerTitle}>
-              <div className="flex items-center justify-between">
-                <div className="mr-3">
-                  <Image
-                    src="/me.png"
-                    width="54px"
-                    height="54px"
-                    alt="avatar"
-                    className="h-10 w-10 rounded-full"
-                  />
-                </div>
+              <div className="mr-3">
+                <Image
+                  src="/me.png"
+                  width="48px"
+                  height="48px"
+                  alt="avatar"
+                  className="h-10 w-10 rounded-full"
+                />
               </div>
             </Link>
           </div>
