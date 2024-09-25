@@ -107,7 +107,7 @@ export default function PostLayout({
                           {t('common:nexta')}
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                          <Link href={`/category/${next.slug}`}>{next.title}</Link>
+                          <Link href={`/${prev.category}/${next.slug}`}>{next.title}</Link>
                         </div>
                       </div>
                     )}
