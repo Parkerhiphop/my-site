@@ -64,7 +64,7 @@ export default function ListLayout({
         <ul className="md:mt-5 md:pt-5">
           {!filteredBlogPosts.length && 'No posts found.'}
           {displayPosts.map((frontMatter) => {
-            const { slug, date, title, summary, tags } = frontMatter;
+            const { slug, date, title, summary, tags, category } = frontMatter;
             return (
               <li key={slug} className="py-6">
                 <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
@@ -78,7 +78,7 @@ export default function ListLayout({
                     <div>
                       <h3 className="text-xl font-bold leading-8 tracking-tight">
                         <Link
-                          href={`/${type}/${slug}`}
+                          href={`/${category}/${slug}`}
                           className="text-gray-900 dark:text-gray-100"
                         >
                           {title}

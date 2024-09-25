@@ -72,7 +72,7 @@ export default function Tag({ locale, posts, tag, availableLocales }) {
         description={`${tag} tags - ${siteMetadata.title}`}
         availableLocales={availableLocales}
       />
-      <ListLayout posts={posts} title={`${tags[locale]}${title}`} />
+      <ListLayout type="tags" posts={posts} title={`${tags[locale]}${title}`} />
     </>
   );
 }

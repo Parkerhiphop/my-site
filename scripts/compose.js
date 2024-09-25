@@ -98,19 +98,28 @@ inquirer
       message: 'Enter canonical url:',
       type: 'input',
     },
+    {
+      name: 'blogFolder',
+      message: 'Choose blog folder:',
+      type: 'list',
+      choices: ['life', 'software-development', 'reading', 'review'],
+    },
+    {
+      name: 'folderName',
+      message: 'Enter folder name:',
+      type: 'input',
+    },
+    {
+      name: 'fileName',
+      message: 'Enter file name (without extension):',
+      type: 'input',
+    },
   ])
   .then((answers) => {
-    // Remove special characters and replace space with -
-    const fileName = answers.title
-      .toLowerCase()
-      .replace(/[^a-zA-Z0-9 ]/g, '')
-      .replace(/ /g, '-')
-      .replace(/-+/g, '-');
     const frontMatter = genFrontMatter(answers);
-    if (!fs.existsSync('data/blog')) fs.mkdirSync('data/blog', { recursive: true });
-    const filePath = `data/blog/${fileName ? fileName : 'untitled'}.${
-      answers.extension ? answers.extension : 'md'
-    }`;
+    const dataPath = path.join('data', answers.blogFolder, answers.folderName);
+    if (!fs.existsSync(dataPath)) fs.mkdirSync(dataPath, { recursive: true });
+    const filePath = path.join(dataPath, `${answers.fileName}.${answers.extension}`);
     fs.writeFile(filePath, frontMatter, { flag: 'wx' }, (err) => {
       if (err) {
         throw err;

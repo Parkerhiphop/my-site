@@ -35,7 +35,7 @@ program
 
 const shell = process.env.SHELL;
 const app = next({ dev: true, dir: program.root || process.cwd() });
-const port = parseInt(process.env.PORT, 10) || 3000;
+const port = parseInt(process.env.PORT, 10) || 3060;
 const handle = app.getRequestHandler();
 
 app.prepare().then(() => {
