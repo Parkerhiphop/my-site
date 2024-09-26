@@ -15,3 +15,5 @@ linkedin: https://www.linkedin.com/in/cheng-yi-chang-19b148176/
 興趣是看小說、漫畫、動畫、電影，最喜歡的作家是布蘭德山德森（迷霧之子），最喜歡的動漫...太多了，最喜歡的日本偶像是鈴木愛理 ✨
 
 總之，希望你喜歡我寫的文章，也歡迎透過網站下方的任一方式聯絡我！
+
+也歡迎訂閱 [RSS](https://www.parkerchang.life/feed.xml) 或是 [電子報](https://substack.com/@parkerchang)！

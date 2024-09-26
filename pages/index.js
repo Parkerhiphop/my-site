@@ -42,11 +42,19 @@ export default function Home({ posts, locale, availableLocales }) {
         availableLocales={availableLocales}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="space-y-2 pb-4 md:pb-8 md:pt-6 md:space-y-5">
+        <div className="flex flex-col space-y-2 pb-4 md:pb-8 md:pt-6 md:space-y-5">
           <h1>{siteMetadata.title} 🕸️</h1>
-          <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+          <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400 mb-4">
             {siteMetadata.description[locale]}
           </h2>
+          <a
+            className="text-primary-600 dark:text-primary-400"
+            href="https://substack.com/@parkerchang"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            📩 訂閱我的電子報！
+          </a>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
