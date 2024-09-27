@@ -41,8 +41,11 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
   if (!filteredToc.length) return <></>;
 
   return (
-    <details className="sticky top-3 max-h-[300px] md:max-h-[500px] rounded overflow-auto scrollbar-hide px-1 py-1 my-8 dark:prose-dark bg-gray-100 dark:bg-gray-800 cursor-pointer">
-      <summary className="sticky top-0 m-0 pt-2 pb-2 pl-5 h-8 md:h-auto text-[1rem] leading-4 md:text-xl font-bold bg-gray-100 dark:bg-gray-800">
+    <details
+      open
+      className="rounded px-1 py-1 my-8 dark:prose-dark bg-gray-100 dark:bg-gray-800 cursor-pointer"
+    >
+      <summary className="-0 pt-2 pb-2 pl-5 h-8 md:h-auto text-[1rem] leading-4 md:text-xl font-bold bg-gray-100 dark:bg-gray-800">
         目錄
       </summary>
       <div>
