@@ -13,7 +13,7 @@ tags: ['心路歷程', '社群媒體', '數位生活', '資料備份']
 
 在 2024/12/27 （五） 我的臉書被登出，顯示了這個畫面
 
-![facebook-suspense](/life/i-lost-my-facebook/facebook-suspense.png)
+![facebook-suspense](/life/i-lost-my-facebook/facebook-suspense.jpg)
 
 就這樣，沒有寄信到我的帳號信箱，也沒有告訴我違反了哪一條規定，我用了十幾年的帳號就這樣被停權了。
 
