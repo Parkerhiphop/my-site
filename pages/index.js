@@ -53,7 +53,7 @@ export default function Home({ posts, locale, availableLocales }) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            📩 訂閱我的電子報！
+            📩 前往 Substack 訂閱我的電子報！
           </a>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">

@@ -67,11 +67,16 @@ export default function PostLayout({
               <TOCInline toc={toc} />
               <div className="prose max-w-none pb-8 dark:prose-dark !border-0">{children}</div>
               <div className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
-                <Link href={discussUrl(slug)} rel="nofollow">
-                  {t('common:twitter')}
-                </Link>
-                {` • `}
-                <Link href={editUrl(fileName)}>{t('common:github')}</Link>
+                <p className="mb-4">如果你喜歡我的文字，歡迎訂閱電子報:</p>
+                <div className="flex justify-center">
+                  <iframe
+                    src="https://parkerhiphop027.substack.com/embed"
+                    width="480"
+                    height="150"
+                    frameBorder="0"
+                    scrolling="no"
+                  ></iframe>
+                </div>
               </div>
               <Comments frontMatter={frontMatter} />
             </div>
