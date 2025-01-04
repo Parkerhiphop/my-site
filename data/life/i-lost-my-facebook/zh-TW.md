@@ -112,40 +112,40 @@ Facebook 的停權非常強硬：
 
 目前想到可以開始做的是這些：
 
-1. 確保資料自主性：備份文字、照片和重要聯絡方式
+### 確保資料自主性：備份文字、照片和重要聯絡方式
 
-   鑑於對官方的不信任，所有內容都要自己管理、保留自己的數位足跡，這部分我很認同 Obsidian 作者的理念 [File Over App](https://stephango.com/file-over-app)。
+鑑於對官方的不信任，所有內容都要自己管理、保留自己的數位足跡，這部分我很認同 Obsidian 作者的理念 [File Over App](https://stephango.com/file-over-app)。
 
-   過去的內容先使用官方的備份功能存下來，發現 IG 跟 Twitter 的備份功能其實還行，會拿到一個壓縮檔，打開後會看到一堆檔案，但有一個 HTML 入口，點開會是個列表可以瀏覽各種內容。（IG 有 `start_here.html`、 Twitter 是 `Your archive.html`）
+過去的內容先使用官方的備份功能存下來，發現 IG 跟 Twitter 的備份功能其實還行，會拿到一個壓縮檔，打開後會看到一堆檔案，但有一個 HTML 入口，點開會是個列表可以瀏覽各種內容。（IG 有 `start_here.html`、 Twitter 是 `Your archive.html`）
 
-   文字盡量先寫在筆記軟體，再從筆記軟體擷取出來發到社群媒體，就像是照片會先拍，然後再從相簿選取照片那樣。（現在想法是隨意記在 Heptabase Journal ）
+文字盡量先寫在筆記軟體，再從筆記軟體擷取出來發到社群媒體，就像是照片會先拍，然後再從相簿選取照片那樣。（現在想法是隨意記在 Heptabase Journal ）
 
-   相簿用 Google Photos 並額外用外接硬碟備份。
+相簿用 Google Photos 並額外用外接硬碟備份。
 
-   建立個人關係管理系統（Personal Relationship Management），這樣冠名好像很酷，但其實只是定期記錄一下身邊有哪些重要、想保持聯絡的人，三年前有用 Notion 整理過一次，這次來用 Heptabase 看看。
+建立個人關係管理系統（Personal Relationship Management），這樣冠名好像很酷，但其實只是定期記錄一下身邊有哪些重要、想保持聯絡的人，三年前有用 Notion 整理過一次，這次來用 Heptabase 看看。
 
-2. 主動管理資訊源
+### 主動管理資訊源
 
-   從社群動態牆轉向 RSS feed、電子報、個人網站、官方部落格、Discord Server 和特定群組。
+從社群動態牆轉向 RSS feed、電子報、個人網站、官方部落格、Discord Server 和特定群組。
 
-   去年有看到雅瑄分享自己推薦的網站（[Personal Website List](https://yaxuanhe.me/post/personal-website-list/)）跟資訊來源們，想效仿來整理一下！
+去年有看到雅瑄分享自己推薦的網站（[Personal Website List](https://yaxuanhe.me/post/personal-website-list/)）跟資訊來源們，想效仿來整理一下！
 
-3. 制定社群媒體使用守則
+### 制定社群媒體使用守則
 
-   主要用來：
+主要用來：
 
-   1. 推廣、宣傳
-   2. 徵求意見、詢問事情
-   3. 找到興趣的同溫層（軟體開發、寫作、日本、社會議題、生活感想…）
-   4. 跟朋友們更新近況
+1.  推廣、宣傳
+2.  徵求意見、詢問事情
+3.  找到興趣的同溫層（軟體開發、寫作、日本、社會議題、生活感想…）
+4.  跟朋友們更新近況
 
-   避免：
+避免：
 
-   1. 下意識在無聊時打發時間
-   2. 跟一些認知差太多又不想理解的人雞同鴨講
-   3. 博取社交認同
+1.  下意識在無聊時打發時間
+2.  跟一些認知差太多又不想理解的人雞同鴨講
+3.  博取社交認同
 
-4. 專注建立小而緊密的社群
+### 專注建立小而緊密的社群
 
 ## 結語
 
