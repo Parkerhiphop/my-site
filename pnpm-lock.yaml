@@ -7,7 +7,7 @@ settings:
 overrides:
   typescript: ^3.3.1
   webpack: ^5.0.0
-  autoprefixer: 10.4.5
+  autoprefixer: 10.4.20
 
 importers:
 
@@ -26,8 +26,8 @@ importers:
         specifier: ^0.5.15
         version: 0.5.15(tailwindcss@3.3.2)
       autoprefixer:
-        specifier: 10.4.5
-        version: 10.4.5(postcss@8.4.24)
+        specifier: 10.4.20
+        version: 10.4.20(postcss@8.4.24)
       esbuild:
         specifier: ^0.23.1
         version: 0.23.1
@@ -1697,8 +1697,8 @@ packages:
   asynckit@0.4.0:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
 
-  autoprefixer@10.4.5:
-    resolution: {integrity: sha512-Fvd8yCoA7lNX/OUllvS+aS1I7WRBclGXsepbvT8ZaPgrH24rgXpZzF0/6Hh3ZEkwg+0AES/Osd196VZmYoEFtw==}
+  autoprefixer@10.4.20:
+    resolution: {integrity: sha512-XY25y5xSv/wEoqzDyXXME4AFfkZI0P23z6Fs3YgymDnKJkCGOnkL0iTxCa85UTqaSgfcqyf3UA6+c7wUvx/16g==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
     peerDependencies:
@@ -2592,8 +2592,8 @@ packages:
     resolution: {integrity: sha512-buRG0fpBtRHSTCOASe6hD258tEubFoRLb4ZNA6NxMVHNw2gOcwHo9wyablzMzOA5z9xA9L1KNjk/Nt6MT9aYow==}
     engines: {node: '>= 0.6'}
 
-  fraction.js@4.2.0:
-    resolution: {integrity: sha512-MhLuK+2gUcnZe8ZHlaaINnQLl0xRIGRfcGk2yl8xoQAfHrSsL3rYu6FCmBdkdbhc9EPlwyGHewaRsvwRMJtAlA==}
+  fraction.js@4.3.7:
+    resolution: {integrity: sha512-ZsDfxO51wGAXREY55a7la9LScWpwv9RxIrYABrlvOFBlH/ShPnrtsXeuUIfXKKOVicNxQ+o8JTbJvjS4M89yew==}
 
   fresh@0.5.2:
     resolution: {integrity: sha512-zJ2mQYM18rEFOudeV4GShTGIQ7RbzA7ozbU9I/XBpm7kqgMywgmylMwXHxZJmkVoYkna9d2pVXVXPdYTP9ej8Q==}
@@ -6432,13 +6432,13 @@ snapshots:
 
   asynckit@0.4.0: {}
 
-  autoprefixer@10.4.5(postcss@8.4.24):
+  autoprefixer@10.4.20(postcss@8.4.24):
     dependencies:
-      browserslist: 4.21.6
-      caniuse-lite: 1.0.30001660
-      fraction.js: 4.2.0
+      browserslist: 4.24.4
+      caniuse-lite: 1.0.30001695
+      fraction.js: 4.3.7
       normalize-range: 0.1.2
-      picocolors: 1.0.0
+      picocolors: 1.1.1
       postcss: 8.4.24
       postcss-value-parser: 4.2.0
 
@@ -6559,7 +6559,7 @@ snapshots:
 
   browserslist@4.21.6:
     dependencies:
-      caniuse-lite: 1.0.30001660
+      caniuse-lite: 1.0.30001695
       electron-to-chromium: 1.4.411
       node-releases: 2.0.12
       update-browserslist-db: 1.0.11(browserslist@4.21.6)
@@ -7499,7 +7499,7 @@ snapshots:
 
   forwarded@0.2.0: {}
 
-  fraction.js@4.2.0: {}
+  fraction.js@4.3.7: {}
 
   fresh@0.5.2: {}
 
@@ -10161,7 +10161,7 @@ snapshots:
     dependencies:
       browserslist: 4.21.6
       escalade: 3.1.1
-      picocolors: 1.0.0
+      picocolors: 1.1.1
 
   update-browserslist-db@1.1.2(browserslist@4.24.4):
     dependencies:
