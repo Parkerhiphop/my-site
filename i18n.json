@@ -2,7 +2,6 @@
   "locales": ["zh-TW", "en", "ja"],
   "defaultLocale": "zh-TW",
   "pages": {
-    "*": ["common", "headerNavLinks", "newsletter", "404", "SEO"],
-    "/projects": ["projects"]
+    "*": ["common", "headerNavLinks", "newsletter", "404", "SEO"]
   }
 }
