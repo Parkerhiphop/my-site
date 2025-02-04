@@ -22,8 +22,8 @@ const Layout = ({ children }) => {
               <div className="mr-3">
                 <Image
                   src="/me.png"
-                  width="48px"
-                  height="48px"
+                  width="48"
+                  height="48"
                   alt="avatar"
                   className="h-10 w-10 rounded-full"
                 />

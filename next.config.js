@@ -177,5 +177,6 @@ module.exports = nextTranslate(
       defaultLocale: 'zh-TW',
       localeDetection: false,
     },
+    output: 'standalone',
   })
 );
