@@ -62,8 +62,8 @@ importers:
         specifier: ^0.4.0
         version: 0.4.4(react-dom@17.0.2(react@17.0.2))(react@17.0.2)
       next-translate:
-        specifier: ^1.6.0
-        version: 1.6.0(next@12.3.4(@babel/core@7.22.1)(react-dom@17.0.2(react@17.0.2))(react@17.0.2))(react@17.0.2)
+        specifier: ^2.0.0
+        version: 2.6.2(next@12.3.4(@babel/core@7.22.1)(react-dom@17.0.2(react@17.0.2))(react@17.0.2))(react@17.0.2)
       postcss:
         specifier: ^8.4.24
         version: 8.5.1
@@ -3892,11 +3892,12 @@ packages:
       react: ^16.8 || ^17 || ^18 || ^19 || ^19.0.0-rc
       react-dom: ^16.8 || ^17 || ^18 || ^19 || ^19.0.0-rc
 
-  next-translate@1.6.0:
-    resolution: {integrity: sha512-rmRBYOwPHvokN+5uH3O/SZqfRUVORLkgt/097mSaq3+CWcEtXEjkVrfBZpYwZ8W3og4QVd+uphYX//qegnIbRg==}
+  next-translate@2.6.2:
+    resolution: {integrity: sha512-Dcfo2Vyw+Ds06+8BJM0RcV/lfN7R59kTY/NP+XJgSpcrFKZV6QJuKfS+K4+OHkKBdQnF3ZOT3wk1np9eZx/PEA==}
+    engines: {node: '>=16.10.0'}
     peerDependencies:
-      next: '>= 10.0.0'
-      react: '>= 16.8.0'
+      next: '>= 13.2.5'
+      react: '>= 18.0.0'
 
   next@12.3.4:
     resolution: {integrity: sha512-VcyMJUtLZBGzLKo3oMxrEF0stxh8HwuW976pAzlHhI3t8qJ4SROjCrSh1T24bhrbjw55wfZXAbXPGwPt5FLRfQ==}
@@ -9723,7 +9724,7 @@ snapshots:
       react: 17.0.2
       react-dom: 17.0.2(react@17.0.2)
 
-  next-translate@1.6.0(next@12.3.4(@babel/core@7.22.1)(react-dom@17.0.2(react@17.0.2))(react@17.0.2))(react@17.0.2):
+  next-translate@2.6.2(next@12.3.4(@babel/core@7.22.1)(react-dom@17.0.2(react@17.0.2))(react@17.0.2))(react@17.0.2):
     dependencies:
       next: 12.3.4(@babel/core@7.22.1)(react-dom@17.0.2(react@17.0.2))(react@17.0.2)
       react: 17.0.2
