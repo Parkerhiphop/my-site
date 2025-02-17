@@ -1,7 +1,7 @@
 ---
 title: 2022 → 2023
 date: '2023-03-18'
-tags: ['心路歷程']
+tags: ['心路歷程', '年度回顧']
 draft: false
 summary: 2022 年度回顧
 ---

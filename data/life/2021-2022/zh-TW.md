@@ -1,7 +1,7 @@
 ---
 title: 2021 → 2022
 date: '2022-01-09'
-tags: ['心路歷程']
+tags: ['心路歷程', '年度回顧']
 draft: false
 summary: 2021 年度回顧
 ---
