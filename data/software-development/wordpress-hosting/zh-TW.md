@@ -67,17 +67,41 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 
 ## 架設步驟
 
-### 1. 建立 AWS EC2 實例
+### 1. 註冊網域以及設定 DNS
+
+我之前是用 GoDaddy 註冊（買）網域，現在改用 [Cloudflare](https://www.cloudflare.com/zh-tw/) 比較好管理也比較便宜（我的網域在 GoDaddy 買要新台幣 1600/年，但轉去 Cloudflare 只要新台幣 900/年）。
+
+先登入 Cloudflare 後台就可以開始找想要註冊的網域。
+
+![註冊網域](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.45.37@2x-1024x772.png)
+
+再來到帳戶首頁就會出現剛註冊好的網域
+
+![帳戶首頁](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.49.00@2x-1024x524.png)
+
+最後把剛剛在 EC2 Connect 那一頁也有的 Public IP 貼過來設定一個 A Record 就好了。
+
+名稱用 `@` 代表針對整個網域使用，寫字串的話就可以導到子網域。
+
+假設網域名是 your-domain.com ，A record 可以這樣設定：
+
+- `@` ：指示 ec2_ip 連到 your-domain.com
+
+- test：指示 ec2_ip 連到 test.your-domain.com
+
+![DNS Record](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.50.22@2x-1024x602.png)
+
+### 2. 建立 AWS EC2 實例
 
 登入 AWS 後，進入到 EC2 的頁面，建立一個 EC2 實例（Instance）
 
 ![AWS EC2 實例建立頁面](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.03.53@2x-1024x423.png)
 
-#### 1-1. 選擇 Ubuntu 作為作業系統
+#### 2-1. 選擇 Ubuntu 作為作業系統
 
 ![選擇 Ubuntu 作業系統](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.04.51@2x-1024x660.png)
 
-#### 1-2. 在 Key Pair 的地方建立或選擇 Key Pair
+#### 2-2. 在 Key Pair 的地方建立或選擇 Key Pair
 
 ![建立 Key Pair](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.05.17@2x-1024x179.png)
 
@@ -85,13 +109,13 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 
 要在本地執行 ssh 上去時會需要使用到它。
 
-#### 1-3. Network 設定
+#### 2-3. Network 設定
 
 在 EC2 的 security group 中開啟 SSH、HTTP（80）和 HTTPS（443）的 port，圖下那三個 Allow 按鈕。
 
 ![EC2 安全群組設定，顯示開啟 SSH、HTTP 和 HTTPS 端口](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.07.33@2x-1024x600.png)
 
-#### 1-4. 調整硬碟容量
+#### 2-4. 調整硬碟容量
 
 因為待會要裝 EasyEngine，至少需要 5GB 的硬碟空間，所以需要升級成 16 GiB。
 
@@ -104,7 +128,7 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 
 升級完後要 SSH 進去 EC2 的 ubuntu 跑這個指令 `sudo resize2fs /dev/xvda1`（可以再跑 `df -h` 檢查容量）。
 
-### 2. 安裝 Easy Engine 跟 WordPress
+### 3. 安裝 Easy Engine 跟 WordPress
 
 [EasyEngine](https://easyengine.io/) 的副標題就是 Easy WordPress on Nginx，顧名思義提供基於 Docker 的 WordPress 環境，並使用 nginx 作為 Web Server。
 
@@ -120,7 +144,9 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 
 ![成功連接到 EC2 的終端機](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.39.08@2x-1024x808.png)
 
-下方的指令就是按照 Easy Engine 官網指示的跑，但 `example.com` 那邊要換成自己有設定好 DNS 的網址。
+下方的指令就是按照 Easy Engine 官網指示的跑，但 `example.com` 那邊要換成自己在第一步時註冊好也設定好 DNS 的網址（ex: your-domain.com）。
+
+EasyEngine 在 `ee site create example.com --wp` 時是透過 domain（如 example.com）設定 virtual host，所以必須要有個可以用的網域，最好在第一步驟就先 Doamin 跟 DNS 設定好，不能直接打 `http://<EC2_IP>/wp-admin`，Nginx 會回傳預設頁面或 404。
 
 ```
 # Install EasyEngine on Linux
@@ -130,36 +156,12 @@ wget -qO ee rt.cx/ee4 && sudo bash ee
 brew install easyenginef
 
 # Create a site at example.com with WordPress
-sudo ee site create example.com --type=wp
+sudo ee site create example.com --wp
 ```
 
 看到這樣的畫面後 WordPress 就建立完成了！
 
-![](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.40.53@2x-892x1024.png)
-
-### 3. 註冊網域以及設定 DNS
-
-我之前是用 GoDaddy 買網域，現在改用 [Cloudflare](https://www.cloudflare.com/zh-tw/) 比較好管理也比較便宜（我的網域在 GoDaddy 買要新台幣 1600/年，但轉去 Cloudflare 只要新台幣 900/年）。
-
-先登入 Cloudflare 後台就可以開始找想要買的網域。
-
-![](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.45.37@2x-1024x772.png)
-
-再來到帳戶首頁就會出現剛註冊好的網域
-
-![](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.49.00@2x-1024x524.png)
-
-最後把剛剛在 EC2 Connect 那一頁也有的 Public IP 貼過來設定一個 A Record 就好了。
-
-名稱用 `@` 代表針對整個網域使用，寫字串的話就可以導到子網域。
-
-假設網域名是 your-domain.com ，A record 可以這樣設定：
-
-- `@` ：指示 ec2_ip 連到 your-domain.com
-
-- test：指示 ec2_ip 連到 test.your-domain.com
-
-![](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.50.22@2x-1024x602.png)
+![WordPress Created Log](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.40.53@2x-892x1024.png)
 
 ## 快速複習架設流程
 
