@@ -143,17 +143,13 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 像是我的 pem 存在一個 ssh 資料夾底下，打開 terminal 輸入指令後連進去後就會像這樣：
 
 ![成功連接到 EC2 的終端機](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.39.08@2x-1024x808.png)
-
-下方的指令就是按照 Easy Engine 官網指示的跑，但 `example.com` 那邊要換成自己在第一步時註冊好也設定好 DNS 的網址（ex: your-domain.com）。
+**上圖中的 `brew install easyengine 是給 Mac 用的，忘記刪掉了，EC2 ubuntu 只需要用第一行就可以安裝。**
 
 EasyEngine 在 `ee site create example.com --wp` 時是透過 domain（如 example.com）設定 virtual host，所以必須要有個可以用的網域，最好在第一步驟就先 Doamin 跟 DNS 設定好，不能直接打 `http://<EC2_IP>/wp-admin`，Nginx 會回傳預設頁面或 404。
 
 ```
 # Install EasyEngine on Linux
 wget -qO ee rt.cx/ee4 && sudo bash ee
-
-# Install EasyEngine on Mac
-brew install easyenginef
 
 # Create a site at example.com with WordPress
 sudo ee site create example.com --wp
