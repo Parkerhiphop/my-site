@@ -3,7 +3,7 @@ title: 我如何架設 WordPress 網站
 date: '2025-04-13'
 tags: ['軟體開發', 'WordPress', 'AWS']
 draft: false
-summary: 使用 AWS EC2 和 Easy Engine 快速部署 WordPress 網站，需要一點程式背景但很便宜！
+summary: 使用 AWS EC2 和 Easy Engine 快速部署 WordPress 網站（網域是跟 Cloudflare 買），需要一點程式背景但很便宜又迅速，自由度跟擴展性也很高！
 ---
 
 去年在工作上有處理幾個大型的 WordPress 的網站，來記錄跟分享一下學到的 WordPress 架站策略。
