@@ -89,21 +89,21 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 
 - test：指示 ec2_ip 連到 test.your-domain.com
 
-<!-- ![DNS Record](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.50.22@2x-1024x602.png) -->
+![DNS Record](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.50.22@2x-1024x602.png)
 
 ### 2. 建立 AWS EC2 實例
 
 登入 AWS 後，進入到 EC2 的頁面，建立一個 EC2 實例（Instance）
 
-<!-- ![AWS EC2 實例建立頁面](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.03.53@2x-1024x423.png) -->
+![AWS EC2 實例建立頁面](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.03.53@2x-1024x423.png)
 
 #### 2-1. 選擇 Ubuntu 作為作業系統
 
-<!-- ![選擇 Ubuntu 作業系統](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.04.51@2x-1024x660.png) -->
+![選擇 Ubuntu 作業系統](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.04.51@2x-1024x660.png)
 
 #### 2-2. 在 Key Pair 的地方建立或選擇 Key Pair
 
-<!-- ![建立 Key Pair](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.05.17@2x-1024x179.png) -->
+![建立 Key Pair](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.05.17@2x-1024x179.png)
 
 建立的話會產生一個金鑰檔案 `$ssh_key.pem` 可以下載
 
@@ -113,7 +113,7 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 
 在 EC2 的 security group 中開啟 SSH、HTTP（80）和 HTTPS（443）的 port，圖下那三個 Allow 按鈕。
 
-<!-- ![EC2 安全群組設定，顯示開啟 SSH、HTTP 和 HTTPS 端口](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.07.33@2x-1024x600.png) -->
+![EC2 安全群組設定，顯示開啟 SSH、HTTP 和 HTTPS 端口](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.07.33@2x-1024x600.png)
 
 #### 2-4. 調整硬碟容量
 
@@ -121,11 +121,11 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 
 可以在 EC2 建立頁面的這個區塊設定：
 
-<!-- ![EC2 硬碟容量設定區塊](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.08.57@2x-1024x393.png) -->
+![EC2 硬碟容量設定區塊](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.08.57@2x-1024x393.png)
 
 如果像我一樣是先選 8GiB 遇到：`EasyEngine update requires minimum 5GB disk space to run`，可以在 EC2 的 Dashboard 中找到對應的當前實體對應的 Volume，再去按 modify 就可以。
 
-<!-- ![EC2 Volume 修改頁面](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-16.53.53@2x-2048x601.png) -->
+![EC2 Volume 修改頁面](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-16.53.53@2x-2048x601.png)
 
 升級完後要 SSH 進去 EC2 的 ubuntu 跑這個指令 `sudo resize2fs /dev/xvda1`（可以再跑 `df -h` 檢查容量）。
 
@@ -135,15 +135,15 @@ EasyEngine 可以直接下載，Cloudflare 也可以先用免費方案，AWS EC2
 
 先在 EC2 Instance 的頁面找到 Connect：
 
-<!-- ![EC2 實例連接頁面](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.33.54@2x-1024x484.png) -->
+![EC2 實例連接頁面](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.33.54@2x-1024x484.png)
 
 點進去後直接複製下面那一行，但是要記得在自己存放 ssh key pem 的地方執行這個指令。
 
-<!-- ![SSH 連接指令](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.31.57@2x-1024x362.png) -->
+![SSH 連接指令](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.31.57@2x-1024x362.png)
 
 像是我的 pem 存在一個 ssh 資料夾底下，打開 terminal 輸入指令後連進去後就會像這樣：
 
-<!-- ![成功連接到 EC2 的終端機](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.39.08@2x-1024x808.png) -->
+![成功連接到 EC2 的終端機](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.39.08@2x-1024x808.png)
 
 **上圖中的 `brew install easyengine 是給 Mac 用的，忘記刪掉了，EC2 ubuntu 只需要用第一行就可以安裝。**
 
@@ -159,7 +159,7 @@ sudo ee site create example.com --wp
 
 看到這樣的畫面後 WordPress 就建立完成了！
 
-<!-- ![WordPress Created Log](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.40.53@2x-892x1024.png) -->
+![WordPress Created Log](https://wp.parkerchang.life/wp-content/uploads/2025/04/CleanShot-2025-04-13-at-12.40.53@2x-892x1024.png)
 
 ## 快速複習架設流程
 
