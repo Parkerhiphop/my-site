@@ -79,3 +79,5 @@ summary: 人在異鄉，對「家」的想法特別強烈，但其實台灣我�
 ![golden-kamuy](/life/after-homelessness/golden-kamuy.png)
 
 最後再分享個小趣聞，在文章寫完前一天，這邊有一個台灣人要離開了，他有個日本朋友想跟他再見一面，於是我們一群人去烤肉，這才知道那位日本人原本也只打算來打工度假，但她遇到了一個巴西男友，就變成兩個人都計畫要在這裡想辦法留下來了。
+
+感謝幫我閱讀文章初稿以及給予回饋的喬、宣、寧、柯、容，和 [min](https://www.minw.blog/)、[YA-Xuan](https://yaxuanhe.me/) 跟 [翰元](https://hyuanverse.com/newsletter/)。
