@@ -4,7 +4,7 @@ date: '2025-08-31'
 summary: Being in a foreign land makes the idea of "home" particularly strong, but actually I don't have a "home" to return to in Taiwan either. I might still be able to stay at relatives' or friends' houses, but those won't be my home. In this article, I will share my current imagination of home through self-questioning and answering, and how I hope to pursue my "home" in the future.
 ---
 
-![cover](/life/after-homelessness/cover.png)
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 What is a home to you?
 

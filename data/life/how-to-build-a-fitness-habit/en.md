@@ -5,6 +5,8 @@ draft: false
 summary: Methodology and mindset about how I build my workout habits as an office workers
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 > We are born weak, but we know how to empower ourselves.
 
 As an office worker who hasn't exercised much since graduating from college, maintaining a consistent gym routine was a struggle for me. I would typically give up after only a month.

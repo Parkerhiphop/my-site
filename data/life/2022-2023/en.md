@@ -5,6 +5,8 @@ draft: false
 summary: 2022 Year in Review
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 ![](https://cdn-images-1.medium.com/max/800/1*NB94dmxhudHj-dusFug3RQ@2x.jpeg)
 
 Continuing the method from last year, I made some adjustments this year, using the following key items and thoughts to review.

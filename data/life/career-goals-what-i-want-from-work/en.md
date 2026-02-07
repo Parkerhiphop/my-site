@@ -4,7 +4,7 @@ date: '2025-09-30'
 summary: Having worked in an Australian vegetable and fruit factory for almost two months, labor work, which is at the opposite end of the scale from brain-using software engineers, unexpectedly gave me a lot of insights. This article will share the aspects I hope to pursue in work in the future, such as identity that can be stayed, money that can be saved, easy-to-get-along partners, peace of mind, and accumulating influence, etc.
 ---
 
-![cover](/life/career-goals-what-i-want-from-work/cover-zh-TW.png)
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 Although I have written about work in my [Annual Review](https://www.parkerchang.life/tags/Year%20in%20Review) since 2022, the last article dedicated to work and career reflection was this one: [**Reviewing My First Three Years as a Software Engineer**](https://www.parkerchang.life/software-development/my-first-three-year-in-code). I suddenly realized that another three years have passed, which is a good timing to write again.
 

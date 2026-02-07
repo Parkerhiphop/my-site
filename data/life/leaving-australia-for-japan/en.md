@@ -4,6 +4,8 @@ date: '2025-11-20'
 summary: The Australian working holiday ended in just four months. After going around in a circle, I returned to the original starting point. About why I left early, the change in thinking in between, and a review of this trip.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 As the title says, I left Australia.
 
 [Decided to go to Australia temporarily](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#%E8%87%A8%E6%99%82%E6%B1%BA%E5%AE%9A%E5%8E%BB%E6%BE%B3%E6%B4%B2) in the middle of this year, and the decision to leave was also made in a hurry.
@@ -13,8 +15,6 @@ But I am very glad that I ran to Australia instead of continuing to suffer in Ta
 When I met an old friend from Taiwan again before leaving Australia, she said "I was quite quiet in Taiwan", which made me realize how much I have changed or how much I have retrieved by coming to Australia.
 
 After all, friends I met here wished I could be a bit quieter.
-
-![cover](/life/leaving-australia-for-japan/cover-zh-TW.png)
 
 ## Same Yet Different Starting Point
 

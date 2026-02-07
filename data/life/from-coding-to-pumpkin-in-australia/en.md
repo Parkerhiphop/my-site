@@ -4,7 +4,7 @@ date: '2025-08-17'
 summary: I have been in Australia for a full month! I have also been working on the factory assembly line for a week. Turning from a software engineer who could work from home or sit in the office typing on the keyboard, to cutting pumpkins on the factory assembly line until my hands hurt. In this article, I will share the difficulties of finding the first job for a working holiday in Australia, Australia's treasure libraries and pumpkin cutting assembly line work, and question again why I am here.
 ---
 
-![cover](/life/from-coding-to-pumpkin-in-australia/cover-zh-TW.png)
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 ## Still Anxious Too Quickly
 

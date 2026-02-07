@@ -4,6 +4,8 @@ date: '2025-06-21'
 summary: A software engineer pressed the career pause button and decided to leave Taiwan temporarily. From career bottlenecks, housing justice to struggles with the original family, this is my true journey of leaving for Australia and Japan to find a different way of life.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 Originally hoped to have one article per month, but articles for April and May were written as a first draft and never published.
 
 However, Atomic Habits says "**The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follows.**" Before June ends, I have to hurry up and publish!

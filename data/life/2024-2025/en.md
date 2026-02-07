@@ -5,6 +5,8 @@ draft: false
 summary: 2024 Year in Review, a year where the spring loosened, briefly mentioned what I completed and what I didn't, and my pain. Discussed my expectations for 2025 from life, career, finance, and interpersonal relationships, and decided to take good care of myself before exerting influence.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 The annual review was accidentally dragged to February again, missing the time after New Year's Day. Originally hoped to write it during the Spring Festival, after all, there was a long holiday at that time. But facts proved that instead of coveting more time, it is better to act quickly. Once the idea of "can do it later" appears, it will be dragged on forever.
 
 Since [last year's review](https://www.parkerchang.life/life/2023-2024) received some feedback, I also want to have good feedback when writing this year. The writing mindset mixed with some impurities, but then I thought about how last year went is a foregone conclusion. My responsibility now is to sort it out properly, take a snapshot of the 2024 me, and give it to the future me.

@@ -5,6 +5,8 @@ draft: false
 summary: A journey and reflection of a non-CS liberal arts graduate transitioning to a software engineer for three years, talking about my imposter syndrome and how to affirm myself.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 I have been writing and editing this article for about a month. Actually, later on, I just added a little bit when I thought of something. It is a bit long, and most of it is written for myself. If you are interested in the thoughts of a non-CS liberal arts graduate transitioning to a software engineer for three years, feel free to take a look.
 
 (Hope to be more regular later, reviewing once a year won't be this long haha)

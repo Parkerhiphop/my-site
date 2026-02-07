@@ -5,6 +5,8 @@ draft: false
 summary: The first article of Atomic Habits series. Lack of willpower is not your fault. With atomic habits, everything will be fine. Break the myth of goal-oriented, system is the truth!
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 ## Preface
 
 > This book teaches not psychological techniques of "self-motivation" or "strengthening willpower", but how to still achieve your goals when **willpower is insufficient**.

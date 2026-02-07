@@ -5,6 +5,8 @@ draft: false
 summary: Thoughts on the movie "The Concierge", and life reflections touched by it
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 ![hokkyoku-departmant-store](/review/hokkyoku-departmant-store/cover-zh-TW.png)
 
 ## Thoughts

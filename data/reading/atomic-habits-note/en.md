@@ -5,6 +5,8 @@ draft: false
 summary: Atomic Habits Reading Notes
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 # Atomic Habits
 
 :::info

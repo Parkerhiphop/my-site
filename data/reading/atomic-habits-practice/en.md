@@ -5,6 +5,8 @@ draft: false
 summary: The second article of Atomic Habits series. Moving from understanding to practice. Breaking down habits into four steps, and following the lines to build our atomic habits (but due to length issue, this article introduces the first step first)!
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 **Habit change depends on space located, and cues in front.**
 
 ## Four Steps of Habit Functioning  —  Habit Loop

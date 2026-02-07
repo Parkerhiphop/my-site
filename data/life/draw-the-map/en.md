@@ -4,6 +4,8 @@ date: '2024-10-31'
 summary: Discussing in detail "Draw Your Own Map" mentioned in the 2023->2024 Annual Review, how the map helped me, how to draw it, and my map version records and current status.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 I originally wanted to write another article first, but I received a letter asking how to practice and reflect on "Draw Your Own Map" mentioned in 2023→ 2024, so I decided to write this one first.
 
 I actually always wanted to write about this topic, but because the map and thinking method have been changing, or haven't crossed the hurdle in my heart, feeling that the idea could not be examined by others yet.

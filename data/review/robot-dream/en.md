@@ -5,6 +5,8 @@ draft: false
 summary: Thoughts on the movie "Robot Dreams", and life reflections touched by it
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 ![robot-dream](/review/robot-dream/cover-zh-TW.png)
 
 (Might have minor spoilers, but basically to extent guessable from name, please exercise discretion!)

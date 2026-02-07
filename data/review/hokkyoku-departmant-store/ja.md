@@ -5,6 +5,8 @@ draft: false
 summary: 映画『北極百貨店のコンシェルジュさん』についての感想、および触発された生活への思い
 ---
 
+> **注:** この記事は AI によって翻訳されています。もし不自然な表現や誤りがありましたら、メールやその他の手段でお知らせいただけると幸いです。フィードバックをいただけると助かります！
+
 ![hokkyoku-departmant-store](/review/hokkyoku-departmant-store/cover-zh-TW.png)
 
 ## 感想

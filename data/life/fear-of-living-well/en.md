@@ -4,6 +4,8 @@ date: '2025-12-29'
 summary: I didn't live that well, but I was afraid of living well. When I received a message from my mother at Christmas, I finally figured out why I was so afraid.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 This article is the last one of 2025!
 
 If taking the annual review as the last article might have more sense of ritual, but this article is also very commemorative to me. It is a thought that has troubled me for a long time, a bit heavy but very suitable to let go at the end of the year.
@@ -11,8 +13,6 @@ If taking the annual review as the last article might have more sense of ritual,
 Thank you to those who have read my articles in 2025. I will continue to work hard on writing in 2026!
 
 ---
-
-![cover](/life/fear-of-living-well/cover-zh-TW.png)
 
 I don't know what everyone's impression of me is? But if I were to evaluate myself, I am a person with insufficient self-confidence, extremely internal friction and half-hearted.
 

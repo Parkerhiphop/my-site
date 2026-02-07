@@ -1,4 +1,5 @@
 import Link from '@/components/Link';
+import Image from '@/components/Image';
 import SectionContainer from '@/components/SectionContainer';
 import { BlogSEO } from '@/components/SEO';
 
@@ -29,7 +30,7 @@ export default function PostLayout({
 }) {
   const { t } = useTranslation();
   const { locale } = useRouter();
-  const { category, slug, fileName, date, title } = frontMatter;
+  const { category, slug, fileName, date, title, cover } = frontMatter;
 
   return (
     <SectionContainer>
@@ -56,6 +57,18 @@ export default function PostLayout({
               <div>
                 <h1>{title}</h1>
               </div>
+              {cover && (
+                <div className="pt-6">
+                  <Image
+                    src={cover}
+                    alt={title}
+                    width={1200}
+                    height={630}
+                    layout="responsive"
+                    className="object-cover w-full rounded-lg"
+                  />
+                </div>
+              )}
             </div>
           </header>
           <div

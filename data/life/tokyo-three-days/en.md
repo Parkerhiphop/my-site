@@ -5,6 +5,8 @@ draft: false
 summary: A three-day trip to Tokyo chasing stars that I didn't want to go initially, allowed me to detach from daily life, rediscover the vastness and relaxation of the world. Also chatting about Tsubame-yu, Kawazu Sakura and Aimer's concert.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 This is an article mixing travelogue and recent mood.
 
 Thought about the title for a long time. Just happened to read Taiyo Matsumoto's new work "Tokyo Higoro" (Tokyo Days) recently, decided to pay tribute in the title.
@@ -18,8 +20,6 @@ After struggling for a while, decided to arrange a three-day quick trip to Tokyo
 Result was after coming here found out how much I needed these three days.
 
 ## Vast Sky and Ocean
-
-![cover.png](/life/tokyo-three-days/cover-zh-TW.png)
 
 Leaving original environment for a bit, don't need too much, just three days, can get rid of foul atmosphere shrouding me. Coming for this **feels like instantly sober and pupils dilated after taking a cold shower**.
 

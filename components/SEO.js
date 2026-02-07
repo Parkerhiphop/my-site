@@ -80,12 +80,15 @@ export const BlogSEO = ({
   url,
   availableLocales,
   locale,
+  cover,
 }) => {
   const router = useRouter();
   const publishedAt = new Date(date).toISOString();
   const modifiedAt = new Date(lastmod || date).toISOString();
 
-  const ogImage = `${siteMetadata.siteUrl}/${category}/${slug}/cover-${locale}.png`;
+  const ogImage = cover
+    ? `${siteMetadata.siteUrl}${cover}`
+    : `${siteMetadata.siteUrl}/${category}/${slug}/cover-${locale}.png`;
 
   let authorList;
   if (authorDetails) {

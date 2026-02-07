@@ -5,6 +5,8 @@ draft: false
 summary: About "Why set up a personal website", "why write" and "how to choose the tech stack"
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 ## Why Set Up a Personal Website?
 
 As front-end engineers, most of us might thought about (or dreamed of) setting up our own websites. However, we may be held back by the curse of knowledge and the burden of perfectionism.

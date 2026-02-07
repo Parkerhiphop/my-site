@@ -1,9 +1,11 @@
 ---
 title: WIND BREAKER —Shishitoren Arc—
 date: '2024-06-10'
-draft: true
+draft: false
 summary: Thoughts on Shishitoren Arc, saw goal and process in it. Presented Togame's self-blame, Choji's darkening and Umemiya's broad-mindedness well.
 ---
+
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 Even though this work has high production, smooth fighting scenes, pleasing character design and full of masculinity, plot is just a group of delinquents fighting.
 

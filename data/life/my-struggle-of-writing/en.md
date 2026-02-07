@@ -6,6 +6,8 @@ summary: One year after building my personal website, I only wrote six articles.
 canonicalUrl:
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 On my birthday last May, I built this website in one go, but so far I have only written six articles.
 
 This is the first article I finally have some time to write after starting my new job this April.

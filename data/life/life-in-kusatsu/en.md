@@ -5,6 +5,8 @@ draft: false
 summary: Documenting my life working at Kusatsu Onsen Ski Resort, the feelings of the past month and a half, and the process of slowly getting better.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 ![Header Image](/life/life-in-kusatsu/cover-en.png)
 
 Kusatsu was my first stop in Japan, and it's also where I've been living for over a month now.

@@ -5,6 +5,8 @@ draft: false
 summary: Deal with the JS asychronous from sequential fade-in animation. Step by step refactor the code from Callback, Promise to Async/Await, providing cleaner and more maintainable code.
 ---
 
+> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
+
 ## Foreword
 
 The article is aimed at those know the concept of Callback Hell, Promise and Async/Await, but haven't dealt with it or not completely understand the difference.
