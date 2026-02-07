@@ -42,10 +42,14 @@ export default function Home({ posts, locale, availableLocales }) {
         availableLocales={availableLocales}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="flex flex-col space-y-2 pb-4 md:pb-8 md:pt-6 md:space-y-5">
+        <div className="flex flex-col space-y-2 pb-4 md:pb-8 md:space-y-5">
           <div className="flex items-center justify-between w-full">
             <h1 className="mr-6">{siteMetadata.title} 🕸️</h1>
-            <Link href="/about" locale={locale} className="flex items-center group cursor-pointer">
+            <Link
+              href="/about"
+              locale={locale}
+              className="hidden md:flex items-center group cursor-pointer"
+            >
               <div className="animate-bounce-right mr-2 text-primary-500 text-xl font-bold">
                 &rarr;
               </div>

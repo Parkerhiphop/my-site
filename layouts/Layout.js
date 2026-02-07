@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
   return (
     <SectionContainer>
       <div className="flex h-screen flex-col justify-between">
-        <header className="flex items-center justify-between py-10">
+        <header className="flex items-center justify-between py-6 md:py-10">
           <div>
             <Link href="/" aria-label={siteMetadata.headerTitle}>
               <div className="mr-3 flex-shrink-0">
