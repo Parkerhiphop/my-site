@@ -1,8 +1,7 @@
 ---
 title: 'Life in Kusatsu'
 date: '2026-02-01'
-tags: ['life', 'kusatsu', 'travel', 'working-holiday']
-draft: true
+draft: false
 summary: Documenting my life working at Kusatsu Onsen Ski Resort, the feelings of the past month and a half, and the process of slowly getting better.
 ---
 

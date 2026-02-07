@@ -69,33 +69,6 @@ export const PageSEO = ({ title, description, availableLocales }) => {
   );
 };
 
-export const TagSEO = ({ title, description, availableLocales }) => {
-  const ogImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner;
-  const router = useRouter();
-  return (
-    <>
-      <CommonSEO
-        title={title}
-        description={description}
-        ogType="website"
-        ogImage={ogImageUrl}
-        availableLocales={availableLocales}
-      />
-      <Head>
-        <link
-          key={router.locale}
-          rel="alternate"
-          type="application/rss+xml"
-          title={`${description} - RSS feed`}
-          href={`${siteMetadata.siteUrl}${router.asPath}/feed${
-            router.locale === router.defaultLocale ? '' : `.${router.locale}`
-          }.xml`}
-        />
-      </Head>
-    </>
-  );
-};
-
 export const BlogSEO = ({
   authorDetails,
   title,

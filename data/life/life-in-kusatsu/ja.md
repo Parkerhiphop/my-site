@@ -1,7 +1,6 @@
 ---
 title: '草津での生活'
 date: '2026-02-01'
-tags: ['life', 'kusatsu', 'travel', 'working-holiday']
 draft: false
 summary: 草津温泉スキー場でのアルバイト生活、この1ヶ月半の感想と少しずつ良くなっていく過程の記録。
 ---

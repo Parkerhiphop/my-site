@@ -1,7 +1,6 @@
 ---
 title: 再見機器人 Robot Dreams
 date: '2024-03-02'
-tags: ['電影', '心得']
 draft: false
 summary: 關於《再見機器人》這部電影的心得，以及被觸動的生活感想
 ---

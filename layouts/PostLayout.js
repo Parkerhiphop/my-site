@@ -1,7 +1,7 @@
 import Link from '@/components/Link';
 import SectionContainer from '@/components/SectionContainer';
 import { BlogSEO } from '@/components/SEO';
-import Tag from '@/components/Tag';
+
 import siteMetadata from '@/data/siteMetadata';
 import Comments from '@/components/comments';
 import useTranslation from 'next-translate/useTranslation';
@@ -29,7 +29,7 @@ export default function PostLayout({
 }) {
   const { t } = useTranslation();
   const { locale } = useRouter();
-  const { category, slug, fileName, date, title, tags } = frontMatter;
+  const { category, slug, fileName, date, title } = frontMatter;
 
   return (
     <SectionContainer>
@@ -66,7 +66,7 @@ export default function PostLayout({
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
               <TOCInline toc={toc} />
               <div className="prose max-w-none pb-8 dark:prose-dark !border-0">{children}</div>
-              {category !== 'software-development' && (
+              {category !== 'software-development' && locale === 'zh-TW' && (
                 <div className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
                   <p className="mb-4">如果你喜歡我的文字，歡迎訂閱電子報:</p>
                   <div className="flex justify-center">
@@ -84,18 +84,6 @@ export default function PostLayout({
             </div>
             <footer>
               <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">
-                {tags && (
-                  <div className="py-4 xl:py-8">
-                    <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                      Tags
-                    </h2>
-                    <div className="flex flex-wrap">
-                      {tags.map((tag) => (
-                        <Tag key={tag} text={tag} />
-                      ))}
-                    </div>
-                  </div>
-                )}
                 {(next || prev) && (
                   <div className="flex justify-between py-4 xl:block xl:space-y-8 xl:py-8">
                     {prev && (

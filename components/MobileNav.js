@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Link from './Link';
 import headerNavLinks from '@/data/headerNavLinks';
+import LangSwitch from '@/components/LangSwitch';
 
 import useTranslation from 'next-translate/useTranslation';
 
@@ -68,6 +69,9 @@ const MobileNav = ({ iconMap }) => {
           </button>
         </div>
         <nav className="fixed mt-8 h-full">
+          <div className="px-12 py-4">
+            <LangSwitch />
+          </div>
           {headerNavLinks.map((link) => (
             <div key={link.title} className="px-12 py-4">
               <Link

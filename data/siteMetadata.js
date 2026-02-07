@@ -93,7 +93,6 @@ const siteMetadata = {
     review: '🎬',
     'software-development': '🧑‍💻',
     stream: '🌊',
-    tags: '🏷️',
     about: '🙌',
   },
 };

@@ -1,5 +1,5 @@
 import Link from '@/components/Link';
-import Tag from '@/components/Tag';
+
 import { useState } from 'react';
 import Pagination from '@/components/Pagination';
 import formatDate from '@/lib/utils/formatDate';
@@ -18,7 +18,7 @@ export default function ListLayout({
   const [searchValue, setSearchValue] = useState('');
 
   const filteredBlogPosts = posts.filter((frontMatter) => {
-    const searchContent = frontMatter.title + frontMatter.summary + frontMatter.tags.join(' ');
+    const searchContent = frontMatter.title + frontMatter.summary;
     return searchContent.toLowerCase().includes(searchValue.toLowerCase());
   });
 
@@ -64,7 +64,7 @@ export default function ListLayout({
         <ul className="md:mt-5 md:pt-5">
           {!filteredBlogPosts.length && 'No posts found.'}
           {displayPosts.map((frontMatter) => {
-            const { slug, date, title, summary, tags, category } = frontMatter;
+            const { slug, date, title, summary, category } = frontMatter;
             return (
               <li key={slug} className="py-6">
                 <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
@@ -84,11 +84,6 @@ export default function ListLayout({
                           {title}
                         </Link>
                       </h3>
-                      <div className="flex flex-wrap">
-                        {tags.map((tag) => (
-                          <Tag key={tag} text={tag} />
-                        ))}
-                      </div>
                     </div>
                     <div className="prose max-w-none text-gray-500 dark:text-gray-400">
                       {summary}

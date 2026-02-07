@@ -1,7 +1,6 @@
 ---
 title: 'The Journey of My Site: Why write and Technology Choices'
 date: '2023-05-30'
-tags: ['self-discovery']
 draft: false
 summary: About "Why set up a personal website", "why write" and "how to choose the tech stack"
 ---
