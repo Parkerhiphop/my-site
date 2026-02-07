@@ -7,8 +7,6 @@ summary: Thoughts on the movie "Robot Dreams", and life reflections touched by i
 
 > **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
-![robot-dream](/review/robot-dream/cover-zh-TW.png)
-
 (Might have minor spoilers, but basically to extent guessable from name, please exercise discretion!)
 
 Although following text talks about quite a few melancholic things, but it is still a very warm work!
@@ -25,17 +23,17 @@ It is very touching. Don't worry it is a work that will make you very Emo after 
 
 We said goodbye, always thought there would be next time, unaware that this meeting was last time for each other.
 
-"Robot Dreams" tells about loneliness, love and companionship. Briefly passed over impermanence based on human nature. At same time gave song <September> by Earth, Wind & Fire new meaning again. Making this song a song capable of celebrating past joy and also speaking for melancholy behind love and companionship.
+"Robot Dreams" tells about loneliness, love and companionship. Briefly passed over impermanence based on human nature. At same time gave song "September" by Earth, Wind & Fire new meaning again. Making this song a song capable of celebrating past joy and also speaking for melancholy behind love and companionship.
 
 I think, "Robot Dreams" is also a farewell to old friends and old lovers who once spent good times together.
 
-We all have been changed by another person valued incomparably. No matter that person is lover or old friend, he or she was like whole world at that time. And we inevitably welcome new lifestyles. Each other will eventually separate due to some factors. But that beauty didn't disappear, but became a part of you recognized by others. Just like that song <September> is already favorite golden song of \_\_\_\_ at end.
+We all have been changed by another person valued incomparably. No matter that person is lover or old friend, he or she was like whole world at that time. And we inevitably welcome new lifestyles. Each other will eventually separate due to some factors. But that beauty didn't disappear, but became a part of you recognized by others. Just like that song "September" is already favorite golden song of \_\_\_\_ at end.
 
 Impact "Robot Dreams" gave me is very similar to "La La Land" and Minoru Furuya's "Ciguetera". Telling best times once spent, but this doesn't mean current times are not beautiful. But under basis of "now", that melancholic feeling that each other can no longer go back to past.
 
 Next is feeling of very lonely very lonely. From trailer can see protagonist is a dog living alone, microwaving bento eating with boring TV programs.
 
-Driven by such loneliness, Dog ordered "Amigo Robot" following advertisement. And this robot faithfully became his good friend, showing a warm smile accompanying Dog living. Like lyrics of <September>: "Do you remember? The 21st night of September. Love was changing the minds of pretenders. While chasing the clouds away".
+Driven by such loneliness, Dog ordered "Amigo Robot" following advertisement. And this robot faithfully became his good friend, showing a warm smile accompanying Dog living. Like lyrics of "September": "Do you remember? The 21st night of September. Love was changing the minds of pretenders. While chasing the clouds away".
 
 Regarding why Dog chose robot to accompany, movie also explained in detail. Can only say heartbreaking and real. Believe many people (including me) can empathize. Being able to feel this is even more distressing.
 

@@ -6,8 +6,6 @@ twitter: https://twitter.com/parkerchang11
 linkedin: https://www.linkedin.com/in/cheng-yi-chang-19b148176/
 ---
 
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
-
 Hi, I am Parker!
 
 A software engineer with a background in philosophy. I initially struggled with impostor syndrome, but as I coded more and learned more, I gained a lot of satisfaction from solving problems, participating in community events, and teaching.

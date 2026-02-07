@@ -5,8 +5,6 @@ draft: false
 summary: 關於《再見機器人》這部電影的心得，以及被觸動的生活感想
 ---
 
-![robot-dream](/review/robot-dream/cover-zh-TW.png)
-
 （可能有微雷，但基本上是看名字也猜得出來的程度，請自行斟酌！）
 
 雖然下文講了不少惆悵的東西，但依然是一部很溫暖的作品哦！
