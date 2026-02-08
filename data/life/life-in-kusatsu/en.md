@@ -7,8 +7,6 @@ summary: Documenting my life working at Kusatsu Onsen Ski Resort, the feelings o
 
 > **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
-![Header Image](/life/life-in-kusatsu/cover-en.png)
-
 Kusatsu was my first stop in Japan, and it's also where I've been living for over a month now.
 
 Kusatsu has been voted the number one hot spring in Japan for 23 consecutive years in the Top 100 Onsen rankings. Generally, people visit the three major hot springs: Goza-no-Yu, Sai-no-Kawara Open-Air Bath, and Otaki-no-Yu. Personally, I recommend Otaki-no-Yu the most. However, to be honest, after soaking here for over a month, I haven't particularly felt the "greatness" of the hot springs here. I know it's very natural, but it seems that's about it.
