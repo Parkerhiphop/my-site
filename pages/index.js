@@ -81,15 +81,57 @@ export default function Home({ posts, locale, availableLocales }) {
                 {postByYear.posts.map(({ category, slug, date, title, summary }) => (
                   <li key={slug} className="py-4">
                     <div className="flex flex-col md:flex-row gap-2 flex-wrap md:flex-nowrap">
-                      <time
-                        className="md:basis-1/6 text-base font-medium leading-6 text-gray-500 dark:text-gray-400"
-                        dateTime={date}
-                      >
-                        {formatDate(date, locale, false)}
-                      </time>
+                      <div className="flex gap-4 md:basis-1/6">
+                        <time
+                          className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400"
+                          dateTime={date}
+                        >
+                          {formatDate(date, locale, false)}
+                        </time>
+                        <div className="block md:hidden mb-3">
+                          <Link
+                            href={`/${category}`}
+                            className={`inline-block py-0.5 px-2 rounded-md text-sm font-medium transition duration-200 ${
+                              {
+                                life: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800',
+                                reading:
+                                  'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-800',
+                                review:
+                                  'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300 hover:bg-purple-200 dark:hover:bg-purple-800',
+                                'software-development':
+                                  'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800',
+                              }[category] ||
+                              'bg-gray-100 text-gray-800 dark:bg-gray-900 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-800'
+                            }`}
+                          >
+                            <span className="mr-1">{siteMetadata.iconMap[category]}</span>
+                            {t(`headerNavLinks:${category}`)}
+                          </Link>
+                        </div>
+                      </div>
                       <article className="md:basis-5/6 space-y-2">
                         <div className="space-y-3">
                           <div>
+                            <div className="hidden md:block mb-3">
+                              <Link
+                                href={`/${category}`}
+                                className={`inline-block py-0.5 px-2 rounded-md text-sm font-medium transition duration-200 ${
+                                  {
+                                    life: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800',
+                                    reading:
+                                      'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-800',
+                                    review:
+                                      'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300 hover:bg-purple-200 dark:hover:bg-purple-800',
+                                    'software-development':
+                                      'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800',
+                                  }[category] ||
+                                  'bg-gray-100 text-gray-800 dark:bg-gray-900 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-800'
+                                }`}
+                              >
+                                <span className="mr-1">{siteMetadata.iconMap[category]}</span>
+                                {t(`headerNavLinks:${category}`)}
+                              </Link>
+                            </div>
                             <Link
                               href={`/${category}/${slug}`}
                               className="text-gray-900 dark:text-gray-100 hover:text-primary-600 dark:hover:text-primary-400"

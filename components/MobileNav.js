@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import Link from './Link';
 import headerNavLinks from '@/data/headerNavLinks';
-import LangSwitch from '@/components/LangSwitch';
 
 import useTranslation from 'next-translate/useTranslation';
 
@@ -25,7 +24,7 @@ const MobileNav = ({ iconMap }) => {
     <div className="lg:hidden">
       <button
         type="button"
-        className="ml-1 mr-1 h-8 w-8 pt-1 rounded"
+        className="ml-1 mr-1 h-8 w-8 rounded"
         aria-label="Toggle Menu"
         onClick={onToggleNav}
       >
@@ -69,9 +68,6 @@ const MobileNav = ({ iconMap }) => {
           </button>
         </div>
         <nav className="fixed mt-8 h-full">
-          <div className="px-12 py-4">
-            <LangSwitch />
-          </div>
           {headerNavLinks.map((link) => (
             <div key={link.title} className="px-12 py-4">
               <Link
