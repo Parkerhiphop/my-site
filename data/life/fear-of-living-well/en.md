@@ -36,7 +36,7 @@ I also know that powerlessness is sometimes not their problem, but I still resen
 
 ## Envy from Mother
 
-At Christmas, I sent a message to my mom saying happy birthday, and sent a photo of me at the snow resort. The reply I got was "You work happier, living a different life, I really want to be like this too".
+At Christmas, I sent a message to my mom saying Merry's Christmas, and sent a photo of me at the snow resort. The reply I got was "You work happier, living a different life, I really want to be like this too".
 
 When I received her reply, the tangled and mixed resentment in my heart instantly unraveled. She and my father are the source of my dissatisfaction with "envy".
 
