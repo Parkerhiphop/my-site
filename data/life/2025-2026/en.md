@@ -39,7 +39,7 @@ In addition, I'm quite worried about the future of Taiwan; plainly speaking, I'm
 
 After threads became popular in Taiwan, creating an avenue for the public to break news, I’ve seen more happenings I couldn't agree with, mostly on gender issues, alongside numerous problems in the educational field.
 
-Of course, there were also issues concerning [family of origin and housing justice](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9).
+Of course, there were also issues concerning [Original Family and Housing Justice](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#original-family-and-housing-justice).
 
 My anxiety and worries about the future completely burst open. Hence, I chose to leave Taiwan temporarily in the middle of the year, which is the part I didn't mention in [Temporarily Leaving Taiwan for Two Years: Heading to Australia and Japan](https://www.parkerchang.life/life/leaving-taiwan-working-holiday).
 
@@ -91,7 +91,7 @@ I once asked a friend working in the United States, and he calmly replied, "Beca
 
 Similarly, if I choose to go back in the end, it's also not something to be blamed for.
 
-Because if I finally went back, it would mean I've also achieved [one of my purposes](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#%E7%84%A1%E6%B3%95%E6%84%9F%E5%8F%97%E5%8F%B0%E7%81%A3%E7%9A%84%E5%A5%BD) of leaving in the first place—to truly feel how good Taiwan is.
+Because if I finally went back, it would mean I've also achieved one of my purposes of leaving in the first place: [Unable to Feel the Good of Taiwan](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#unable-to-feel-the-good-of-taiwan)—to truly feel how good Taiwan is.
 
 ## Happy Things of the Year
 
@@ -144,11 +144,13 @@ In summary, I'll leave this 2025 space empty for now. We'll see how my thoughts 
 3. **Samsung Z fold 7**
    I switched from iPhone to Samsung three years ago, and this year I upgraded from s23u to Z fold 7. Never imagined the day I'd use a foldable phone, but post-laser surgery resulting in the desire to look at a larger screen made me do it. Coincidentally, during my working holiday when my computer wasn’t always around, this unfolded large screen and multitasking abilities have been remarkably fantastic.
 
-## Career
+## Expectations for 2026
+
+### Career
 
 TL;DR, I'm preparing to return to the software engineer workplace.
 
-The broad [trajectory of 2025](https://www.parkerchang.life/life/2024-2025#%E8%81%B7%E6%B6%AF) was having more alternatives and finding passion. Despite writing "It’s too early to lose my passion," predictably, I was forcing myself. Burn-out caught me mid-year, and after laying down my [labor environment and software career bottlenecks](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#%E5%8B%9E%E5%8B%95%E7%92%B0%E5%A2%83%E5%92%8C%E8%BB%9F%E9%AB%94%E8%81%B7%E6%B6%AF%E7%93%B6%E9%A0%B8) before my departure, I decided to set down my keyboard and prospect other potentials.
+The broad trajectory of 2025 regarding my [Career](https://www.parkerchang.life/life/2024-2025#career) was having more alternatives and finding passion. Despite writing "It’s too early to lose my passion," predictably, I was forcing myself. Burn-out caught me mid-year, and after laying down my [Labor Environment and Software Career Bottleneck](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#labor-environment-and-software-career-bottleneck) before my departure, I decided to set down my keyboard and prospect other potentials.
 
 However, after half a year of exploring and doing odd-jobs, I found out software engineering remains the best choice I know. Additionally, my fatigue toward manual labor came faster than I expected. Moving forward, I will seek other alternatives while resuming engineering.
 
@@ -156,19 +158,19 @@ Regarding burnout, I think I just needed to put down everything to rest, distanc
 
 The guiding stars this year are "Identity first," "Coexisting with AI," and "Prioritize securing oneself first."
 
-### Identity First
+#### Identity First
 
 Compared to the progression of AI, what I need now is a grounded identity. I want to score a job and a working visa in Japan while my software engineer background still holds onto bits of relevance.
 
 Even if the future for software developers becomes increasingly grim, it’s still a skillset. For a near-30 foreigner whose Japanese isn't that pristine without other skills, it continues to be my best shot.
 
-### Coexisting with AI
+#### Coexisting with AI
 
 This half-year resting stretch also allowed me to accept the reality that AI really alters everything. Welcoming the aid of AI to accomplish tasks, and acknowledging the forthcoming environment for software developers and white-collar workers could steeply plummet.
 
 Originally when I graduated from college to become a developer, I was merely tailing a trend. Now that the trend is shifting towards AI, I just have to follow suit again. I must believe my accumulation throughout the years are still valid—the traces of hard work, the logical path in executing a project, empathy towards people, and awareness of the market. Anyway, I will proactively learn and utilize AI, continuing to walk this thread, tracking how far I can wander.
 
-### Prioritize Securing Oneself First
+#### Prioritize Securing Oneself First
 
 This point bogged me down for quite a long time. It’s the portion I didn't clearly spell out in [The Peace of Mind I Wish to Pursue in Work](https://www.parkerchang.life/life/career-goals-what-i-want-from-work). Admixing with some of [My Fear of Living Well](https://www.parkerchang.life/life/fear-of-living-well) mentality.
 
@@ -182,11 +184,11 @@ Perhaps an arrow can be tossed at how capitalism mechanisms function, while anot
 
 Even bereft of answers this year, I plan on keeping myself safe first. Solidifying my footing first, bolstering up strength. Those questions are up for debate but cannot mold into chains tripping me. I have to perform while simultaneously scrutinizing, and not erase the contemplations on what kind of questions I was pondering upon.
 
-## Financials
+### Financials
 
 Currently standing in the phase of burning savings.
 
-## Creation
+### Creation
 
 This year, I scripted eleven posts capturing life and ideas. Tracing steps back, I noted the pieces I authored veered off the spectrum of what I originally presumed my pen would write.
 
@@ -206,7 +208,7 @@ This year, aiming to at minimum sustain the momentum of one monthly article, whi
 
 For the inquisitive eyes, free to keep tabs on IG at parker_life_path.
 
-## Interpersonal Connections
+### Interpersonal Relationships
 
 This half-year of overseas life ingrained in me fundamentally exactly how pivotal 'Interpersonal connections' really stand.
 
@@ -233,7 +235,7 @@ Major credits fall arguably back onto psychotherapy—separating assignments spe
 
 There’s also an intriguing remark spotting how socializing holds equivalent standards whilst operating around English/Japanese modules. Over-sensitivity beforehand framed mainly as stress, inverted into allowing speedy synchronization dropping into newly forged settings.
 
-Anyhow, this coming year's module drills on shielding away detested ties traversing the workspace. Pre-briefed inside the foregoing [Handling Obnoxious Colleagues](https://www.parkerchang.life/life/life-in-kusatsu#%E6%87%89%E5%B0%8D%E8%A8%8E%E5%8E%AD%E7%9A%84%E5%90%8C%E4%BA%8B) layout.
+Anyhow, this coming year's module drills on shielding away detested ties traversing the workspace. Pre-briefed inside the foregoing [The Annoying Senior](https://www.parkerchang.life/life/life-in-kusatsu#the-annoying-senior) section.
 
 ## Last Write-Ups, The Gratitude Checklist for the Year
 
