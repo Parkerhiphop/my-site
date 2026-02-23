@@ -9,11 +9,9 @@ summary: My 2025 annual review and 2026 expectations.
 
 ## Prologue
 
-Like this year, I dragged my annual review until the Lunar New Year. In the past, it was because of the long holidays during the New Year period which allowed me to reflect. This year in Japan, despite not having holidays, I silently permitted myself to delay it until now.
+Like this year, I dragged my annual review until the Lunar New Year. In the past, it was because of the long holidays during the New Year period which allowed me to reflect. This year in Japan, despite not having holidays, I allow myself to delay it until now.
 
 In 2025, I stayed in three countries taking up three different types of jobs, from a software engineer, a factory assembly line worker, to an amusement facility operator at a ski resort. My life and thoughts changed enormously. By interacting with people from different countries, ethnicities, and cultures, I learned about many different ways of living and life perspectives.
-
-Thanks for reading! Welcome to subscribe to my newsletter, one post per month!
 
 My world was shattered, rebuilt, and then shattered again. It was much more exhausting to sort out the thoughts and values flying around when trying to write this review than before.
 
@@ -77,7 +75,7 @@ So I reverted to my most primitive needs, then step by step, retrieved the other
 
 Coincidentally, it was also in Australia that I finally finished reading the entire manga _Delicious in Dungeon_ (Dungeon Meshi). At a time like this, the manga's serious exploration of adventure and diet struck a massive chord with me.
 
-"Eat a good meal every time, maintain proper physical exercises, and keep a healthy daily routine. This is the orthodox way to become an excellent adventurer." — _Delicious in Dungeon_.
+"Eat a good meal every time, maintain proper physical exercises, and keep a healthy daily routine. This is the orthodox way to become an excellent adventurer." — Senshi.
 
 Ah, staying alive is this simple. Never give up on it arbitrarily.
 
