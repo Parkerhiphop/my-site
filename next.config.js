@@ -175,7 +175,7 @@ module.exports = nextTranslate(
     i18n: {
       locales: ['en', 'zh-TW', 'ja'],
       defaultLocale: 'zh-TW',
-      localeDetection: false,
+      localeDetection: true,
     },
     output: 'standalone',
   })
