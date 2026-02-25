@@ -246,21 +246,22 @@ threads 在台灣爆紅之後，多了一個管道可以讓大眾爆料，我看
 3. Elaine
 4. 冠＿
 5. Diamond
-6. 鈺＿
-7. 介
-8. 瘋狂寫作會
-9. 推特小聚（暫）
-10. 樹枝男研討高峰會議
-11. 政大學長姐們（特別是阿佶）
-12. Jay & Justin
-13. Lauren
-14. Eric, Hong, Tina, Jin
-15. Takumi & Genki
-16. 王詩＿
-17. 籃＿＿
-18. 吉林路房東
-19. 登＿、嘉＿與源來適你
-20. 離台前見到的人們
-21. 給予我文章回饋的人
+6. 查理貓貓
+7. 鈺＿
+8. 介
+9. 瘋狂寫作會
+10. 推特小聚（暫）
+11. 樹枝男研討高峰會議
+12. 政大學長姐們（特別是阿佶）
+13. Jay & Justin
+14. Lauren
+15. Eric, Hong, Tina, Jin
+16. Takumi & Genki
+17. 王詩＿
+18. 籃＿＿
+19. 吉林路房東
+20. 登＿、嘉＿與源來適你
+21. 離台前見到的人們
+22. 給予我文章回饋的人
 
 感謝幫我閱讀文章初稿以及給予回饋的  [min](https://www.minw.blog/)、[YA-Xuan](https://yaxuanhe.me/)  跟  [翰元](https://hyuanverse.com/newsletter/)。

@@ -248,21 +248,22 @@ List down bottom are special spotlights meant solely pointing—excluding an all
 3. Elaine
 4. Guan\_
 5. Diamond
-6. Yu\_
-7. Jie
-8. Crazy Writers Society
-9. Twitter Meetup (Temp)
-10. Branch Boy Analysis Summit
-11. NCCU Seniors (especially Aji)
-12. Jay & Justin
-13. Lauren
-14. Eric, Hong, Tina, Jin
-15. Takumi & Genki
-16. Wang Shi\_
-17. Lan\_\_
-18. Jilin Road Landlord
-19. Deng*, Jia* & Exactly Right For You
-20. The masses met prior departing Taiwan
-21. Folks chipping feedback to my posts
+6. Charlie Cat Cat
+7. Yu\_
+8. Jie
+9. Crazy Writers Society
+10. Twitter Meetup (Temp)
+11. Branch Boy Analysis Summit
+12. NCCU Seniors (especially Aji)
+13. Jay & Justin
+14. Lauren
+15. Eric, Hong, Tina, Jin
+16. Takumi & Genki
+17. Wang Shi\_
+18. Lan\_\_
+19. Jilin Road Landlord
+20. Deng*, Jia* & Exactly Right For You
+21. The masses met prior departing Taiwan
+22. Folks chipping feedback to my posts
 
 Thanks to [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hanyuan](https://hyuanverse.com/newsletter/) for reading the draft of the article and giving feedback.
