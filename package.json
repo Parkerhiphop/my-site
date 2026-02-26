@@ -67,7 +67,7 @@
     "inquirer": "^8.2.5",
     "lint-staged": "^11.2.6",
     "next-remote-watch": "^1.0.0",
-    "prettier": "^2.8.8",
+    "prettier": "^3.0.0",
     "prettier-plugin-tailwindcss": "^0.6.6",
     "socket.io": "^4.6.1",
     "socket.io-client": "^4.6.1"
