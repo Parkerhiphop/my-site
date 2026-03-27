@@ -125,4 +125,4 @@ SNS で見たメモを少し抜粋します：
 
 ## 謝辞
 
-記事の初稿を読みフィードバックをくれた喬、宣、寧、そして [min](https://www.minw.blog/)、[YA-Xuan](https://yaxuanhe.me/)、[Hanyuan](https://hyuanverse.com/newsletter/) に感謝します。
+記事の初稿を読みフィードバックをくれた喬、宣、寧、そして [min](https://www.minw.blog/)、[YA-Xuan](https://yaxuanhe.me/)、[Hyuanverse](https://hyuanverse.com/newsletter/) に感謝します。

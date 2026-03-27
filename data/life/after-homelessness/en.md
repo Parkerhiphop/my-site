@@ -79,4 +79,4 @@ I quite like a comment left by a senior in the previous article "**Probably no c
 
 Finally sharing a little anecdote. The day before finishing the article, a Taiwanese here was leaving. He had a Japanese friend who wanted to see him again, so a group of us went for a barbecue. Only then did we know that the Japanese girl also originally planned to come for a working holiday, but she met a Brazilian boyfriend, so it became two people planning to find a way to stay here.
 
-Thanks to Joe, Hsuan, Ning, Ke, Jung, [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hanyuan](https://hyuanverse.com/newsletter/) for reading the draft of the article and giving feedback.
+Thanks to Joe, Hsuan, Ning, Ke, Jung, [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hyuanverse](https://hyuanverse.com/newsletter/) for reading the draft of the article and giving feedback.

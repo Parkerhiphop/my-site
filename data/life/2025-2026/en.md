@@ -202,7 +202,7 @@ As of this stage, generating words mainly runs as a tool for unspooling my own m
 
 Big thanks today towards the Substack platform, holding an affectionate interest in interacting globally with individuals bearing equivalent zest for literature.
 
-Before all that, there was Twitter. Unfortunate to say, my spark for uploading things on Twitter waned gradually. Possibly resulting from it transitioning into 'X'. Still greatly appreciative that it bridged paths leading to Yawen, Hanyuan, and Min—the ones currently orchestrating the writing societies together. Moreover, introducing engagements with two equally esteemed developer-and-blogger seniors (Huli and leafwind).
+Before all that, there was Twitter. Unfortunate to say, my spark for uploading things on Twitter waned gradually. Possibly resulting from it transitioning into 'X'. Still greatly appreciative that it bridged paths leading to Yawen, Hyuanverse, and Min—the ones currently orchestrating the writing societies together. Moreover, introducing engagements with two equally esteemed developer-and-blogger seniors (Huli and leafwind).
 
 This year, aiming to at minimum sustain the momentum of one monthly article, while holding high hopes that I can aggressively log what I intend to remember. Started editing a clip per month too, wanting to try pitching philosophies with diverging mediums.
 
@@ -266,4 +266,4 @@ List down bottom are special spotlights meant solely pointing—excluding an all
 21. The masses met prior departing Taiwan
 22. Folks chipping feedback to my posts
 
-Thanks to [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hanyuan](https://hyuanverse.com/newsletter/) for reading the draft of the article and giving feedback.
+Thanks to [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hyuanverse](https://hyuanverse.com/newsletter/) for reading the draft of the article and giving feedback.

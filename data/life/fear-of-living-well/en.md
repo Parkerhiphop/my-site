@@ -84,4 +84,4 @@ The intention of writing this article is not to accuse parents. I am very glad t
 
 Hope I can also slowly believe that I deserve to live well, and can properly face "being envied" in the future.
 
-Thanks to [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hanyuan](https://hyuanverse.com/newsletter/) for reading the draft of the article and giving feedback.
+Thanks to [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hyuanverse](https://hyuanverse.com/newsletter/) for reading the draft of the article and giving feedback.

@@ -125,4 +125,4 @@ I think, being able to hear these warm songs live, staying with fans who also ap
 
 ## Acknowledgements
 
-Thank Jo, Hsuan, Ning for helping read first draft of article and giving feedback, and [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hanyuan](https://hyuanverse.com/newsletter/).
+Thank Jo, Hsuan, Ning for helping read first draft of article and giving feedback, and [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hyuanverse](https://hyuanverse.com/newsletter/).
