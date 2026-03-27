@@ -4,8 +4,9 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+          <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+          <link rel="icon" type="image/png" href="/me.png" />
           <link rel="apple-touch-icon" sizes="76x76" href="/me.png" />
-          <link rel="icon" type="image/png" sizes="32x32" href="/me.png" />
           <link rel="manifest" href="/favicons/site.webmanifest" />
           {/* <link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#5bbad5" /> */}
           <meta name="msapplication-TileColor" content="#000000" />

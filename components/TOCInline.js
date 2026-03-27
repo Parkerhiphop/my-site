@@ -43,7 +43,7 @@ const TOCInline = ({ toc, fromHeading = 1, toHeading = 6, asDisclosure = false, 
   return (
     <details
       open
-      className="rounded px-1 py-1 my-8 dark:prose-dark bg-gray-100 dark:bg-gray-800 cursor-pointer"
+      className="rounded px-1 py-1 mb-8 dark:prose-dark bg-gray-100 dark:bg-gray-800 cursor-pointer"
     >
       <summary className="-0 pt-2 pb-2 pl-5 h-8 md:h-auto text-[1rem] leading-4 md:text-xl font-bold bg-gray-100 dark:bg-gray-800">
         目錄
