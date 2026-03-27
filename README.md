@@ -1,79 +1,26 @@
-# Parker's Personal Site
+# Parker Chang's Web
 
-Clone from [Unofficial i18n fork](<(https://github.com/GautierArcin/i18n-tailwind-nextjs-starter-blog)>) of the excellent [Tailwind CSS blogging starter template](https://github.com/timlrx/tailwind-nextjs-starter-blog).
+👋 歡迎來到我的個人網站與部落格！
 
-<!-- TODO: PR to the Example List-->
+這是一個我記錄生活、學習與任何所思所想的地方。我喜歡寫作，喜歡透過文字將腦中的想法沉澱下來。如果這些觀察與分享剛好能給你帶來一點共鳴或啟發，那就太棒了。
 
-## Motivation
+## 📝 內容主題
 
-Since I want to work abroad at Japan, I wish my site to support Traditional Chinese, English, and Japanese.
+在這裡，你會看到以下幾種類型的文章與記錄：
 
-Thanks GautierArcin for the template!
+- ~~🧑‍💻 **軟體開發 (Software Development)**：技術心得、開發日常與各種學習筆記。~~
+- 💭 **生活 (Life)**：生活中的觀察、反思與隨筆。
+- 📚 **閱讀 (Reading)**：讀書心得、筆記摘要。
+- 🎬 **評論 (Review)**：對電影、影集或其他作品的感想。
+- 🌊 **狀態 (Stream)**：較短的動態或隨手的心情記錄。
 
-## Features
+## 🔗 關於我
 
-All of the main repo Features &
+你可以透過以下方式找到我，或是追蹤我的最新動態：
 
-- Sub-path routing with locale(s)
+- 🌐 **網站**：[www.parkerchang.life](https://www.parkerchang.life)
+- 💻 **GitHub**：[@Parkerhiphop](https://github.com/Parkerhiphop)
+- 🐦 **Twitter (X)**：[@parkerchang11](https://twitter.com/parkerchang11)
+- 👔 **LinkedIn**：[Cheng-Yi Chang](https://www.linkedin.com/in/cheng-yi-chang-19b148176/)
 
-- Multi-langage post support
-
-- Optimized & flexible multi-locale SEO
-
-### TODO
-
-- [x] 6/01 GA
-- [x] 7/16 Table of Contents: https://ithelp.ithome.com.tw/articles/10306476
-- [x] 8/06 Comment Area: Giscus
-- [x] 8/11 Refactor data/blog
-- [x] 8/20 Fix mdx and image issues
-- [ ] Social Share
-  - [ ] twitter: 可參考這篇文下方：https://yurenju.blog/posts/2023-08-28_taming-the-distraction-monster/
-  - [ ] line
-  - [ ] facebook
-  - [ ] ig(?) -> 仿 medium
-- [ ] Sponsor(Buy me a coffee, QRCode)
-- [ ] Emotions for Articles: Clap, Like, Thumb, fire, ...
-- [ ] Newsletter
-- [ ] RSS
-- [ ] Migrate blogs
-- [ ] Refactor Design System?
-
-### References
-
-1. https://cali.so/blog/8-laws-to-a-successful-engineer#d0f08538662a
-
-## Quick Start Guide
-
-Please follow [main repo](https://github.com/timlrx/tailwind-nextjs-starter-blog)'s' **Quick Start Guide** section for general instructions. This section will only cover what to do to add your own(s) locale(s) to the site.
-
-This repository is furnished with `en` as defaultLocale and with `fr` as additional locale. You can provide as many locales as you want, you'll just add the corresponding translation.
-
-If you add a new translations in `locales` folder, please PR this repo. That might help next users / forks.
-
-1. Add your own locales and default locale in `i18n.json`
-2. Add a folder for every locale in the `locales` folder.
-3. For each `.json` files (`404.json`, `common.json`, `headerNavLink.json`, ...) in your `/locales/[locale]` folder, provide a translation
-4. Complete `data/siteMetadata.js`, adding the localized version for certain field (like `title` or `description`, for example.)
-5. Complete the localization of `data/projectData.js`
-6. Voilà ! You're done !
-
-## Post
-
-To have localized version for post, please follow this naming convention:
-
-`myPost.md` : default locale
-
-`myPost.[locale].md`: additional locales
-
-Post can be provided in only one locale (that doesn't need to be defaultLocale).
-
-The API routes used in the newsletter component cannot be used in a static site export. You will need to use a form API endpoint provider and substitute the route in the newsletter component accordingly. Other hosting platforms such as Netlify also offer alternative solutions - please refer to their docs for more information.
-
-## Support
-
-Using the template? Support this effort by giving a star on GitHub, sharing your own blog and giving a shoutout on Twitter or becoming a project [sponsor](https://github.com/sponsors/timlrx).
-
-## Licence
-
-[MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/master/LICENSE) © [Timothy Lin](https://www.timlrx.com)
+如果有任何想法或心得，不管是一點點共鳴還是問題，都歡迎隨時找我交流。
