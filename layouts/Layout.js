@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
               </div>
             </Link>
           </div>
-          <div className="flex items-center text-base leading-5">
+          <div className="flex items-center text-lg leading-5">
             <div className="hidden lg:block">
               {headerNavLinks
                 .filter((link) => link.title !== 'about')
