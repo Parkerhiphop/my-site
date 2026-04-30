@@ -30,7 +30,7 @@ export default function PostLayout({
 }) {
   const { t } = useTranslation();
   const { locale } = useRouter();
-  const { category, slug, fileName, date, title, cover } = frontMatter;
+  const { category, slug, fileName, date, title, cover, coverCaption } = frontMatter;
 
   return (
     <SectionContainer>
@@ -67,6 +67,11 @@ export default function PostLayout({
                     layout="responsive"
                     className="object-cover w-full rounded-lg"
                   />
+                  {coverCaption && (
+                    <p className="mt-2 text-sm text-gray-600 dark:text-gray-400 text-center">
+                      {coverCaption}
+                    </p>
+                  )}
                 </div>
               )}
             </div>
