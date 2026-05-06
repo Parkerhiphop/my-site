@@ -46,7 +46,7 @@ Now I figured it out a bit. Others writing out their observations is good. And m
 
 I want to try my best to start from "I". Avoid imposing personal values on others. Reduce appearance of "You" in articles. These thoughts are mine, not yours or a certain group's. Like changing "You should do this to get rid of slump" to "I did this to get rid of slump".
 
-Also want to continue "**Moving from diode to spectrum**" mentioned in [2023->2024](https://www.parkerchang.life/life/2023-2024). Some parts of article written wrong doesn't mean completely valueless. Just change it. And don't need to rise to scope of self-denial.
+Also want to continue "**Moving from diode to spectrum**" mentioned in [2023->2024](/life/2023-2024). Some parts of article written wrong doesn't mean completely valueless. Just change it. And don't need to rise to scope of self-denial.
 
 ### I Want to Write Everything, Write Nothing Out
 
@@ -98,7 +98,7 @@ Having said that, learning to prioritize and give up will still be life lesson n
 
 ### I Want to Write What I Like to Read, What I Like to Read is Process of Thinking
 
-In [2023→2024](https://www.parkerchang.life/life/2023-2024), mentioned vanity and steadiness. Difference lies in whether written out is only for envy or for reference.
+In [2023→2024](/life/2023-2024), mentioned vanity and steadiness. Difference lies in whether written out is only for envy or for reference.
 
 Thought a bit more. More precise expression is whether this article has "**Process of Thinking**".
 

@@ -9,7 +9,7 @@ summary: 2024 Year in Review, a year where the spring loosened, briefly mentione
 
 The annual review was accidentally dragged to February again, missing the time after New Year's Day. Originally hoped to write it during the Spring Festival, after all, there was a long holiday at that time. But facts proved that instead of coveting more time, it is better to act quickly. Once the idea of "can do it later" appears, it will be dragged on forever.
 
-Since [last year's review](https://www.parkerchang.life/life/2023-2024) received some feedback, I also want to have good feedback when writing this year. The writing mindset mixed with some impurities, but then I thought about how last year went is a foregone conclusion. My responsibility now is to sort it out properly, take a snapshot of the 2024 me, and give it to the future me.
+Since [last year's review](/life/2023-2024) received some feedback, I also want to have good feedback when writing this year. The writing mindset mixed with some impurities, but then I thought about how last year went is a foregone conclusion. My responsibility now is to sort it out properly, take a snapshot of the 2024 me, and give it to the future me.
 
 I want to be as true to myself as possible, have a clear conscience about my words, and follow the expectation of writing the review last year "**Down-to-earth, not vanity**".
 
@@ -19,7 +19,7 @@ Looking back, whether it was the first sales job, career change, or changing job
 
 I still have many things I want to do —— Japanese is not good enough for work, there are still many technologies to learn, weight is still overweight, writing is too little, still far from dreams, etc. Clearly there are so many things, but I can't lift my spirits.
 
-In 2024, I changed to the fifth company, and the fourth as a software engineer. In [Reviewing my first three years as a software engineer](https://www.parkerchang.life/software-development/my-first-three-year-in-code), I mentioned that I spent three years approving myself to call myself a software engineer.
+In 2024, I changed to the fifth company, and the fourth as a software engineer. In [Reviewing my first three years as a software engineer](/software/my-first-three-year-in-code), I mentioned that I spent three years approving myself to call myself a software engineer.
 
 Two years later today, I finally affirmed my "ability" as a software engineer. The recent two jobs have many technologies I didn't know originally, but I picked them up quickly after joining (thanks to AI help). I also gained the trust of colleagues and supervisors. Naturally, as a reasonably reliable software engineer, the imposter from the beginning has completely disappeared.
 
@@ -31,7 +31,7 @@ Overall, 2024 gave me a feeling of crossing the storm circle to the eye of the t
 
 ### Can I really rest?
 
-Comparing with " [Expectations for 2024](https://www.parkerchang.life/life/2023-2024#%E5%B0%8D-2024-%E7%9A%84%E6%9C%9F%E5%BE%85) " written in last year's review, besides room for improvement in work, I gained more margin in finance, and indeed focused on myself in interpersonal relationships.
+Comparing with " [Expectations for 2024](/life/2023-2024#%E5%B0%8D-2024-%E7%9A%84%E6%9C%9F%E5%BE%85) " written in last year's review, besides room for improvement in work, I gained more margin in finance, and indeed focused on myself in interpersonal relationships.
 
 Being able to rest in 2024, isn't it the proof of "getting more margin"? So I don't think I need to be too harsh on myself, treat "being able to rest" as proof of growth.
 

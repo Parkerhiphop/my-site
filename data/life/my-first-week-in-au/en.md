@@ -34,7 +34,7 @@ Luckily my flight ticket and visa were ready before seeing everyone, otherwise I
 
 However after calming down a bit here, still feel I really need to come out for a trip. I burned myself out a bit.
 
-(Also thank everyone who gave me blessings after seeing [Leaving Taiwan for Two Years: Heading to Australia and Japan](https://www.parkerchang.life/life/leaving-taiwan-working-holiday). Even if didn't meet, I am also very grateful to everyone willing to move fingers to bless me.)
+(Also thank everyone who gave me blessings after seeing [Leaving Taiwan for Two Years: Heading to Australia and Japan](/life/leaving-taiwan-working-holiday). Even if didn't meet, I am also very grateful to everyone willing to move fingers to bless me.)
 
 ### Maybe the Last Time
 
@@ -72,7 +72,7 @@ Although haven't started working in Australia, feeling very uncomfortable thinki
 
 I slowly figured out in this week. My previous efforts might not be on the point. I think my efforts have two big problems. One is **effort degree not good enough to jump to better environment**. Two is **direction of effort is not to escape environment, but keep finding things to learn due to FOMO**.
 
-In annual review of [2023 → 2024](https://www.parkerchang.life/life/2023-2024#%E4%B8%8D%E7%9B%B2%E5%BE%9E%E6%BD%AE%E6%B5%81), slightly realized "don't blindly follow trend". But seems as long as I still stay in original environment, writing code at work every day, thinking of ways to improve myself after work in anxious state, will forever stay at "knowing", but "can't do".
+In annual review of [2023 → 2024](/life/2023-2024#%E4%B8%8D%E7%9B%B2%E5%BE%9E%E6%BD%AE%E6%B5%81), slightly realized "don't blindly follow trend". But seems as long as I still stay in original environment, writing code at work every day, thinking of ways to improve myself after work in anxious state, will forever stay at "knowing", but "can't do".
 
 Thank leafwind for sharing the golden sentence, "Not getting rid of terrible environment, continuing to study to enhance ability, will only get more tiring work. So studying in extra time can only be for leaving terrible environment".
 

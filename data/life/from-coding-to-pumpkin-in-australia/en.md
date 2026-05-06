@@ -44,7 +44,7 @@ I am going to Japan next year. Actually I don't need to collect visa days, but I
 
 ### Not Being a Goody-Two-Shoes
 
-In [Leaving Taiwan for Two Years: Heading to Australia and Japan](https://www.parkerchang.life/life/leaving-taiwan-working-holiday), mentioned "My life before this followed a conveyor belt". Partly because my family background didn't allow me to fall off the conveyor belt. I had no money and no time to retake exams. I also didn't have the margin to find a job only after graduating from university. Without working part-time during university would wait to starve to death, so only went to work part-time as an insurance agent in junior year, and then switched to software engineer.
+In [Leaving Taiwan for Two Years: Heading to Australia and Japan](/life/leaving-taiwan-working-holiday), mentioned "My life before this followed a conveyor belt". Partly because my family background didn't allow me to fall off the conveyor belt. I had no money and no time to retake exams. I also didn't have the margin to find a job only after graduating from university. Without working part-time during university would wait to starve to death, so only went to work part-time as an insurance agent in junior year, and then switched to software engineer.
 
 Walking on the conveyor belt will make many conservative choices, and often dare not to dream. Always have to have some basic planning to make choices and take the next step.
 
@@ -111,7 +111,7 @@ Working eight hours in the factory, off work is off work. I don't need to contin
 
 When feeling the simple beauty, a voice in my heart still whispers asking me "Are you escaping". People around are getting married and starting careers, I am still cutting pumpkins here.
 
-But could I be better if I continue to be a software engineer in Taiwan? No, I just know that I can no longer continue to grow, and also realize staying in the original environment is just chronic suicide. My current thinking is still the same as written in [Labor Environment and Software Career Bottleneck](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#%E5%8B%9E%E5%8B%95%E7%92%B0%E5%A2%83%E5%92%8C%E8%BB%9F%E9%AB%94%E8%81%B7%E6%B6%AF%E7%93%B6%E9%A0%B8).
+But could I be better if I continue to be a software engineer in Taiwan? No, I just know that I can no longer continue to grow, and also realize staying in the original environment is just chronic suicide. My current thinking is still the same as written in [Labor Environment and Software Career Bottleneck](/life/leaving-taiwan-working-holiday#%E5%8B%9E%E5%8B%95%E7%92%B0%E5%A2%83%E5%92%8C%E8%BB%9F%E9%AB%94%E8%81%B7%E6%B6%AF%E7%93%B6%E9%A0%B8).
 
 And assembly line is repeating doing the same thing. Boring is very boring, but feeling of not connecting to the internet for eight hours a day is also quite good. Won't be overly anxious by watching social media. Amount of information absorbed daily won't be overloaded. Moreover most of the time cutting pumpkins doesn't need to use brain, so I will think about my own things. Like this article was thought out when cutting pumpkins. coming to computer is just typing out what I thought.
 
@@ -141,7 +141,7 @@ Participants are not only backpackers, but also many immigrants. Met retired Por
 
 Portuguese and Jordanian shared the sorrow of immigration with us. Portuguese has left for 40 years, so when she went back Portugal was not the look in her memory. Very familiar but yet very strange. She is already 70 years old this year. Family and friends are also slowly moving towards the end of life. She also didn't see the last face of her brother. And Jordanian came here to escape war. He misses Jordanian food very much, but he can't go back.
 
-After knowing them I deeply felt how important it is to come out once. This is what I wrote in [Unable to Feel the Good of Taiwan](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#%E7%84%A1%E6%B3%95%E6%84%9F%E5%8F%97%E5%8F%B0%E7%81%A3%E7%9A%84%E5%A5%BD). I want to experience life in different countries in person, to fall in love with Taiwan again or choose to settle elsewhere.
+After knowing them I deeply felt how important it is to come out once. This is what I wrote in [Unable to Feel the Good of Taiwan](/life/leaving-taiwan-working-holiday#%E7%84%A1%E6%B3%95%E6%84%9F%E5%8F%97%E5%8F%B0%E7%81%A3%E7%9A%84%E5%A5%BD). I want to experience life in different countries in person, to fall in love with Taiwan again or choose to settle elsewhere.
 
 **If I continue to stay in Taiwan, I will only know Taiwan's problems, but if I know each country's own problems, I might be more relieved, and choose a place I can relatively accept, a place I am willing to call "home".**
 

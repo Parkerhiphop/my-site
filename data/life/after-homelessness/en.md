@@ -54,7 +54,7 @@ After ending these few shared rentals, I lived alone. Although I longed for the 
 
 The result was that I felt very lonely, but I wasn't lonely for too long, because half a year after living alone, I happened to meet my ex-girlfriend. She came over almost every day after work, and we were soon in a state of almost cohabitation. I felt really happy during that time, but unfortunately there were many parts of our values that could not be reconciled. My plan to work in Japan, which had been brewing for a long time, also just started, so our relationship ended in less than a year.
 
-I will come to Australia before going to Japan. Besides the parts mentioned in [Leaving Taiwan for Two Years: Heading to Australia and Japan](https://www.parkerchang.life/life/leaving-taiwan-working-holiday), another reason is the end of the relationship with her. I couldn't wait for the Japanese visa to come down, I wanted to go out and see first.
+I will come to Australia before going to Japan. Besides the parts mentioned in [Leaving Taiwan for Two Years: Heading to Australia and Japan](/life/leaving-taiwan-working-holiday), another reason is the end of the relationship with her. I couldn't wait for the Japanese visa to come down, I wanted to go out and see first.
 
 And in that half year of living alone, I felt that I became more and more silent, and spent too much money filling my loneliness. I bought a lot of anime merchandise and novels, and also chased stars crazily. I think I really liked those things, but the frequency and intensity at that time were higher than I expected. I think I wasn't fully enjoying it, but filling some emptiness.
 

@@ -77,7 +77,7 @@ Then I think there are three stages:
 
 I was in the "Don't know anything" stage within two years of entering society.
 
-Since don't know anything, can conversely "do whatever encountered". quite grateful that I was quite willing to try at that time, like becoming a software engineer was completely an accident (I was from the Philosophy Department), for details can refer to ["Reviewing My First Three Years as a Software Engineer"](https://www.parkerchang.life/software-development/my-first-three-year-in-code).
+Since don't know anything, can conversely "do whatever encountered". quite grateful that I was quite willing to try at that time, like becoming a software engineer was completely an accident (I was from the Philosophy Department), for details can refer to ["Reviewing My First Three Years as a Software Engineer"](/software/my-first-three-year-in-code).
 
 In the process of trying, will slowly know "what I don't want", and then reduce the items needed to try. I consider myself extroverted and love interacting with people, but after becoming a salesperson, discovered that my social energy also has an upper limit, occasionally like to lock myself up to do things.
 

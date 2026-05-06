@@ -6,7 +6,7 @@ summary: Having worked in an Australian vegetable and fruit factory for almost t
 
 > **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
-Although I have written about work in my [Annual Review](https://www.parkerchang.life/tags/Year%20in%20Review) since 2022, the last article dedicated to work and career reflection was this one: [**Reviewing My First Three Years as a Software Engineer**](https://www.parkerchang.life/software-development/my-first-three-year-in-code). I suddenly realized that another three years have passed, which is a good timing to write again.
+Although I have written about work in my [Annual Review](https://www.parkerchang.life/tags/Year%20in%20Review) since 2022, the last article dedicated to work and career reflection was this one: [**Reviewing My First Three Years as a Software Engineer**](/software/my-first-three-year-in-code). I suddenly realized that another three years have passed, which is a good timing to write again.
 
 Recently, the days of cutting pumpkins every day in Australia have been almost two months. The initial freshness has faded, and the passage of time has become slow after getting used to the process. The fatigue and damage caused by long-term high-intensity labor also began to accumulate. The thumb, index finger and middle finger of my hands are now in a state of numbness and pain at any time. Even typing on the keyboard feels like being electrocuted by tiny currents.
 
@@ -84,7 +84,7 @@ However, I didn't want to specially choose this kind of work that is tired enoug
 
 ## Influence
 
-In my 2022→2023 annual review [Written at the end: Why should exert own influence](https://www.parkerchang.life/life/2023-2024#%E5%AF%AB%E5%9C%A8%E6%9C%80%E5%BE%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E6%87%89%E8%A9%B2%E7%99%BC%E6%8F%AE%E8%87%AA%E8%BA%AB%E5%BD%B1%E9%9F%BF%E5%8A%9B), posting Irene's sentence again here:
+In my 2022→2023 annual review [Written at the end: Why should exert own influence](/life/2023-2024#%E5%AF%AB%E5%9C%A8%E6%9C%80%E5%BE%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E6%87%89%E8%A9%B2%E7%99%BC%E6%8F%AE%E8%87%AA%E8%BA%AB%E5%BD%B1%E9%9F%BF%E5%8A%9B), posting Irene's sentence again here:
 
 > **Exerting one's influence is attempting to build the compound interest of one's ideal world. The biggest punishment for people who only care about themselves is getting more and more terrible people (in their own values).**
 
@@ -104,7 +104,7 @@ I really like what [Ya-Xuan](https://x.com/yaxuanhe_zh/status/196615457921898541
 
 What I said so far may be a bit too idealistic. If I am too comfortable and don't continue to explore or act, those will eventually be just "wishes".
 
-If want to be able to pursue these at work, I also have to be strong enough. Just like when I wrote [Expectations for 2024](https://www.parkerchang.life/life/2023-2024#%E5%B0%8D-2024-%E7%9A%84%E6%9C%9F%E5%BE%85) before, "Making yourself strong is the only way to solve problems". Having ideals but no power to realize them is more uncomfortable than having no ideals.
+If want to be able to pursue these at work, I also have to be strong enough. Just like when I wrote [Expectations for 2024](/life/2023-2024#%E5%B0%8D-2024-%E7%9A%84%E6%9C%9F%E5%BE%85) before, "Making yourself strong is the only way to solve problems". Having ideals but no power to realize them is more uncomfortable than having no ideals.
 
 At least visa, money, influence, etc. all need strong work ability to support.
 

@@ -101,7 +101,7 @@ When I was reading _The Almanack of Naval Ravikant_, I also happened to read, "*
 
 It made me think, the imagination and pursuit of an "ideal life" is also a similar kind of "thought." If I keep "searching" for an "ideal life," I will never find it. Because as long as I am in a state of "searching," I am never facing my "present." Without living in the present, it's very hard to truly experience life, let alone whether it's ideal or not.
 
-I can still talk about my imagination of an "ideal life" right now. Like living in a comfortable house (normal layout, spacious, well-ventilated, and with a kitchen), living with the people I truly care about, doing work that satisfies [What I Want to Pursue in Work](https://www.parkerchang.life/life/career-goals-what-i-want-from-work), creating in my spare time, having enough wealth to support my hobbies (currently stargazing and snowboarding), and maintaining good relationships with the people I like (this point is pretty much achieved).
+I can still talk about my imagination of an "ideal life" right now. Like living in a comfortable house (normal layout, spacious, well-ventilated, and with a kitchen), living with the people I truly care about, doing work that satisfies [What I Want to Pursue in Work](/life/career-goals-what-i-want-from-work), creating in my spare time, having enough wealth to support my hobbies (currently stargazing and snowboarding), and maintaining good relationships with the people I like (this point is pretty much achieved).
 
 I still don't want to return to Taiwan, and I look forward to leaving Kusatsu and going to Tokyo to live a more ideal life. After all, changing one's mindset doesn't imply compromising. Having pursuits shouldn't be conflicting.
 

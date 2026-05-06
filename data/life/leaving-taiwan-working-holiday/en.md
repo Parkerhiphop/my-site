@@ -59,7 +59,7 @@ I resigned on the day Australian working holiday visa came down. Then contacted 
 
 ### Labor Environment and Software Career Bottleneck
 
-In the review of [2024 -> 2025](https://www.parkerchang.life/life/2024-2025#%E8%81%B7%E6%B6%AF) at the beginning of this year, I started to slowly think about "**What else can I do besides being an engineer**".
+In the review of [2024 -> 2025](/life/2024-2025#%E8%81%B7%E6%B6%AF) at the beginning of this year, I started to slowly think about "**What else can I do besides being an engineer**".
 
 I switched to software engineer in April 2019, six years so far. **I don't know if there is an end to anxiety about career future and days writing code on holidays.**
 

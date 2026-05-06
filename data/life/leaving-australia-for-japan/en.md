@@ -8,7 +8,7 @@ summary: The Australian working holiday ended in just four months. After going a
 
 As the title says, I left Australia.
 
-[Decided to go to Australia temporarily](https://www.parkerchang.life/life/leaving-taiwan-working-holiday#%E8%87%A8%E6%99%82%E6%B1%BA%E5%AE%9A%E5%8E%BB%E6%BE%B3%E6%B4%B2) in the middle of this year, and the decision to leave was also made in a hurry.
+[Decided to go to Australia temporarily](/life/leaving-taiwan-working-holiday#%E8%87%A8%E6%99%82%E6%B1%BA%E5%AE%9A%E5%8E%BB%E6%BE%B3%E6%B4%B2) in the middle of this year, and the decision to leave was also made in a hurry.
 
 But I am very glad that I ran to Australia instead of continuing to suffer in Taiwan. Just four months broke me and reassembled me, reshaped the way I interact with the world, and let me see more possibilities.
 
@@ -40,7 +40,7 @@ Transition process:
 
    Originally targeted tourism industry or catering industry in the city. Also thought about whether to be a technical blue-collar (light partition, waterproofing engineering).
 
-   However, job hunting was not smooth at first. Just happened that a friend's friend's friend introduced a job in a fruit and vegetable factory, so set off. [This article](https://www.parkerchang.life/life/from-coding-to-pumpkin-in-australia#%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C) has a more detailed process.
+   However, job hunting was not smooth at first. Just happened that a friend's friend's friend introduced a job in a fruit and vegetable factory, so set off. [This article](/life/from-coding-to-pumpkin-in-australia#%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C) has a more detailed process.
 
 5. August, Fruit and vegetable factory started. Anyway, earn some money here first, stay for three months then talk
 
@@ -92,7 +92,7 @@ I came out with a goal to obtain formal visa and status. Choices I know currentl
 
 ### Want to Find Home
 
-Wrote in [Written After Homelessness](https://www.parkerchang.life/life/after-homelessness), I actually want a "home". When in Taipei, I always felt like a passer-by because I wanted to go to Japan in the future. Coming to Australia, I found I still feel like a passer-by for the same reason.
+Wrote in [Written After Homelessness](/life/after-homelessness), I actually want a "home". When in Taipei, I always felt like a passer-by because I wanted to go to Japan in the future. Coming to Australia, I found I still feel like a passer-by for the same reason.
 
 It's quite tiring to run around with almost all belongings. Luggage was always overweight when taking flight. Threw away many things at airport before departure due to overweight. This time also purchased excess baggage to come back. Dare not to buy things when going out to play. Even bought can only stuff into suitcase.
 
@@ -106,7 +106,7 @@ Rather than experiencing the cycle of "building life circle and have to break it
 
 ## Review Expectations Before Departure
 
-Reviewing what I wanted to do in Australia mentioned in [Leaving Taiwan for Two Years: Heading to Australia and Japan](https://www.parkerchang.life/life/leaving-taiwan-working-holiday) and [From Coding to Cutting Pumpkins: Official Start of Australian Working Holiday](https://www.parkerchang.life/life/from-coding-to-pumpkin-in-australia#%E6%B2%92%E6%9C%89%E7%AD%94%E6%A1%88%E4%BD%86%E6%9C%89%E6%96%B9%E5%90%91): find different life rhythm, explore various possibilities, write, write software I identify with or open source contribution. Things I didn't write out but wanted to do also included editing short videos to share journey and continuing to improve Japanese.
+Reviewing what I wanted to do in Australia mentioned in [Leaving Taiwan for Two Years: Heading to Australia and Japan](/life/leaving-taiwan-working-holiday) and [From Coding to Cutting Pumpkins: Official Start of Australian Working Holiday](/life/from-coding-to-pumpkin-in-australia#%E6%B2%92%E6%9C%89%E7%AD%94%E6%A1%88%E4%BD%86%E6%9C%89%E6%96%B9%E5%90%91): find different life rhythm, explore various possibilities, write, write software I identify with or open source contribution. Things I didn't write out but wanted to do also included editing short videos to share journey and continuing to improve Japanese.
 
 I found different life rhythm. Didn't know how to rest in Taiwan. Coming to Australia infected by atmosphere instead resting all the time. Before coming really wanted to know what feeling of "coming out to sunbathe" is like. Because I never sunbathed for the sake of sunbathing. But coming to Australia saw locals love to find a piece of grass spread a towel sit or lie there sunbathing during the day. Some might bring paper books out to read. Also started to come out to sunbathe like this before leaving.
 
