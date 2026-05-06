@@ -4,7 +4,6 @@ import SectionContainer from '@/components/SectionContainer';
 import { BlogSEO } from '@/components/SEO';
 
 import siteMetadata from '@/data/siteMetadata';
-import Comments from '@/components/comments';
 import useTranslation from 'next-translate/useTranslation';
 import formatDate from '@/lib/utils/formatDate';
 import { useRouter } from 'next/router';
@@ -94,7 +93,6 @@ export default function PostLayout({
                   </div>
                 </div>
               )}
-              <Comments frontMatter={frontMatter} />
             </div>
             <footer className="pt-4 xl:pt-8 border-t border-gray-200 dark:border-gray-700">
               <div className="text-sm font-medium leading-5">
