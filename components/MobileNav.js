@@ -42,7 +42,7 @@ const MobileNav = ({ iconMap }) => {
         </svg>
       </button>
       <div
-        className={`fixed top-0 left-0 z-10 h-full w-full transform bg-gray-200 opacity-95 duration-300 ease-in-out dark:bg-gray-800 ${
+        className={`fixed top-0 left-0 z-10 h-full w-full transform bg-gray-100/95 duration-300 ease-in-out dark:bg-gray-900/95 ${
           navShow ? 'translate-x-0' : 'translate-x-full'
         }`}
       >
@@ -67,12 +67,12 @@ const MobileNav = ({ iconMap }) => {
             </svg>
           </button>
         </div>
-        <nav className="fixed mt-8 h-full">
+        <nav className="fixed mt-10 h-full">
           {headerNavLinks.map((link) => (
-            <div key={link.title} className="px-12 py-4">
+            <div key={link.title} className="px-12 py-5">
               <Link
                 href={link.href}
-                className="text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100"
+                className="text-3xl font-bold leading-relaxed tracking-wide text-gray-900 dark:text-gray-100"
                 onClick={onToggleNav}
               >
                 {iconMap[link.title]} {t(`headerNavLinks:${link.title.toLowerCase()}`)}

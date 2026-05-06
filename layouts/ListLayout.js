@@ -12,13 +12,22 @@ export default function ListLayout({
   posts,
   title,
   description,
+  filters = [],
   initialDisplayPosts = [],
   pagination,
 }) {
   const [searchValue, setSearchValue] = useState('');
+  const [activeFilter, setActiveFilter] = useState('all');
 
-  const filteredBlogPosts = posts.filter((frontMatter) => {
-    const searchContent = frontMatter.title + frontMatter.summary;
+  const categoryPosts =
+    activeFilter === 'all'
+      ? posts
+      : posts.filter((frontMatter) => frontMatter.section === activeFilter);
+
+  const filteredBlogPosts = categoryPosts.filter((frontMatter) => {
+    const searchContent = `${frontMatter.title || ''} ${frontMatter.summary || ''} ${
+      frontMatter.description || ''
+    }`;
     return searchContent.toLowerCase().includes(searchValue.toLowerCase());
   });
 
@@ -27,7 +36,9 @@ export default function ListLayout({
 
   // If initialDisplayPosts exist, display it if no searchValue is specified
   const displayPosts =
-    initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts;
+    initialDisplayPosts.length > 0 && !searchValue && activeFilter === 'all'
+      ? initialDisplayPosts
+      : filteredBlogPosts;
 
   return (
     <>
@@ -37,6 +48,27 @@ export default function ListLayout({
             {siteMetadata.iconMap[type]} {title}
           </h1>
           <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400">{description}</h2>
+          {filters.length > 0 && (
+            <div className="flex gap-2 overflow-x-auto pb-2">
+              {filters.map((filter) => {
+                const isActive = activeFilter === filter.value;
+                return (
+                  <button
+                    key={filter.value}
+                    type="button"
+                    onClick={() => setActiveFilter(filter.value)}
+                    className={`shrink-0 rounded-full border px-4 py-2 text-sm font-semibold transition ${
+                      isActive
+                        ? 'border-primary-500 bg-primary-500 text-white'
+                        : 'border-gray-300 text-gray-700 hover:border-primary-400 hover:text-primary-500 dark:border-gray-700 dark:text-gray-300'
+                    }`}
+                  >
+                    {filter.label}
+                  </button>
+                );
+              })}
+            </div>
+          )}
           <div className="relative max-w-lg">
             <input
               aria-label="Search articles"
@@ -62,9 +94,9 @@ export default function ListLayout({
           </div>
         </div>
         <ul className="md:mt-5 md:pt-5">
-          {!filteredBlogPosts.length && 'No posts found.'}
+          {!filteredBlogPosts.length && <p className="text-6xl">🚧</p>}
           {displayPosts.map((frontMatter) => {
-            const { slug, date, title, summary, category } = frontMatter;
+            const { slug, date, title, summary, description, category } = frontMatter;
             return (
               <li key={slug} className="py-6">
                 <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
@@ -86,7 +118,7 @@ export default function ListLayout({
                       </h3>
                     </div>
                     <div className="prose max-w-none text-gray-500 dark:text-gray-400">
-                      {summary}
+                      {summary || description}
                     </div>
                   </div>
                 </article>
@@ -95,7 +127,7 @@ export default function ListLayout({
           })}
         </ul>
       </div>
-      {pagination && pagination.totalPages > 1 && !searchValue && (
+      {pagination && pagination.totalPages > 1 && !searchValue && activeFilter === 'all' && (
         <Pagination currentPage={pagination.currentPage} totalPages={pagination.totalPages} />
       )}
     </>

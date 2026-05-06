@@ -25,7 +25,7 @@ export async function getStaticProps({ locale, locales }) {
         slug: post.slug,
         title: post.title,
         date: post.date,
-        summary: post.summary,
+        summary: post.summary || post.description || '',
       })),
   }));
 
@@ -43,21 +43,7 @@ export default function Home({ posts, locale, availableLocales }) {
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="flex flex-col space-y-2 pb-4 md:pb-8 md:space-y-5">
-          <div className="flex items-center justify-between w-full">
-            <h1 className="mr-6">{siteMetadata.title} 🕸️</h1>
-            <Link
-              href="/about"
-              locale={locale}
-              className="hidden md:flex items-center group cursor-pointer"
-            >
-              <div className="animate-bounce-right mr-2 text-primary-500 text-xl font-bold">
-                &rarr;
-              </div>
-              <div className="text-lg font-medium text-gray-900 dark:text-gray-100 hover:text-primary-500 dark:hover:text-primary-500 transition-colors duration-200">
-                {siteMetadata.iconMap['about']} {t(`headerNavLinks:about`)}
-              </div>
-            </Link>
-          </div>
+          <h1 className="mr-6">{siteMetadata.title} 🕸️</h1>
           <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400 mb-4">
             {siteMetadata.description[locale]}
           </h2>
@@ -73,7 +59,7 @@ export default function Home({ posts, locale, availableLocales }) {
           )}
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
-          {!posts.length && 'No posts found.'}
+          {!posts.length && '🚧'}
           {posts.map((postByYear) => (
             <div key={postByYear.year} className="pt-4 md:pt-8">
               <span className="text-2xl md:text-3xl text-primary-500">{postByYear.year}</span>
@@ -94,12 +80,12 @@ export default function Home({ posts, locale, availableLocales }) {
                             className={`inline-block py-0.5 px-2 rounded-md text-sm font-medium transition duration-200 ${
                               {
                                 life: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800',
-                                reading:
-                                  'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-800',
-                                review:
+                                thoughts:
                                   'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300 hover:bg-purple-200 dark:hover:bg-purple-800',
-                                'software-development':
+                                software:
                                   'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800',
+                                novel:
+                                  'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-800',
                               }[category] ||
                               'bg-gray-100 text-gray-800 dark:bg-gray-900 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-800'
                             }`}
@@ -118,12 +104,12 @@ export default function Home({ posts, locale, availableLocales }) {
                                 className={`inline-block py-0.5 px-2 rounded-md text-sm font-medium transition duration-200 ${
                                   {
                                     life: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800',
-                                    reading:
-                                      'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-800',
-                                    review:
+                                    thoughts:
                                       'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300 hover:bg-purple-200 dark:hover:bg-purple-800',
-                                    'software-development':
+                                    software:
                                       'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800',
+                                    novel:
+                                      'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-800',
                                   }[category] ||
                                   'bg-gray-100 text-gray-800 dark:bg-gray-900 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-800'
                                 }`}

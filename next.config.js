@@ -55,6 +55,36 @@ const securityHeaders = [
 
 const redirects = [
   {
+    source: '/review/hokkyoku-departmant-store',
+    destination: '/thoughts/movie/hokkyoku-departmant-store',
+    statusCode: 301,
+  },
+  {
+    source: '/review/robot-dream',
+    destination: '/thoughts/movie/robot-dream',
+    statusCode: 301,
+  },
+  {
+    source: '/review/wind-breaker-shishitouren',
+    destination: '/thoughts/manga/wind-breaker-shishitouren',
+    statusCode: 301,
+  },
+  {
+    source: '/review/:path*',
+    destination: '/thoughts/:path*',
+    statusCode: 301,
+  },
+  {
+    source: '/reading/:path*',
+    destination: '/thoughts/tools/:path*',
+    statusCode: 301,
+  },
+  {
+    source: '/software-development/:path*',
+    destination: '/software/:path*',
+    statusCode: 301,
+  },
+  {
     source: '/blog/2021-2022',
     destination: '/life/2021-2022',
     statusCode: 301,
@@ -81,67 +111,67 @@ const redirects = [
   },
   {
     source: '/blog/atomic-habits-basic',
-    destination: '/reading/atomic-habits-basic',
+    destination: '/thoughts/tools/atomic-habits-basic',
     statusCode: 301,
   },
   {
     source: '/blog/atomic-habits-note',
-    destination: '/reading/atomic-habits-note',
+    destination: '/thoughts/tools/atomic-habits-note',
     statusCode: 301,
   },
   {
     source: '/blog/atomic-habits-practice',
-    destination: '/reading/atomic-habits-practice',
+    destination: '/thoughts/tools/atomic-habits-practice',
     statusCode: 301,
   },
   {
     source: '/blog/hokkyoku-departmant-store',
-    destination: '/review/hokkyoku-departmant-store',
+    destination: '/thoughts/movie/hokkyoku-departmant-store',
     statusCode: 301,
   },
   {
     source: '/blog/robot-dream',
-    destination: '/review/robot-dream',
+    destination: '/thoughts/movie/robot-dream',
     statusCode: 301,
   },
   {
     source: '/blog/wind-breaker-shishitouren',
-    destination: '/review/wind-breaker-shishitouren',
+    destination: '/thoughts/manga/wind-breaker-shishitouren',
     statusCode: 301,
   },
   {
     source: '/blog/design-system',
-    destination: '/software-development/design-system',
+    destination: '/software/design-system',
     statusCode: 301,
   },
   {
     source: '/blog/from-callback-to-async',
-    destination: '/software-development/from-callback-to-async',
+    destination: '/software/from-callback-to-async',
     statusCode: 301,
   },
   {
     source: '/blog/frontend-framework-101',
-    destination: '/software-development/frontend-framework-101',
+    destination: '/software/frontend-framework-101',
     statusCode: 301,
   },
   {
     source: '/blog/google-oauth-login',
-    destination: '/software-development/google-oauth-login',
+    destination: '/software/google-oauth-login',
     statusCode: 301,
   },
   {
     source: '/blog/my-first-three-year-in-code',
-    destination: '/software-development/my-first-three-year-in-code',
+    destination: '/software/my-first-three-year-in-code',
     statusCode: 301,
   },
   {
     source: '/blog/talk-about-js-eval',
-    destination: '/software-development/talk-about-js-eval',
+    destination: '/software/talk-about-js-eval',
     statusCode: 301,
   },
   {
     source: '/blog/talk-about-web-font',
-    destination: '/software-development/talk-about-web-font',
+    destination: '/software/talk-about-web-font',
     statusCode: 301,
   },
 ];
@@ -175,7 +205,7 @@ module.exports = nextTranslate(
     i18n: {
       locales: ['en', 'zh-TW', 'ja'],
       defaultLocale: 'zh-TW',
-      localeDetection: true,
+      localeDetection: false,
     },
     output: 'standalone',
   })

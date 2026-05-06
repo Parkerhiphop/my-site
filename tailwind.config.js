@@ -10,6 +10,7 @@ module.exports = {
     './components/**/*.js',
     './layouts/**/*.js',
     './lib/**/*.js',
+    './data/**/*.md',
     './data/**/*.mdx',
   ],
   darkMode: 'class',

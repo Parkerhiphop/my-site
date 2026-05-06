@@ -3,7 +3,8 @@ import siteMetadata from '@/data/siteMetadata';
 import ListLayout from '@/layouts/ListLayout';
 import { PageSEO } from '@/components/SEO';
 import { getAllFilesFrontMatter } from '@/lib/mdx';
-import { getCategoryProps, POSTS_PER_PAGE } from '@/lib/utils/getCategoryProps';
+import { getCategoryProps } from '@/lib/utils/getCategoryProps';
+import { POSTS_PER_PAGE } from '@/data/pagination';
 
 export async function getStaticPaths({ locales, defaultLocale }) {
   const paths = (

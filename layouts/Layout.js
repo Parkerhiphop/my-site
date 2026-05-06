@@ -16,8 +16,8 @@ const Layout = ({ children }) => {
   return (
     <SectionContainer>
       <div className="flex h-screen flex-col justify-between">
-        <header className="flex items-center justify-between py-6 md:py-10">
-          <div>
+        <header className="flex items-center justify-between gap-4 py-6 md:py-10">
+          <div className="flex flex-row gap-2">
             <Link href="/" aria-label={siteMetadata.headerTitle}>
               <div className="mr-3 flex-shrink-0">
                 <Image
@@ -29,23 +29,21 @@ const Layout = ({ children }) => {
                 />
               </div>
             </Link>
+            <nav className="hidden items-center lg:flex gap-4">
+              {headerNavLinks.map((link) => (
+                <Link
+                  key={link.title}
+                  href={link.href}
+                  className="text-lg font-bold text-gray-900 dark:text-gray-100"
+                >
+                  {siteMetadata.iconMap[link.title]}{' '}
+                  {t(`headerNavLinks:${link.title.toLowerCase()}`)}
+                </Link>
+              ))}
+            </nav>
           </div>
-          <div className="flex items-center text-lg leading-5">
-            <div className="hidden lg:block">
-              {headerNavLinks
-                .filter((link) => link.title !== 'about')
-                .map((link) => (
-                  <Link
-                    key={link.title}
-                    href={link.href}
-                    className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4"
-                  >
-                    {siteMetadata.iconMap[link.title]}{' '}
-                    {t(`headerNavLinks:${link.title.toLowerCase()}`)}
-                  </Link>
-                ))}
-            </div>
-            <div className="flex items-center gap-x-2">
+          <div className="flex min-w-0 items-center justify-end gap-3 text-lg leading-5">
+            <div className="flex shrink-0 items-center">
               <LangSwitch />
               <ThemeSwitch />
               <MobileNav iconMap={siteMetadata.iconMap} />

@@ -19,6 +19,12 @@ const DisqusComponent = dynamic(
   },
   { ssr: false }
 );
+const CusdisComponent = dynamic(
+  () => {
+    return import('@/components/comments/Cusdis');
+  },
+  { ssr: false }
+);
 
 // TODO: choose to add support for utterances, giscus, disqus
 const Comments = ({ frontMatter }) => {
@@ -26,6 +32,9 @@ const Comments = ({ frontMatter }) => {
   if (!comment || Object.keys(comment).length === 0) return <></>;
   return (
     <div id="comment">
+      {siteMetadata.comment && siteMetadata.comment.provider === 'cusdis' && (
+        <CusdisComponent frontMatter={frontMatter} />
+      )}
       {siteMetadata.comment && siteMetadata.comment.provider === 'giscus' && <GiscusComponent />}
       {/* {siteMetadata.comment && siteMetadata.comment.provider === 'utterances' && (
         <UtterancesComponent />

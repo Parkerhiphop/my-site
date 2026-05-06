@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-05-06",
+  "updatedAtLabel": "Last updated",
+  "intro": "A snapshot of where I am right now, what I am practicing, and the bits of life snapshot.",
+  "databaseLink": "Works Database",
+  "sections": [
+    {
+      "icon": "📍",
+      "title": "Where I Am",
+      "items": [
+        "I just received a contractor offer as a software engineer in Tokyo, so I ended my working-holiday life in Australia and Japan earlier than expected.",
+        "I want to build my own life in Tokyo: favorite shops, favorite corners, and favorite people."
+      ]
+    },
+    {
+      "icon": "💪",
+      "title": "Recent Practices",
+      "items": [
+        "Moving from pessimism toward optimism",
+        "Not getting anxious too early",
+        "Finding my exercise habit again",
+        "Raising my Japanese from everyday conversation to business level",
+        "Trying to design my life with Be Your Own Life Designer. I once used the idea of Atomic Habits to draw my own map.",
+        "Studying system design with Modern System Design Bootcamp",
+        "Trying to keep up with AI. Recently I have been thinking about Harnesses Engineering."
+      ]
+    },
+    {
+      "icon": "🏁",
+      "title": "Recent Achievements",
+      "items": [
+        "Found a software engineering job in Tokyo as a contractor",
+        "Made quite a few friends in English at my share house",
+        "Got better at cooking for myself"
+      ]
+    },
+    {
+      "icon": "🧩",
+      "title": "Recent Frustrations",
+      "items": [
+        "Japanese",
+        "The regular routine I had during working holiday has fallen apart again",
+        "How to choose, trade off, and let go"
+      ]
+    },
+    {
+      "icon": "💡",
+      "title": "Recent Discoveries",
+      "items": [
+        "The world is truly huge. Huge enough that I can always find people somewhere doing things similar to what I am doing. No one can really be that special, but it also means that even when I feel out of place, there must be a corner of the world that can hold me.",
+        "Having a Western face does not automatically mean someone is good at English. I have met people from Latin America and Europe whose English is also shaky. Even blond, blue-eyed people can get nervous speaking English like I do, though many of them are brave enough to ask questions and clarify things."
+      ]
+    },
+    {
+      "icon": "✨",
+      "title": "Recent Favorites",
+      "items": [
+        "J-pop: Airi Suzuki, milet, Ryokuoushoku Shakai",
+        "Manga: Fujii on the Roadside, 100 Meters",
+        "Book: The Almanack of Naval Ravikant",
+        "Movie: Emergency Declaration"
+      ],
+      "footer": "Other works I have finished"
+    }
+  ]
+}

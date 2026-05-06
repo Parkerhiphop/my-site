@@ -80,7 +80,7 @@ export default function PostLayout({
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:pb-0">
               <TOCInline toc={toc} />
               <div className="prose max-w-none pb-8 dark:prose-dark !border-0">{children}</div>
-              {category !== 'software-development' && locale === 'zh-TW' && (
+              {category !== 'software' && locale === 'zh-TW' && (
                 <div className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
                   <p className="mb-4">如果你喜歡我的文字，歡迎訂閱電子報:</p>
                   <div className="flex justify-center">
@@ -94,7 +94,7 @@ export default function PostLayout({
                   </div>
                 </div>
               )}
-              {/* <Comments frontMatter={frontMatter} /> */}
+              <Comments frontMatter={frontMatter} />
             </div>
             <footer className="pt-4 xl:pt-8 border-t border-gray-200 dark:border-gray-700">
               <div className="text-sm font-medium leading-5">
