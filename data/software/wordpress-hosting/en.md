@@ -4,9 +4,8 @@ date: '2025-04-13'
 draft: false
 summary: Deploy a WordPress site quickly using AWS EC2 and Easy Engine (domain bought from Cloudflare). Requires a little programming background but is cheap and fast, with high freedom and scalability!
 tags: ['Software Development', 'WordPress', 'AWS', 'EC2', 'EasyEngine', 'Cloudflare']
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 Last year I handled several large WordPress sites at work. I'm here to record and share the WordPress hosting strategy I learned.
 

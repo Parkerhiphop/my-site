@@ -4,9 +4,8 @@ date: '2023-09-30'
 draft: false
 summary: Introduce eval in JavaScript, talk about why not to use it, and finally look at its application and alternatives through the interview questions of reading `<script />` and getting JS calculation results when crawling with App Script.
 tags: ['Software Development', 'Web Development', 'JavaScript', 'Security', 'Eval']
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 ## Preface
 

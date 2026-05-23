@@ -1,10 +1,10 @@
 ---
 title: My First Week in Australia
 date: '2025-07-16'
+showSubstackEmbed: true
 summary: In the first week on the Gold Coast, Australia, recording the mood after saying goodbye to friends and Taiwan, reflecting on software engineer career burnout, progress of job hunting, and miscellaneous thoughts on arriving in Australia.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 Unknowingly have lived in Gold Coast for a week. Taking advantage of memory and impact still fresh to record.
 

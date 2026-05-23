@@ -4,9 +4,8 @@ date: '2021-07-11'
 draft: false
 summary: Choosing a frontend framework has always been a big question for many beginners (including me). I started writing React because my company was using it. Recently, due to some circumstances, I started touching Angular, which inspired me to think more about "Frontend Frameworks". Issues like what "framework" actually refers to? What can be called a "framework"? Why does frontend need to use it? What happens if you don't use it? I heard Vue3 is powerful, should I learn it? And so on.
 tags: ['Software Development', 'Web Development', 'Frontend', 'Framework', 'JavaScript']
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 Choosing a frontend framework has always been a big question for many beginners (including me). I started writing React because my company was using it. Recently, due to some circumstances, I started touching Angular, which inspired me to think more about "Frontend Frameworks". Issues like what "framework" actually refers to? What can be called a "framework"? Why does frontend need to use it? What happens if you don't use it? I heard Vue3 is powerful, should I learn it? And so on.
 

@@ -4,9 +4,8 @@ date: '2021-10-28'
 draft: false
 summary: Introduce font design process (unprofessional version), what are font files, and how web pages use fonts.
 tags: ['Software Development', 'Web Development', 'CSS', 'Font', 'Design']
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 A while ago, the font bundle from [Design Not Deep](https://www.instagram.com/designnotdeep/) caused a wave of font claiming craze. Besides slides, posters, and social media posts, have you ever thought about how fonts are used on web pages?
 

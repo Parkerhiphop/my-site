@@ -2,6 +2,7 @@
 title: 東京三日
 date: '2025-03-31'
 draft: false
+showSubstackEmbed: true
 summary: 一趟本不想去的東京三日追星之旅，讓我從日常中抽離，重新發現世界的廣闊和放鬆，順便聊聊燕湯、河津櫻和 Aimer 演唱會。
 ---
 

@@ -2,10 +2,10 @@
 title: 'Life in Kusatsu'
 date: '2026-01-31'
 draft: false
+showSubstackEmbed: true
 summary: Documenting my life working at Kusatsu Onsen Ski Resort, the feelings of the past month and a half, and the process of slowly getting better.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 Kusatsu was my first stop in Japan, and it's also where I've been living for over a month now.
 

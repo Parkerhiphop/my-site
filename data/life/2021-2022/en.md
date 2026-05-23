@@ -3,9 +3,8 @@ title: 2021 → 2022
 date: '2022-01-09'
 draft: false
 summary: 2021 Year in Review
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 Although I do an annual review every year, as I grow older and accumulate social experience, and since what I do each year is quite different, the way I review each year is actually quite different.
 

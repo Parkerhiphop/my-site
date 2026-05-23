@@ -2,6 +2,7 @@
 title: '存檔點更新'
 date: '2026-04-28'
 draft: false
+showSubstackEmbed: true
 summary: 在日本的生活又往前一步了，沒有一步到位，只有進到下一關的感覺，想說用「更新存檔點」描述更合適。也想分享拿到 offer 前一晚，在 share house 初見就暢聊到半夜的人們。
 coverCaption: milet live tour “stairs” 2024 的週邊，我從台灣帶著它們到了澳洲又到日本，再從草津帶到橫濱，終於到可以安心拆開來用的環境了。
 ---

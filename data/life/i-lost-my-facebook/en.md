@@ -1,10 +1,10 @@
 ---
 title: After Losing My Facebook Account Used for Twelve Years
 date: '2025-01-02'
+showSubstackEmbed: true
 summary: 'My Facebook account was suspended without warning, losing all past posts, photos, chat history, and groups. I recorded the incident, lost connections and memories, reflections on social media, and future plans here: ensuring data autonomy, actively managing information sources, formulating social media usage guidelines, and focusing on building small and close communities.'
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 ## Preface
 

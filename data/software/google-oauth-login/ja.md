@@ -4,9 +4,8 @@ date: '2022-10-23'
 draft: false
 summary: Vue と Express を使用して Google ログインを連携する小さな例
 tags: ['Software Development', 'Web Development', 'Vue', 'Express', 'Google OAuth']
+review-by-me: false
 ---
-
-> **注:** この記事は AI によって翻訳されています。もし不自然な表現や誤りがありましたら、メールやその他の手段でお知らせいただけると幸いです。フィードバックをいただけると助かります！
 
 ## はじめに
 

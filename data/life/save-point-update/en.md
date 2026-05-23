@@ -2,8 +2,10 @@
 title: 'Save Point Updated'
 date: '2026-04-28'
 draft: false
+showSubstackEmbed: true
 summary: My life in Japan has moved one step forward. It does not feel like reaching the destination in one go, but more like entering the next stage, so calling it an updated save point feels more accurate.
 coverCaption: The goods from milet live tour “stairs” 2024. I took them from Taiwan to Australia and Japan. Then took them from Kusatsu to Yokohama. Now, it's finally the place I can use them at ease.
+review-by-me: false
 ---
 
 First, I want to share a good news: I found a job in Japan!

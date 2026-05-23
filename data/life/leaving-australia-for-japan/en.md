@@ -1,10 +1,10 @@
 ---
 title: 'Body in Australia, Heart in Japan: Graduated from Australian Working Holiday in Four Months'
 date: '2025-11-20'
+showSubstackEmbed: true
 summary: The Australian working holiday ended in just four months. After going around in a circle, I returned to the original starting point. About why I left early, the change in thinking in between, and a review of this trip.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 As the title says, I left Australia.
 

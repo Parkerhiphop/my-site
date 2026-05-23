@@ -4,9 +4,8 @@ date: '2022-10-23'
 draft: false
 summary: A small example of integrating Google Login using Vue and Express.
 tags: ['Software Development', 'Web Development', 'Vue', 'Express', 'Google OAuth']
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 ## Preface
 

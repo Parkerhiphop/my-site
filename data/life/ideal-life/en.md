@@ -2,7 +2,9 @@
 title: 'Thoughts on an Ideal Life'
 date: '2026-03-27'
 draft: false
+showSubstackEmbed: true
 summary: Taipei, Brisbane, Kusatsu, and the fleeting thoughts in between. If I could give a faint smile the moment I step out the door, perhaps that would be my ideal life.
+review-by-me: false
 ---
 
 **Looking back at this time last year, I was still in Taiwan, living in a single studio apartment on Jilin Road near Xingtian Temple.**
@@ -41,7 +43,7 @@ We woke up at 6 a.m. every day and had to be at the factory before 7 a.m. I woul
 
 Bringing gummy bears was for my own cravings, and when colleagues were working to the point of despair, I could hand them out to boost their spirits.
 
-There were five of us in total with two cars, driving 10 minutes to the factory. The work was mainly desperately cutting pumpkins. You can refer to [What I Do at the Fruit and Vegetable Factory](https://www.parkerchang.life/en/life/from-coding-to-pumpkin-in-australia#%E6%88%91%E5%9C%A8%E8%94%AC%E6%9E%9C%E5%B7%A5%E5%BB%A0%E5%81%9A%E4%BB%80%E9%BA%BC). Towards the end, I was quite skilled at it. I could order stock from the forklift driver based on the day's orders, and I was also very good at using a Trolly Jack to push a bin of 300-400 kg pumpkins or other vegetables.
+There were five of us in total with two cars, driving 10 minutes to the factory. The work was mainly desperately cutting pumpkins. You can refer to [What I Do at the Fruit and Vegetable Factory](/en/life/from-coding-to-pumpkin-in-australia#%E6%88%91%E5%9C%A8%E8%94%AC%E6%9E%9C%E5%B7%A5%E5%BB%A0%E5%81%9A%E4%BB%80%E9%BA%BC). Towards the end, I was quite skilled at it. I could order stock from the forklift driver based on the day's orders, and I was also very good at using a Trolly Jack to push a bin of 300-400 kg pumpkins or other vegetables.
 
 ![pumpkin](/life/ideal-life/pumpkin.png)
 
@@ -67,7 +69,7 @@ During this period, I briefly forgot my identity as a software engineer, constan
 
 The days working here are actually quite similar to Australia. The working hours are just from eight to five. At first, I took the shuttle bus to work, but the atmosphere on the bus was always very awkward. Later, I just walked to work, and I gradually found that walking for half an hour before and after work was a great way to switch my state of mind. I could walk about 17,000 steps a day.
 
-The work was roughly introduced in [Zipline Operator](https://www.parkerchang.life/en/life/life-in-kusatsu#%E9%AB%98%E7%A9%BA%E6%BB%91%E7%B4%A2%E6%93%8D%E4%BD%9C%E5%93%A1). Fortunately, the annoying senior colleague left in February, and my Japanese improved, allowing me to chat more deeply with my colleagues. Working life in March was quite pleasant.
+The work was roughly introduced in [Zipline Operator](/en/life/life-in-kusatsu#%E9%AB%98%E7%A9%BA%E6%BB%91%E7%B4%A2%E6%93%8D%E4%BD%9C%E5%93%A1). Fortunately, the annoying senior colleague left in February, and my Japanese improved, allowing me to chat more deeply with my colleagues. Working life in March was quite pleasant.
 
 I also started being assigned to the job of pushing people on a swing on the snowy mountain. This job is quite ideal. It's located right next to the starting point of the zipline. Some people would ski past, and others would come to eat at the restaurant next door and look at the scenery. I would go up at nine o'clock and stand by, waiting for ticket-buying guests to come up, or greeting passersby. When there were no guests, I could stay in the break room and do my own thing.
 
@@ -85,9 +87,9 @@ Also, without a car here, I lost the freedom to move around.
 
 It's too easy for a backpacker in Australia to buy a car, but after coming to Japan, the procedure to convert a driver's license is extremely troublesome. Gunma Prefecture gave me the feeling that they don't want foreigners to convert their driver's licenses. Online reservations are only open for one day a month, and they stop accepting applications in less than ten minutes. Transferring a car is also not as simple as in Australia. I felt that Australia didn't make me feel like a foreigner in various aspects, while Japan draws a very clear line between Japanese and foreigners.
 
-When I was a software engineer in Taiwan, I only felt mentally exhausted and had many dissatisfactions with the status quo. I still know, but [cannot feel, the good things about Taiwan](https://www.parkerchang.life/en/life/leaving-taiwan-working-holiday#%E7%84%A1%E6%B3%95%E6%84%9F%E5%8F%97%E5%8F%B0%E7%81%A3%E7%9A%84%E5%A5%BD). Coupled with my desire to create, I thought many times whether I should find a lower-intensity job, work regular hours, and just make good use of my time off work.
+When I was a software engineer in Taiwan, I only felt mentally exhausted and had many dissatisfactions with the status quo. I still know, but [cannot feel, the good things about Taiwan](/en/life/leaving-taiwan-working-holiday#%E7%84%A1%E6%B3%95%E6%84%9F%E5%8F%97%E5%8F%B0%E7%81%A3%E7%9A%84%E5%A5%BD). Coupled with my desire to create, I thought many times whether I should find a lower-intensity job, work regular hours, and just make good use of my time off work.
 
-But after actually going out to do manual labor, initially feeling [the simple beauty](https://www.parkerchang.life/en/life/from-coding-to-pumpkin-in-australia#simple-beauty), once the novelty faded, the repetitive labor still made me tired, and I wanted to find some work with room for growth.
+But after actually going out to do manual labor, initially feeling [the simple beauty](/en/life/from-coding-to-pumpkin-in-australia#simple-beauty), once the novelty faded, the repetitive labor still made me tired, and I wanted to find some work with room for growth.
 
 Coming to Japan, the place I dreamed of, wasn't as happy as I expected. It was just an ordinary part-time job. I remember when I was in Australia, I really wanted to find a ski resort job in Japan and was very worried about it. But after truly arriving, I quickly got used to it.
 

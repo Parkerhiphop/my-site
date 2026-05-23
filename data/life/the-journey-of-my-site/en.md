@@ -3,9 +3,8 @@ title: 'The Journey of My Site: Why write and Technology Choices'
 date: '2023-05-30'
 draft: false
 summary: About "Why set up a personal website", "why write" and "how to choose the tech stack"
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 ## Why Set Up a Personal Website?
 

@@ -1,10 +1,10 @@
 ---
 title: Draw Your Own Map
 date: '2024-10-31'
+showSubstackEmbed: true
 summary: Discussing in detail "Draw Your Own Map" mentioned in the 2023->2024 Annual Review, how the map helped me, how to draw it, and my map version records and current status.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 I originally wanted to write another article first, but I received a letter asking how to practice and reflect on "Draw Your Own Map" mentioned in 2023→ 2024, so I decided to write this one first.
 
@@ -27,7 +27,7 @@ To have a healthy body, you must first let yourself generate an identity of know
 
 The preparatory work for drawing the map is also to clarify your identity first, iterate on this basis. will share my iteration records later.
 
-If you are interested in "Atomic Habits", I have briefly written [Re-understanding Habits — Book Summary of "Atomic Habits" (Part 1)](https://www.parkerchang.life/reading/atomic-habits-basic) before, so I won't repeat the concepts in the book here. In short, highly recommend this book!
+If you are interested in "Atomic Habits", I have written ["Atomic Habits" Full Book Notes](/life/atomic-habits-note) before, so I won't repeat the concepts in the book here. In short, highly recommend this book!
 
 ## How Drawing My Own Map Helped Me
 

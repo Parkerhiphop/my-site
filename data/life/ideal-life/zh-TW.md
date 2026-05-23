@@ -2,6 +2,7 @@
 title: '理想生活的念想'
 date: '2026-03-27'
 draft: false
+showSubstackEmbed: true
 summary: 台北、布里斯本、草津，以及那一念之間。如果踏出門的那一刻能淡淡地微笑，那或許就是我的理想生活。
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: What I Want to Pursue in Work
 date: '2025-09-30'
+showSubstackEmbed: true
 summary: Having worked in an Australian vegetable and fruit factory for almost two months, labor work, which is at the opposite end of the scale from brain-using software engineers, unexpectedly gave me a lot of insights. This article will share the aspects I hope to pursue in work in the future, such as identity that can be stayed, money that can be saved, easy-to-get-along partners, peace of mind, and accumulating influence, etc.
+review-by-me: false
 ---
 
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
-
-Although I have written about work in my [Annual Review](https://www.parkerchang.life/tags/Year%20in%20Review) since 2022, the last article dedicated to work and career reflection was this one: [**Reviewing My First Three Years as a Software Engineer**](/software/my-first-three-year-in-code). I suddenly realized that another three years have passed, which is a good timing to write again.
+Although I have written about work in my Annual Reviews since 2022, the last article dedicated to work and career reflection was this one: [**Reviewing My First Three Years as a Software Engineer**](/software/my-first-three-year-in-code). I suddenly realized that another three years have passed, which is a good timing to write again.
 
 Recently, the days of cutting pumpkins every day in Australia have been almost two months. The initial freshness has faded, and the passage of time has become slow after getting used to the process. The fatigue and damage caused by long-term high-intensity labor also began to accumulate. The thumb, index finger and middle finger of my hands are now in a state of numbness and pain at any time. Even typing on the keyboard feels like being electrocuted by tiny currents.
 

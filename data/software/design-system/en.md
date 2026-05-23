@@ -4,9 +4,8 @@ date: '2021-09-22'
 draft: false
 summary: The nature of a software engineer is actually very close to that of an architect, except they build houses and we build systems. A good house requires good architectural design, blueprints, understanding of the structure, and a lot of time spent on planning and design. This concept corresponds to Design System in web pages!
 tags: ['Software Development', 'Web Development', 'Design System', 'CSS', 'UI/UX']
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 Before talking about Design System, I want to mention a concept: "Planning > Implementation".
 

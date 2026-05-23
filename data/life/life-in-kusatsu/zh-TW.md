@@ -2,6 +2,7 @@
 title: '我在草津的生活'
 date: '2026-01-31'
 draft: false
+showSubstackEmbed: true
 summary: 紀錄來到草津溫泉滑雪場打工的生活，這一個半月的感受跟慢慢變好的過程。
 ---
 

@@ -2,10 +2,10 @@
 title: 2024 → 2025
 date: '2025-02-17'
 draft: false
+showSubstackEmbed: true
 summary: 2024 Year in Review, a year where the spring loosened, briefly mentioned what I completed and what I didn't, and my pain. Discussed my expectations for 2025 from life, career, finance, and interpersonal relationships, and decided to take good care of myself before exerting influence.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 The annual review was accidentally dragged to February again, missing the time after New Year's Day. Originally hoped to write it during the Spring Festival, after all, there was a long holiday at that time. But facts proved that instead of coveting more time, it is better to act quickly. Once the idea of "can do it later" appears, it will be dragged on forever.
 

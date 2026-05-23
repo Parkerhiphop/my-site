@@ -3,9 +3,8 @@ title: 2023 → 2024
 date: '2024-02-16'
 draft: false
 summary: 2023 Year in Review, discussed my views on annual reviews, last year's insights, decisions, things completed, expectations for next year, and why we should exert influence.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 > The annual review is mainly written for myself, but I also hope that my experiences and thoughts can attract like-minded people, or even help some people.
 

@@ -3,9 +3,8 @@ title: 'From Callback to Async/Await: Sequential Fade-In Animation'
 date: '2023-08-21'
 draft: false
 summary: Deal with the JS asychronous from sequential fade-in animation. Step by step refactor the code from Callback, Promise to Async/Await, providing cleaner and more maintainable code.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 ## Foreword
 

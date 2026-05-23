@@ -1,10 +1,10 @@
 ---
 title: I'm Afraid of Living Well
 date: '2025-12-29'
+showSubstackEmbed: true
 summary: I didn't live that well, but I was afraid of living well. When I received a message from my mother at Christmas, I finally figured out why I was so afraid.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 This article is the last one of 2025!
 

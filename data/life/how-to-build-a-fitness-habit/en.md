@@ -3,9 +3,8 @@ title: How to Build a Fitness Habit
 date: '2023-07-15'
 draft: false
 summary: Methodology and mindset about how I build my workout habits as an office workers
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 > We are born weak, but we know how to empower ourselves.
 

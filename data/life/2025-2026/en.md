@@ -2,10 +2,10 @@
 title: '2025 → 2026'
 date: '2026-02-23'
 draft: false
+showSubstackEmbed: true
 summary: My 2025 annual review and 2026 expectations.
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 ## Prologue
 

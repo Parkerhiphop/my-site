@@ -3,9 +3,8 @@ title: 2022 → 2023
 date: '2023-03-18'
 draft: false
 summary: 2022 年度回顧
+review-by-me: false
 ---
-
-> **注:** この記事は AI によって翻訳されています。もし不自然な表現や誤りがありましたら、メールやその他の手段でお知らせいただけると幸いです。フィードバックをいただけると助かります！
 
 ![](https://cdn-images-1.medium.com/max/800/1*NB94dmxhudHj-dusFug3RQ@2x.jpeg)
 

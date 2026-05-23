@@ -4,9 +4,8 @@ date: '2023-09-30'
 draft: false
 summary: JavaScriptにおけるevalを紹介し、なぜそれを使うべきではないかについて語り、最後にApp Scriptクローラーで`<script />`を読み取る際やJSの計算結果を取得する面接問題を例に、その応用と代替案を見ていきます。
 tags: ['Software Development', 'Web Development', 'JavaScript', 'Security', 'Eval']
+review-by-me: false
 ---
-
-> **注:** この記事は AI によって翻訳されています。もし不自然な表現や誤りがありましたら、メールやその他の手段でお知らせいただけると幸いです。フィードバックをいただけると助かります！
 
 ## はじめに
 

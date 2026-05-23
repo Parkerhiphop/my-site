@@ -4,9 +4,8 @@ date: '2025-04-13'
 draft: false
 summary: AWS EC2 と Easy Engine を使用して WordPress サイトを迅速にデプロイ（ドメインは Cloudflare で購入）。多少のプログラミング知識が必要ですが、安価で高速、自由度と拡張性も高いです！
 tags: ['Software Development', 'WordPress', 'AWS', 'EC2', 'EasyEngine', 'Cloudflare']
+review-by-me: false
 ---
-
-> **注:** この記事は AI によって翻訳されています。もし不自然な表現や誤りがありましたら、メールやその他の手段でお知らせいただけると幸いです。フィードバックをいただけると助かります！
 
 昨年、仕事でいくつかの大規模な WordPress サイトを扱いました。そこで学んだ WordPress 構築戦略を記録し、共有します。
 
