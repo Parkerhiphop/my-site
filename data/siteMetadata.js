@@ -46,12 +46,10 @@ const siteMetadata = {
     life: '💭',
     review: '🎬',
     software: '🧑‍💻',
-    novel: '✍️',
     random: '🎲',
     guestbook: '✍️',
     database: '🗃️',
     now: '📍',
-    stream: '🌊',
     about: '🙌',
   },
 };

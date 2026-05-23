@@ -2,21 +2,17 @@
   "life": "生活",
   "review": "感想",
   "software": "ソフトウェア",
-  "novel": "小説",
   "random": "ランダム",
   "guestbook": "ゲストブック",
   "database": "作品データベース",
   "now": "近況",
-  "stream": "日常",
   "tags": "タグ",
   "about": "プロフィール",
   "life-description": "生活に対する考え、物事への見方、社会への観察などをここに書いています。",
   "review-description": "さまざまな作品を見たり読んだりした後の感想を記録しています。感想を書いていない作品の一覧はこちら：",
   "software-description": "ソフトウェア開発で遭遇した困難や技術メモ、時々職場での経験も含みます。",
-  "novel-description": "自分の小説、章、草稿を置く場所です。",
   "random-description": "今のあなたにランダムな記事を一つ選びます。",
   "guestbook-description": "一言を残したり、自分のサイトを紹介したり、ここを訪れたことを知らせてください。",
   "database-description": "見た作品、読んだ作品のをまとめる公開データベースです。",
-  "now-description": "今いる場所、近況、現在取り組んでいること。",
-  "stream-description": "日常生活の中で一瞬浮かんだ考えを日記風に記録しています。"
+  "now-description": "今いる場所、近況、現在取り組んでいること。"
 }

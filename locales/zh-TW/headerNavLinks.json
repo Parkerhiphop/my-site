@@ -7,7 +7,6 @@
   "guestbook": "簽名板",
   "database": "作品資料庫",
   "now": "近況",
-  "stream": "流水帳",
   "tags": "標籤",
   "about": "關於",
   "life-description": "對生活的想法、對事情的看法、對社會的觀察，和一些雜七雜八都會寫在這。",
@@ -17,6 +16,5 @@
   "random-description": "隨機挑一篇文章給現在的你。",
   "guestbook-description": "來這裡留下一句話、分享你的網站，或單純讓我知道你曾經路過。",
   "database-description": "整理看過、讀過的作品，像一份公開的作品資料庫。",
-  "now-description": "目前所在的位置、近況和正在做的事。",
-  "stream-description": "流水帳式記錄日常生活中一閃而逝的想法。"
+  "now-description": "目前所在的位置、近況和正在做的事。"
 }
