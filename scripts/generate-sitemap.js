@@ -9,12 +9,10 @@ const i18nConfig = require('../i18n.json');
   const pages = await globby([
     'pages/*.js',
     'pages/*.tsx',
-    'data/reviews/**/*.mdx',
-    'data/reviews/**/*.md',
+    'data/review/**/*.mdx',
+    'data/review/**/*.md',
     'data/life/**/*.mdx',
     'data/life/**/*.md',
-    'data/reading/**/*.mdx',
-    'data/reading/**/*.md',
     // 'data/software/**/*.mdx',
     // 'data/software/**/*.md',
     'public/tags/**/*.xml',
@@ -32,6 +30,13 @@ const i18nConfig = require('../i18n.json');
       }
 
       if (page.includes('data') || page.includes('.xml')) {
+        const fileLocale = page
+          .split('/')
+          .pop()
+          .replace(/\.(mdx|md|xml)$/, '');
+        if (locales.includes(fileLocale)) {
+          return [[page, fileLocale]];
+        }
         for (let i = 0; i < locales.length; i++) {
           if (page.includes(`.${locales[i]}.`)) {
             return [[page, locales[i]]];
@@ -48,15 +53,15 @@ const i18nConfig = require('../i18n.json');
         (loc !== defaultLocale ? `/${loc}` : '') +
         page
           .replace('pages/', '/')
-          .replace('data/reviews', '/reviews')
+          .replace('data/review', '/review')
           .replace('data/life', '/life')
-          .replace('data/reading', '/reading')
           // .replace('data/software', '/software')
           .replace('public/', '/')
           .replace('.js', '')
           .replace('.mdx', '')
           .replace('.md', '')
           .replace(`.${loc}`, '')
+          .replace(new RegExp(`/${loc}$`), '')
           .replace('/feed', '')
           .replace('.xml', '')),
       loc,
@@ -83,9 +88,8 @@ const i18nConfig = require('../i18n.json');
                 const route = path.includes('/index') ? path.replace('/index', '') : path;
                 if (
                   path.includes(`/404.js`) ||
-                  path.includes(`/reviews/[...slug].js`) ||
+                  path.includes(`/review/[...slug].js`) ||
                   path.includes(`/life/[...slug].js`) ||
-                  path.includes(`/reading/[...slug].js`) ||
                   // path.includes(`/software/[...slug].js`) ||
                   alreadyPresent
                 ) {

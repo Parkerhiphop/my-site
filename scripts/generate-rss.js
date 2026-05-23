@@ -58,19 +58,18 @@ const generateRssItem = (post, locale, defaultLocale) => `
     'data/life/**/*.md',
     // 'data/software/**/*.mdx',
     // 'data/software/**/*.md',
-    'data/thoughts/**/*.mdx',
-    'data/thoughts/**/*.md',
-    'data/reading/**/*.mdx',
-    'data/reading/**/*.md',
+    'data/review/**/*.mdx',
+    'data/review/**/*.md',
   ]);
 
   const allPosts = await Promise.all(
     contentFiles.map(async (filePath) => {
       const source = fs.readFileSync(filePath, 'utf8');
       const { data, content } = matter(source);
-      const category = filePath.split('/')[1];
-      const slug = filePath.split('/')[2];
-      const locale = filePath.split('/')[3].replace('.md', '');
+      const parts = filePath.split('/');
+      const category = parts[1];
+      const slug = parts.slice(2, -1).join('/');
+      const locale = path.basename(parts[parts.length - 1], path.extname(parts[parts.length - 1]));
 
       return {
         ...data,

@@ -55,28 +55,43 @@ const securityHeaders = [
 
 const redirects = [
   {
-    source: '/review/hokkyoku-departmant-store',
-    destination: '/thoughts/movie/hokkyoku-departmant-store',
+    source: '/review/atomic-habits-basic',
+    destination: '/life/atomic-habits-note',
     statusCode: 301,
   },
   {
-    source: '/review/robot-dream',
-    destination: '/thoughts/movie/robot-dream',
+    source: '/review/atomic-habits-practice',
+    destination: '/life/atomic-habits-note',
+    statusCode: 301,
+  },
+  {
+    source: '/review/atomic-habits-note',
+    destination: '/life/atomic-habits-note',
+    statusCode: 301,
+  },
+  {
+    source: '/reading/atomic-habits-basic',
+    destination: '/life/atomic-habits-note',
+    statusCode: 301,
+  },
+  {
+    source: '/reading/atomic-habits-note',
+    destination: '/life/atomic-habits-note',
+    statusCode: 301,
+  },
+  {
+    source: '/reading/atomic-habits-practice',
+    destination: '/life/atomic-habits-note',
     statusCode: 301,
   },
   {
     source: '/review/wind-breaker-shishitouren',
-    destination: '/thoughts/manga/wind-breaker-shishitouren',
-    statusCode: 301,
-  },
-  {
-    source: '/review/:path*',
-    destination: '/thoughts/:path*',
+    destination: '/review/wind-breaker',
     statusCode: 301,
   },
   {
     source: '/reading/:path*',
-    destination: '/thoughts/tools/:path*',
+    destination: '/review/:path*',
     statusCode: 301,
   },
   {
@@ -111,32 +126,32 @@ const redirects = [
   },
   {
     source: '/blog/atomic-habits-basic',
-    destination: '/thoughts/tools/atomic-habits-basic',
+    destination: '/life/atomic-habits-note',
     statusCode: 301,
   },
   {
     source: '/blog/atomic-habits-note',
-    destination: '/thoughts/tools/atomic-habits-note',
+    destination: '/life/atomic-habits-note',
     statusCode: 301,
   },
   {
     source: '/blog/atomic-habits-practice',
-    destination: '/thoughts/tools/atomic-habits-practice',
+    destination: '/life/atomic-habits-note',
     statusCode: 301,
   },
   {
     source: '/blog/hokkyoku-departmant-store',
-    destination: '/thoughts/movie/hokkyoku-departmant-store',
+    destination: '/review/hokkyoku-departmant-store',
     statusCode: 301,
   },
   {
     source: '/blog/robot-dream',
-    destination: '/thoughts/movie/robot-dream',
+    destination: '/review/robot-dream',
     statusCode: 301,
   },
   {
     source: '/blog/wind-breaker-shishitouren',
-    destination: '/thoughts/manga/wind-breaker-shishitouren',
+    destination: '/review/wind-breaker',
     statusCode: 301,
   },
   {

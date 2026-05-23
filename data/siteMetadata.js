@@ -14,7 +14,7 @@ const siteMetadata = {
   siteLogo: 'me.png',
   image: 'me.png',
   socialBanner: 'me.png',
-  email: 'parkerhiphop027@gmail.com',
+  email: 'path@parkerchang.life',
   github: 'https://github.com/Parkerhiphop',
   twitter: 'https://twitter.com/parkerchang11',
   linkedin: 'https://www.linkedin.com/in/cheng-yi-chang-19b148176/',
@@ -39,12 +39,16 @@ const siteMetadata = {
     // Please add your .env file and modify it according to your selection
     provider: 'buttondown',
   },
+  comments: {
+    hyvorTalkWebsiteId: 15450,
+  },
   iconMap: {
     life: '💭',
-    thoughts: '🎬',
+    review: '🎬',
     software: '🧑‍💻',
     novel: '✍️',
     random: '🎲',
+    guestbook: '✍️',
     database: '🗃️',
     now: '📍',
     stream: '🌊',
