@@ -4,6 +4,7 @@ import Image from './Image';
 import CustomLink from './Link';
 import TOCInline from './TOCInline';
 import Pre from './Pre';
+import { BobaButton } from './SponsorSection';
 import { BlogNewsletterForm } from './NewsletterForm';
 import { H1, H2, H3, H4, H5, H6 } from './Heading';
 
@@ -12,6 +13,7 @@ export const MDXComponents = {
   TOCInline,
   a: CustomLink,
   pre: Pre,
+  BobaButton,
   h1: H1,
   h2: H2,
   h3: H3,

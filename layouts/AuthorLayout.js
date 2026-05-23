@@ -1,44 +1,41 @@
 // import SocialIcon from '@/components/social-icons'
-import Image from '@/components/Image';
 import { PageSEO } from '@/components/SEO';
+import SponsorSection from '@/components/SponsorSection';
+import siteMetadata from '@/data/siteMetadata';
 
 import useTranslation from 'next-translate/useTranslation';
+import { useRouter } from 'next/router';
 
 export default function AuthorLayout({ children, frontMatter, availableLocales }) {
-  const { name, avatar, occupation, company, email, twitter, linkedin, github } = frontMatter;
+  const { name, aboutTitle, description } = frontMatter;
   const { t } = useTranslation();
+  const { locale } = useRouter();
+  const pageTitle = aboutTitle || t('headerNavLinks:about');
+  const pageDescription = description || `${t('SEO:about')} - ${name}`;
 
   return (
     <>
       <PageSEO
         title={`${t('headerNavLinks:about')} - ${name}`}
-        description={`${t('SEO:about')} - ${name}`}
+        description={pageDescription}
         availableLocales={availableLocales}
       />
-      <div className="divide-y">
-        <div className="space-y-2 pt-6 pb-8 md:space-y-5">
-          <h1>{t('headerNavLinks:about')}</h1>
-        </div>
-        <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
-          <div className="flex flex-col items-center pt-8">
-            <Image
-              src={avatar}
-              alt="avatar"
-              width="192"
-              height="192"
-              className="h-48 w-48 rounded-full"
-            />
-            <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight">{name}</h3>
-            <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
-            <div className="text-gray-500 dark:text-gray-400">{company}</div>
-            {/* <div className="flex space-x-3 pt-6">
-              <SocialIcon kind="mail" href={`mailto:${email}`} />
-              <SocialIcon kind="github" href={github} />
-              <SocialIcon kind="linkedin" href={linkedin} />
-              <SocialIcon kind="twitter" href={twitter} />
-            </div> */}
+      <div className="space-y-10">
+        <header className="border-b border-gray-200 pb-8 dark:border-gray-700 md:pt-6">
+          <h1 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl">
+            {siteMetadata.iconMap.about} {pageTitle}
+          </h1>
+        </header>
+
+        <div className="mx-auto max-w-3xl pb-10">
+          <div className="prose max-w-none prose-h2:border-t prose-h2:border-gray-200 prose-h2:pt-10 prose-h2:text-2xl prose-li:marker:text-primary-500 dark:prose-dark dark:prose-h2:border-gray-700">
+            {children}
           </div>
-          <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">{children}</div>
+          {!frontMatter.hideSponsor && (
+            <div className="mt-10">
+              <SponsorSection locale={locale} variant="full" />
+            </div>
+          )}
         </div>
       </div>
     </>
