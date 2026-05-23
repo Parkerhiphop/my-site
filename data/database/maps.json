@@ -1,0 +1,146 @@
+{
+  "genre": {
+    "action": {
+      "zh": "動作",
+      "ja": "アクション",
+      "en": "Action"
+    },
+    "adventure": {
+      "zh": "冒險",
+      "ja": "アドベンチャー",
+      "en": "Adventure"
+    },
+    "fantasy": {
+      "zh": "奇幻",
+      "ja": "ファンタジー",
+      "en": "Fantasy"
+    },
+    "sci-fi": {
+      "zh": "科幻",
+      "ja": "SF",
+      "en": "Sci-Fi"
+    },
+    "romance": {
+      "zh": "愛情",
+      "ja": "恋愛",
+      "en": "Romance"
+    },
+    "series": {
+      "zh": "劇情",
+      "ja": "ドラマ",
+      "en": "Series"
+    },
+    "thriller": {
+      "zh": "驚悚",
+      "ja": "スリラー",
+      "en": "Thriller"
+    },
+    "historical": {
+      "zh": "歷史",
+      "ja": "歴史",
+      "en": "Historical"
+    },
+    "horror": {
+      "zh": "恐怖",
+      "ja": "ホラー",
+      "en": "Horror"
+    },
+    "comedy": {
+      "zh": "喜劇",
+      "ja": "コメディ",
+      "en": "Comedy"
+    },
+    "slice-of-life": {
+      "zh": "日常",
+      "ja": "日常",
+      "en": "Slice of Life"
+    },
+    "mystery": {
+      "zh": "推理",
+      "ja": "ミステリー",
+      "en": "Mystery"
+    },
+    "sports": {
+      "zh": "運動",
+      "ja": "スポーツ",
+      "en": "Sports"
+    }
+  },
+  "status": {
+    "completed": {
+      "zh": "閱畢",
+      "ja": "読了",
+      "en": "Completed"
+    },
+    "ongoing": {
+      "zh": "正在看",
+      "ja": "視聴中",
+      "en": "Watching"
+    },
+    "on_hold": {
+      "zh": "中斷",
+      "ja": "保留",
+      "en": "Paused"
+    },
+    "dropped": {
+      "zh": "棄坑",
+      "ja": "中断",
+      "en": "Dropped"
+    }
+  },
+  "form": {
+    "anime": {
+      "zh": "動畫",
+      "ja": "アニメ",
+      "en": "Anime"
+    },
+    "manga": {
+      "zh": "漫畫",
+      "ja": "漫画",
+      "en": "Manga"
+    },
+    "novel": {
+      "zh": "小說",
+      "ja": "小説",
+      "en": "Novel"
+    },
+    "film": {
+      "zh": "電影",
+      "ja": "映画",
+      "en": "Film"
+    },
+    "series": {
+      "zh": "影集",
+      "ja": "ドラマ",
+      "en": "Series"
+    }
+  },
+  "score": {
+    "5": {
+      "zh": "神作",
+      "ja": "神作",
+      "en": "GOAT"
+    },
+    "3": {
+      "zh": "推薦",
+      "ja": "おすすめ",
+      "en": "Recommended"
+    },
+    "2": {
+      "zh": "有亮點",
+      "ja": "見どころがある",
+      "en": "Has Its Moments"
+    },
+    "1": {
+      "zh": "很閒可以看",
+      "ja": "暇つぶしに",
+      "en": "If You Have Time"
+    },
+    "unrated": {
+      "zh": "尚未評價",
+      "ja": "未評価",
+      "en": "Not Yet Rated"
+    }
+  },
+  "publisher": {}
+}

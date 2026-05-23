@@ -1,0 +1,3259 @@
+[
+  {
+    "key": "kpop-demon-hunters",
+    "title": {
+      "zh": "KPop 獵魔女團",
+      "ja": "KPOPガールズ! デーモン・ハンターズ",
+      "en": "KPop Demon Hunters"
+    },
+    "creator": {
+      "zh": "梅姬·姜、克里斯·艾伯翰斯",
+      "ja": "マギー・カン、クリス・アペルハンス",
+      "en": "Maggie Kang, Chris Appelhans"
+    },
+    "form": "film",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "sony_pictures",
+    "release_dates": ["2025/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "Netflix 配信電影；Sony Pictures Animation 製作。",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-fantastic-four-first-steps",
+    "title": {
+      "zh": "驚奇4超人：第一步",
+      "ja": "ファンタスティック4：ファースト・ステップ",
+      "en": "The Fantastic Four: First Steps"
+    },
+    "creator": {
+      "zh": "麥特·夏克曼",
+      "ja": "マット・シャックマン",
+      "en": "Matt Shakman"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2025/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "whisper-of-the-heart",
+    "title": {
+      "zh": "心之谷",
+      "ja": "耳をすませば",
+      "en": "Whisper of the Heart"
+    },
+    "creator": {
+      "zh": "柊葵、近藤喜文",
+      "ja": "柊あおい、近藤喜文",
+      "en": "Aoi Hiiragi, Yoshifumi Kondo"
+    },
+    "form": "film",
+    "genres": ["romance", "slice-of-life"],
+    "publisher": "studio_ghibli",
+    "release_dates": ["1995/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "interstellar",
+    "title": {
+      "zh": "星際效應",
+      "ja": "インターステラー",
+      "en": "Interstellar"
+    },
+    "creator": {
+      "zh": "克里斯多福·諾蘭",
+      "ja": "クリストファー・ノーラン",
+      "en": "Christopher Nolan"
+    },
+    "form": "film",
+    "genres": ["adventure", "sci-fi"],
+    "publisher": "paramount_pictures",
+    "release_dates": ["2014/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "venom-the-last-dance",
+    "title": {
+      "zh": "猛毒最終章：最後一舞",
+      "ja": "ヴェノム：ザ・ラストダンス",
+      "en": "Venom: The Last Dance"
+    },
+    "creator": {
+      "zh": "凱莉·馬塞爾",
+      "ja": "ケリー・マーセル",
+      "en": "Kelly Marcel"
+    },
+    "form": "film",
+    "genres": ["action", "sci-fi"],
+    "publisher": "columbia_pictures",
+    "release_dates": ["2024/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-wild-robot",
+    "title": {
+      "zh": "荒野機器人",
+      "ja": "野生の島のロズ",
+      "en": "The Wild Robot"
+    },
+    "creator": {
+      "zh": "克里斯·桑德斯",
+      "ja": "クリス・サンダース",
+      "en": "Chris Sanders"
+    },
+    "form": "film",
+    "genres": ["adventure", "sci-fi"],
+    "publisher": "dreamworks_animation",
+    "release_dates": ["2024/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "dead-talents-society",
+    "title": {
+      "zh": "鬼才之道",
+      "ja": "鬼才之道",
+      "en": "Dead Talents Society"
+    },
+    "creator": {
+      "zh": "徐漢強",
+      "ja": "ジョン・スー",
+      "en": "John Hsu"
+    },
+    "form": "film",
+    "genres": ["comedy", "horror"],
+    "publisher": null,
+    "release_dates": ["2024/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "deadpool-and-wolverine",
+    "title": {
+      "zh": "死侍與金鋼狼",
+      "ja": "デッドプール＆ウルヴァリン",
+      "en": "Deadpool & Wolverine"
+    },
+    "creator": {
+      "zh": "薛恩·李維",
+      "ja": "ショーン・レヴィ",
+      "en": "Shawn Levy"
+    },
+    "form": "film",
+    "genres": ["action", "comedy", "sci-fi"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2024/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "april-come-she-will",
+    "title": {
+      "zh": "四月，她將到來",
+      "ja": "四月になれば彼女は",
+      "en": "April, Come She Will"
+    },
+    "creator": {
+      "zh": "山田智和",
+      "ja": "山田智和",
+      "en": "Tomokazu Yamada"
+    },
+    "form": "film",
+    "genres": ["romance"],
+    "publisher": "toho",
+    "release_dates": ["2024/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "twisters",
+    "title": {
+      "zh": "龍捲風暴",
+      "ja": "ツイスターズ",
+      "en": "Twisters"
+    },
+    "creator": {
+      "zh": "李·艾薩克·鄭",
+      "ja": "リー・アイザック・チョン",
+      "en": "Lee Isaac Chung"
+    },
+    "form": "film",
+    "genres": ["action", "thriller"],
+    "publisher": "universal_pictures",
+    "release_dates": ["2024/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "ikoku-nikki",
+    "title": {
+      "zh": "異國日記",
+      "ja": "違国日記",
+      "en": "Worlds Apart"
+    },
+    "creator": {
+      "zh": "瀨田夏希",
+      "ja": "瀬田なつき",
+      "en": "Natsuki Seta"
+    },
+    "form": "film",
+    "genres": ["slice-of-life"],
+    "publisher": "toho",
+    "release_dates": ["2024/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "humanist-vampire-seeking-consenting-suicidal-person",
+    "title": {
+      "zh": "人道主義吸血鬼尋找自願獻身者",
+      "ja": "ヒューマニスト・ヴァンパイア",
+      "en": "Humanist Vampire Seeking Consenting Suicidal Person"
+    },
+    "creator": {
+      "zh": "阿莉安·路易-塞茲",
+      "ja": "アリアーヌ・ルイ＝セーズ",
+      "en": "Ariane Louis-Seize"
+    },
+    "form": "film",
+    "genres": ["comedy", "horror"],
+    "publisher": null,
+    "release_dates": ["2023/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "dead-dead-demons-dededededestruction-koushou",
+    "title": {
+      "zh": "DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION 惡魔的破壞 後章",
+      "ja": "デッドデッドデーモンズデデデデデストラクション　後章",
+      "en": "Dead Dead Demon's Dededede Destruction Koushou"
+    },
+    "creator": {
+      "zh": "淺野一二〇",
+      "ja": "浅野いにお",
+      "en": "Inio Asano"
+    },
+    "form": "film",
+    "genres": ["sci-fi", "slice-of-life"],
+    "publisher": "production_h",
+    "release_dates": ["2024/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "twilight-of-the-warriors-walled-in",
+    "title": {
+      "zh": "九龍城寨之圍城",
+      "ja": "トワイライト・ウォリアーズ 決戦！九龍城砦",
+      "en": "Twilight of the Warriors: Walled In"
+    },
+    "creator": {
+      "zh": "鄭保瑞",
+      "ja": "ソイ・チェン",
+      "en": "Soi Cheang"
+    },
+    "form": "film",
+    "genres": ["action", "thriller"],
+    "publisher": "bravos_pictures",
+    "release_dates": ["2024/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "inside-out-2",
+    "title": {
+      "zh": "腦筋急轉彎2",
+      "ja": "インサイド・ヘッド2",
+      "en": "Inside Out 2"
+    },
+    "creator": {
+      "zh": "凱爾西·曼恩",
+      "ja": "ケルシー・マン",
+      "en": "Kelsey Mann"
+    },
+    "form": "film",
+    "genres": ["adventure", "comedy"],
+    "publisher": "pixar",
+    "release_dates": ["2024/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "furiosa-a-mad-max-saga",
+    "title": {
+      "zh": "芙莉歐莎：瘋狂麥斯傳奇篇章",
+      "ja": "マッドマックス：フュリオサ",
+      "en": "Furiosa: A Mad Max Saga"
+    },
+    "creator": {
+      "zh": "喬治·米勒",
+      "ja": "ジョージ・ミラー",
+      "en": "George Miller"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "warner_bros",
+    "release_dates": ["2024/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "mad-max-fury-road",
+    "title": {
+      "zh": "瘋狂麥斯：憤怒道",
+      "ja": "マッドマックス 怒りのデス・ロード",
+      "en": "Mad Max: Fury Road"
+    },
+    "creator": {
+      "zh": "喬治·米勒",
+      "ja": "ジョージ・ミラー",
+      "en": "George Miller"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "warner_bros",
+    "release_dates": ["2015/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-fall-guy",
+    "title": {
+      "zh": "特技玩家",
+      "ja": "フォールガイ",
+      "en": "The Fall Guy"
+    },
+    "creator": {
+      "zh": "大衛·雷奇",
+      "ja": "デヴィッド・リーチ",
+      "en": "David Leitch"
+    },
+    "form": "film",
+    "genres": ["action", "comedy"],
+    "publisher": "universal_pictures",
+    "release_dates": ["2024/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "haikyu-the-dumpster-battle",
+    "title": {
+      "zh": "劇場版 排球少年！！垃圾場的決戰",
+      "ja": "劇場版ハイキュー!! ゴミ捨て場の決戦",
+      "en": "HAIKYU!! The Dumpster Battle"
+    },
+    "creator": {
+      "zh": "古館春一、滿仲勸",
+      "ja": "古舘春一、満仲勧",
+      "en": "Haruichi Furudate, Susumu Mitsunaka"
+    },
+    "form": "film",
+    "genres": ["sports", "comedy"],
+    "publisher": "production_i_g",
+    "release_dates": ["2024/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "godzilla-x-kong-the-new-empire",
+    "title": {
+      "zh": "哥吉拉與金剛：新帝國",
+      "ja": "ゴジラxコング 新たなる帝国",
+      "en": "Godzilla x Kong: The New Empire"
+    },
+    "creator": {
+      "zh": "亞當·溫高德",
+      "ja": "アダム・ウィンガード",
+      "en": "Adam Wingard"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "legendary_pictures",
+    "release_dates": ["2024/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "dune-part-two",
+    "title": {
+      "zh": "沙丘：第二部",
+      "ja": "デューン 砂の惑星 PART2",
+      "en": "Dune: Part Two"
+    },
+    "creator": {
+      "zh": "丹尼·維勒納夫",
+      "ja": "ドゥニ・ヴィルヌーヴ",
+      "en": "Denis Villeneuve"
+    },
+    "form": "film",
+    "genres": ["adventure", "sci-fi"],
+    "publisher": "warner_bros",
+    "release_dates": ["2024/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "perfect-days",
+    "title": {
+      "zh": "我的完美日常",
+      "ja": "PERFECT DAYS",
+      "en": "Perfect Days"
+    },
+    "creator": {
+      "zh": "文·溫德斯",
+      "ja": "ヴィム・ヴェンダース",
+      "en": "Wim Wenders"
+    },
+    "form": "film",
+    "genres": ["slice-of-life"],
+    "publisher": "toho",
+    "release_dates": ["2023/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "robot-dreams",
+    "title": {
+      "zh": "再見機器人",
+      "ja": "ロボット・ドリームズ",
+      "en": "Robot Dreams"
+    },
+    "creator": {
+      "zh": "巴勃羅·貝格爾",
+      "ja": "パブロ・ベルヘル",
+      "en": "Pablo Berger"
+    },
+    "form": "film",
+    "genres": ["slice-of-life", "comedy"],
+    "publisher": null,
+    "release_dates": ["2023/05"],
+    "my_completed_date": "2023/06",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": true,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "la-la-land",
+    "title": {
+      "zh": "樂來越愛你",
+      "ja": "ラ・ラ・ランド",
+      "en": "La La Land"
+    },
+    "creator": {
+      "zh": "達米恩·查澤雷",
+      "ja": "デイミアン・チャゼル",
+      "en": "Damien Chazelle"
+    },
+    "form": "film",
+    "genres": ["romance", "comedy"],
+    "publisher": "lionsgate",
+    "release_dates": ["2016/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "pompo-the-cinephile",
+    "title": {
+      "zh": "酷愛電影的龐波小姐",
+      "ja": "映画大好きポンポさん",
+      "en": "Pompo: The Cinephile"
+    },
+    "creator": {
+      "zh": "杉谷庄吾、人平尾隆之",
+      "ja": "杉谷庄吾［人間プラモ］、平尾隆之",
+      "en": "Shogo Sugitani, Takayuki Hirao"
+    },
+    "form": "film",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "kadokawa",
+    "release_dates": ["2021/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "barbie",
+    "title": {
+      "zh": "芭比",
+      "ja": "バービー",
+      "en": "Barbie"
+    },
+    "creator": {
+      "zh": "葛莉塔·潔薇",
+      "ja": "グレタ・ガーウィグ",
+      "en": "Greta Gerwig"
+    },
+    "form": "film",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "warner_bros",
+    "release_dates": ["2023/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "oppenheimer",
+    "title": {
+      "zh": "奧本海默",
+      "ja": "オッペンハイマー",
+      "en": "Oppenheimer"
+    },
+    "creator": {
+      "zh": "克里斯多福·諾蘭",
+      "ja": "クリストファー・ノーラン",
+      "en": "Christopher Nolan"
+    },
+    "form": "film",
+    "genres": ["historical", "series"],
+    "publisher": "universal_pictures",
+    "release_dates": ["2023/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "elemental",
+    "title": {
+      "zh": "元素方城市",
+      "ja": "マイ・エレメント",
+      "en": "Elemental"
+    },
+    "creator": {
+      "zh": "彼得·孫",
+      "ja": "ピーター・ソーン",
+      "en": "Peter Sohn"
+    },
+    "form": "film",
+    "genres": ["adventure", "comedy", "romance"],
+    "publisher": "pixar",
+    "release_dates": ["2023/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "spider-man-across-the-spider-verse",
+    "title": {
+      "zh": "蜘蛛人：穿越新宇宙",
+      "ja": "スパイダーマン：アクロス・ザ・スパイダーバース",
+      "en": "Spider-Man: Across the Spider-Verse"
+    },
+    "creator": {
+      "zh": "華金·多斯·桑托斯、坎普·鮑爾斯、賈斯汀·K·湯普森",
+      "ja": "ホアキン・ドス・サントス、ケンプ・パワーズ、ジャスティン・K・トンプソン",
+      "en": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "sony_pictures",
+    "release_dates": ["2023/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-whale",
+    "title": {
+      "zh": "我的鯨魚老爸",
+      "ja": "ザ・ホエール",
+      "en": "The Whale"
+    },
+    "creator": {
+      "zh": "戴倫·艾洛諾夫斯基",
+      "ja": "ダーレン・アロノフスキー",
+      "en": "Darren Aronofsky"
+    },
+    "form": "film",
+    "genres": ["series"],
+    "publisher": "a24",
+    "release_dates": ["2022/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "superman-2025",
+    "title": {
+      "zh": "超人",
+      "ja": "スーパーマン",
+      "en": "Superman"
+    },
+    "creator": {
+      "zh": "詹姆斯·岡恩",
+      "ja": "ジェームズ・ガン",
+      "en": "James Gunn"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "dc_studios",
+    "release_dates": ["2025/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "2025 年電影",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "how-to-train-your-dragon-2025",
+    "title": {
+      "zh": "馴龍高手",
+      "ja": "ヒックとドラゴン",
+      "en": "How to Train Your Dragon"
+    },
+    "creator": {
+      "zh": "迪恩·戴布洛伊",
+      "ja": "ディーン・デュボア",
+      "en": "Dean DeBlois"
+    },
+    "form": "film",
+    "genres": ["adventure", "fantasy"],
+    "publisher": "dreamworks_animation",
+    "release_dates": ["2025/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "真人版",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "lilo-and-stitch-2025",
+    "title": {
+      "zh": "星際寶貝史迪奇",
+      "ja": "リロ＆スティッチ",
+      "en": "Lilo & Stitch"
+    },
+    "creator": {
+      "zh": "狄恩·弗萊舍·坎普",
+      "ja": "ディーン・フライシャー・キャンプ",
+      "en": "Dean Fleischer Camp"
+    },
+    "form": "film",
+    "genres": ["adventure", "comedy", "sci-fi"],
+    "publisher": "disney",
+    "release_dates": ["2025/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "真人版",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "thunderbolts",
+    "title": {
+      "zh": "雷霆特攻隊",
+      "ja": "サンダーボルツ*",
+      "en": "Thunderbolts*"
+    },
+    "creator": {
+      "zh": "傑克·史萊爾",
+      "ja": "ジェイク・シュライアー",
+      "en": "Jake Schreier"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2025/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "my-beloved-stranger",
+    "title": {
+      "zh": "我在平行時空戀上妳",
+      "ja": "知らないカノジョ",
+      "en": "My Beloved Stranger"
+    },
+    "creator": {
+      "zh": "三木孝浩、milet、中島健人",
+      "ja": "三木孝浩、milet、中島健人",
+      "en": "Takahiro Miki、milet、Kento Nakajima"
+    },
+    "form": "film",
+    "genres": ["romance", "fantasy"],
+    "publisher": "gaga",
+    "release_dates": ["2025/02"],
+    "my_completed_date": "2025/03",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "wicked",
+    "title": {
+      "zh": "魔法壞女巫",
+      "ja": "ウィキッド ふたりの魔女",
+      "en": "Wicked"
+    },
+    "creator": {
+      "zh": "朱浩偉",
+      "ja": "ジョン・M・チュウ",
+      "en": "Jon M. Chu"
+    },
+    "form": "film",
+    "genres": ["fantasy", "romance"],
+    "publisher": "universal_pictures",
+    "release_dates": ["2024/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "glass-onion-a-knives-out-mystery",
+    "title": {
+      "zh": "鋒迴路轉：抽絲剝繭",
+      "ja": "ナイブズ・アウト：グラス・オニオン",
+      "en": "Glass Onion: A Knives Out Mystery"
+    },
+    "creator": {
+      "zh": "雷恩·強生",
+      "ja": "ライアン・ジョンソン",
+      "en": "Rian Johnson"
+    },
+    "form": "film",
+    "genres": ["mystery", "comedy"],
+    "publisher": "netflix",
+    "release_dates": ["2022/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "thor-love-and-thunder",
+    "title": {
+      "zh": "雷神索爾：愛與雷霆",
+      "ja": "ソー：ラブ＆サンダー",
+      "en": "Thor: Love and Thunder"
+    },
+    "creator": {
+      "zh": "塔伊加·維迪提",
+      "ja": "タイカ・ワイティティ",
+      "en": "Taika Waititi"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2022/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-shawshank-redemption",
+    "title": {
+      "zh": "刺激1995",
+      "ja": "ショーシャンクの空に",
+      "en": "The Shawshank Redemption"
+    },
+    "creator": {
+      "zh": "法蘭克·戴瑞邦",
+      "ja": "フランク・ダラボン",
+      "en": "Frank Darabont"
+    },
+    "form": "film",
+    "genres": ["series"],
+    "publisher": "warner_bros",
+    "release_dates": ["1994/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "bohemian-rhapsody",
+    "title": {
+      "zh": "波希米亞狂想曲",
+      "ja": "ボヘミアン・ラプソディ",
+      "en": "Bohemian Rhapsody"
+    },
+    "creator": {
+      "zh": "布萊恩·辛格",
+      "ja": "ブライアン・シンガー",
+      "en": "Bryan Singer"
+    },
+    "form": "film",
+    "genres": ["series"],
+    "publisher": "20th_century_studios",
+    "release_dates": ["2018/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "top-gun-maverick",
+    "title": {
+      "zh": "捍衛戰士：獨行俠",
+      "ja": "トップガン マーヴェリック",
+      "en": "Top Gun: Maverick"
+    },
+    "creator": {
+      "zh": "約瑟夫·柯金斯基",
+      "ja": "ジョセフ・コシンスキー",
+      "en": "Joseph Kosinski"
+    },
+    "form": "film",
+    "genres": ["action"],
+    "publisher": "paramount_pictures",
+    "release_dates": ["2022/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "top-gun",
+    "title": {
+      "zh": "捍衛戰士",
+      "ja": "トップガン",
+      "en": "Top Gun"
+    },
+    "creator": {
+      "zh": "東尼·史考特",
+      "ja": "トニー・スコット",
+      "en": "Tony Scott"
+    },
+    "form": "film",
+    "genres": ["action"],
+    "publisher": "paramount_pictures",
+    "release_dates": ["1986/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "chip-n-dale-rescue-rangers",
+    "title": {
+      "zh": "救難小福星",
+      "ja": "チップとデールの大作戦 レスキュー・レンジャーズ",
+      "en": "Chip 'n Dale: Rescue Rangers"
+    },
+    "creator": {
+      "zh": "阿奇瓦·薛弗",
+      "ja": "アキヴァ・シェイファー",
+      "en": "Akiva Schaffer"
+    },
+    "form": "film",
+    "genres": ["comedy", "adventure"],
+    "publisher": "disney",
+    "release_dates": ["2022/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "doctor-strange-in-the-multiverse-of-madness",
+    "title": {
+      "zh": "奇異博士2：失控多重宇宙",
+      "ja": "ドクター・ストレンジ／マルチバース・オブ・マッドネス",
+      "en": "Doctor Strange in the Multiverse of Madness"
+    },
+    "creator": {
+      "zh": "山姆·雷米",
+      "ja": "サム・ライミ",
+      "en": "Sam Raimi"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2022/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "everything-everywhere-all-at-once",
+    "title": {
+      "zh": "媽的多重宇宙",
+      "ja": "エブリシング・エブリウェア・オール・アット・ワンス",
+      "en": "Everything Everywhere All at Once"
+    },
+    "creator": {
+      "zh": "關家永、丹尼爾·舒奈特",
+      "ja": "ダニエル・クワン、ダニエル・シャイナート",
+      "en": "Daniel Kwan, Daniel Scheinert"
+    },
+    "form": "film",
+    "genres": ["action", "comedy", "sci-fi"],
+    "publisher": "a24",
+    "release_dates": ["2022/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "fantastic-beasts-and-where-to-find-them",
+    "title": {
+      "zh": "怪獸與牠們的產地",
+      "ja": "ファンタスティック・ビーストと魔法使いの旅",
+      "en": "Fantastic Beasts and Where to Find Them"
+    },
+    "creator": {
+      "zh": "大衛·葉慈",
+      "ja": "デヴィッド・イェーツ",
+      "en": "David Yates"
+    },
+    "form": "film",
+    "genres": ["adventure", "fantasy"],
+    "publisher": "warner_bros",
+    "release_dates": ["2016/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "john-wick",
+    "title": {
+      "zh": "捍衛任務",
+      "ja": "ジョン・ウィック",
+      "en": "John Wick"
+    },
+    "creator": {
+      "zh": "查德·史塔赫斯基",
+      "ja": "チャド・スタエルスキ",
+      "en": "Chad Stahelski"
+    },
+    "form": "film",
+    "genres": ["action", "thriller"],
+    "publisher": "lionsgate",
+    "release_dates": ["2014/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "satoshi-kon-the-illusionist",
+    "title": {
+      "zh": "今敏：造夢魔術師",
+      "ja": "サトシ・コンの世界",
+      "en": "Satoshi Kon: The Illusionist"
+    },
+    "creator": {
+      "zh": "帕斯卡-亞歷克斯·文森特",
+      "ja": "パスカル＝アレックス・ヴァンサン",
+      "en": "Pascal-Alex Vincent"
+    },
+    "form": "film",
+    "genres": ["series"],
+    "publisher": null,
+    "release_dates": ["2021/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "thermae-romae",
+    "title": {
+      "zh": "羅馬浴場",
+      "ja": "テルマエ・ロマエ",
+      "en": "Thermae Romae"
+    },
+    "creator": {
+      "zh": "武內英樹",
+      "ja": "武内英樹",
+      "en": "Hideki Takeuchi"
+    },
+    "form": "film",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "fuji_tv",
+    "release_dates": ["2012/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-kings-man",
+    "title": {
+      "zh": "金士曼：起源",
+      "ja": "キングスマン：ファースト・エージェント",
+      "en": "The King's Man"
+    },
+    "creator": {
+      "zh": "馬修·范恩",
+      "ja": "マシュー・ヴォーン",
+      "en": "Matthew Vaughn"
+    },
+    "form": "film",
+    "genres": ["action", "adventure"],
+    "publisher": "20th_century_studios",
+    "release_dates": ["2021/12"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-adam-project",
+    "title": {
+      "zh": "超時空亞當計畫",
+      "ja": "アダム＆アダム",
+      "en": "The Adam Project"
+    },
+    "creator": {
+      "zh": "薛恩·李維",
+      "ja": "ショーン・レヴィ",
+      "en": "Shawn Levy"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "netflix",
+    "release_dates": ["2022/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "incantation",
+    "title": {
+      "zh": "咒",
+      "ja": "呪詛",
+      "en": "Incantation"
+    },
+    "creator": {
+      "zh": "柯孟融",
+      "ja": "ケヴィン・コー",
+      "en": "Kevin Ko"
+    },
+    "form": "film",
+    "genres": ["horror", "thriller"],
+    "publisher": null,
+    "release_dates": ["2022/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-batman",
+    "title": {
+      "zh": "蝙蝠俠",
+      "ja": "THE BATMAN－ザ・バットマン－",
+      "en": "The Batman"
+    },
+    "creator": {
+      "zh": "麥特·李維斯",
+      "ja": "マット・リーヴス",
+      "en": "Matt Reeves"
+    },
+    "form": "film",
+    "genres": ["action", "mystery"],
+    "publisher": "warner_bros",
+    "release_dates": ["2022/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "spider-man-no-way-home",
+    "title": {
+      "zh": "蜘蛛人：無家日",
+      "ja": "スパイダーマン：ノー・ウェイ・ホーム",
+      "en": "Spider-Man: No Way Home"
+    },
+    "creator": {
+      "zh": "強·華茲",
+      "ja": "ジョン・ワッツ",
+      "en": "Jon Watts"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2021/12"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "a-silent-voice",
+    "title": {
+      "zh": "電影版 聲之形",
+      "ja": "聲の形",
+      "en": "A Silent Voice"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "大今良時",
+      "en": "Yoshitoki Ooima"
+    },
+    "form": "film",
+    "genres": ["drama", "romance", "slice-of-life"],
+    "publisher": "kyoto_animation",
+    "release_dates": ["2016/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "100-meters",
+    "title": {
+      "zh": "一百公尺。—100M—",
+      "ja": "ひゃくえむ。",
+      "en": "100 METERS"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "魚豊",
+      "en": "Uoto"
+    },
+    "form": "film",
+    "genres": ["drama", "sports"],
+    "publisher": "pony_canyon",
+    "release_dates": ["2025/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "kaiju-no-8-mission-recon",
+    "title": {
+      "zh": "怪獸8號 第1期總集篇",
+      "ja": "怪獣8号 第1期総集編",
+      "en": "Kaiju No. 8: Mission Recon"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "松本直也",
+      "en": "Naoya Matsumoto"
+    },
+    "form": "film",
+    "genres": ["action", "sci-fi"],
+    "publisher": "shueisha",
+    "release_dates": ["2025/03", "2025/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "jujutsu-kaisen-hidden-inventory-premature-death-the-movie",
+    "title": {
+      "zh": "劇場版總集篇 咒術迴戰 懷玉・玉折",
+      "ja": "呪術廻戦 懐玉・玉折",
+      "en": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "芥見下々",
+      "en": "Gege Akutami"
+    },
+    "form": "film",
+    "genres": ["action", "drama"],
+    "publisher": "mappa",
+    "release_dates": ["2025/05", "2025/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "detective-conan-one-eyed-flashback",
+    "title": {
+      "zh": "名偵探柯南：獨眼的殘像",
+      "ja": "名探偵コナン 隻眼の残像",
+      "en": "Detective Conan: One-Eyed Flashback"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "青山剛昌",
+      "en": "Gosho Aoyama"
+    },
+    "form": "film",
+    "genres": ["mystery"],
+    "publisher": "tms_entertainment",
+    "release_dates": ["2025/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "look-back",
+    "title": {
+      "zh": "驀然回首",
+      "ja": "ルックバック",
+      "en": "Look Back"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "藤本タツキ",
+      "en": "Tatsuki Fujimoto"
+    },
+    "form": "film",
+    "genres": ["drama", "slice-of-life"],
+    "publisher": "studio_durian",
+    "release_dates": ["2024/06"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "solo-leveling-reawakening",
+    "title": {
+      "zh": "我獨自升級 -ReAwakening-",
+      "ja": "俺だけレベルアップな件 -ReAwakening-",
+      "en": "Solo Leveling -ReAwakening-"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2024/11", "2025/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "bocchi-the-rock-recap-part-1",
+    "title": {
+      "zh": "孤獨搖滾！Re:",
+      "ja": "ぼっち・ざ・ろっく！Re:",
+      "en": "BOCCHI THE ROCK! Recap Part 1"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "はまじあき",
+      "en": "Aki Hamaji"
+    },
+    "form": "film",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "cloverworks",
+    "release_dates": ["2024/06", "2024/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "dead-dead-demons-dededededestruction-zenshou",
+    "title": {
+      "zh": "DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION 惡魔的破壞 前章",
+      "ja": "デッドデッドデーモンズデデデデデストラクション　前章",
+      "en": "Dead Dead Demon's Dededede Destruction Zenshou"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "浅野いにお",
+      "en": "Inio Asano"
+    },
+    "form": "film",
+    "genres": ["comedy", "drama", "sci-fi", "slice-of-life"],
+    "publisher": "production_h",
+    "release_dates": ["2024/03", "2024/05"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "ya-boy-kongming-road-to-summer-sonia",
+    "title": {
+      "zh": "派對咖孔明 Road to Summer Sonia",
+      "ja": "パリピ孔明 Road to Summer Sonia",
+      "en": "Ya Boy Kongming! Road to Summer Sonia"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["comedy", "drama"],
+    "publisher": "avex_pictures",
+    "release_dates": ["2024/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-lord-of-the-rings-the-war-of-the-rohirrim",
+    "title": {
+      "zh": "魔戒：洛汗人之戰",
+      "ja": "ロード・オブ・ザ・リング／ローハンの戦い",
+      "en": "The Lord of the Rings: The War of the Rohirrim"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": "J. R. R. Tolkien"
+    },
+    "form": "film",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "sola_entertainment",
+    "release_dates": ["2024/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "gintama-on-theater-2d-kintama-hen",
+    "title": {
+      "zh": "銀魂劇場2D 金魂篇",
+      "ja": "銀魂オンシアター2D 金魂篇",
+      "en": "Gintama on Theater 2D: Kintama-hen"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "空知英秋",
+      "en": "Hideaki Sorachi"
+    },
+    "form": "film",
+    "genres": ["action", "comedy", "sci-fi"],
+    "publisher": "bandai_namco_pictures",
+    "release_dates": ["2024/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "spy-x-family-code-white",
+    "title": {
+      "zh": "劇場版 SPY×FAMILY CODE: White",
+      "ja": "SPY×FAMILY CODE: White",
+      "en": "SPY x FAMILY CODE: White"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "遠藤達哉",
+      "en": "Tatsuya Endou"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "comedy", "slice-of-life"],
+    "publisher": "wit_studio",
+    "release_dates": ["2023/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-boy-and-the-heron",
+    "title": {
+      "zh": "蒼鷺與少年",
+      "ja": "君たちはどう生きるか",
+      "en": "The Boy and the Heron"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["adventure", "drama", "fantasy"],
+    "publisher": "studio_ghibli",
+    "release_dates": ["2023/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "blue-giant",
+    "title": {
+      "zh": "BLUE GIANT 藍色巨星",
+      "ja": "BLUE GIANT",
+      "en": "Blue Giant"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "石塚真一",
+      "en": "Shinichi Ishizuka"
+    },
+    "form": "film",
+    "genres": ["drama"],
+    "publisher": "toho",
+    "release_dates": ["2023/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-concierge-at-hokkyoku-department-store",
+    "title": {
+      "zh": "北極百貨的秋乃小姐",
+      "ja": "北極百貨店のコンシェルジュさん",
+      "en": "The Concierge at Hokkyoku Department Store"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "西村ツチカ",
+      "en": "Tsuchika Nishimura"
+    },
+    "form": "film",
+    "genres": ["fantasy", "romance"],
+    "publisher": "production_i_g",
+    "release_dates": ["2023/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": true,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "digimon-adventure-02-the-beginning",
+    "title": {
+      "zh": "數碼寶貝02 THE BEGINNING",
+      "ja": "デジモンアドベンチャー02 THE BEGINNING",
+      "en": "Digimon Adventure 02 The Beginning"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "drama", "fantasy", "sci-fi"],
+    "publisher": "toei_animation",
+    "release_dates": ["2023/10", "2025/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "shin-jigen-crayon-shin-chan-the-movie-chounouryoku-daikessen-tobe-tobe-temakizushi",
+    "title": {
+      "zh": "新次元！蠟筆小新THE MOVIE 超能力大決戰 ～飛吧！手卷壽司～",
+      "ja": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜",
+      "en": "New Dimension! Crayon Shinchan the Movie: Battle of Supernatural Powers - Flying Sushi"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "臼井儀人",
+      "en": "Yoshito Usui"
+    },
+    "form": "film",
+    "genres": ["comedy"],
+    "publisher": "shirogumi",
+    "release_dates": ["2023/08", "2024/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "suzume",
+    "title": {
+      "zh": "鈴芽之旅",
+      "ja": "すずめの戸締まり",
+      "en": "Suzume"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "新海誠",
+      "en": "Makoto Shinkai"
+    },
+    "form": "film",
+    "genres": ["adventure", "fantasy", "mystery"],
+    "publisher": "comix_wave",
+    "release_dates": ["2022/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "one-piece-film-red",
+    "title": {
+      "zh": "航海王劇場版：紅髮歌姬",
+      "ja": "ONE PIECE FILM RED",
+      "en": "One Piece Film: Red"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "尾田栄一郎",
+      "en": "Eiichirou Oda"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy"],
+    "publisher": "toei_animation",
+    "release_dates": ["2022/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "inu-oh",
+    "title": {
+      "zh": "犬王",
+      "ja": "犬王",
+      "en": "Inu-Oh"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "古川日出男",
+      "en": "Hideo Furukawa"
+    },
+    "form": "film",
+    "genres": ["adventure"],
+    "publisher": "science_saru",
+    "release_dates": ["2022/05"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "oddtaxi-in-the-woods",
+    "title": {
+      "zh": "電影 Odd Taxi：撲朔謎林",
+      "ja": "映画 オッドタクシー イン・ザ・ウッズ",
+      "en": "ODDTAXI In The Woods"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["drama", "mystery", "thriller"],
+    "publisher": "p_i_c_s",
+    "release_dates": ["2022/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-deer-king",
+    "title": {
+      "zh": "鹿王 尤娜與約定之旅",
+      "ja": "鹿の王 ユナと約束の旅",
+      "en": "The Deer King"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "上橋菜穂子",
+      "en": "Nahoko Uehashi"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "production_i_g",
+    "release_dates": ["2022/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "jujutsu-kaisen-0",
+    "title": {
+      "zh": "劇場版 咒術迴戰 0",
+      "ja": "呪術廻戦 0",
+      "en": "JUJUTSU KAISEN 0"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "芥見下々",
+      "en": "Gege Akutami"
+    },
+    "form": "film",
+    "genres": ["action"],
+    "publisher": "mappa",
+    "release_dates": ["2020/10", "2021/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "words-bubble-up-like-soda-pop",
+    "title": {
+      "zh": "言語如蘇打般湧現",
+      "ja": "サイダーのように言葉が湧き上がる",
+      "en": "Words Bubble Up Like Soda Pop"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["romance", "slice-of-life"],
+    "publisher": "signal_md",
+    "release_dates": ["2021/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "belle",
+    "title": {
+      "zh": "龍與雀斑公主",
+      "ja": "竜とそばかすの姫",
+      "en": "BELLE"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "細田守",
+      "en": "Mamoru Hosoda"
+    },
+    "form": "film",
+    "genres": ["drama", "mystery", "sci-fi"],
+    "publisher": "studio_chizu",
+    "release_dates": ["2021/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "fate-grand-order-divine-realm-of-the-round-table-camelot-paladin-agateram",
+    "title": {
+      "zh": "劇場版 Fate/Grand Order -神聖圓桌領域卡美洛- 後篇 Paladin; Agateram",
+      "ja": "劇場版Fate/Grand Order -神聖円卓領域キャメロット- 後編Paladin; Agateram",
+      "en": "Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": "Type-Moon"
+    },
+    "form": "film",
+    "genres": ["action", "fantasy"],
+    "publisher": "production_i_g",
+    "release_dates": ["2019/10", "2021/05"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "child-of-kamiari-month",
+    "title": {
+      "zh": "神在月的孩子",
+      "ja": "神在月のこども",
+      "en": "Child of Kamiari Month"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "四戸俊成",
+      "en": "Toshinari Shinohe"
+    },
+    "form": "film",
+    "genres": ["adventure"],
+    "publisher": "lidenfilms",
+    "release_dates": ["2021/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "violet-evergarden-the-movie",
+    "title": {
+      "zh": "劇場版 紫羅蘭永恆花園",
+      "ja": "劇場版 ヴァイオレット・エヴァーガーデン",
+      "en": "Violet Evergarden: the Movie"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "暁佳奈",
+      "en": "Kana Akatsuki"
+    },
+    "form": "film",
+    "genres": ["drama", "fantasy", "slice-of-life"],
+    "publisher": "kyoto_animation",
+    "release_dates": ["2020/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "weathering-with-you",
+    "title": {
+      "zh": "天氣之子",
+      "ja": "天気の子",
+      "en": "Weathering With You"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "新海誠",
+      "en": "Makoto Shinkai"
+    },
+    "form": "film",
+    "genres": ["drama", "romance", "slice-of-life"],
+    "publisher": "comix_wave",
+    "release_dates": ["2019/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "fate-stay-night-heavens-feel-ii-lost-butterfly",
+    "title": {
+      "zh": "Fate/stay night [Heaven's Feel] II.迷途之蝶",
+      "ja": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly",
+      "en": "Fate/stay night [Heaven's Feel] II. lost butterfly"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": "Type-Moon"
+    },
+    "form": "film",
+    "genres": ["action", "fantasy", "romance", "thriller"],
+    "publisher": "ufotable",
+    "release_dates": ["2019/01", "2020/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "children-of-the-sea",
+    "title": {
+      "zh": "海獸之子",
+      "ja": "海獣の子供",
+      "en": "Children of the Sea"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "五十嵐大介",
+      "en": "Daisuke Igarashi"
+    },
+    "form": "film",
+    "genres": ["drama", "mystery"],
+    "publisher": "studio_4_c",
+    "release_dates": ["2019/06"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "made-in-abyss-journeys-dawn",
+    "title": {
+      "zh": "劇場版 來自深淵 啟程的黎明",
+      "ja": "メイドインアビス 旅立ちの夜明け",
+      "en": "Made in Abyss: Journey's Dawn"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "つくしあきひと",
+      "en": "Akihito Tsukushi"
+    },
+    "form": "film",
+    "genres": ["adventure", "drama", "fantasy", "horror", "mystery", "sci-fi"],
+    "publisher": "kinema_citrus",
+    "release_dates": ["2019/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "no-game-no-life-zero",
+    "title": {
+      "zh": "NO GAME NO LIFE 遊戲人生 ZERO",
+      "ja": "ノーゲーム・ノーライフ ゼロ",
+      "en": "No Game, No Life Zero"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "榎宮祐",
+      "en": "Yuu Kamiya"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "drama", "fantasy", "romance"],
+    "publisher": "madhouse",
+    "release_dates": ["2014/04", "2017/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-night-is-short-walk-on-girl",
+    "title": {
+      "zh": "春宵苦短，少女前進吧！",
+      "ja": "夜は短し歩けよ乙女",
+      "en": "The Night is Short, Walk on Girl"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["comedy", "romance"],
+    "publisher": "science_saru",
+    "release_dates": ["2017/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "fireworks",
+    "title": {
+      "zh": "煙花",
+      "ja": "打ち上げ花火、下から見るか？横から見るか？",
+      "en": "Fireworks"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "岩井俊二",
+      "en": "Shunji Iwai"
+    },
+    "form": "film",
+    "genres": ["drama", "romance"],
+    "publisher": "shaft",
+    "release_dates": ["2017/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "your-name",
+    "title": {
+      "zh": "你的名字。",
+      "ja": "君の名は。",
+      "en": "Your Name."
+    },
+    "creator": {
+      "zh": null,
+      "ja": "新海誠",
+      "en": "Makoto Shinkai"
+    },
+    "form": "film",
+    "genres": ["drama", "romance"],
+    "publisher": "comix_wave",
+    "release_dates": ["2016/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "accel-world-infinite-burst",
+    "title": {
+      "zh": "加速世界 INFINITE BURST",
+      "ja": "アクセル・ワールド -インフィニット・バースト-",
+      "en": "Accel World: Infinite∞Burst"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "川原礫",
+      "en": "Reki Kawahara"
+    },
+    "form": "film",
+    "genres": ["action", "sci-fi"],
+    "publisher": "sunrise",
+    "release_dates": ["2016/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-boy-and-the-beast",
+    "title": {
+      "zh": "怪物的孩子",
+      "ja": "バケモノの子",
+      "en": "The Boy and The Beast"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "細田守",
+      "en": "Mamoru Hosoda"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy"],
+    "publisher": "studio_chizu",
+    "release_dates": ["2015/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "boruto-naruto-the-movie",
+    "title": {
+      "zh": "BORUTO -火影新世代- NARUTO THE MOVIE",
+      "ja": "BORUTO -NARUTO THE MOVIE-",
+      "en": "Boruto: Naruto the Movie"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "岸本斉史",
+      "en": "Masashi Kishimoto"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "comedy"],
+    "publisher": "studio_pierrot",
+    "release_dates": ["2015/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "patema-inverted",
+    "title": {
+      "zh": "顛倒的帕特瑪",
+      "ja": "サカサマのパテマ",
+      "en": "Patema Inverted"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "吉浦康裕",
+      "en": "Yasuhiro Yoshiura"
+    },
+    "form": "film",
+    "genres": ["adventure", "romance", "sci-fi"],
+    "publisher": "asmik_ace",
+    "release_dates": ["2013/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "hunter-x-hunter-phantom-rouge",
+    "title": {
+      "zh": "劇場版 HUNTER×HUNTER 緋色幻影",
+      "ja": "劇場版 HUNTER×HUNTER 緋色の幻影（ファントム・ルージュ）",
+      "en": "Hunter x Hunter: Phantom Rouge"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "冨樫義博",
+      "en": "Yoshihiro Togashi"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "madhouse",
+    "release_dates": ["2013/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "hunter-x-hunter-the-last-mission",
+    "title": {
+      "zh": "劇場版 HUNTER×HUNTER 最終任務",
+      "ja": "劇場版 HUNTER×HUNTER THE LAST MISSION",
+      "en": "Hunter x Hunter: The Last Mission"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "冨樫義博",
+      "en": "Yoshihiro Togashi"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "madhouse",
+    "release_dates": ["2013/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "one-piece-film-z",
+    "title": {
+      "zh": "航海王劇場版：Z",
+      "ja": "ONE PIECE FILM Z",
+      "en": "One Piece Film: Z"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "尾田栄一郎",
+      "en": "Eiichirou Oda"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "comedy", "drama"],
+    "publisher": "toei_animation",
+    "release_dates": ["2012/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-disappearance-of-haruhi-suzumiya",
+    "title": {
+      "zh": "涼宮春日的消失",
+      "ja": "涼宮ハルヒの消失",
+      "en": "The Disappearance of Haruhi Suzumiya"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "谷川流",
+      "en": "Nagaru Tanigawa"
+    },
+    "form": "film",
+    "genres": ["drama", "mystery", "sci-fi"],
+    "publisher": "kyoto_animation",
+    "release_dates": ["2010/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "redline",
+    "title": {
+      "zh": "紅線",
+      "ja": "REDLINE",
+      "en": "Redline"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "石井克人",
+      "en": "Katsuhito Ishii"
+    },
+    "form": "film",
+    "genres": ["action", "romance", "sci-fi", "sports"],
+    "publisher": "madhouse",
+    "release_dates": ["2009/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "summer-wars",
+    "title": {
+      "zh": "夏日大作戰",
+      "ja": "サマーウォーズ",
+      "en": "Summer Wars"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "細田守",
+      "en": "Mamoru Hosoda"
+    },
+    "form": "film",
+    "genres": ["action", "comedy", "drama", "romance", "sci-fi"],
+    "publisher": "madhouse",
+    "release_dates": ["2009/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars",
+    "title": {
+      "zh": "劇場版 天元突破 紅蓮螺巖 螺巖篇",
+      "ja": "天元突破グレンラガン 螺巌篇",
+      "en": "Gurren Lagann The Movie: The Lights in the Sky are Stars"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "中島かずき",
+      "en": "Kazuki Nakashima"
+    },
+    "form": "film",
+    "genres": ["action", "drama", "romance", "sci-fi"],
+    "publisher": "gainax",
+    "release_dates": ["2009/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-garden-of-sinners-chapter-1-thanatos-overlooking-view",
+    "title": {
+      "zh": "劇場版 空之境界 第一章 俯瞰風景",
+      "ja": "空の境界 俯瞰風景",
+      "en": "the Garden of sinners Chapter 1: Thanatos. (Overlooking View)"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": "Type-Moon"
+    },
+    "form": "film",
+    "genres": ["action", "mystery", "thriller"],
+    "publisher": "aniplex",
+    "release_dates": ["2007/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-girl-who-leapt-through-time",
+    "title": {
+      "zh": "跳躍吧！時空少女",
+      "ja": "時をかける少女",
+      "en": "The Girl Who Leapt Through Time"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "筒井康隆",
+      "en": "Yasutaka Tsutsui"
+    },
+    "form": "film",
+    "genres": ["drama", "romance", "sci-fi"],
+    "publisher": "madhouse",
+    "release_dates": ["2006/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "paprika",
+    "title": {
+      "zh": "盜夢偵探",
+      "ja": "パプリカ",
+      "en": "Paprika"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["fantasy", "mystery", "sci-fi", "thriller"],
+    "publisher": "madhouse",
+    "release_dates": ["2006/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "tekkonkinkreet",
+    "title": {
+      "zh": "惡童",
+      "ja": "鉄コン筋クリート",
+      "en": "Tekkonkinkreet"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "松本大洋",
+      "en": "Taiyou Matsumoto"
+    },
+    "form": "film",
+    "genres": ["action"],
+    "publisher": "horipro",
+    "release_dates": ["2006/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "final-fantasy-vii-advent-children",
+    "title": {
+      "zh": "Final Fantasy VII：降臨神子",
+      "ja": "ファイナルファンタジーVII アドベントチルドレン",
+      "en": "Final Fantasy VII: Advent Children"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["action", "fantasy", "sci-fi"],
+    "publisher": "square_enix",
+    "release_dates": ["2005/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "xxxholic-a-midsummer-nights-dream",
+    "title": {
+      "zh": "劇場版 ×××HOLiC 仲夏夜之夢",
+      "ja": "劇場版 XXX HOLiC 真夏ノ夜ノ夢",
+      "en": "xxxHOLiC - A Midsummer Night's Dream"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": "CLAMP"
+    },
+    "form": "film",
+    "genres": ["comedy", "drama", "horror", "mystery"],
+    "publisher": "production_i_g",
+    "release_dates": ["2005/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "howl-s-moving-castle",
+    "title": {
+      "zh": "霍爾的移動城堡",
+      "ja": "ハウルの動く城",
+      "en": "Howl‘s Moving Castle"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": "Diana Wynne Jones"
+    },
+    "form": "film",
+    "genres": ["adventure", "drama", "fantasy", "romance"],
+    "publisher": "studio_ghibli",
+    "release_dates": ["2004/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "inuyasha-the-movie-4-fire-on-the-mystic-island",
+    "title": {
+      "zh": "犬夜叉劇場版：紅蓮的蓬萊島",
+      "ja": "犬夜叉 紅蓮の蓬莱島",
+      "en": "InuYasha the Movie 4: Fire on the Mystic Island"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "高橋留美子",
+      "en": "Rumiko Takahashi"
+    },
+    "form": "film",
+    "genres": ["adventure", "comedy", "drama", "fantasy", "romance"],
+    "publisher": "sunrise",
+    "release_dates": ["2004/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "blade-of-the-phantom-master",
+    "title": {
+      "zh": "新暗行御史",
+      "ja": "新暗行御史",
+      "en": "Blade of the Phantom Master"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "윤인완",
+      "en": "In-Wan Yun"
+    },
+    "form": "film",
+    "genres": ["action", "fantasy"],
+    "publisher": "shogakukan_shueisha_productions",
+    "release_dates": ["2004/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "zatch-bell-101st-devil",
+    "title": {
+      "zh": "劇場版 金色的卡修！！第101個魔物",
+      "ja": "劇場版 金色のガッシュベル!! 101番目の魔物",
+      "en": "Zatch Bell! 101st Devil"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "雷句誠",
+      "en": "Makoto Raiku"
+    },
+    "form": "film",
+    "genres": ["adventure"],
+    "publisher": "toei_animation",
+    "release_dates": ["2004/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "tokyo-godfathers",
+    "title": {
+      "zh": "東京教父",
+      "ja": "東京ゴッドファーザーズ",
+      "en": "Tokyo Godfathers"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "今敏",
+      "en": "Satoshi Kon"
+    },
+    "form": "film",
+    "genres": ["adventure", "comedy", "drama"],
+    "publisher": "madhouse",
+    "release_dates": ["2003/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "millennium-actress",
+    "title": {
+      "zh": "千年女優",
+      "ja": "千年女優",
+      "en": "Millennium Actress"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["drama", "fantasy", "romance"],
+    "publisher": "madhouse",
+    "release_dates": ["2002/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-cat-returns",
+    "title": {
+      "zh": "貓的報恩",
+      "ja": "猫の恩返し",
+      "en": "The Cat Returns"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "柊あおい",
+      "en": "Aoi Hiiragi"
+    },
+    "form": "film",
+    "genres": ["adventure", "comedy", "drama", "fantasy"],
+    "publisher": "studio_ghibli",
+    "release_dates": ["2002/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "spirited-away",
+    "title": {
+      "zh": "神隱少女",
+      "ja": "千と千尋の神隠し",
+      "en": "Spirited Away"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "宮崎駿",
+      "en": "Hayao Miyazaki"
+    },
+    "form": "film",
+    "genres": ["adventure", "drama", "fantasy"],
+    "publisher": "studio_ghibli",
+    "release_dates": ["2001/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "poke-mon-3-the-movie",
+    "title": {
+      "zh": "劇場版 精靈寶可夢：結晶塔的帝王",
+      "ja": "劇場版ポケットモンスター 結晶塔の帝王 ENTEI",
+      "en": "Pokémon 3: The Movie"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "田尻智",
+      "en": "Satoshi Tajiri"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "olm",
+    "release_dates": ["2000/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "perfect-blue",
+    "title": {
+      "zh": "藍色恐懼",
+      "ja": "PERFECT BLUE",
+      "en": "Perfect Blue"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "竹内義和",
+      "en": "Yoshikazu Takeuchi "
+    },
+    "form": "film",
+    "genres": ["drama", "horror", "thriller"],
+    "publisher": "madhouse",
+    "release_dates": ["1998/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "grandma-and-her-ghosts",
+    "title": {
+      "zh": "魔法阿媽",
+      "ja": "魔法阿媽",
+      "en": "Grandma and Her Ghosts"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["adventure", "fantasy"],
+    "publisher": null,
+    "release_dates": ["1998"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "princess-mononoke",
+    "title": {
+      "zh": "魔法公主",
+      "ja": "もののけ姫",
+      "en": "Princess Mononoke"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "宮崎駿",
+      "en": "Hayao Miyazaki"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "studio_ghibli",
+    "release_dates": ["1997/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "neon-genesis-evangelion-death-and-rebirth",
+    "title": {
+      "zh": "新世紀福音戰士劇場版：死與新生",
+      "ja": "新世紀エヴァンゲリオン劇場版 シト新生",
+      "en": "Neon Genesis Evangelion: Death & Rebirth"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["drama", "sci-fi"],
+    "publisher": "gainax",
+    "release_dates": ["1997/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "crayon-shin-chan-unkokusais-ambition",
+    "title": {
+      "zh": "蠟筆小新：雲黑齋的野心",
+      "ja": "クレヨンしんちゃん 雲黒斎の野望",
+      "en": "Crayon Shin-chan: Unkokusai's Ambition"
+    },
+    "creator": {
+      "zh": null,
+      "ja": null,
+      "en": null
+    },
+    "form": "film",
+    "genres": ["adventure", "comedy", "slice-of-life"],
+    "publisher": "tv_asahi",
+    "release_dates": ["1995/04", "1996/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "akira",
+    "title": {
+      "zh": "阿基拉",
+      "ja": "AKIRA",
+      "en": "Akira"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "大友克洋",
+      "en": "Katsuhiro Ootomo"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "horror", "sci-fi"],
+    "publisher": "tokyo_movie_shinsha",
+    "release_dates": ["1988/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "castle-in-the-sky",
+    "title": {
+      "zh": "天空之城",
+      "ja": "天空の城ラピュタ",
+      "en": "Castle in the Sky"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "宮崎駿",
+      "en": "Hayao Miyazaki"
+    },
+    "form": "film",
+    "genres": ["adventure", "fantasy", "sci-fi"],
+    "publisher": "studio_ghibli",
+    "release_dates": ["1986/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "nausicaa-of-the-valley-of-the-wind",
+    "title": {
+      "zh": "風之谷",
+      "ja": "風の谷のナウシカ",
+      "en": "Nausicaä of the Valley of the Wind"
+    },
+    "creator": {
+      "zh": null,
+      "ja": "宮崎駿",
+      "en": "Hayao Miyazaki"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "drama", "fantasy", "sci-fi"],
+    "publisher": "studio_hibari",
+    "release_dates": ["1984/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "bubble",
+    "title": {
+      "zh": "泡泡",
+      "ja": "バブル",
+      "en": "Bubble"
+    },
+    "creator": {
+      "zh": "荒木哲郎、小畑健、虛淵玄、大樹連司、佐藤直子",
+      "ja": "荒木哲郎、小畑健、虛淵玄、大樹連司、佐藤直子",
+      "en": "Tetsuro Araki, Takeshi Obata, Gen Urobuchi, Renji Daiki, Naoko Sato "
+    },
+    "form": "film",
+    "genres": ["romance", "sci-fi", "sports"],
+    "publisher": "wit_studio",
+    "release_dates": ["2022/04"],
+    "my_completed_date": "2022",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "boku-no-hero-academia-the-movie-two-heroes",
+    "title": {
+      "zh": "我的英雄學院劇場版：兩個人的英雄",
+      "ja": "僕のヒーローアカデミア THE MOVIE ～二人の英雄～",
+      "en": "Boku no Hero Academia THE MOVIE: Two Heroes"
+    },
+    "creator": {
+      "zh": "堀越耕平、長崎健司、黑田洋介",
+      "ja": "堀越耕平、長崎健司、黒田洋介",
+      "en": "Kouhei Horikoshi、Kenji Nagasaki、Yousuke Kuroda"
+    },
+    "form": "film",
+    "genres": ["comedy"],
+    "publisher": "bones",
+    "release_dates": ["2018/12"],
+    "my_completed_date": "2018/12",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "boku-no-hero-academia-the-movie-heroes-rising",
+    "title": {
+      "zh": "我的英雄學院劇場版：英雄新世紀",
+      "ja": "僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング",
+      "en": "Boku no Hero Academia THE MOVIE: Heroes:Rising"
+    },
+    "creator": {
+      "zh": "堀越耕平、長崎健司、黑田洋介",
+      "ja": "堀越耕平、長崎健司、黒田洋介",
+      "en": "Kouhei Horikoshi、Kenji Nagasaki、Yousuke Kuroda"
+    },
+    "form": "film",
+    "genres": ["comedy"],
+    "publisher": "bones",
+    "release_dates": ["2020/04"],
+    "my_completed_date": "2020/04",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "boku-no-hero-academia-the-movie-world-heroes-mission",
+    "title": {
+      "zh": "我的英雄學院劇場版：世界英雄任務",
+      "ja": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+      "en": "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
+    },
+    "creator": {
+      "zh": "堀越耕平、長崎健司、黑田洋介",
+      "ja": "堀越耕平、長崎健司、黒田洋介",
+      "en": "Kouhei Horikoshi、Kenji Nagasaki、Yousuke Kuroda"
+    },
+    "form": "film",
+    "genres": ["action", "comedy"],
+    "publisher": "bones",
+    "release_dates": ["2022/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "boku-no-hero-academia-the-movie-youre-next",
+    "title": {
+      "zh": "我的英雄學院劇場版：YOU'RE NEXT",
+      "ja": "僕のヒーローアカデミア THE MOVIE ～YOU'RE NEXT～",
+      "en": "Boku no Hero Academia THE MOVIE: You're Next"
+    },
+    "creator": {
+      "zh": "堀越耕平、岡村天齋、黑田洋介",
+      "ja": "堀越耕平、岡村天齋、黑田洋介",
+      "en": "Kouhei Horikoshi、Tensai Okamura、Yousuke Kuroda"
+    },
+    "form": "film",
+    "genres": ["action", "comedy"],
+    "publisher": "bones",
+    "release_dates": ["2024/09"],
+    "my_completed_date": "2024/09",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "after-the-rain",
+    "title": {
+      "zh": "愛在雨過天晴時",
+      "ja": "戀は雨上がりのように",
+      "en": "After the Rain"
+    },
+    "creator": {
+      "zh": "眉月純",
+      "ja": "眉月じゅん",
+      "en": "Jun Mayuzuki"
+    },
+    "form": "film",
+    "genres": ["drama", "romance", "slice-of-life"],
+    "publisher": "toho",
+    "release_dates": ["2018/01"],
+    "my_completed_date": "2024/02/21",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": "動畫的真人版電影，因為在 YouTube 上看到 MV 就跑來看完了，很喜歡。",
+    "has_article": false
+  }
+]

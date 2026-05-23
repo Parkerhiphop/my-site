@@ -1,0 +1,5819 @@
+[
+  {
+    "key": "one-piece",
+    "title": {
+      "zh": "航海王",
+      "ja": "ONE PIECE",
+      "en": "One Piece"
+    },
+    "creator": {
+      "zh": "尾田榮一郎",
+      "ja": "尾田栄一郎",
+      "en": "Eiichiro Oda"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "toei_animation",
+    "release_dates": ["1999/10"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "kill-blue",
+    "title": {
+      "zh": "殺手青春",
+      "ja": "キルアオ",
+      "en": "KILL BLUE"
+    },
+    "creator": {
+      "zh": "藤卷忠俊",
+      "ja": "藤巻忠俊",
+      "en": "Tadatoshi Fujimaki"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy"],
+    "publisher": "cue",
+    "release_dates": ["2026/04"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "akane-banashi",
+    "title": {
+      "zh": "朱音落語",
+      "ja": "あかね噺",
+      "en": "Akane-banashi"
+    },
+    "creator": {
+      "zh": "末永裕樹、馬上鷹將",
+      "ja": "末永裕樹、馬上鷹将",
+      "en": "Yuki Suenaga, Takamasa Moue"
+    },
+    "form": "anime",
+    "genres": ["series"],
+    "publisher": "zexcs",
+    "release_dates": ["2026/04"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "witch-hat-atelier",
+    "title": {
+      "zh": "尖帽子的魔法工房",
+      "ja": "とんがり帽子のアトリエ",
+      "en": "Witch Hat Atelier"
+    },
+    "creator": {
+      "zh": "白濱鷗",
+      "ja": "白浜鴎",
+      "en": "Kamome Shirahama"
+    },
+    "form": "anime",
+    "genres": ["adventure", "drama", "fantasy"],
+    "publisher": "bug_films",
+    "release_dates": ["2026/04"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "daemons-of-the-shadow-realm",
+    "title": {
+      "zh": "黃泉使者",
+      "ja": "黃泉のツガイ",
+      "en": "Daemons of the Shadow Realm"
+    },
+    "creator": {
+      "zh": "荒川弘",
+      "ja": "荒川弘",
+      "en": "Hiromu Arakawa"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "bones_film",
+    "release_dates": ["2026/04"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "marriagetoxin",
+    "title": {
+      "zh": "婚姻劇毒",
+      "ja": "マリッジトキシン",
+      "en": "MARRIAGETOXIN"
+    },
+    "creator": {
+      "zh": "靜脈",
+      "ja": "静脈",
+      "en": "Joumyaku"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "romance"],
+    "publisher": "bones_film",
+    "release_dates": ["2026/04"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "frieren-beyond-journeys-end",
+    "title": {
+      "zh": "葬送的芙莉蓮",
+      "ja": "葬送のフリーレン",
+      "en": "Frieren: Beyond Journey’s End"
+    },
+    "creator": {
+      "zh": "山田鐘人",
+      "ja": "山田鐘人",
+      "en": "Kanehito Yamada"
+    },
+    "form": "anime",
+    "genres": ["adventure", "drama", "fantasy"],
+    "publisher": "toho",
+    "release_dates": ["2023/09", "2026/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "my-hero-academia",
+    "title": {
+      "zh": "我的英雄學院",
+      "ja": "僕のヒーローアカデミア",
+      "en": "My Hero Academia"
+    },
+    "creator": {
+      "zh": "堀越耕平",
+      "ja": "堀越耕平",
+      "en": "Kouhei Horikoshi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy"],
+    "publisher": "bones",
+    "release_dates": ["2016/04", "2017/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "fullmetal-alchemist-brotherhood",
+    "title": {
+      "zh": "鋼之鍊金術師 FULLMETAL ALCHEMIST",
+      "ja": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "en": "Fullmetal Alchemist: Brotherhood"
+    },
+    "creator": {
+      "zh": "荒川弘",
+      "ja": "荒川弘",
+      "en": "Hiromu Arakawa"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "bones",
+    "release_dates": ["2009/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "hunter-x-hunter-2011",
+    "title": {
+      "zh": "獵人",
+      "ja": "HUNTER×HUNTER (2011)",
+      "en": "Hunter x Hunter (2011)"
+    },
+    "creator": {
+      "zh": "富樫義博",
+      "ja": "冨樫義博",
+      "en": "Yoshihiro Togashi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "madhouse",
+    "release_dates": ["2011/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "steins-gate",
+    "title": {
+      "zh": "命運石之門",
+      "ja": "シュタインズ・ゲート",
+      "en": "Steins;Gate"
+    },
+    "creator": {
+      "zh": "Nitro+",
+      "ja": "ニトロプラス",
+      "en": "Nitro Plus"
+    },
+    "form": "anime",
+    "genres": ["drama", "sci-fi", "thriller"],
+    "publisher": "frontier_works",
+    "release_dates": ["2011/04", "2012/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "sentenced-to-be-a-hero",
+    "title": {
+      "zh": "判處勇者刑 懲罰勇者9004隊刑務紀錄",
+      "ja": "勇者刑に処す 懲罰勇者9004隊刑務記録",
+      "en": "Sentenced to Be a Hero"
+    },
+    "creator": {
+      "zh": "ロケット商會",
+      "ja": "ロケット商会",
+      "en": "Rocket Shokai"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "studio_kai",
+    "release_dates": ["2026/01"],
+    "my_completed_date": "2026/04",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "reincarnated-as-a-sword",
+    "title": {
+      "zh": "轉生就是劍",
+      "ja": "転生したら剣でした",
+      "en": "Reincarnated as a Sword"
+    },
+    "creator": {
+      "zh": "棚架ユウ",
+      "ja": "棚架ユウ",
+      "en": "Yuu Tanaka"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "c2c",
+    "release_dates": ["2022/09", "2026/10"],
+    "my_completed_date": "2022/12",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "gachiakuta",
+    "title": {
+      "zh": "GACHIAKUTA",
+      "ja": "ガチアクタ",
+      "en": "Gachiakuta"
+    },
+    "creator": {
+      "zh": "裡那圭",
+      "ja": "裡那圭",
+      "en": "Kei Urana"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "bones",
+    "release_dates": ["2025/07"],
+    "my_completed_date": "2026/04",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "sakamoto-days",
+    "title": {
+      "zh": "坂本日常",
+      "ja": "SAKAMOTO DAYS",
+      "en": "SAKAMOTO DAYS"
+    },
+    "creator": {
+      "zh": "鈴木祐鬥",
+      "ja": "鈴木祐鬥",
+      "en": "Yuuto  Suzuki"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy"],
+    "publisher": "tms_entertainment",
+    "release_dates": ["2025/01", "2025/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "lazarus",
+    "title": {
+      "zh": "LAZARUS 拉撒路",
+      "ja": "ラザロ",
+      "en": "LAZARUS"
+    },
+    "creator": {
+      "zh": "渡邊信一郎",
+      "ja": "渡辺信一郎",
+      "en": "Shinichiro Watanabe"
+    },
+    "form": "anime",
+    "genres": ["action", "sci-fi", "thriller"],
+    "publisher": "adult_swim",
+    "release_dates": ["2025/04"],
+    "my_completed_date": "2025/12",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "witch-watch",
+    "title": {
+      "zh": "WITCH WATCH 魔女守護者",
+      "ja": "ウィッチウォッチ",
+      "en": "WITCH WATCH"
+    },
+    "creator": {
+      "zh": "篠原健太",
+      "ja": "篠原健太",
+      "en": "Kenta Shinohara"
+    },
+    "form": "anime",
+    "genres": ["comedy", "drama", "fantasy", "romance", "slice-of-life"],
+    "publisher": "bibury_animation_studios",
+    "release_dates": ["2025/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "clevatess",
+    "title": {
+      "zh": "Clevatess -魔獸之王與嬰兒與屍之勇者-",
+      "ja": "クレバテス-魔獣の王と赤子と屍の勇者",
+      "en": "Clevatess"
+    },
+    "creator": {
+      "zh": "巖原裕二",
+      "ja": "巖原裕二",
+      "en": "Yuuji Iwahara"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "kadokawa_corporation",
+    "release_dates": ["2025/07", "2026/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "secrets-of-the-silent-witch",
+    "title": {
+      "zh": "Silent Witch 沉默魔女的秘密",
+      "ja": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+      "en": "Secrets of the Silent Witch"
+    },
+    "creator": {
+      "zh": "依空まつり",
+      "ja": "依空まつり",
+      "en": "Matsuri Isora"
+    },
+    "form": "anime",
+    "genres": ["adventure", "fantasy"],
+    "publisher": "aniplex",
+    "release_dates": ["2025/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "my-hero-academia-vigilantes",
+    "title": {
+      "zh": "正義使者 -我的英雄學院之非法英雄-",
+      "ja": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+      "en": "My Hero Academia: Vigilantes"
+    },
+    "creator": {
+      "zh": "堀越耕平",
+      "ja": "堀越耕平",
+      "en": "Kouhei Horikoshi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "bones_film",
+    "release_dates": ["2025/04", "2026/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time",
+    "title": {
+      "zh": "雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目",
+      "ja": "ギルドの受付嬢ですが、殘業は嫌なのでボスをソロ討伐しようと思います",
+      "en": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time"
+    },
+    "creator": {
+      "zh": "香坂マト",
+      "ja": "香坂マト",
+      "en": "Mato Kousaka"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "cloverworks",
+    "release_dates": ["2025/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge",
+    "title": {
+      "zh": "差點在迷宮深處被信任的夥伴殺掉，但靠著天賜技能「無限扭蛋」獲得等級9999的夥伴，我要向前隊友和世界展開復仇&「給他們好看！」",
+      "ja": "信じていた仲間達にダンジョン奧地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+      "en": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!"
+    },
+    "creator": {
+      "zh": "明鏡シスイ",
+      "ja": "明鏡シスイ",
+      "en": "Meikyou Shisui"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2025/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "from-bureaucrat-to-villainess-dads-been-reincarnated",
+    "title": {
+      "zh": "中年大叔轉生反派千金",
+      "ja": "悪役令嬢転生おじさん",
+      "en": "From Bureaucrat to Villainess: Dad's Been Reincarnated!"
+    },
+    "creator": {
+      "zh": "上山道郎",
+      "ja": "上山道郎",
+      "en": "Michiro Ueyama"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "ajia_do_animation_works",
+    "release_dates": ["2025/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "gintama-mr-ginpachis-zany-class",
+    "title": {
+      "zh": "銀魂 3年Z班銀八老師",
+      "ja": "3年Z組銀八先生",
+      "en": "GINTAMA - Mr. Ginpachi's Zany Class"
+    },
+    "creator": {
+      "zh": "空知英秋",
+      "ja": "空知英秋",
+      "en": "Hideaki Sorachi"
+    },
+    "form": "anime",
+    "genres": ["comedy"],
+    "publisher": "bandai_namco_pictures",
+    "release_dates": ["2025/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "dan-da-dan",
+    "title": {
+      "zh": "膽大黨",
+      "ja": "ダンダダン",
+      "en": "DAN DA DAN"
+    },
+    "creator": {
+      "zh": "龍幸伸、山代風我、瀨古浩司、牛尾憲輔",
+      "ja": "龍幸伸、山代風我、瀨古浩司、牛尾憲輔",
+      "en": "Yukinobu Tatsu、Yamashiro Fūga、Koji Seko、Kensuke Ushio"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "romance", "sci-fi"],
+    "publisher": "science_saru",
+    "release_dates": ["2024/10", "2025/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "solo-leveling",
+    "title": {
+      "zh": "我獨自升級",
+      "ja": "俺だけレベルアップな件",
+      "en": "Solo Leveling"
+    },
+    "creator": {
+      "zh": "추공",
+      "ja": "Chugong",
+      "en": "Chugong"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2024/01", "2025/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kaiju-no-8",
+    "title": {
+      "zh": "怪獸8號",
+      "ja": "怪獣８號",
+      "en": "Kaiju No. 8"
+    },
+    "creator": {
+      "zh": "松本直也",
+      "ja": "松本直也",
+      "en": "Naoya Matsumoto"
+    },
+    "form": "anime",
+    "genres": ["action", "sci-fi"],
+    "publisher": "toho",
+    "release_dates": ["2024/04", "2025/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "delicious-in-dungeon",
+    "title": {
+      "zh": "迷宮飯",
+      "ja": "ダンジョン飯",
+      "en": "Delicious in Dungeon"
+    },
+    "creator": {
+      "zh": "九井諒子",
+      "ja": "九井諒子",
+      "en": "Ryouko Kui"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "trigger",
+    "release_dates": ["2024/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "wind-breaker",
+    "title": {
+      "zh": "WIND BREAKER—防風少年—",
+      "ja": "WIND BREAKER",
+      "en": "WIND BREAKER"
+    },
+    "creator": {
+      "zh": "にいさとる",
+      "ja": "にいさとる",
+      "en": "Satoru Nii"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama"],
+    "publisher": "cloverworks",
+    "release_dates": ["2024/04", "2025/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": true
+  },
+  {
+    "key": "the-wrong-way-to-use-healing-magic",
+    "title": {
+      "zh": "治癒魔法的錯誤使用法～奔赴戰場的回復要員～",
+      "ja": "治癒魔法の間違った使い方～戦場を駆ける回復要員～",
+      "en": "The Wrong Way to Use Healing Magic"
+    },
+    "creator": {
+      "zh": "くろかた",
+      "ja": "くろかた",
+      "en": "Kurokata"
+    },
+    "form": "anime",
+    "genres": ["action", "fantasy"],
+    "publisher": "shin_ei_animation",
+    "release_dates": ["2024/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "chained-soldier",
+    "title": {
+      "zh": "魔都精兵的奴隸",
+      "ja": "魔都精兵のスレイブ",
+      "en": "Chained Soldier"
+    },
+    "creator": {
+      "zh": "Takahiro",
+      "ja": "タカヒロ",
+      "en": "Takahiro"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy", "romance"],
+    "publisher": "seven_arcs",
+    "release_dates": ["2024/01", "2026/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-elusive-samurai",
+    "title": {
+      "zh": "擅長逃跑的殿下",
+      "ja": "逃げ上手の若君",
+      "en": "The Elusive Samurai"
+    },
+    "creator": {
+      "zh": "松井優徵",
+      "ja": "松井優徵",
+      "en": "Yuusei Matsui"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure"],
+    "publisher": "cloverworks",
+    "release_dates": ["2024/07", "2026/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible",
+    "title": {
+      "zh": "新人大叔冒險者，被最強隊伍操到死成無敵",
+      "ja": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
+      "en": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible"
+    },
+    "creator": {
+      "zh": "岸馬きらく",
+      "ja": "岸馬きらく",
+      "en": "Kiraku Kishima"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "yumeta_company",
+    "release_dates": ["2024/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "gushing-over-magical-girls",
+    "title": {
+      "zh": "夢想成為魔法少女",
+      "ja": "魔法少女にあこがれて",
+      "en": "Gushing Over Magical Girls"
+    },
+    "creator": {
+      "zh": "小野中彰大",
+      "ja": "小野中彰大",
+      "en": "Akihiro Ononaka"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "kadokawa_corporation",
+    "release_dates": ["2024/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "let-this-grieving-soul-retire",
+    "title": {
+      "zh": "嘆氣的亡靈想隱退",
+      "ja": "嘆きの亡霊は引退したい ",
+      "en": "Let This Grieving Soul Retire"
+    },
+    "creator": {
+      "zh": "槻影",
+      "ja": "槻影",
+      "en": "Tsukikage"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "avex_pictures",
+    "release_dates": ["2024/09", "2025/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "suicide-squad-isekai",
+    "title": {
+      "zh": "異世界自殺突擊隊",
+      "ja": "異世界スーサイド・スクワッド",
+      "en": "Suicide Squad ISEKAI"
+    },
+    "creator": {
+      "zh": "DC、長田繪里、長月達平、梅原英司",
+      "ja": "DC、長田繪里、長月達平、梅原英司",
+      "en": "DC, Nagaoka Eri, Naganuma Tatsuhiko, Uehara Hideki"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy", "sci-fi"],
+    "publisher": "wit_studio",
+    "release_dates": ["2024/06"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "jellyfish-cant-swim-in-the-night",
+    "title": {
+      "zh": "夜晚的水母不會游泳",
+      "ja": "夜のクラゲは泳げない",
+      "en": "Jellyfish Can’t Swim in the Night"
+    },
+    "creator": {
+      "zh": "JELEE",
+      "ja": "JELEE",
+      "en": "JELEE"
+    },
+    "form": "anime",
+    "genres": ["drama", "slice-of-life"],
+    "publisher": "king_records",
+    "release_dates": ["2024/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "demon-lord-2099",
+    "title": {
+      "zh": "魔王2099",
+      "ja": "魔王2099",
+      "en": "DEMON LORD 2099"
+    },
+    "creator": {
+      "zh": "紫大悟",
+      "ja": "紫大悟",
+      "en": "Daiwu Shishi"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "fantasy", "sci-fi"],
+    "publisher": "aniplex",
+    "release_dates": ["2024/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-fable",
+    "title": {
+      "zh": "殺手寓言",
+      "ja": "ザ・ファブル",
+      "en": "The Fable"
+    },
+    "creator": {
+      "zh": "南勝久",
+      "ja": "南勝久",
+      "en": "Katsuhisa Minami"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "romance", "thriller"],
+    "publisher": "tezuka_productions",
+    "release_dates": ["2024/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "tis-time-for-torture-princess",
+    "title": {
+      "zh": "公主大人「拷問」的時間到了",
+      "ja": "姫様“拷問”の時間です",
+      "en": "'Tis Time for \"Torture,\" Princess"
+    },
+    "creator": {
+      "zh": "春原ロビンソン",
+      "ja": "春原ロビンソン",
+      "en": "Robinson Haruhara"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy", "slice-of-life"],
+    "publisher": "pine_jam",
+    "release_dates": ["2024/01", "2026/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "sengoku-youko",
+    "title": {
+      "zh": "戰國妖狐",
+      "ja": "戦國妖狐",
+      "en": "Sengoku Youko"
+    },
+    "creator": {
+      "zh": "水上悟志",
+      "ja": "水上悟志",
+      "en": "Satoshi Mizukami"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "white_fox",
+    "release_dates": ["2024/01", "2024/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "monsters-103-mercies-dragon-damnation",
+    "title": {
+      "zh": "MONSTERS 一百三情飛龍侍極",
+      "ja": "MONSTERS 一百三情飛龍侍極",
+      "en": "MONSTERS: 103 Mercies Dragon Damnation"
+    },
+    "creator": {
+      "zh": "尾田榮一郎",
+      "ja": "尾田栄一郎",
+      "en": "Eiichirou Oda"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama"],
+    "publisher": "eandh_production",
+    "release_dates": ["1999/10", "2024/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "dungeon-people",
+    "title": {
+      "zh": "地下城中的人",
+      "ja": "ダンジョンの中のひと",
+      "en": "Dungeon People"
+    },
+    "creator": {
+      "zh": "雙見醉",
+      "ja": "雙見酔",
+      "en": "Sui Futami"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "olm",
+    "release_dates": ["2024/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "oblivion-battery",
+    "title": {
+      "zh": "失憶投捕",
+      "ja": "忘卻バッテリー (TV)",
+      "en": "Oblivion Battery"
+    },
+    "creator": {
+      "zh": "美川繪子",
+      "ja": "みかわ絵子",
+      "en": "Eko Mikawa"
+    },
+    "form": "anime",
+    "genres": ["comedy", "sports"],
+    "publisher": "mappa",
+    "release_dates": ["2024/04", "2027"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "hells-paradise",
+    "title": {
+      "zh": "地獄樂",
+      "ja": "地獄楽",
+      "en": "Hell’s Paradise"
+    },
+    "creator": {
+      "zh": "賀來友治",
+      "ja": "賀來ゆうじ",
+      "en": "Yuuji Kaku"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "mystery"],
+    "publisher": "mappa",
+    "release_dates": ["2023/04", "2026/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "oshi-no-ko",
+    "title": {
+      "zh": "【我推的孩子】",
+      "ja": "【推しの子】",
+      "en": "Oshi No Ko"
+    },
+    "creator": {
+      "zh": "赤坂明",
+      "ja": "赤坂アカ",
+      "en": "Aka Akasaka"
+    },
+    "form": "anime",
+    "genres": ["drama", "mystery"],
+    "publisher": "doga_kobo",
+    "release_dates": ["2023/04", "2024/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-apothecary-diaries",
+    "title": {
+      "zh": "藥師少女的獨語",
+      "ja": "薬屋のひとりごと",
+      "en": "The Apothecary Diaries"
+    },
+    "creator": {
+      "zh": "日向夏",
+      "ja": "日向夏",
+      "en": "Natsume Hyuuga"
+    },
+    "form": "anime",
+    "genres": ["drama", "mystery"],
+    "publisher": "toho",
+    "release_dates": ["2023/10", "2025/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "mashle-magic-and-muscles",
+    "title": {
+      "zh": "肌肉魔法使-MASHLE-",
+      "ja": "マッシュル-MASHLE-",
+      "en": "MASHLE: MAGIC AND MUSCLES"
+    },
+    "creator": {
+      "zh": "甲本一",
+      "ja": "甲本一",
+      "en": "Hajime Koumoto"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "aniplex",
+    "release_dates": ["2023/04", "2024/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "zom-100-bucket-list-of-the-dead",
+    "title": {
+      "zh": "殭屍100～在成為殭屍前要做的100件事～",
+      "ja": "ゾン100～ゾンビになるまでにしたい100のこと～",
+      "en": "Zom 100: Bucket List of the Dead"
+    },
+    "creator": {
+      "zh": "麻生羽呂",
+      "ja": "麻生羽呂",
+      "en": "Haro Aso"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "horror"],
+    "publisher": "shogakukan_shueisha_productions",
+    "release_dates": ["2023/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "tengoku-daimakyo",
+    "title": {
+      "zh": "天國大魔境",
+      "ja": "天国大魔境",
+      "en": "Tengoku Daimakyo"
+    },
+    "creator": {
+      "zh": "石黑正數",
+      "ja": "石黒正數 ",
+      "en": "Masakazu Ishiguro"
+    },
+    "form": "anime",
+    "genres": ["adventure", "mystery", "sci-fi", "thriller"],
+    "publisher": "production_i_g",
+    "release_dates": ["2023/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "shangri-la-frontier",
+    "title": {
+      "zh": "香格里拉・開拓異境～糞作獵手挑戰神作～",
+      "ja": "シャングリラ・フロンティア",
+      "en": "Shangri-La Frontier"
+    },
+    "creator": {
+      "zh": "不二涼介",
+      "ja": "不二涼介",
+      "en": "Ryousuke Fuji"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "sci-fi"],
+    "publisher": "c2c",
+    "release_dates": ["2023/10", "2024/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-dangers-in-my-heart",
+    "title": {
+      "zh": "我內心的糟糕念頭",
+      "ja": "僕の心のヤバイやつ",
+      "en": "The Dangers in My Heart"
+    },
+    "creator": {
+      "zh": "櫻井紀雄",
+      "ja": "桜井のりお",
+      "en": "Norio Sakurai"
+    },
+    "form": "anime",
+    "genres": ["comedy", "romance", "slice-of-life"],
+    "publisher": "shin_ei_animation",
+    "release_dates": ["2023/04", "2024/01", "2027"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "konosuba-an-explosion-on-this-wonderful-world",
+    "title": {
+      "zh": "為美好的世界獻上爆焰！",
+      "ja": "この素晴らしい世界に爆焔を！",
+      "en": "KONOSUBA -An Explosion on This Wonderful World!"
+    },
+    "creator": {
+      "zh": "曉夏目",
+      "ja": "暁なつめ",
+      "en": "Natsume Akatsuki"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "kadokawa_corporation",
+    "release_dates": ["2023/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "undead-unluck",
+    "title": {
+      "zh": "不死不運",
+      "ja": "アンデッドアンラック",
+      "en": "Undead Unluck"
+    },
+    "creator": {
+      "zh": "戶塚慶文",
+      "ja": "戸塚慶文",
+      "en": "Yoshifumi Tozuka"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "sci-fi"],
+    "publisher": "david_production",
+    "release_dates": ["2023/10", "2025/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "campfire-cooking-in-another-world-with-my-absurd-skill",
+    "title": {
+      "zh": "擁有超常技能的異世界流浪美食家",
+      "ja": "とんでもスキルで異世界放浪メシ",
+      "en": "Campfire Cooking in Another World with my Absurd Skill"
+    },
+    "creator": {
+      "zh": "江口連",
+      "ja": "江口連",
+      "en": "Ren Eguchi"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "mappa",
+    "release_dates": ["2023/01", "2025/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "dead-mount-death-play",
+    "title": {
+      "zh": "屍體如山的死亡遊戲",
+      "ja": "デッドマウント・デスプレイ",
+      "en": "Dead Mount Death Play"
+    },
+    "creator": {
+      "zh": "成田良悟",
+      "ja": "成田良悟",
+      "en": "Ryohgo Narita"
+    },
+    "form": "anime",
+    "genres": ["action", "fantasy", "thriller"],
+    "publisher": "geektoys",
+    "release_dates": ["2023/04", "2023/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kamikatsu-working-for-god-in-a-godless-world",
+    "title": {
+      "zh": "在無神世界裡進行傳教活動",
+      "ja": "神無き世界のカミサマ活動",
+      "en": "KamiKatsu: Working for God in a Godless World"
+    },
+    "creator": {
+      "zh": "朱白あおい",
+      "ja": "朱白あおい",
+      "en": "Aoi Akashiro"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "fantasy"],
+    "publisher": "studio_palette",
+    "release_dates": ["2023/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "handyman-saitou-in-another-world",
+    "title": {
+      "zh": "萬事屋齋藤先生轉生異世界",
+      "ja": "便利屋斎藤さん、異世界に行く",
+      "en": "Handyman Saitou in Another World"
+    },
+    "creator": {
+      "zh": "一智和智",
+      "ja": "一智和智",
+      "en": "Kazutomo Ichitomo"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy", "slice-of-life"],
+    "publisher": "kadokawa_corporation",
+    "release_dates": ["2023/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "my-home-hero",
+    "title": {
+      "zh": "我家的英雄",
+      "ja": "マイホームヒーロー",
+      "en": "My Home Hero"
+    },
+    "creator": {
+      "zh": "山川直輝",
+      "ja": "山川直輝",
+      "en": "Naoki Yamakawa"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "thriller"],
+    "publisher": "kodansha",
+    "release_dates": ["2023/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "helck",
+    "title": {
+      "zh": "勇者赫魯庫",
+      "ja": "Helck",
+      "en": "Helck"
+    },
+    "creator": {
+      "zh": "七尾七希",
+      "ja": "七尾ナナキ",
+      "en": "Nanaki Nanao"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy"],
+    "publisher": "satelight",
+    "release_dates": ["2023/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-masterful-cat-is-depressed-again-today",
+    "title": {
+      "zh": "能幹貓今天也憂鬱",
+      "ja": "デキる貓は今日も憂鬱",
+      "en": "The Masterful Cat is Depressed Again Today"
+    },
+    "creator": {
+      "zh": "山田ヒツジ",
+      "ja": "山田ヒツジ",
+      "en": "Hitsuji Yamada"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy", "slice-of-life"],
+    "publisher": "frontier_works",
+    "release_dates": ["2023/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "record-of-ragnarok",
+    "title": {
+      "zh": "終末的女武神",
+      "ja": "終末のワルキューレ",
+      "en": "Record of Ragnarok"
+    },
+    "creator": {
+      "zh": "フクイタクミ",
+      "ja": "フクイタクミ",
+      "en": "Takumi Fukui"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "graphinica",
+    "release_dates": ["2023/07", "2025/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "level-1-demon-lord-and-one-room-hero",
+    "title": {
+      "zh": "LV1魔王與獨居廢勇者",
+      "ja": "Lv1魔王とワンルーム勇者",
+      "en": "Level 1 Demon Lord and One Room Hero"
+    },
+    "creator": {
+      "zh": "豆腐",
+      "ja": "豆腐",
+      "en": "Toufu"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "kadokawa_corporation",
+    "release_dates": ["2023/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "otaku-elf",
+    "title": {
+      "zh": "江戶前精靈",
+      "ja": "江戸前エルフ",
+      "en": "Otaku Elf"
+    },
+    "creator": {
+      "zh": "樋口彰彥",
+      "ja": "樋口彰彥",
+      "en": "Akihiko Higuchi"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "c2c",
+    "release_dates": ["2023/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "malevolent-spirits-mononogatari",
+    "title": {
+      "zh": "物之古物奇譚",
+      "ja": "もののがたり",
+      "en": "Malevolent Spirits: Mononogatari"
+    },
+    "creator": {
+      "zh": "鬼軍曹",
+      "ja": "オニグンソウ",
+      "en": "Onigunsou"
+    },
+    "form": "anime",
+    "genres": ["action"],
+    "publisher": "bandai_namco_pictures",
+    "release_dates": ["2023/01", "2023/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "under-ninja",
+    "title": {
+      "zh": "地下忍者",
+      "ja": "アンダーニンジャ",
+      "en": "UNDER NINJA"
+    },
+    "creator": {
+      "zh": "花澤健吾",
+      "ja": "花沢健吾",
+      "en": "Kengo Hanazawa"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy"],
+    "publisher": "tezuka_productions",
+    "release_dates": ["2023/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "現代社會中潛藏的忍者，腦洞大開的忍術設定跟戰鬥方式，荒謬到好笑的一部作品，挺舒壓的。",
+    "has_article": false
+  },
+  {
+    "key": "burn-the-witch-0-8",
+    "title": {
+      "zh": "BURN THE WITCH 龍與魔女",
+      "ja": "BURN THE WITCH",
+      "en": "BURN THE WITCH"
+    },
+    "creator": {
+      "zh": "久保帶人",
+      "ja": "久保帯人",
+      "en": "Tite Kubo"
+    },
+    "form": "anime",
+    "genres": ["action", "fantasy"],
+    "publisher": "studio_colorido",
+    "release_dates": ["2020/10", "2023/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "久保帶人就是潮，對應東方死神與虛，西方是龍與魔女的設定，希望死神動畫化完結後可以來做這邊。",
+    "has_article": false
+  },
+  {
+    "key": "go-go-loser-ranger",
+    "title": {
+      "zh": "戰隊大失格",
+      "ja": "戦隊大失格",
+      "en": "Go! Go! Loser Ranger!"
+    },
+    "creator": {
+      "zh": "春場蔥",
+      "ja": "春場ねぎ",
+      "en": "Negi Haruba"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "sci-fi"],
+    "publisher": "shochiku",
+    "release_dates": ["2024/04", "2025/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "chainsaw-man",
+    "title": {
+      "zh": "鏈鋸人",
+      "ja": "チェンソーマン",
+      "en": "Chainsaw Man"
+    },
+    "creator": {
+      "zh": "藤本樹",
+      "ja": "藤本タツキ",
+      "en": "Tatsuki Fujimoto"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "horror"],
+    "publisher": "mappa",
+    "release_dates": ["2022/10", "2025/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "spy-x-family",
+    "title": {
+      "zh": "SPY×FAMILY 間諜家家酒",
+      "ja": "SPY×FAMILY",
+      "en": "SPY x FAMILY"
+    },
+    "creator": {
+      "zh": "遠藤達哉",
+      "ja": "遠藤達哉",
+      "en": "Tatsuya Endou"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "slice-of-life"],
+    "publisher": "cloverworks",
+    "release_dates": ["2022/04", "2022/10", "2023/10", "2025/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "bocchi-the-rock",
+    "title": {
+      "zh": "孤獨搖滾！",
+      "ja": "ぼっち・ざ・ろっく！",
+      "en": "BOCCHI THE ROCK!"
+    },
+    "creator": {
+      "zh": "濱路晶",
+      "ja": "はまじあき",
+      "en": "Aki Hamaji"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "cloverworks",
+    "release_dates": ["2022/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "lycoris-recoil",
+    "title": {
+      "zh": "Lycoris Recoil 莉可麗絲",
+      "ja": "リコリス・リコイル",
+      "en": "Lycoris Recoil"
+    },
+    "creator": {
+      "zh": "朝浦",
+      "ja": "アサウラ",
+      "en": "Asaura"
+    },
+    "form": "anime",
+    "genres": ["action", "slice-of-life"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2022/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "uncle-from-another-world",
+    "title": {
+      "zh": "異世界歸來的舅舅",
+      "ja": "異世界おじさん",
+      "en": "Uncle from Another World"
+    },
+    "creator": {
+      "zh": "殆ど死んでいる",
+      "ja": "殆ど死んでいる",
+      "en": "Shindeiru Hotondo"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "kadokawa_corporation",
+    "release_dates": ["2022/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "skeleton-knight-in-another-world",
+    "title": {
+      "zh": "骸骨騎士大人異世界冒險中",
+      "ja": "骸骨騎士様、只今異世界へお出掛け中",
+      "en": "Skeleton Knight in Another World"
+    },
+    "creator": {
+      "zh": "秤猿鬼",
+      "ja": "秤猿鬼",
+      "en": "Ennki Hakari"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "studio_kai",
+    "release_dates": ["2022/04", "2026/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "love-after-world-domination",
+    "title": {
+      "zh": "愛在征服世界後",
+      "ja": "戀は世界征服のあとで",
+      "en": "Love After World Domination"
+    },
+    "creator": {
+      "zh": "野田宏",
+      "ja": "野田宏",
+      "en": "Hiroshi Noda"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "romance"],
+    "publisher": "project_no_9",
+    "release_dates": ["2022/04"],
+    "my_completed_date": "2022/04",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "mobile-suit-gundam-the-witch-from-mercury",
+    "title": {
+      "zh": "機動戰士鋼彈 水星的魔女",
+      "ja": "機動戦士ガンダム 水星の魔女",
+      "en": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    "creator": {
+      "zh": "矢立肇",
+      "ja": "矢立肇",
+      "en": "Hajime Yatate"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi"],
+    "publisher": "sunrise",
+    "release_dates": ["2022/10", "2023/04"],
+    "my_completed_date": "2023/04",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout",
+    "title": {
+      "zh": "與變成了異世界美少女的大叔一起冒險",
+      "ja": "異世界美少女受肉おじさんと",
+      "en": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout"
+    },
+    "creator": {
+      "zh": "池澤真",
+      "ja": "池澤真",
+      "en": "Makoto Ikezawa"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy", "romance"],
+    "publisher": "olm",
+    "release_dates": ["2022/01"],
+    "my_completed_date": "2022/01",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "in-the-heart-of-kunoichi-tsubaki",
+    "title": {
+      "zh": "女忍者椿的心事",
+      "ja": "くノ一ツバキの胸の內",
+      "en": "In the Heart of Kunoichi Tsubaki"
+    },
+    "creator": {
+      "zh": "山本崇一朗",
+      "ja": "山本崇一朗",
+      "en": "Souichirou Yamamoto"
+    },
+    "form": "anime",
+    "genres": ["comedy"],
+    "publisher": "cloverworks",
+    "release_dates": ["2022/04"],
+    "my_completed_date": "2022/04",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "mushoku-tensei-jobless-reincarnation",
+    "title": {
+      "zh": "無職轉生～到了異世界就拿出真本事～",
+      "ja": "無職転生 ～異世界行ったら本気だす～",
+      "en": "Mushoku Tensei: Jobless Reincarnation"
+    },
+    "creator": {
+      "zh": "不講理不求人",
+      "ja": "理不尽な孫の手",
+      "en": "Rifujin na Magonote"
+    },
+    "form": "anime",
+    "genres": ["adventure", "drama", "fantasy"],
+    "publisher": "studio_bind",
+    "release_dates": ["2021/01", "2021/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "that-time-i-got-reincarnated-as-a-slime-season-2",
+    "title": {
+      "zh": "關於我轉生變成史萊姆這檔事",
+      "ja": "転生したらスライムだった件",
+      "en": "That Time I Got Reincarnated as a Slime"
+    },
+    "creator": {
+      "zh": "伏瀨",
+      "ja": "伏瀬",
+      "en": "Fuse"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "eight_bit",
+    "release_dates": ["2021/01", "2021/07"],
+    "my_completed_date": "",
+    "my_status": "on_hold",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "86-eighty-six",
+    "title": {
+      "zh": "86 -不存在的戰區-",
+      "ja": "86－エイティシックス－",
+      "en": "86 EIGHTY-SIX"
+    },
+    "creator": {
+      "zh": "安裡朝戶",
+      "ja": "安里アサト",
+      "en": "Asato Asato"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2021/04", "2021/10"],
+    "my_completed_date": "2021/12",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "wonder-egg-priority",
+    "title": {
+      "zh": "奇蛋物語",
+      "ja": "ワンダーエッグ・プライオリティ",
+      "en": "WONDER EGG PRIORITY"
+    },
+    "creator": {
+      "zh": "野島伸司",
+      "ja": "野島伸司",
+      "en": "Shinji Nojima"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy", "mystery", "sci-fi", "thriller"],
+    "publisher": "cloverworks",
+    "release_dates": ["2021/01", "2021/06"],
+    "my_completed_date": "",
+    "my_status": "dropped",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "ranking-of-kings",
+    "title": {
+      "zh": "國王排名",
+      "ja": "王様ランキング",
+      "en": "Ranking of Kings"
+    },
+    "creator": {
+      "zh": "十日草輔",
+      "ja": "十日草輔",
+      "en": "Sousuke Touka"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "wit_studio",
+    "release_dates": ["2021/10", "2023/04"],
+    "my_completed_date": "2023/07",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "vivy-fluorite-eyes-song",
+    "title": {
+      "zh": "Vivy -Fluorite Eye's Song-",
+      "ja": "ヴィヴィ フローライトアイズソング",
+      "en": "Vivy -Fluorite Eye's Song-"
+    },
+    "creator": {
+      "zh": "Vivy Score、長月達平、梅原英司",
+      "ja": "Vivy Score、長月達平、梅原英司",
+      "en": "Vivy Score、Tappei Nagatsuki、Eiji Umehara"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi", "thriller"],
+    "publisher": "wit_studio",
+    "release_dates": ["2021/04"],
+    "my_completed_date": "2021/07",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "miss-kobayashis-dragon-maid-s",
+    "title": {
+      "zh": "小林家的龍女僕S",
+      "ja": "小林さんちのメイドラゴンＳ",
+      "en": "Miss Kobayashi's Dragon Maid S"
+    },
+    "creator": {
+      "zh": "酷教信徒",
+      "ja": "クール教信者",
+      "en": "Cool-kyou Shinja"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy", "slice-of-life"],
+    "publisher": "kyoto_animation",
+    "release_dates": ["2017/01", "2021/07"],
+    "my_completed_date": "2021/10",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "mieruko-chan",
+    "title": {
+      "zh": "看得見的女孩",
+      "ja": "見える子ちゃん",
+      "en": "Mieruko-chan"
+    },
+    "creator": {
+      "zh": "泉朝樹",
+      "ja": "泉朝樹",
+      "en": "Tomoki Izumi"
+    },
+    "form": "anime",
+    "genres": ["comedy", "horror", "slice-of-life"],
+    "publisher": "passione",
+    "release_dates": ["2021/10"],
+    "my_completed_date": "2021/12",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "oddtaxi",
+    "title": {
+      "zh": "奇巧計程車",
+      "ja": "オッドタクシー",
+      "en": "ODDTAXI"
+    },
+    "creator": {
+      "zh": "此元和津也",
+      "ja": "此元和津也",
+      "en": "Kazuya Konomoto"
+    },
+    "form": "anime",
+    "genres": ["drama", "mystery", "thriller"],
+    "publisher": "olm",
+    "release_dates": ["2021/04"],
+    "my_completed_date": "2021/06",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "so-im-a-spider-so-what",
+    "title": {
+      "zh": "轉生成蜘蛛又怎樣！",
+      "ja": "蜘蛛ですが、なにか？",
+      "en": "So I'm a Spider, So What?"
+    },
+    "creator": {
+      "zh": "馬場翁",
+      "ja": "馬場翁",
+      "en": "Okina Baba"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "mystery"],
+    "publisher": "crunchyroll",
+    "release_dates": ["2021/01"],
+    "my_completed_date": "2021/03",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": "慘遭動畫化的案例，當初為了悠木碧看的，結果動畫製作組魔改得亂七八糟，最後結尾直接趕火車斷送後續動畫化的可能性。",
+    "has_article": false
+  },
+  {
+    "key": "high-rise-invasion",
+    "title": {
+      "zh": "天空侵犯",
+      "ja": "天空侵犯",
+      "en": "High-Rise Invasion"
+    },
+    "creator": {
+      "zh": "三浦追儺",
+      "ja": "三浦追儺",
+      "en": "Tsuina Miura"
+    },
+    "form": "anime",
+    "genres": ["action", "horror", "mystery"],
+    "publisher": "zero_g",
+    "release_dates": ["2021/02"],
+    "my_completed_date": "2021/05",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": "前期還不錯，但被腰斬了。",
+    "has_article": false
+  },
+  {
+    "key": "sonny-boy",
+    "title": {
+      "zh": "漂流少年",
+      "ja": "Sonny Boy",
+      "en": "Sonny Boy"
+    },
+    "creator": {
+      "zh": "夏目真悟",
+      "ja": "夏目真悟",
+      "en": "Shingo Natsume"
+    },
+    "form": "anime",
+    "genres": ["drama", "mystery", "sci-fi"],
+    "publisher": "madhouse",
+    "release_dates": ["2021/07"],
+    "my_completed_date": "2021/09",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": "很意識流的作品，藝術風格很喜歡，配音是落日飛車，最有印象的是戰爭的世界。",
+    "has_article": false
+  },
+  {
+    "key": "ive-been-killing-slimes-for-300-years-and-maxed-out-my-level",
+    "title": {
+      "zh": "持續狩獵史萊姆三百年，不知不覺就練到LV MAX",
+      "ja": "スライム倒して300年、知らないうちにレベルMAXになってました",
+      "en": "I've Been Killing Slimes for 300 Years and Maxed Out My Level"
+    },
+    "creator": {
+      "zh": "森田季節",
+      "ja": "森田季節",
+      "en": "Kisetsu Morita"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy", "slice-of-life"],
+    "publisher": "revoroot",
+    "release_dates": ["2021/04", "2025/04"],
+    "my_completed_date": "2021/06",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kemono-jihen",
+    "title": {
+      "zh": "怪物事變",
+      "ja": "怪物事変",
+      "en": "Kemono Jihen"
+    },
+    "creator": {
+      "zh": "藍本松",
+      "ja": "藍本松",
+      "en": "Shou Aimoto"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "mystery"],
+    "publisher": "ajia_do_animation_works",
+    "release_dates": ["2021/01"],
+    "my_completed_date": "2021/03",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "my-senpai-is-annoying",
+    "title": {
+      "zh": "前輩有夠煩",
+      "ja": "先輩がうざい後輩の話",
+      "en": "My Senpai is Annoying"
+    },
+    "creator": {
+      "zh": "しろまんた",
+      "ja": "しろまんた",
+      "en": "Shiromanta"
+    },
+    "form": "anime",
+    "genres": ["comedy", "romance", "slice-of-life"],
+    "publisher": "doga_kobo",
+    "release_dates": ["2021/10"],
+    "my_completed_date": "2021/12",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "shadows-house",
+    "title": {
+      "zh": "影宅",
+      "ja": "シャドーハウス",
+      "en": "SHADOWS HOUSE"
+    },
+    "creator": {
+      "zh": "ソウマトウ",
+      "ja": "ソウマトウ",
+      "en": "Soumatou"
+    },
+    "form": "anime",
+    "genres": ["fantasy", "horror", "mystery", "slice-of-life"],
+    "publisher": "cloverworks",
+    "release_dates": ["2021/04", "2022/07"],
+    "my_completed_date": "",
+    "my_status": "on_hold",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "cells-at-work",
+    "title": {
+      "zh": "工作細胞!!",
+      "ja": "はたらく細胞!!",
+      "en": "Cells at Work!!"
+    },
+    "creator": {
+      "zh": "清水茜",
+      "ja": "清水茜",
+      "en": "Akane Shimizu"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "sci-fi"],
+    "publisher": "david_production",
+    "release_dates": ["2021/01"],
+    "my_completed_date": "",
+    "my_status": "dropped",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "life-lessons-with-uramichi-oniisan",
+    "title": {
+      "zh": "陰晴不定的體操哥哥",
+      "ja": "うらみちお兄さん",
+      "en": "Life Lessons with Uramichi Oniisan"
+    },
+    "creator": {
+      "zh": "久世嶽",
+      "ja": "久世嶽",
+      "en": "Gaku Kuze"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "studio_blanc",
+    "release_dates": ["2021/07"],
+    "my_completed_date": "2021/10",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "挺搞笑的，主角是個體操哥哥，總是面帶微笑地說著一些讓人心裡發毛的話。",
+    "has_article": false
+  },
+  {
+    "key": "the-dungeon-of-black-company",
+    "title": {
+      "zh": "異世界迷宮黑心企業",
+      "ja": "迷宮ブラックカンパニー",
+      "en": "The Dungeon of Black Company"
+    },
+    "creator": {
+      "zh": "安村洋平",
+      "ja": "安村洋平",
+      "en": "Youhei Yasumura"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "silver_link",
+    "release_dates": ["2021/07"],
+    "my_completed_date": "2021/10",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-idaten-deities-know-only-peace",
+    "title": {
+      "zh": "平穩世代的韋馱天們",
+      "ja": "平穏世代の韋駄天達",
+      "en": "The Idaten Deities Know Only Peace"
+    },
+    "creator": {
+      "zh": "天原",
+      "ja": "天原",
+      "en": "Amahara"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "mappa",
+    "release_dates": ["2021/07"],
+    "my_completed_date": "2021/10",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "衝著跟《異獸魔都》類似的混沌氣質入坑的，意外發現與《小林家的龍女僕》是同一個作者。",
+    "has_article": false
+  },
+  {
+    "key": "super-crooks",
+    "title": {
+      "zh": "超級小偷",
+      "ja": "スーパー・クルックス",
+      "en": "Super Crooks"
+    },
+    "creator": {
+      "zh": "馬克·米勒",
+      "ja": "マーク・ミラー",
+      "en": "Mark Millar"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "thriller"],
+    "publisher": "bones",
+    "release_dates": ["2021/11"],
+    "my_completed_date": "2022/01",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "OP 我很喜歡！",
+    "has_article": false
+  },
+  {
+    "key": "the-vampire-dies-in-no-time",
+    "title": {
+      "zh": "吸血鬼馬上死",
+      "ja": "吸血鬼すぐ死ぬ",
+      "en": "The Vampire Dies in No Time"
+    },
+    "creator": {
+      "zh": "盆ノ木至",
+      "ja": "盆ノ木至",
+      "en": "Itaru Bonnoki"
+    },
+    "form": "anime",
+    "genres": ["comedy"],
+    "publisher": "madhouse",
+    "release_dates": ["2021/10", "2023/01"],
+    "my_completed_date": "",
+    "my_status": "dropped",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "pui-pui-molcar",
+    "title": {
+      "zh": "PUI PUI 天竺鼠車車",
+      "ja": "PUI PUI モルカー",
+      "en": "PUI PUI MOLCAR"
+    },
+    "creator": {
+      "zh": "見里朝希",
+      "ja": "見里朝希",
+      "en": "Tomoki Misato"
+    },
+    "form": "anime",
+    "genres": ["comedy"],
+    "publisher": "shin_ei_animation",
+    "release_dates": ["2021/01", "2022/10"],
+    "my_completed_date": "2023/01",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "haikyu",
+    "title": {
+      "zh": "排球少年",
+      "ja": "ハイキュー!!",
+      "en": "HAIKYU!!"
+    },
+    "creator": {
+      "zh": "古館春一",
+      "ja": "古舘春一",
+      "en": "Haruichi Furudate"
+    },
+    "form": "anime",
+    "genres": ["comedy", "drama", "sports"],
+    "publisher": "production_i_g",
+    "release_dates": ["2014/04", "2015/10", "2016/10", "2020/10"],
+    "my_completed_date": "2020/04",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-misfit-of-demon-king-academy-historys-strongest-demon-king-reincarnates-and-goes-to-school-with-his-descendants",
+    "title": {
+      "zh": "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～",
+      "ja": "魔王學院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの學校へ通う～",
+      "en": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
+    },
+    "creator": {
+      "zh": "秋",
+      "ja": "秋",
+      "en": "Shu"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "silver_link",
+    "release_dates": ["2020/07", "2023/01"],
+    "my_completed_date": "2020/10",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "great-pretender",
+    "title": {
+      "zh": "詐騙之王",
+      "ja": "GREAT PRETENDER",
+      "en": "Great Pretender"
+    },
+    "creator": {
+      "zh": "古澤良太",
+      "ja": "古沢良太",
+      "en": "Ryota Kosawa"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "thriller"],
+    "publisher": "wit_studio",
+    "release_dates": ["2020/06", "2024/02"],
+    "my_completed_date": "2020/10",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "很像電影《出神入化》。",
+    "has_article": false
+  },
+  {
+    "key": "dorohedoro",
+    "title": {
+      "zh": "異獸魔都",
+      "ja": "ドロヘドロ",
+      "en": "Dorohedoro"
+    },
+    "creator": {
+      "zh": "林田球",
+      "ja": "林田球",
+      "en": "Q Hayashida"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "horror", "mystery"],
+    "publisher": "mappa",
+    "release_dates": ["2020/01", "2026/04"],
+    "my_completed_date": "2020/04",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense",
+    "title": {
+      "zh": "怕痛的我，把防禦力點滿就對了",
+      "ja": "痛いのは嫌なので防禦力に極振りしたいと思います。",
+      "en": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
+    },
+    "creator": {
+      "zh": "夕蜜柑",
+      "ja": "夕蜜柑",
+      "en": "Yuumikan"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "slice-of-life"],
+    "publisher": "silver_link",
+    "release_dates": ["2020/01", "2023/01"],
+    "my_completed_date": "2023/07",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "in-spectre",
+    "title": {
+      "zh": "虛構推理",
+      "ja": "虛構推理",
+      "en": "In/Spectre"
+    },
+    "creator": {
+      "zh": "城平京",
+      "ja": "城平京",
+      "en": "Kyo Shirodaira"
+    },
+    "form": "anime",
+    "genres": ["comedy", "mystery", "romance"],
+    "publisher": "brain_s_base",
+    "release_dates": ["2020/01", "2023/01"],
+    "my_completed_date": "2020/04",
+    "my_status": "on_hold",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "my-next-life-as-a-villainess-all-routes-lead-to-doom",
+    "title": {
+      "zh": "轉生成女性向遊戲只有毀滅END的壞人大小姐",
+      "ja": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+      "en": "My Next Life as a Villainess: All Routes Lead to Doom!"
+    },
+    "creator": {
+      "zh": "山口悟",
+      "ja": "山口悟",
+      "en": "Satoru Yamaguchi"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy", "romance", "slice-of-life"],
+    "publisher": "silver_link",
+    "release_dates": ["2020/04", "2021/07"],
+    "my_completed_date": "2021/10",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "第一步入坑的惡役千金，看著主角一直跑去種田很好笑。",
+    "has_article": false
+  },
+  {
+    "key": "bna",
+    "title": {
+      "zh": "動物新世代 BNA",
+      "ja": "BNA ビー・エヌ・エー",
+      "en": "BNA"
+    },
+    "creator": {
+      "zh": "吉成曜、中島一基、樋口七海、上野貴美子、芳垣祐介",
+      "ja": "吉成曜、中島一基、樋口七海、上野貴美子、芳垣祐介",
+      "en": "Yoh Yoshinari、Kazuki Nakashima、Nanami Higuchi、Kimiko Ueno、Yusuke Horigaki"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "trigger",
+    "release_dates": ["2020/03"],
+    "my_completed_date": "2020/05",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "熟悉的 Trigger 最對味，OP 很好聽，不過比較像是小品。",
+    "has_article": false
+  },
+  {
+    "key": "id-invaded",
+    "title": {
+      "zh": "ID:INVADED",
+      "ja": "イド：インヴェイデッド",
+      "en": "ID: INVADED"
+    },
+    "creator": {
+      "zh": "青木英、舞城王太郎、小玉有起",
+      "ja": "青木英、舞城王太郎、小玉有起",
+      "en": "Hiroshi Aoki、Otokura Wataru、Yuki Kodama"
+    },
+    "form": "anime",
+    "genres": ["drama", "mystery", "sci-fi", "thriller"],
+    "publisher": "naz",
+    "release_dates": ["2020/01"],
+    "my_completed_date": "2020/04",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "keep-your-hands-off-eizouken",
+    "title": {
+      "zh": "別對映像研出手！",
+      "ja": "映像研には手を出すな！",
+      "en": "Keep Your Hands Off Eizouken!"
+    },
+    "creator": {
+      "zh": "湯淺政明、大童澄瞳、山代風我",
+      "ja": "湯淺政明、大童澄瞳、山代風我",
+      "en": "Masaki Yamashita、Sumito Oowara、Yamashiro Fūga"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "slice-of-life"],
+    "publisher": "science_saru",
+    "release_dates": ["2020/01"],
+    "my_completed_date": "2020/04",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": "每個畫面都細節滿滿。",
+    "has_article": false
+  },
+  {
+    "key": "deca-dence",
+    "title": {
+      "zh": "DECA-DENCE",
+      "ja": "デカダンス",
+      "en": "DECA-DENCE"
+    },
+    "creator": {
+      "zh": "立川讓、瀨古浩司、pomodorosa、栗田新一",
+      "ja": "立川讓、瀬古浩司、pomodorosa、栗田新一",
+      "en": "Jou Tachikawa、Koji Seko、pomodorosa、Shinichi Kurita"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "nut",
+    "release_dates": ["2020/07"],
+    "my_completed_date": "2020/10",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "不錯的小品，當時看得挺享受的",
+    "has_article": false
+  },
+  {
+    "key": "im-standing-on-a-million-lives",
+    "title": {
+      "zh": "我立於百萬生命之上",
+      "ja": "100萬の命の上に俺は立っている",
+      "en": "I'm Standing on a Million Lives"
+    },
+    "creator": {
+      "zh": "山川直輝",
+      "ja": "山川直輝",
+      "en": "Naoki Yamakawa"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "maho_film",
+    "release_dates": ["2020/10", "2021/07"],
+    "my_completed_date": "2021/10",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "漫畫版給比較高分，動畫省略太多了。",
+    "has_article": false
+  },
+  {
+    "key": "kyokou-uranai",
+    "title": {
+      "zh": "虛構推理 迷你動畫",
+      "ja": "虛構佔い",
+      "en": "Kyokou Uranai"
+    },
+    "creator": {
+      "zh": "城平京",
+      "ja": "城平京",
+      "en": "Kyou Shirodaira"
+    },
+    "form": "anime",
+    "genres": ["fantasy"],
+    "publisher": "aqua_aris",
+    "release_dates": ["2020/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "munou-na-nana-mini-anime",
+    "title": {
+      "zh": "「無能的奈奈」迷你動畫",
+      "ja": "無能なナナ ミニアニメ",
+      "en": "Munou na Nana: Mini Anime"
+    },
+    "creator": {
+      "zh": "るーすぼーい",
+      "ja": "るーすぼーい",
+      "en": "Looseboy"
+    },
+    "form": "anime",
+    "genres": ["comedy"],
+    "publisher": "bridge",
+    "release_dates": ["2020/10", "2020/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "demon-slayer-kimetsu-no-yaiba",
+    "title": {
+      "zh": "鬼滅之刃",
+      "ja": "鬼滅の刃",
+      "en": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    "creator": {
+      "zh": "吾峠呼世晴",
+      "ja": "吾峠呼世晴",
+      "en": "Koyoharu Gotouge"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "ufotable",
+    "release_dates": ["2019/04", "2021/10", "2021/12", "2023/04", "2024/05"],
+    "my_completed_date": "2024/06/30",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": "動畫化非常讚！",
+    "has_article": false
+  },
+  {
+    "key": "the-promised-neverland",
+    "title": {
+      "zh": "約定的夢幻島",
+      "ja": "約束のネバーランド",
+      "en": "The Promised Neverland"
+    },
+    "creator": {
+      "zh": "白井海芋",
+      "ja": "白井カイウ",
+      "en": "Kaiu Shirai"
+    },
+    "form": "anime",
+    "genres": ["drama", "fantasy", "horror", "mystery", "thriller"],
+    "publisher": "cloverworks",
+    "release_dates": ["2019/01", "2021/01"],
+    "my_completed_date": "2021/04",
+    "my_status": "completed",
+    "my_score": null,
+    "note": "又一個慘遭動畫化的案例...不過原作的結尾也是挺微妙的。",
+    "has_article": false
+  },
+  {
+    "key": "kaguya-sama-love-is-war",
+    "title": {
+      "zh": "輝夜姬想讓人告白～天才們的戀愛頭腦戰～",
+      "ja": "かぐや様は告らせたい～天才たちの戀愛頭脳戦～",
+      "en": "Kaguya-sama: Love is War"
+    },
+    "creator": {
+      "zh": "赤坂明",
+      "ja": "赤坂アカ",
+      "en": "Aka Akasaka"
+    },
+    "form": "anime",
+    "genres": ["comedy", "romance", "slice-of-life"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2025/12", "2023/03", "2022/04", "2020/04", "2019/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "dr-stone",
+    "title": {
+      "zh": "Dr.STONE 新石紀",
+      "ja": "Dr.STONE",
+      "en": "Dr. STONE"
+    },
+    "creator": {
+      "zh": "稻垣理一郎",
+      "ja": "稲垣理一郎",
+      "en": "Riichiro Inagaki"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "sci-fi"],
+    "publisher": "tms_entertainment",
+    "release_dates": ["2019/07", "2021/01"],
+    "my_completed_date": "",
+    "my_status": "dropped",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-rising-of-the-shield-hero",
+    "title": {
+      "zh": "盾之勇者成名錄",
+      "ja": "盾の勇者の成り上がり",
+      "en": "The Rising of the Shield Hero"
+    },
+    "creator": {
+      "zh": "アネコユサギ",
+      "ja": "アネコユサギ",
+      "en": "Aneko Yusagi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "kinema_citrus",
+    "release_dates": ["2019/01", "2022/04"],
+    "my_completed_date": "",
+    "my_status": "dropped",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "fire-force",
+    "title": {
+      "zh": "炎炎消防隊",
+      "ja": "炎炎ノ消防隊",
+      "en": "Fire Force"
+    },
+    "creator": {
+      "zh": "大久保篤",
+      "ja": "大久保篤",
+      "en": "Atsushi Ookubo"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi"],
+    "publisher": "david_production",
+    "release_dates": ["2019/07", "2020/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "vinland-saga",
+    "title": {
+      "zh": "海盜戰記",
+      "ja": "ヴィンランド・サガ",
+      "en": "Vinland Saga"
+    },
+    "creator": {
+      "zh": "幸村誠",
+      "ja": "幸村誠",
+      "en": "Makoto Yukimura"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama"],
+    "publisher": "wit_studio",
+    "release_dates": ["2019/07", "2023/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "welcome-to-demon-school-iruma-kun",
+    "title": {
+      "zh": "入間同學入魔了",
+      "ja": "魔入りました！入間くん",
+      "en": "Welcome to Demon School! Iruma-kun"
+    },
+    "creator": {
+      "zh": "西修",
+      "ja": "西修",
+      "en": "Osamu Nishi"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "bandai_namco_pictures",
+    "release_dates": ["2019/10", "2021/04", "2022/10", "2026/04"],
+    "my_completed_date": "",
+    "my_status": "ongoing",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "a-certain-scientific-accelerator",
+    "title": {
+      "zh": "科學一方通行",
+      "ja": "とある科學の一方通行【アクセラレータ】",
+      "en": "A Certain Scientific Accelerator"
+    },
+    "creator": {
+      "zh": "鎌池和馬",
+      "ja": "鎌池和馬",
+      "en": "Kazuma Kamachi"
+    },
+    "form": "anime",
+    "genres": ["action", "sci-fi"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2019/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "boogiepop-and-others",
+    "title": {
+      "zh": "不吉波普不笑",
+      "ja": "ブギーポップは笑わない",
+      "en": "Boogiepop and Others"
+    },
+    "creator": {
+      "zh": "上遠野浩平",
+      "ja": "上遠野浩平",
+      "en": "Kouhei Kadono"
+    },
+    "form": "anime",
+    "genres": ["horror", "mystery"],
+    "publisher": "madhouse",
+    "release_dates": ["2019/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "lord-el-melloi-iis-case-files-rail-zeppelin-grace-note",
+    "title": {
+      "zh": "艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note-",
+      "ja": "ロード・エルメロイⅡ世の事件簿 {魔眼蒐集列車} Grace note",
+      "en": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
+    },
+    "creator": {
+      "zh": "東冬",
+      "ja": "東冬",
+      "en": "Azuma Tou"
+    },
+    "form": "anime",
+    "genres": ["drama", "fantasy", "mystery"],
+    "publisher": "troyca",
+    "release_dates": ["2019/07", "2021/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kemono-michi-rise-up",
+    "title": {
+      "zh": "旗揚！獸道",
+      "ja": "旗揚！けものみち",
+      "en": "Kemono Michi: Rise Up"
+    },
+    "creator": {
+      "zh": "曉夏目",
+      "ja": "暁なつめ",
+      "en": "Natsume Akatsuki"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy", "slice-of-life"],
+    "publisher": "engi",
+    "release_dates": ["2019/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "that-time-i-got-reincarnated-as-a-slime",
+    "title": {
+      "zh": "關於我轉生變成史萊姆這檔事",
+      "ja": "転生したらスライムだった件",
+      "en": "That Time I Got Reincarnated as a Slime"
+    },
+    "creator": {
+      "zh": "伏瀨",
+      "ja": "伏瀬",
+      "en": "Fuse"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "eight_bit",
+    "release_dates": ["2018/10", "2023/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "devilman-crybaby",
+    "title": {
+      "zh": "惡魔人 Crybaby",
+      "ja": "DEVILMAN crybaby",
+      "en": "Devilman Crybaby"
+    },
+    "creator": {
+      "zh": "永井豪",
+      "ja": "永井豪",
+      "en": "Gou Nagai"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "horror"],
+    "publisher": "science_saru",
+    "release_dates": ["2018/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "goblin-slayer",
+    "title": {
+      "zh": "哥布林殺手",
+      "ja": "ゴブリンスレイヤー",
+      "en": "GOBLIN SLAYER"
+    },
+    "creator": {
+      "zh": "蝸牛くも",
+      "ja": "蝸牛くも",
+      "en": "Kumo Kagyu"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "white_fox",
+    "release_dates": ["2018/10", "2020/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "grand-blue-dreaming",
+    "title": {
+      "zh": "碧藍之海",
+      "ja": "ぐらんぶる",
+      "en": "Grand Blue Dreaming"
+    },
+    "creator": {
+      "zh": "井上堅二",
+      "ja": "井上堅二",
+      "en": "Kenji Inoue"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life", "sports"],
+    "publisher": "zero_g",
+    "release_dates": ["2018/07", "2025/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "steins-gate-0",
+    "title": {
+      "zh": "命運石之門0",
+      "ja": "シュタインズ・ゲート ゼロ",
+      "en": "Steins;Gate 0"
+    },
+    "creator": {
+      "zh": "MAGES.",
+      "ja": "株式會社MAGES.",
+      "en": "MAGES."
+    },
+    "form": "anime",
+    "genres": ["drama", "sci-fi", "thriller"],
+    "publisher": "white_fox",
+    "release_dates": ["2018/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "a-place-further-than-the-universe",
+    "title": {
+      "zh": "比宇宙更遠的地方",
+      "ja": "宇宙よりも遠い場所",
+      "en": "A Place Further Than the Universe"
+    },
+    "creator": {
+      "zh": "Yorimoi",
+      "ja": "よりもい",
+      "en": "Yorimoi"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "drama"],
+    "publisher": "madhouse",
+    "release_dates": ["2018/01"],
+    "my_completed_date": "2020",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "zombie-land-saga",
+    "title": {
+      "zh": "佐賀偶像是傳奇",
+      "ja": "ゾンビランドサガ",
+      "en": "ZOMBIE LAND SAGA"
+    },
+    "creator": {
+      "zh": "廣報廣聽課殭屍係",
+      "ja": "広報広聴課ゾンビ係",
+      "en": "Zombie Land Saga Project"
+    },
+    "form": "anime",
+    "genres": ["comedy"],
+    "publisher": "mappa",
+    "release_dates": ["2018/10", "2021/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": "電影版還沒看！",
+    "has_article": false
+  },
+  {
+    "key": "golden-kamuy",
+    "title": {
+      "zh": "黃金神威",
+      "ja": "ゴールデンカムイ",
+      "en": "Golden Kamuy"
+    },
+    "creator": {
+      "zh": "野田智",
+      "ja": "野田サトル",
+      "en": "Satoru Noda"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy"],
+    "publisher": "geno_studio",
+    "release_dates": ["2018/04", "2018/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "megalobox",
+    "title": {
+      "zh": "MEGALO BOX",
+      "ja": "メガロボクス",
+      "en": "Megalobox"
+    },
+    "creator": {
+      "zh": "梶原一騎",
+      "ja": "梶原一騎",
+      "en": "Ikki Kajiwara"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi", "sports"],
+    "publisher": "tms_entertainment",
+    "release_dates": ["2018/04", "2021/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "ssss-gridman",
+    "title": {
+      "zh": "SSSS.GRIDMAN",
+      "ja": "SSSS.GRIDMAN",
+      "en": "SSSS.GRIDMAN"
+    },
+    "creator": {
+      "zh": "圓谷製作",
+      "ja": "円谷プロダクション",
+      "en": "Tsuburaya Productions"
+    },
+    "form": "anime",
+    "genres": ["action", "sci-fi"],
+    "publisher": "trigger",
+    "release_dates": ["2018/10", "2021/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "run-with-the-wind",
+    "title": {
+      "zh": "強風吹拂",
+      "ja": "風が強く吹いている",
+      "en": "Run with the Wind"
+    },
+    "creator": {
+      "zh": "三浦紫苑",
+      "ja": "三浦しをん",
+      "en": "Shion Miura"
+    },
+    "form": "anime",
+    "genres": ["drama", "sports"],
+    "publisher": "production_i_g",
+    "release_dates": ["2018/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "hakata-tonkotsu-ramens",
+    "title": {
+      "zh": "博多豚骨拉麵",
+      "ja": "博多豚骨ラーメンズ",
+      "en": "Hakata Tonkotsu Ramens"
+    },
+    "creator": {
+      "zh": "木崎ちあき",
+      "ja": "木崎ちあき",
+      "en": "Chiaki Kisaki"
+    },
+    "form": "anime",
+    "genres": ["action", "mystery"],
+    "publisher": "satelight",
+    "release_dates": ["2018/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "miss-kobayashis-dragon-something",
+    "title": {
+      "zh": "小林家的龍女僕",
+      "ja": "小林さんちの○○ドラゴン",
+      "en": "Miss Kobayashi's Dragon Something"
+    },
+    "creator": {
+      "zh": "酷教信徒",
+      "ja": "クール教信者",
+      "en": "Cool-kyou Shinja"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy", "slice-of-life"],
+    "publisher": "kyoto_animation",
+    "release_dates": ["2017/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "fate-grand-order-first-order",
+    "title": {
+      "zh": "Fate/Grand Order -First Order-",
+      "ja": "Fate/Grand Order -First Order-",
+      "en": "Fate/Grand Order: First Order"
+    },
+    "creator": {
+      "zh": "奈須蘑菇",
+      "ja": "奈須きのこ",
+      "en": "Kinoko Nasu"
+    },
+    "form": "anime",
+    "genres": ["action", "fantasy"],
+    "publisher": "lay_duce",
+    "release_dates": ["2016/12", "2020/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "made-in-abyss",
+    "title": {
+      "zh": "來自深淵",
+      "ja": "メイドインアビス",
+      "en": "Made in Abyss"
+    },
+    "creator": {
+      "zh": "土筆章人",
+      "ja": "つくしあきひと",
+      "en": "Akihito Tsukushi"
+    },
+    "form": "anime",
+    "genres": ["adventure", "drama", "fantasy", "horror", "mystery", "sci-fi"],
+    "publisher": "kinema_citrus",
+    "release_dates": ["2017/07", "2020/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "miss-kobayashis-dragon-maid",
+    "title": {
+      "zh": "小林家的龍女僕",
+      "ja": "小林さんちのメイドラゴン",
+      "en": "Miss Kobayashi's Dragon Maid"
+    },
+    "creator": {
+      "zh": "酷教信徒",
+      "ja": "クール教信者",
+      "en": "Cool-kyou Shinja"
+    },
+    "form": "anime",
+    "genres": ["comedy", "fantasy", "slice-of-life"],
+    "publisher": "kyoto_animation",
+    "release_dates": ["2017/01", "2017/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "saga-of-tanya-the-evil",
+    "title": {
+      "zh": "幼女戰記",
+      "ja": "幼女戦記",
+      "en": "Saga of Tanya the Evil"
+    },
+    "creator": {
+      "zh": "Carlo_Zen",
+      "ja": "カルロ・ゼン",
+      "en": "Carlo Zen"
+    },
+    "form": "anime",
+    "genres": ["action", "fantasy"],
+    "publisher": "nut",
+    "release_dates": ["2017/01", "2019/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-ancient-magus-bride",
+    "title": {
+      "zh": "魔法使的新娘",
+      "ja": "魔法使いの嫁",
+      "en": "The Ancient Magus' Bride"
+    },
+    "creator": {
+      "zh": "Yamazaki Kore",
+      "ja": "ヤマザキコレ",
+      "en": "Kore Yamazaki"
+    },
+    "form": "anime",
+    "genres": ["drama", "fantasy", "romance", "slice-of-life"],
+    "publisher": "wit_studio",
+    "release_dates": ["2017/10", "2021/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "inuyashiki-last-hero",
+    "title": {
+      "zh": "犬屋敷",
+      "ja": "いぬやしき",
+      "en": "INUYASHIKI LAST HERO"
+    },
+    "creator": {
+      "zh": "奧浩哉",
+      "ja": "奧浩哉",
+      "en": "Hiroya Oku"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi"],
+    "publisher": "mappa",
+    "release_dates": ["2017/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "fate-apocrypha",
+    "title": {
+      "zh": "命運／外傳",
+      "ja": "Fate/Apocrypha",
+      "en": "Fate/Apocrypha"
+    },
+    "creator": {
+      "zh": "東出祐一郎",
+      "ja": "東出祐一郎",
+      "en": "Yuuichirou Higashide"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2017/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "sword-oratoria-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side",
+    "title": {
+      "zh": "在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚",
+      "ja": "ダンジョンに出會いを求めるのは間違っているだろうか外伝 ソード・オラトリア",
+      "en": "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
+    },
+    "creator": {
+      "zh": "大森藤野",
+      "ja": "大森藤ノ",
+      "en": "Fujino Omori"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2017/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "thus-spoke-rohan-kishibe",
+    "title": {
+      "zh": "岸邊露伴一動不動 六壁坂",
+      "ja": "岸辺露伴は動かない",
+      "en": "Thus Spoke Rohan Kishibe"
+    },
+    "creator": {
+      "zh": "荒木飛呂彥",
+      "ja": "荒木飛呂彥",
+      "en": "Hirohiko Araki"
+    },
+    "form": "anime",
+    "genres": ["horror", "mystery"],
+    "publisher": "david_production",
+    "release_dates": ["2017/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kinos-journey-the-beautiful-world",
+    "title": {
+      "zh": "奇諾之旅 -the Beautiful World",
+      "ja": "キノの旅 -the Beautiful World",
+      "en": "Kino's Journey -the Beautiful World"
+    },
+    "creator": {
+      "zh": "時雨澤惠一",
+      "ja": "時雨沢恵一",
+      "en": "Keiichi Sigsawa"
+    },
+    "form": "anime",
+    "genres": ["adventure", "drama", "fantasy", "slice-of-life"],
+    "publisher": "lerche",
+    "release_dates": ["2017/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "mob-psycho-100",
+    "title": {
+      "zh": "路人超能100",
+      "ja": "モブサイコ100",
+      "en": "Mob Psycho 100"
+    },
+    "creator": {
+      "zh": "ONE、立川讓、瀨古浩司",
+      "ja": "ONE、立川譲、瀬古浩司",
+      "en": "ONE、Yuzuru Tachikawa、Koji Seko"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "slice-of-life"],
+    "publisher": "bones",
+    "release_dates": ["2016/07", "2019/01", "2022/10"],
+    "my_completed_date": "2022/12",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "re-zero-starting-life-in-another-world",
+    "title": {
+      "zh": "Re:從零開始的異世界生活",
+      "ja": "Re:ゼロから始める異世界生活",
+      "en": "Re:ZERO -Starting Life in Another World-"
+    },
+    "creator": {
+      "zh": "長月達平",
+      "ja": "長月達平",
+      "en": "Tappei Nagatsuki"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy", "romance", "thriller"],
+    "publisher": "white_fox",
+    "release_dates": ["2016/04", "2020/07", "2021/01", "2024/10", "2025/02", "2026/04", "2026/08"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "erased",
+    "title": {
+      "zh": "只有我不存在的城市",
+      "ja": "僕だけがいない街",
+      "en": "ERASED"
+    },
+    "creator": {
+      "zh": "三部敬",
+      "ja": "三部けい",
+      "en": "Kei Sanbe"
+    },
+    "form": "anime",
+    "genres": ["drama", "mystery", "thriller"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2016/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "konosuba-gods-blessing-on-this-wonderful-world",
+    "title": {
+      "zh": "為美好的世界獻上祝福！",
+      "ja": "この素晴らしい世界に祝福を！",
+      "en": "KONOSUBA -God's blessing on this wonderful world!"
+    },
+    "creator": {
+      "zh": "曉夏目",
+      "ja": "暁なつめ",
+      "en": "Natsume Akatsuki"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "studio_deen",
+    "release_dates": ["2016/01", "2017/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "bungo-stray-dogs",
+    "title": {
+      "zh": "文豪野犬",
+      "ja": "文豪ストレイドッグス",
+      "en": "Bungo Stray Dogs"
+    },
+    "creator": {
+      "zh": "朝霧卡夫卡",
+      "ja": "朝霧カフカ",
+      "en": "Kafka Asagiri"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "mystery"],
+    "publisher": "bones",
+    "release_dates": ["2016/04", "2016/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-disastrous-life-of-saiki-k",
+    "title": {
+      "zh": "齊木楠雄的災難",
+      "ja": "斉木楠雄のΨ難",
+      "en": "The Disastrous Life of Saiki K."
+    },
+    "creator": {
+      "zh": "麻生週一",
+      "ja": "麻生週一",
+      "en": "Shuuichi Asou"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2016/07", "2018/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "drifters",
+    "title": {
+      "zh": "漂流武士",
+      "ja": "DRIFTERS",
+      "en": "DRIFTERS"
+    },
+    "creator": {
+      "zh": "平野耕太",
+      "ja": "平野耕太",
+      "en": "Kouta Hirano"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "hoods_entertainment",
+    "release_dates": ["2016/10", "2017/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "one-punch-man",
+    "title": {
+      "zh": "一拳超人",
+      "ja": "ワンパンマン",
+      "en": "One-Punch Man"
+    },
+    "creator": {
+      "zh": "ONE",
+      "ja": "ONE",
+      "en": "ONE"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "sci-fi"],
+    "publisher": "madhouse",
+    "release_dates": ["2015/10", "2019/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "overlord",
+    "title": {
+      "zh": "OVERLORD",
+      "ja": "オーバーロード",
+      "en": "Overlord"
+    },
+    "creator": {
+      "zh": "丸山黃金",
+      "ja": "丸山くがね",
+      "en": "Kugane Maruyama"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "madhouse",
+    "release_dates": ["2015/07", "2018/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
+    "title": {
+      "zh": "在地下城尋求邂逅是否搞錯了什麼",
+      "ja": "ダンジョンに出會いを求めるのは間違っているだろうか",
+      "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    },
+    "creator": {
+      "zh": "大森藤野",
+      "ja": "大森藤ノ",
+      "en": "Fujino Omori"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "romance"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2015/04", "2019/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "prison-school",
+    "title": {
+      "zh": "監獄學園",
+      "ja": "監獄學園〈プリズンスクール〉",
+      "en": "Prison School"
+    },
+    "creator": {
+      "zh": "平本Akira",
+      "ja": "平本アキラ",
+      "en": "Akira Hiramoto"
+    },
+    "form": "anime",
+    "genres": ["comedy"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2015/07", "2016/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "blood-blockade-battlefront",
+    "title": {
+      "zh": "血界戰線",
+      "ja": "血界戦線",
+      "en": "Blood Blockade Battlefront"
+    },
+    "creator": {
+      "zh": "內藤泰弘",
+      "ja": "內藤泰弘",
+      "en": "Yasuhiro Nightow"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy"],
+    "publisher": "bones",
+    "release_dates": ["2015/04", "2017/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "gate",
+    "title": {
+      "zh": "GATE 奇幻自衛隊",
+      "ja": "GATE 自衛隊 彼の地にて、斯く戦えり",
+      "en": "Gate"
+    },
+    "creator": {
+      "zh": "柳內巧",
+      "ja": "柳内たくみ",
+      "en": "Takumi Yanai"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2015/07", "2016/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "tokyo-ghoul",
+    "title": {
+      "zh": "東京喰種",
+      "ja": "東京喰種 トーキョーグール",
+      "en": "Tokyo Ghoul"
+    },
+    "creator": {
+      "zh": "石田翠",
+      "ja": "石田スイ",
+      "en": "Sui Ishida"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "horror", "mystery"],
+    "publisher": "pierrot",
+    "release_dates": ["2014/07", "2015/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "noragami",
+    "title": {
+      "zh": "野良神",
+      "ja": "ノラガミ",
+      "en": "Noragami"
+    },
+    "creator": {
+      "zh": "安達渡嘉",
+      "ja": "あだちとか",
+      "en": "Adachitoka"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy"],
+    "publisher": "bones",
+    "release_dates": ["2014/01", "2015/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "parasyte-the-maxim",
+    "title": {
+      "zh": "寄生獸 生命的準則",
+      "ja": "寄生獣 セイの格率",
+      "en": "Parasyte -the maxim-"
+    },
+    "creator": {
+      "zh": "巖明均",
+      "ja": "巖明均",
+      "en": "Hitoshi Iwaaki"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "horror", "sci-fi"],
+    "publisher": "madhouse",
+    "release_dates": ["2014/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-seven-deadly-sins",
+    "title": {
+      "zh": "七大罪",
+      "ja": "七つの大罪",
+      "en": "The Seven Deadly Sins"
+    },
+    "creator": {
+      "zh": "鈴木央",
+      "ja": "鈴木央",
+      "en": "Nakaba Suzuki"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "a_1_pictures",
+    "release_dates": ["2014/10", "2016/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "terra-formars",
+    "title": {
+      "zh": "火星異種",
+      "ja": "テラフォーマーズ",
+      "en": "Terra Formars"
+    },
+    "creator": {
+      "zh": "貴家悠",
+      "ja": "貴家悠",
+      "en": "Yu Sasuga"
+    },
+    "form": "anime",
+    "genres": ["action", "horror", "sci-fi"],
+    "publisher": "liden_films",
+    "release_dates": ["2014/09", "2016/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "attack-on-titan",
+    "title": {
+      "zh": "進擊的巨人",
+      "ja": "進撃の巨人",
+      "en": "Attack on Titan"
+    },
+    "creator": {
+      "zh": "諫山創",
+      "ja": "諫山創",
+      "en": "Hajime Isayama"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy", "mystery"],
+    "publisher": "wit_studio",
+    "release_dates": ["2013/04", "2017/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kill-la-kill",
+    "title": {
+      "zh": "KILL la KILL",
+      "ja": "キルラキル",
+      "en": "Kill la Kill"
+    },
+    "creator": {
+      "zh": "Trigger、中島一基、瀨古浩司、澤野弘之",
+      "ja": "Trigger、中島かずき、瀬古浩司、澤野弘之",
+      "en": "Trigger、Kazuki Nakashima、Koji Seko、Hiroyuki Sawano"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy"],
+    "publisher": "aniplex",
+    "release_dates": ["2013/10"],
+    "my_completed_date": "2022",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "log-horizon",
+    "title": {
+      "zh": "記錄的地平線",
+      "ja": "ログ・ホライズン",
+      "en": "Log Horizon"
+    },
+    "creator": {
+      "zh": "橙乃真希",
+      "ja": "橙乃ままれ",
+      "en": "Mamare Touno"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "satelight",
+    "release_dates": ["2013/10", "2014/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "a-certain-scientific-railgun-s",
+    "title": {
+      "zh": "某科學的超電磁砲S",
+      "ja": "とある科學の超電磁砲S",
+      "en": "A Certain Scientific Railgun S"
+    },
+    "creator": {
+      "zh": "鎌池和馬",
+      "ja": "鎌池和馬",
+      "en": "Kazuma Kamachi"
+    },
+    "form": "anime",
+    "genres": ["action", "fantasy", "sci-fi"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2013/04", "2020/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "jojos-bizarre-adventure-tv",
+    "title": {
+      "zh": "JOJO的奇妙冒險",
+      "ja": "ジョジョの奇妙な冒険 (TV)",
+      "en": "JoJo's Bizarre Adventure (TV)"
+    },
+    "creator": {
+      "zh": "荒木飛呂彥",
+      "ja": "荒木飛呂彥",
+      "en": "Hirohiko Araki"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure"],
+    "publisher": "david_production",
+    "release_dates": ["2012/10", "2014/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "sword-art-online",
+    "title": {
+      "zh": "刀劍神域",
+      "ja": "ソードアート・オンライン",
+      "en": "Sword Art Online"
+    },
+    "creator": {
+      "zh": "川原礫",
+      "ja": "川原礫",
+      "en": "Reki Kawahara"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy", "romance"],
+    "publisher": "aniplex",
+    "release_dates": ["2012/07", "2013/12", "2014/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "psycho-pass",
+    "title": {
+      "zh": "PSYCHO-PASS",
+      "ja": "PSYCHO-PASS サイコパス",
+      "en": "PSYCHO-PASS"
+    },
+    "creator": {
+      "zh": "虛淵玄",
+      "ja": "虚淵玄",
+      "en": "Gen Urobuchi"
+    },
+    "form": "anime",
+    "genres": ["action", "sci-fi", "thriller"],
+    "publisher": "production_i_g",
+    "release_dates": ["2012/10", "2014/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "magi-the-labyrinth-of-magic",
+    "title": {
+      "zh": "魔奇少年",
+      "ja": "マギ The labyrinth of magic",
+      "en": "Magi: The Labyrinth of Magic"
+    },
+    "creator": {
+      "zh": "大高忍",
+      "ja": "大高忍",
+      "en": "Shinobu Ootaka"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "aniplex",
+    "release_dates": ["2012/10", "2013/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "daily-lives-of-high-school-boys",
+    "title": {
+      "zh": "男子高中生的日常",
+      "ja": "男子高校生の日常",
+      "en": "Daily Lives of High School Boys"
+    },
+    "creator": {
+      "zh": "山內泰延",
+      "ja": "山內泰延",
+      "en": "Yasunobu Yamauchi"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "sunrise",
+    "release_dates": ["2012/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kokoro-connect",
+    "title": {
+      "zh": "心連·情結",
+      "ja": "ココロコネクト",
+      "en": "Kokoro Connect"
+    },
+    "creator": {
+      "zh": "庵田定夏",
+      "ja": "庵田定夏",
+      "en": "Sadanatsu Anda"
+    },
+    "form": "anime",
+    "genres": ["drama", "romance", "slice-of-life"],
+    "publisher": "starchild_records",
+    "release_dates": ["2012/07", "2012/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "k",
+    "title": {
+      "zh": "K",
+      "ja": "K",
+      "en": "K"
+    },
+    "creator": {
+      "zh": "壁井有可子",
+      "ja": "壁井ユカコ",
+      "en": "GoRA"
+    },
+    "form": "anime",
+    "genres": ["action", "mystery"],
+    "publisher": "starchild_records",
+    "release_dates": ["2012/10", "2014/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "btooom",
+    "title": {
+      "zh": "驚爆遊戲!",
+      "ja": "BTOOOM！",
+      "en": "BTOOOM!"
+    },
+    "creator": {
+      "zh": "井上淳哉",
+      "ja": "井上淳哉",
+      "en": "Junya Inoue"
+    },
+    "form": "anime",
+    "genres": ["action", "sci-fi"],
+    "publisher": "madhouse",
+    "release_dates": ["2012/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "accel-world",
+    "title": {
+      "zh": "加速世界",
+      "ja": "アクセル・ワールド",
+      "en": "Accel World"
+    },
+    "creator": {
+      "zh": "川原礫",
+      "ja": "川原礫",
+      "en": "Reki Kawahara"
+    },
+    "form": "anime",
+    "genres": ["action", "romance", "sci-fi"],
+    "publisher": "sunrise",
+    "release_dates": ["2012/04", "2012/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "sankarea-undying-love",
+    "title": {
+      "zh": "散華禮彌",
+      "ja": "さんかれあ",
+      "en": "Sankarea: Undying Love"
+    },
+    "creator": {
+      "zh": "服部充",
+      "ja": "はっとりみつる",
+      "en": "Mitsuru Hattori"
+    },
+    "form": "anime",
+    "genres": ["comedy", "horror", "romance"],
+    "publisher": "studio_deen",
+    "release_dates": ["2012/04", "2012/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "jormungand",
+    "title": {
+      "zh": "軍火女王",
+      "ja": "ヨルムンガンド",
+      "en": "Jormungand"
+    },
+    "creator": {
+      "zh": "高橋慶太郎",
+      "ja": "高橋慶太郎",
+      "en": "Keitarou Takahashi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure"],
+    "publisher": "nbcuniversal_entertainment_japan",
+    "release_dates": ["2012/04", "2012/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kingdom",
+    "title": {
+      "zh": "王者天下",
+      "ja": "キングダム",
+      "en": "Kingdom"
+    },
+    "creator": {
+      "zh": "原泰久",
+      "ja": "原泰久",
+      "en": "Yasuhisa Hara"
+    },
+    "form": "anime",
+    "genres": ["action", "drama"],
+    "publisher": "pierrot",
+    "release_dates": ["2012/06", "2013/06"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "space-brothers",
+    "title": {
+      "zh": "宇宙兄弟",
+      "ja": "宇宙兄弟",
+      "en": "Space Brothers"
+    },
+    "creator": {
+      "zh": "小山宙哉",
+      "ja": "小山宙哉",
+      "en": "Chuuya Koyama"
+    },
+    "form": "anime",
+    "genres": ["comedy", "sci-fi", "slice-of-life"],
+    "publisher": "aniplex",
+    "release_dates": ["2012/04", "2012/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "anohana-the-flower-we-saw-that-day",
+    "title": {
+      "zh": "我們仍未知道那天所看見的花名。",
+      "ja": "あの日見た花の名前を僕達はまだ知らない。",
+      "en": "Anohana: The Flower We Saw That Day"
+    },
+    "creator": {
+      "zh": "超平和バスターズ",
+      "ja": "超平和バスターズ",
+      "en": "Chouheiwa Busters"
+    },
+    "form": "anime",
+    "genres": ["drama", "romance", "slice-of-life"],
+    "publisher": "aniplex",
+    "release_dates": ["2011/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "fate-zero",
+    "title": {
+      "zh": "Fate/Zero",
+      "ja": "Fate/Zero",
+      "en": "Fate/Zero"
+    },
+    "creator": {
+      "zh": "虛淵玄",
+      "ja": "虛淵玄",
+      "en": "Gen Urobuchi"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "aniplex",
+    "release_dates": ["2011/10", "2012/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "deadman-wonderland",
+    "title": {
+      "zh": "死囚樂園",
+      "ja": "デッドマン・ワンダーランド",
+      "en": "Deadman Wonderland"
+    },
+    "creator": {
+      "zh": "片岡人生",
+      "ja": "片岡人生",
+      "en": "Jinsei Kataoka"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi"],
+    "publisher": "manglobe",
+    "release_dates": ["2011/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "guilty-crown",
+    "title": {
+      "zh": "罪惡王冠",
+      "ja": "ギルティクラウン",
+      "en": "Guilty Crown"
+    },
+    "creator": {
+      "zh": "Redjuice",
+      "ja": "redjuice",
+      "en": "redjuice"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "romance", "sci-fi"],
+    "publisher": "production_i_g",
+    "release_dates": ["2011/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "infinite-stratos",
+    "title": {
+      "zh": "IS〈無限斯特拉託斯〉",
+      "ja": "IS〈インフィニット・ストラトス〉",
+      "en": "Infinite Stratos"
+    },
+    "creator": {
+      "zh": "弓弦出",
+      "ja": "弓弦イズル",
+      "en": "Izuru Yumizuru"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "romance", "sci-fi"],
+    "publisher": "lantis",
+    "release_dates": ["2011/01", "2011/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "beelzebub",
+    "title": {
+      "zh": "惡魔奶爸",
+      "ja": "べるぜバブ",
+      "en": "Beelzebub"
+    },
+    "creator": {
+      "zh": "田村隆平",
+      "ja": "田村隆平",
+      "en": "Ryuuhei Tamura"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy"],
+    "publisher": "pierrot",
+    "release_dates": ["2011/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "no-6",
+    "title": {
+      "zh": "未來都市NO.6",
+      "ja": "NO.6",
+      "en": "No.6"
+    },
+    "creator": {
+      "zh": "淺野敦子",
+      "ja": "淺野敦子",
+      "en": "Atsuko Asano"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi"],
+    "publisher": "bones",
+    "release_dates": ["2011/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "ground-control-to-psychoelectric-girl",
+    "title": {
+      "zh": "電波女與青春男",
+      "ja": "電波女と青春男",
+      "en": "Ground Control to Psychoelectric Girl"
+    },
+    "creator": {
+      "zh": "入間人間",
+      "ja": "入間人間",
+      "en": "Hitoma Iruma"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "shaft",
+    "release_dates": ["2011/04", "2012/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "aria-the-scarlet-ammo",
+    "title": {
+      "zh": "緋彈的亞莉亞",
+      "ja": "緋弾のアリア",
+      "en": "Aria the Scarlet Ammo"
+    },
+    "creator": {
+      "zh": "赤松中學",
+      "ja": "赤松中學",
+      "en": "Chuugaku Akamatsu"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "romance"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2011/04", "2011/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "baka-and-test-summon-the-beasts-2",
+    "title": {
+      "zh": "笨蛋，測驗，召喚獸！",
+      "ja": "バカとテストと召喚獣 にっ！",
+      "en": "Baka and Test - Summon the Beasts 2"
+    },
+    "creator": {
+      "zh": "井上堅二",
+      "ja": "井上堅二",
+      "en": "Kenji Inoue"
+    },
+    "form": "anime",
+    "genres": ["comedy", "romance", "slice-of-life"],
+    "publisher": "funimation",
+    "release_dates": ["2011/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "toradora-bento-battle",
+    "title": {
+      "zh": "龍與虎OVA 便當的精髓",
+      "ja": "とらドラ！ 弁當の極意",
+      "en": "Toradora!: Bento Battle"
+    },
+    "creator": {
+      "zh": "竹宮悠由子",
+      "ja": "竹宮ゆゆこ",
+      "en": "Yuyuko Takemiya"
+    },
+    "form": "anime",
+    "genres": ["comedy", "romance", "slice-of-life"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2011/12"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "level-e",
+    "title": {
+      "zh": "靈異E接觸",
+      "ja": "レベルE",
+      "en": "Level E"
+    },
+    "creator": {
+      "zh": "富樫義博",
+      "ja": "冨樫義博",
+      "en": "Yoshihiro Togashi"
+    },
+    "form": "anime",
+    "genres": ["comedy", "sci-fi"],
+    "publisher": "pierrot",
+    "release_dates": ["2011/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "angel-beats",
+    "title": {
+      "zh": "Angel Beats!",
+      "ja": "Angel Beats!",
+      "en": "Angel Beats!"
+    },
+    "creator": {
+      "zh": "麻枝準",
+      "ja": "麻枝準",
+      "en": "Jun Maeda"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama"],
+    "publisher": "aniplex",
+    "release_dates": ["2010/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "durarara",
+    "title": {
+      "zh": "無頭騎士異聞錄",
+      "ja": "デュラララ!!",
+      "en": "Durarara!!"
+    },
+    "creator": {
+      "zh": "成田良悟",
+      "ja": "成田良悟",
+      "en": "Ryohgo Narita"
+    },
+    "form": "anime",
+    "genres": ["action", "mystery"],
+    "publisher": "aniplex",
+    "release_dates": ["2010/01", "2015/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "baka-and-test-summon-the-beasts",
+    "title": {
+      "zh": "笨蛋，測驗，召喚獸",
+      "ja": "バカとテストと召喚獣",
+      "en": "Baka and Test - Summon the Beasts"
+    },
+    "creator": {
+      "zh": "井上堅二",
+      "ja": "井上堅二",
+      "en": "Kenji Inoue"
+    },
+    "form": "anime",
+    "genres": ["comedy", "romance"],
+    "publisher": "funimation",
+    "release_dates": ["2010/01", "2011/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "rainbow",
+    "title": {
+      "zh": "少年犯罪檔案",
+      "ja": "RAINBOW -二舎六房の七人-",
+      "en": "Rainbow"
+    },
+    "creator": {
+      "zh": "安部讓二",
+      "ja": "安部譲二",
+      "en": "George Abe"
+    },
+    "form": "anime",
+    "genres": ["drama", "thriller"],
+    "publisher": "madhouse",
+    "release_dates": ["2010/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "nura-rise-of-the-yokai-clan",
+    "title": {
+      "zh": "滑頭鬼之孫",
+      "ja": "ぬらりひょんの孫",
+      "en": "Nura: Rise of the Yokai Clan"
+    },
+    "creator": {
+      "zh": "椎橋寬",
+      "ja": "椎橋寛",
+      "en": "Hiroshi Shiibashi"
+    },
+    "form": "anime",
+    "genres": ["action"],
+    "publisher": "studio_deen",
+    "release_dates": ["2010/07", "2011/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "fairy-tail",
+    "title": {
+      "zh": "FAIRY TAIL",
+      "ja": "FAIRY TAIL",
+      "en": "Fairy Tail"
+    },
+    "creator": {
+      "zh": "真島浩",
+      "ja": "真島ヒロ",
+      "en": "Hiro Mashima"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "tv_tokyo",
+    "release_dates": ["2009/10", "2014/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "bakemonogatari",
+    "title": {
+      "zh": "化物語",
+      "ja": "化物語",
+      "en": "Bakemonogatari"
+    },
+    "creator": {
+      "zh": "西尾維新",
+      "ja": "西尾維新",
+      "en": "NISIOISIN"
+    },
+    "form": "anime",
+    "genres": ["comedy", "drama", "mystery", "romance"],
+    "publisher": "aniplex",
+    "release_dates": ["2009/07", "2012/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "spice-and-wolf-ii",
+    "title": {
+      "zh": "狼與辛香料II",
+      "ja": "狼と香辛料II",
+      "en": "Spice and Wolf II"
+    },
+    "creator": {
+      "zh": "支倉凍砂",
+      "ja": "支倉凍砂",
+      "en": "Isuna Hasekura"
+    },
+    "form": "anime",
+    "genres": ["adventure", "fantasy", "romance", "slice-of-life"],
+    "publisher": "imagin",
+    "release_dates": ["2009/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "pandorahearts",
+    "title": {
+      "zh": "潘多拉之心",
+      "ja": "パンドラハーツ",
+      "en": "PandoraHearts"
+    },
+    "creator": {
+      "zh": "望月淳",
+      "ja": "望月淳",
+      "en": "Jun Mochizuki"
+    },
+    "form": "anime",
+    "genres": ["adventure", "fantasy"],
+    "publisher": "xebec",
+    "release_dates": ["2009/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "ka-mpfer",
+    "title": {
+      "zh": "肯普法",
+      "ja": "けんぷファー",
+      "en": "Kämpfer"
+    },
+    "creator": {
+      "zh": "築地俊彥",
+      "ja": "築地俊彥",
+      "en": "Toshihiko Tsukiji"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "romance"],
+    "publisher": "nomad",
+    "release_dates": ["2009/10", "2011/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "letter-bee",
+    "title": {
+      "zh": "信蜂",
+      "ja": "テガミバチ",
+      "en": "Letter Bee"
+    },
+    "creator": {
+      "zh": "淺田弘幸",
+      "ja": "淺田弘幸",
+      "en": "Hiroyuki Asada"
+    },
+    "form": "anime",
+    "genres": ["adventure", "fantasy"],
+    "publisher": "pierrot",
+    "release_dates": ["2009/10", "2010/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "shugo-chara-party",
+    "title": {
+      "zh": "守護甜心！派對！",
+      "ja": "しゅごキャラ！パーティー！",
+      "en": "Shugo Chara! Party!"
+    },
+    "creator": {
+      "zh": "PEACH‐PIT",
+      "ja": "PEACH-PIT",
+      "en": "PEACH‐PIT"
+    },
+    "form": "anime",
+    "genres": ["comedy", "romance"],
+    "publisher": "tv_tokyo",
+    "release_dates": ["2009/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "toradora",
+    "title": {
+      "zh": "龍與虎",
+      "ja": "とらドラ！",
+      "en": "Toradora!"
+    },
+    "creator": {
+      "zh": "竹宮悠由子",
+      "ja": "竹宮ゆゆこ",
+      "en": "Yuyuko Takemiya"
+    },
+    "form": "anime",
+    "genres": ["comedy", "drama", "romance", "slice-of-life"],
+    "publisher": "genco",
+    "release_dates": ["2008/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "soul-eater",
+    "title": {
+      "zh": "噬魂者",
+      "ja": "ソウルイーター",
+      "en": "Soul Eater"
+    },
+    "creator": {
+      "zh": "大久保篤",
+      "ja": "大久保篤",
+      "en": "Atsushi Ookubo"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "bones",
+    "release_dates": ["2008/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "spice-and-wolf",
+    "title": {
+      "zh": "狼與辛香料",
+      "ja": "狼と香辛料",
+      "en": "Spice and Wolf"
+    },
+    "creator": {
+      "zh": "支倉凍砂",
+      "ja": "支倉凍砂",
+      "en": "Isuna Hasekura"
+    },
+    "form": "anime",
+    "genres": ["adventure", "fantasy", "romance", "slice-of-life"],
+    "publisher": "imagin",
+    "release_dates": ["2008/01", "2009/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "a-certain-magical-index",
+    "title": {
+      "zh": "魔法禁書目錄",
+      "ja": "とある魔術の禁書目録",
+      "en": "A Certain Magical Index"
+    },
+    "creator": {
+      "zh": "鎌池和馬",
+      "ja": "鎌池和馬",
+      "en": "Kazuma Kamachi"
+    },
+    "form": "anime",
+    "genres": ["action", "sci-fi"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2008/10", "2010/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "gurren-lagann",
+    "title": {
+      "zh": "天元突破 紅蓮螺巖",
+      "ja": "天元突破グレンラガン",
+      "en": "Gurren Lagann"
+    },
+    "creator": {
+      "zh": "GAINAX",
+      "ja": "GAINAX",
+      "en": "Gainax"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "romance", "sci-fi"],
+    "publisher": "gainax",
+    "release_dates": ["2007/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "clannad",
+    "title": {
+      "zh": "CLANNAD",
+      "ja": "ＣＬＡＮＮＡＤ -クラナド-",
+      "en": "Clannad"
+    },
+    "creator": {
+      "zh": "Key",
+      "ja": "Key",
+      "en": "Key"
+    },
+    "form": "anime",
+    "genres": ["comedy", "drama", "romance", "slice-of-life"],
+    "publisher": "sentai_filmworks",
+    "release_dates": ["2007/10", "2008/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "baccano",
+    "title": {
+      "zh": "永生之酒",
+      "ja": "バッカーノ！",
+      "en": "Baccano!"
+    },
+    "creator": {
+      "zh": "成田良悟",
+      "ja": "成田良悟",
+      "en": "Ryohgo Narita"
+    },
+    "form": "anime",
+    "genres": ["action", "mystery"],
+    "publisher": "aniplex",
+    "release_dates": ["2007/07", "2008/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "blue-dragon",
+    "title": {
+      "zh": "藍龍",
+      "ja": "ブルー・ドラゴン",
+      "en": "Blue Dragon"
+    },
+    "creator": {
+      "zh": "鳥山明",
+      "ja": "鳥山明",
+      "en": "Akira Toriyama"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "pierrot",
+    "release_dates": ["2007/04", "2008/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "death-note",
+    "title": {
+      "zh": "死亡筆記本",
+      "ja": "DEATH NOTE",
+      "en": "Death Note"
+    },
+    "creator": {
+      "zh": "大場鶇",
+      "ja": "大場つぐみ",
+      "en": "Tsugumi Ohba"
+    },
+    "form": "anime",
+    "genres": ["mystery", "thriller"],
+    "publisher": "madhouse",
+    "release_dates": ["2006/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "gintama",
+    "title": {
+      "zh": "銀魂",
+      "ja": "銀魂",
+      "en": "Gintama"
+    },
+    "creator": {
+      "zh": "空知英秋",
+      "ja": "空知英秋",
+      "en": "Hideaki Sorachi"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "sci-fi"],
+    "publisher": "sunrise",
+    "release_dates": ["2006/04", "2011/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-familiar-of-zero",
+    "title": {
+      "zh": "零之使魔",
+      "ja": "ゼロの使い魔",
+      "en": "The Familiar of Zero"
+    },
+    "creator": {
+      "zh": "山口昇",
+      "ja": "ノボル ヤマグチ",
+      "en": "Noboru Yamaguchi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "romance"],
+    "publisher": "j_c_staff",
+    "release_dates": ["2006/07", "2007/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "d-gray-man",
+    "title": {
+      "zh": "驅魔少年",
+      "ja": "ディー・グレイマン",
+      "en": "D.Gray-man"
+    },
+    "creator": {
+      "zh": "星野桂",
+      "ja": "星野桂",
+      "en": "Katsura Hoshino"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "tv_tokyo",
+    "release_dates": ["2006/10", "2016/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "xxxholic",
+    "title": {
+      "zh": "四月一日靈異事件簿",
+      "ja": "XXX ホリック",
+      "en": "xxxHOLiC"
+    },
+    "creator": {
+      "zh": "CLAMP",
+      "ja": "CLAMP",
+      "en": "CLAMP"
+    },
+    "form": "anime",
+    "genres": ["comedy", "drama", "horror", "mystery"],
+    "publisher": "production_i_g",
+    "release_dates": ["2006/04", "2008/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "air-gear",
+    "title": {
+      "zh": "飛輪少年",
+      "ja": "エア・ギア",
+      "en": "Air Gear"
+    },
+    "creator": {
+      "zh": "大暮維人",
+      "ja": "大暮維人",
+      "en": "Ito Oogure"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "sports"],
+    "publisher": "toei_animation",
+    "release_dates": ["2006/04", "2010/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "reborn",
+    "title": {
+      "zh": "家庭教師HITMAN REBORN!",
+      "ja": "家庭教師ヒットマンREBORN!",
+      "en": "REBORN!"
+    },
+    "creator": {
+      "zh": "天野明",
+      "ja": "天野明",
+      "en": "Akira Amano"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "sci-fi", "slice-of-life"],
+    "publisher": "artland",
+    "release_dates": ["2006/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kenichi-the-mightiest-disciple",
+    "title": {
+      "zh": "史上最強弟子兼一",
+      "ja": "史上最強の弟子 ケンイチ",
+      "en": "Kenichi: The Mightiest Disciple"
+    },
+    "creator": {
+      "zh": "松江名俊",
+      "ja": "松江名俊",
+      "en": "Shun Matsuena"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy"],
+    "publisher": "tv_tokyo",
+    "release_dates": ["2006/10", "2012/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kekkaishi",
+    "title": {
+      "zh": "結界師",
+      "ja": "結界師",
+      "en": "Kekkaishi"
+    },
+    "creator": {
+      "zh": "田邊伊衛郎",
+      "ja": "田辺イエロウ",
+      "en": "Yellow Tanabe"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "romance"],
+    "publisher": "sunrise",
+    "release_dates": ["2006/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "oh-my-goddess-tv",
+    "title": {
+      "zh": "我的女神",
+      "ja": "ああっ女神さまっ (TV)",
+      "en": "Oh! My Goddess (TV)"
+    },
+    "creator": {
+      "zh": "藤島康介",
+      "ja": "藤島康介",
+      "en": "Kousuke Fujishima"
+    },
+    "form": "anime",
+    "genres": ["comedy", "romance"],
+    "publisher": "bandai_visual",
+    "release_dates": ["2005/01", "2006/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-law-of-ueki",
+    "title": {
+      "zh": "植木的法則",
+      "ja": "うえきの法則",
+      "en": "The Law of Ueki"
+    },
+    "creator": {
+      "zh": "福地翼",
+      "ja": "福地翼",
+      "en": "Tsubasa Fukuchi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "drama"],
+    "publisher": "nbcuniversal_entertainment_japan",
+    "release_dates": ["2005/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "marchen-awakens-romance",
+    "title": {
+      "zh": "MÄR 魔法世界",
+      "ja": "メル",
+      "en": "Marchen Awakens Romance"
+    },
+    "creator": {
+      "zh": "安西信行",
+      "ja": "安西信行",
+      "en": "Nobuyuki Anzai"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "tv_tokyo",
+    "release_dates": ["2005/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "bleach",
+    "title": {
+      "zh": "BLEACH 死神",
+      "ja": "BLEACH",
+      "en": "Bleach"
+    },
+    "creator": {
+      "zh": "久保帶人",
+      "ja": "久保帯人",
+      "en": "Tite Kubo"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure"],
+    "publisher": "pierrot",
+    "release_dates": ["2004/10", "2022/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "samurai-champloo",
+    "title": {
+      "zh": "琉球武士瘋雲錄",
+      "ja": "サムライチャンプルー",
+      "en": "Samurai Champloo"
+    },
+    "creator": {
+      "zh": "渡邊信一郎",
+      "ja": "渡辺信一郎",
+      "en": "Shinichiro Watanabe"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy"],
+    "publisher": "manglobe",
+    "release_dates": ["2004/05"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "gantz",
+    "title": {
+      "zh": "殺戮都市",
+      "ja": "GANTZ",
+      "en": "Gantz"
+    },
+    "creator": {
+      "zh": "奧浩哉",
+      "ja": "奧浩哉",
+      "en": "Hiroya Oku"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "horror", "sci-fi"],
+    "publisher": "gonzo",
+    "release_dates": ["2004/04", "2004/08"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "yakitate-japan",
+    "title": {
+      "zh": "日式麵包王",
+      "ja": "焼きたて!! ジャぱん",
+      "en": "Yakitate!! Japan"
+    },
+    "creator": {
+      "zh": "橋口隆志",
+      "ja": "橋口たかし",
+      "en": "Takashi Hashiguchi"
+    },
+    "form": "anime",
+    "genres": ["comedy"],
+    "publisher": "sunrise",
+    "release_dates": ["2004/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "sgt-frog",
+    "title": {
+      "zh": "Keroro軍曹",
+      "ja": "ケロロ軍曹",
+      "en": "Sgt. Frog"
+    },
+    "creator": {
+      "zh": "吉崎觀音",
+      "ja": "吉崎観音",
+      "en": "Mine Yoshizaki"
+    },
+    "form": "anime",
+    "genres": ["comedy", "sci-fi"],
+    "publisher": "sunrise",
+    "release_dates": ["2004/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "mermaid-melody-pichi-pichi-pitch-pure",
+    "title": {
+      "zh": "人魚的旋律 第二季",
+      "ja": "マーメイドメロディーぴちぴちピッチピュア",
+      "en": "Mermaid Melody: Pichi Pichi Pitch Pure"
+    },
+    "creator": {
+      "zh": "花森小桃",
+      "ja": "花森ぴんく",
+      "en": "Pink Hanamori"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy", "romance"],
+    "publisher": "actas",
+    "release_dates": ["2004/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kaiketsu-zorori",
+    "title": {
+      "zh": "怪俠佐羅利",
+      "ja": "かいけつゾロリ",
+      "en": "Kaiketsu Zorori"
+    },
+    "creator": {
+      "zh": "原裕",
+      "ja": "原ゆたか",
+      "en": "Yutaka Hara"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "ajia_do_animation_works",
+    "release_dates": ["2004/02", "2005/02"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "fullmetal-alchemist",
+    "title": {
+      "zh": "鋼之鍊金術師",
+      "ja": "鋼の錬金術師",
+      "en": "Fullmetal Alchemist"
+    },
+    "creator": {
+      "zh": "荒川弘",
+      "ja": "荒川弘",
+      "en": "Hiromu Arakawa"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "bones",
+    "release_dates": ["2003/10", "2005/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "zatch-bell",
+    "title": {
+      "zh": "魔法少年賈修",
+      "ja": "金色のガッシュベル!!",
+      "en": "Zatch Bell!"
+    },
+    "creator": {
+      "zh": "雷句誠",
+      "ja": "雷句誠",
+      "en": "Makoto Raiku"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy"],
+    "publisher": "toei_animation",
+    "release_dates": ["2003/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "saiyuki-reload",
+    "title": {
+      "zh": "最遊記RELOAD",
+      "ja": "最遊記RELOAD",
+      "en": "Saiyuki Reload"
+    },
+    "creator": {
+      "zh": "峰倉和也",
+      "ja": "峰倉かずや",
+      "en": "Kazuya Minekura"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy"],
+    "publisher": "pierrot",
+    "release_dates": ["2003/10", "2004/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "wagamama-fairy-mirumo-de-pon-golden",
+    "title": {
+      "zh": "魔法咪路咪路Golden",
+      "ja": "わがまま☆フェアリー ミルモでポン! ごおるでん",
+      "en": "Wagamama☆Fairy Mirumo de Pon! Golden"
+    },
+    "creator": {
+      "zh": "篠塚廣夢",
+      "ja": "篠塚ひろむ",
+      "en": "Hiromu Shinozuka"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "drama", "fantasy", "romance"],
+    "publisher": "studio_hibari",
+    "release_dates": ["2003/10", "2004/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "naruto",
+    "title": {
+      "zh": "火影忍者",
+      "ja": "NARUTO -ナルト-",
+      "en": "Naruto"
+    },
+    "creator": {
+      "zh": "岸本齊史",
+      "ja": "岸本斉史",
+      "en": "Masashi Kishimoto"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy"],
+    "publisher": "pierrot",
+    "release_dates": ["2002/10", "2007/02"],
+    "my_completed_date": "2015",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "digimon-frontier",
+    "title": {
+      "zh": "數碼寶貝04無限地帶",
+      "ja": "デジモンフロンティア",
+      "en": "Digimon Frontier"
+    },
+    "creator": {
+      "zh": "本郷あきよし",
+      "ja": "本郷あきよし",
+      "en": "Akiyoshi Hongou"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy", "sci-fi"],
+    "publisher": "toei_animation",
+    "release_dates": ["2002/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "shaman-king",
+    "title": {
+      "zh": "通靈王",
+      "ja": "シャーマンキング",
+      "en": "Shaman King"
+    },
+    "creator": {
+      "zh": "武井宏之",
+      "ja": "武井宏之",
+      "en": "Hiroyuki Takei"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "drama"],
+    "publisher": "tv_tokyo",
+    "release_dates": ["2001/07"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "digimon-tamers",
+    "title": {
+      "zh": "數碼寶貝03馴獸師之王",
+      "ja": "デジモンテイマーズ",
+      "en": "Digimon Tamers"
+    },
+    "creator": {
+      "zh": "本鄉昭由",
+      "ja": "本郷あきよし",
+      "en": "Akiyoshi Hongo"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "fantasy", "sci-fi"],
+    "publisher": "toei_animation",
+    "release_dates": ["2001/04", "2002/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "rave-master",
+    "title": {
+      "zh": "聖石小子",
+      "ja": "GROOVE ADVENTURE RAVE",
+      "en": "Rave Master"
+    },
+    "creator": {
+      "zh": "真島浩",
+      "ja": "真島ヒロ",
+      "en": "Hiro Mashima"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy", "romance"],
+    "publisher": "studio_deen",
+    "release_dates": ["2001/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kirby-right-back-at-ya",
+    "title": {
+      "zh": "星之卡比",
+      "ja": "星のカービィ",
+      "en": "Kirby: Right Back at Ya!"
+    },
+    "creator": {
+      "zh": "櫻井政博",
+      "ja": "桜井政博",
+      "en": "Masahiro Sakurai"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "slice-of-life"],
+    "publisher": "cbc",
+    "release_dates": ["2001/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "legend-of-condor-hero",
+    "title": {
+      "zh": "神鵰俠侶",
+      "ja": "神鵰俠侶 コンドルヒーロー",
+      "en": "Legend of Condor Hero"
+    },
+    "creator": {
+      "zh": "金庸",
+      "ja": "金庸",
+      "en": "Yong Jin"
+    },
+    "form": "anime",
+    "genres": ["adventure", "drama", "romance"],
+    "publisher": "nippon_animation",
+    "release_dates": ["2001/04", "2005/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "inuyasha",
+    "title": {
+      "zh": "犬夜叉",
+      "ja": "犬夜叉",
+      "en": "InuYasha"
+    },
+    "creator": {
+      "zh": "高橋留美子",
+      "ja": "高橋留美子",
+      "en": "Rumiko Takahashi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "romance"],
+    "publisher": "kyoto_animation",
+    "release_dates": ["2000/10", "2008/07", "2009/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "digimon-digital-monsters-02",
+    "title": {
+      "zh": "數碼寶貝大冒險02",
+      "ja": "デジモンアドベンチャー０２",
+      "en": "Digimon: Digital Monsters 02"
+    },
+    "creator": {
+      "zh": "本鄉昭由",
+      "ja": "本郷あきよし",
+      "en": "Akiyoshi Hongo"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy", "sci-fi"],
+    "publisher": "toei_animation",
+    "release_dates": ["2000/04", "2001/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "digimon-digital-monsters",
+    "title": {
+      "zh": "數碼寶貝大冒險",
+      "ja": "デジモンアドベンチャー",
+      "en": "Digimon: Digital Monsters"
+    },
+    "creator": {
+      "zh": "本鄉昭由",
+      "ja": "本郷あきよし",
+      "en": "Akiyoshi Hongo"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy", "sci-fi"],
+    "publisher": "toei_animation",
+    "release_dates": ["1999/03", "2000/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "gto-great-teacher-onizuka",
+    "title": {
+      "zh": "麻辣教師GTO",
+      "ja": "GTO",
+      "en": "GTO: Great Teacher Onizuka"
+    },
+    "creator": {
+      "zh": "藤澤亨",
+      "ja": "藤沢とおる",
+      "en": "Tooru Fujisawa"
+    },
+    "form": "anime",
+    "genres": ["comedy", "drama", "slice-of-life"],
+    "publisher": "pierrot",
+    "release_dates": ["1999/06"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "hunter-x-hunter",
+    "title": {
+      "zh": "獵人",
+      "ja": "HUNTER×HUNTER",
+      "en": "Hunter x Hunter"
+    },
+    "creator": {
+      "zh": "富樫義博",
+      "ja": "冨樫義博",
+      "en": "Yoshihiro Togashi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "nippon_animation",
+    "release_dates": ["1999/10", "2002/01"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "flame-of-recca",
+    "title": {
+      "zh": "烈火之炎",
+      "ja": "烈火の炎",
+      "en": "Flame of Recca"
+    },
+    "creator": {
+      "zh": "安西信行",
+      "ja": "安西信行",
+      "en": "Nobuyuki Anzai"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy", "romance"],
+    "publisher": "pierrot",
+    "release_dates": ["1997/07", "2004/06"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "cooking-master-boy",
+    "title": {
+      "zh": "中華一番！",
+      "ja": "中華一番!",
+      "en": "Cooking Master Boy"
+    },
+    "creator": {
+      "zh": "小川悅司",
+      "ja": "小川悅司",
+      "en": "Etsushi Ogawa"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama"],
+    "publisher": "nippon_animation",
+    "release_dates": ["1997/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "dr-slump",
+    "title": {
+      "zh": "IQ博士",
+      "ja": "ドクタースランプ",
+      "en": "Dr. Slump"
+    },
+    "creator": {
+      "zh": "鳥山明",
+      "ja": "鳥山明",
+      "en": "Akira Toriyama"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "toei_animation",
+    "release_dates": ["1997/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kodocha",
+    "title": {
+      "zh": "玩偶遊戲",
+      "ja": "こどものおもちゃ",
+      "en": "Kodocha"
+    },
+    "creator": {
+      "zh": "小花美穗",
+      "ja": "小花美穂",
+      "en": "Miho Obana"
+    },
+    "form": "anime",
+    "genres": ["comedy", "drama", "romance"],
+    "publisher": "tv_tokyo",
+    "release_dates": ["1996/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kochikame",
+    "title": {
+      "zh": "烏龍派出所",
+      "ja": "こちら葛飾區亀有公園前派出所 (1996)",
+      "en": "KochiKame"
+    },
+    "creator": {
+      "zh": "秋本治",
+      "ja": "秋本治",
+      "en": "Osamu Akimoto"
+    },
+    "form": "anime",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "asatsu_dk",
+    "release_dates": ["1996/06"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "zenki",
+    "title": {
+      "zh": "鬼神童子",
+      "ja": "鬼神童子ZENKI",
+      "en": "Zenki"
+    },
+    "creator": {
+      "zh": "谷菊秀",
+      "ja": "谷菊秀",
+      "en": "Kikuhide Tani"
+    },
+    "form": "anime",
+    "genres": ["action", "comedy", "drama", "fantasy", "horror"],
+    "publisher": "tv_tokyo",
+    "release_dates": ["1995/01", "1997/03"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "magical-circle-guru-guru",
+    "title": {
+      "zh": "咕嚕咕嚕魔法陣",
+      "ja": "魔法陣グルグル",
+      "en": "Magical Circle Guru Guru"
+    },
+    "creator": {
+      "zh": "衛藤浩幸",
+      "ja": "衛藤ヒロユキ",
+      "en": "Etou Hiroyuki"
+    },
+    "form": "anime",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "nippon_animation",
+    "release_dates": ["1994/10", "2000/04"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "yu-yu-hakusho-ghostfiles",
+    "title": {
+      "zh": "幽遊白書",
+      "ja": "幽☆遊☆白書",
+      "en": "Yu Yu Hakusho: Ghostfiles"
+    },
+    "creator": {
+      "zh": "富樫義博",
+      "ja": "冨樫義博",
+      "en": "Yoshihiro Togashi"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy"],
+    "publisher": "pierrot",
+    "release_dates": ["1992/10", "2009/10"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "matchless-raijin-oh",
+    "title": {
+      "zh": "絕對無敵",
+      "ja": "絶対無敵ライジンオー",
+      "en": "Matchless Raijin-Oh"
+    },
+    "creator": {
+      "zh": "矢立肇",
+      "ja": "矢立肇",
+      "en": "Hajime Yatate"
+    },
+    "form": "anime",
+    "genres": ["adventure", "sci-fi"],
+    "publisher": "sunrise",
+    "release_dates": ["1991/04", "1992/04", "1992/09"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "saint-seiya-knights-of-the-zodiac",
+    "title": {
+      "zh": "聖鬥士星矢",
+      "ja": "聖闘士星矢",
+      "en": "Saint Seiya: Knights of the Zodiac"
+    },
+    "creator": {
+      "zh": "車田正美",
+      "ja": "車田正美",
+      "en": "Masami Kurumada"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "fantasy", "sci-fi"],
+    "publisher": "toei_animation",
+    "release_dates": ["1986/10", "2002/11"],
+    "my_completed_date": "",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "wandering-witch-the-journey-of-elaina",
+    "title": {
+      "zh": "魔女之旅",
+      "ja": "魔女の旅々",
+      "en": "Wandering Witch: The Journey of Elaina"
+    },
+    "creator": {
+      "zh": "白石定規",
+      "ja": "白石定規",
+      "en": "Jougi Shiraishi"
+    },
+    "form": "anime",
+    "genres": ["adventure", "fantasy", "slice-of-life"],
+    "publisher": "c2c",
+    "release_dates": ["2020/10"],
+    "my_completed_date": null,
+    "my_status": "on_hold",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "puella-magi-madoka-magica",
+    "title": {
+      "zh": "魔法少女小圓",
+      "ja": "魔法少女まどか☆マギカ",
+      "en": "Puella Magi Madoka Magica"
+    },
+    "creator": {
+      "zh": "宮本幸裕、新房昭之、虛淵玄、蒼樹梅",
+      "ja": "宮本幸裕、新房昭之、虚淵玄、蒼樹うめ",
+      "en": "Yukihiro Miyamoto, Akiyuki Shinbo, Gen Urobuchi, Ume Aoki"
+    },
+    "form": "anime",
+    "genres": ["drama", "mystery", "thriller"],
+    "publisher": "shaft",
+    "release_dates": ["2011/01"],
+    "my_completed_date": "2018/07",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  }
+]

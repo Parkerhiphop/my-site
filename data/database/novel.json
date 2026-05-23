@@ -1,0 +1,3227 @@
+[
+  {
+    "key": "elantris",
+    "title": {
+      "zh": "諸神之城：伊嵐翠",
+      "ja": "エラントリス 鎖された都の物語",
+      "en": "Elantris"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2016/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-emperors-soul",
+    "title": {
+      "zh": "皇帝魂",
+      "ja": "皇帝の魂",
+      "en": "The Emperor's Soul"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2019/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "mistborn-the-final-empire",
+    "title": {
+      "zh": "迷霧之子：最後帝國",
+      "ja": "ミストボーン 霧の落とし子",
+      "en": "Mistborn: The Final Empire"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2010/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "mistborn-the-well-of-ascension",
+    "title": {
+      "zh": "迷霧之子：昇華之井",
+      "ja": "ミストボーン 井戸の底に眠るもの",
+      "en": "Mistborn: The Well of Ascension"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2010/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "mistborn-the-hero-of-ages",
+    "title": {
+      "zh": "迷霧之子：永世英雄",
+      "ja": "ミストボーン 永遠の大地",
+      "en": "Mistborn: The Hero of Ages"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2010/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-alloy-of-law",
+    "title": {
+      "zh": "迷霧之子番外篇：執法鎔金",
+      "ja": "合金の法則",
+      "en": "The Alloy of Law"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2011/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "shadows-of-self",
+    "title": {
+      "zh": "執法鎔金：自影",
+      "ja": "自我の影",
+      "en": "Shadows of Self"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2017/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-bands-of-mourning",
+    "title": {
+      "zh": "執法鎔金：悼環",
+      "ja": "哀しみの腕輪",
+      "en": "The Bands of Mourning"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2018/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-lost-metal",
+    "title": {
+      "zh": "執法鎔金：謎金",
+      "ja": "失われた金属",
+      "en": "The Lost Metal"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2024/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-way-of-kings",
+    "title": {
+      "zh": "颶光典籍：王者之路",
+      "ja": "王たちの道",
+      "en": "The Way of Kings"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2012/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "words-of-radiance",
+    "title": {
+      "zh": "颶光典籍：燦軍箴言",
+      "ja": "光輝の言葉",
+      "en": "Words of Radiance"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2016/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "oathbringer",
+    "title": {
+      "zh": "颶光典籍：引誓之劍",
+      "ja": "誓いをもたらすもの",
+      "en": "Oathbringer"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2019/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rhythm-of-war",
+    "title": {
+      "zh": "颶光典籍：戰爭節奏",
+      "ja": "戦争のリズム",
+      "en": "Rhythm of War"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2022/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "dawnshard",
+    "title": {
+      "zh": "晨碎",
+      "ja": "ドーンシャード",
+      "en": "Dawnshard"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2022/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "warbreaker",
+    "title": {
+      "zh": "破戰者",
+      "ja": "破壊者",
+      "en": "Warbreaker"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2022/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "white-sand-omnibus",
+    "title": {
+      "zh": "白沙三部曲",
+      "ja": "ホワイトサンド",
+      "en": "White Sand Omnibus"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2024/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "tress-of-the-emerald-sea",
+    "title": {
+      "zh": "翠海的雀絲",
+      "ja": "エメラルド海のトレス",
+      "en": "Tress of the Emerald Sea"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2024/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yumi-and-the-nightmare-painter",
+    "title": {
+      "zh": "侑美與夢魘繪師",
+      "ja": "ユミと悪夢の絵師",
+      "en": "Yumi and the Nightmare Painter"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2024/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "arcanum-unbounded",
+    "title": {
+      "zh": "無垠秘典",
+      "ja": "アルカナム・アンバウンデッド",
+      "en": "Arcanum Unbounded"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2018/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "infinity-blade-awakening",
+    "title": {
+      "zh": "無盡之劍",
+      "ja": "インフィニティ・ブレード 覚醒",
+      "en": "Infinity Blade: Awakening"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2015/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "snapshot",
+    "title": {
+      "zh": "快照行動",
+      "ja": "スナップショット",
+      "en": "Snapshot"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "thriller"],
+    "publisher": null,
+    "release_dates": ["2021/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "magic-the-gathering-children-of-the-nameless",
+    "title": {
+      "zh": "魔法風雲會：無名之子",
+      "ja": "マジック：ザ・ギャザリング 名も無き者の子供たち",
+      "en": "Magic: The Gathering - Children of the Nameless"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2021/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-rithmatist",
+    "title": {
+      "zh": "陣學師：亞米帝斯學院",
+      "ja": "リスマティスト",
+      "en": "The Rithmatist"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2013/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "steelheart",
+    "title": {
+      "zh": "審判者傳奇：鋼鐵心",
+      "ja": "スティールハート",
+      "en": "Steelheart"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "action"],
+    "publisher": null,
+    "release_dates": ["2014/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "firefight",
+    "title": {
+      "zh": "審判者傳奇：熾焰",
+      "ja": "ファイアファイト",
+      "en": "Firefight"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "action"],
+    "publisher": null,
+    "release_dates": ["2015/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "calamity",
+    "title": {
+      "zh": "審判者傳奇：禍星",
+      "ja": "カラミティ",
+      "en": "Calamity"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "action"],
+    "publisher": null,
+    "release_dates": ["2016/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "skyward",
+    "title": {
+      "zh": "天防者",
+      "ja": "スカイワード",
+      "en": "Skyward"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "adventure"],
+    "publisher": null,
+    "release_dates": ["2024/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "starsight",
+    "title": {
+      "zh": "天防者 2：星界",
+      "ja": "スターサイト",
+      "en": "Starsight"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "adventure"],
+    "publisher": null,
+    "release_dates": ["2020/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cytonic",
+    "title": {
+      "zh": "天防者 3：超感者",
+      "ja": "サイトニック",
+      "en": "Cytonic"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "adventure"],
+    "publisher": null,
+    "release_dates": ["2022/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "defiant",
+    "title": {
+      "zh": "天防者 4：無畏者",
+      "ja": "ディファイアント",
+      "en": "Defiant"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "adventure"],
+    "publisher": null,
+    "release_dates": ["2025/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "legion",
+    "title": {
+      "zh": "軍團",
+      "ja": "リージョン",
+      "en": "Legion"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "thriller"],
+    "publisher": null,
+    "release_dates": ["2017/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "legion-skin-deep",
+    "title": {
+      "zh": "軍團 2",
+      "ja": "リージョン：スキン・ディープ",
+      "en": "Legion: Skin Deep"
+    },
+    "creator": {
+      "zh": "布蘭登·山德森",
+      "ja": "ブランドン・サンダースン",
+      "en": "Brandon Sanderson"
+    },
+    "form": "novel",
+    "genres": ["sci-fi", "thriller"],
+    "publisher": null,
+    "release_dates": ["2019/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "非寰宇",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "audubon-no-inori",
+    "title": {
+      "zh": "奧杜邦的祈禱",
+      "ja": "オーデュボンの祈り",
+      "en": "Audubon's Prayer"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2022/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "lush-life",
+    "title": {
+      "zh": "Lush Life",
+      "ja": "ラッシュライフ",
+      "en": "Lush Life"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2025/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "a-pierrot",
+    "title": {
+      "zh": "天才搶匪盜轉地球",
+      "ja": "陽気なギャングが地球を回す",
+      "en": "A Cheerful Gang Turns the Earth"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery", "comedy"],
+    "publisher": null,
+    "release_dates": ["2007/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "gravity-clown",
+    "title": {
+      "zh": "重力小丑",
+      "ja": "重力ピエロ",
+      "en": "Gravity Clown"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2010/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "a-duck-and-a-wild-duck-coin-locker",
+    "title": {
+      "zh": "家鴨與野鴨的投幣式置物櫃",
+      "ja": "アヒルと鴨のコインロッカー",
+      "en": "A Duck and a Wild Duck Coin Locker"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2023/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "children",
+    "title": {
+      "zh": "孩子們",
+      "ja": "チルドレン",
+      "en": "Children"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2017/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "grasshopper",
+    "title": {
+      "zh": "蚱蜢",
+      "ja": "グラスホッパー",
+      "en": "Grasshopper"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["thriller"],
+    "publisher": null,
+    "release_dates": ["2025/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "accuracy-of-death",
+    "title": {
+      "zh": "死神的精確度",
+      "ja": "死神の精度",
+      "en": "Accuracy of Death"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2006/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "a-cheerful-gang-is-hard-to-catch",
+    "title": {
+      "zh": "天才搶匪面面俱盜",
+      "ja": "陽気なギャングの日常と襲撃",
+      "en": "A Cheerful Gang Is Hard to Catch"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery", "comedy"],
+    "publisher": null,
+    "release_dates": ["2018/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "fish-story",
+    "title": {
+      "zh": "Fish Story：龐克救地球",
+      "ja": "フィッシュストーリー",
+      "en": "Fish Story"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2018/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "modern-times",
+    "title": {
+      "zh": "Modern Times 摩登時代",
+      "ja": "モダンタイムス",
+      "en": "Modern Times"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery", "sci-fi"],
+    "publisher": null,
+    "release_dates": ["2022/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "oh-father",
+    "title": {
+      "zh": "Oh！Father",
+      "ja": "オー！ファーザー",
+      "en": "Oh! Father"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery", "comedy"],
+    "publisher": null,
+    "release_dates": ["2026/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "bye-bye-blackbird",
+    "title": {
+      "zh": "Bye Bye，Blackbird－再見，黑鳥",
+      "ja": "バイバイ、ブラックバード",
+      "en": "Bye Bye, Blackbird"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["series"],
+    "publisher": null,
+    "release_dates": ["2012/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "maria-beetle",
+    "title": {
+      "zh": "瓢蟲",
+      "ja": "マリアビートル",
+      "en": "Maria Beetle"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["thriller"],
+    "publisher": null,
+    "release_dates": ["2026/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "pk",
+    "title": {
+      "zh": "PK",
+      "ja": "PK",
+      "en": "PK"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2014/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "remaining-life-is-holiday",
+    "title": {
+      "zh": "剩下的人生都是休假",
+      "ja": "残り全部バケーション",
+      "en": "The Rest of Your Life Is a Vacation"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2015/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "gasoline-life",
+    "title": {
+      "zh": "汽油生活",
+      "ja": "ガソリン生活",
+      "en": "Gasoline Life"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2015/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "floating-power-of-death",
+    "title": {
+      "zh": "死神的浮力",
+      "ja": "死神の浮力",
+      "en": "Floating Power of Death"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2026/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "mars",
+    "title": {
+      "zh": "不然你搬去火星啊？",
+      "ja": "火星に住むつもりかい？",
+      "en": "Are You Going to Live on Mars?"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery", "sci-fi"],
+    "publisher": null,
+    "release_dates": ["2016/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "gyroscope",
+    "title": {
+      "zh": "陀螺儀",
+      "ja": "ジャイロスコープ",
+      "en": "Gyroscope"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2017/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "a-cheerful-gang-countdown",
+    "title": {
+      "zh": "天才搶匪盜數計時",
+      "ja": "陽気なギャングは三つ数えろ",
+      "en": "A Cheerful Gang Counts to Three"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery", "comedy"],
+    "publisher": null,
+    "release_dates": ["2018/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "ax",
+    "title": {
+      "zh": "螳螂",
+      "ja": "AX アックス",
+      "en": "AX"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["thriller"],
+    "publisher": null,
+    "release_dates": ["2026/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "white-rabbit",
+    "title": {
+      "zh": "白兔",
+      "ja": "ホワイトラビット",
+      "en": "White Rabbit"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["thriller"],
+    "publisher": null,
+    "release_dates": ["2026/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "king-of-the-shoebill",
+    "title": {
+      "zh": "鯨頭鸛之王",
+      "ja": "クジラアタマの王様",
+      "en": "King of the Shoebill"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2020/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "peppers-ghost",
+    "title": {
+      "zh": "佩珀爾的幻象",
+      "ja": "ペッパーズ・ゴースト",
+      "en": "Pepper's Ghost"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2023/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "triple-seven",
+    "title": {
+      "zh": "777",
+      "ja": "777 トリプルセブン",
+      "en": "777"
+    },
+    "creator": {
+      "zh": "伊坂幸太郎",
+      "ja": "伊坂幸太郎",
+      "en": "Kotaro Isaka"
+    },
+    "form": "novel",
+    "genres": ["thriller"],
+    "publisher": null,
+    "release_dates": ["2026/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-01",
+    "title": {
+      "zh": "皇家騎士 1：格蘭的廢墟",
+      "ja": "レンジャーズ・アプレンティス 1",
+      "en": "Ranger's Apprentice 1: The Ruins of Gorlan"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2007/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-02",
+    "title": {
+      "zh": "皇家騎士 2：燃燒的巨橋",
+      "ja": "レンジャーズ・アプレンティス 2",
+      "en": "Ranger's Apprentice 2: The Burning Bridge"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2007/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-03",
+    "title": {
+      "zh": "皇家騎士 3：冰封之地",
+      "ja": "レンジャーズ・アプレンティス 3",
+      "en": "Ranger's Apprentice 3: The Icebound Land"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2007/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-04",
+    "title": {
+      "zh": "皇家騎士 4：橡葉武士",
+      "ja": "レンジャーズ・アプレンティス 4",
+      "en": "Ranger's Apprentice 4: The Battle for Skandia"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2007/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-05",
+    "title": {
+      "zh": "皇家騎士 5：北方巫師",
+      "ja": "レンジャーズ・アプレンティス 5",
+      "en": "Ranger's Apprentice 5: The Sorcerer in the North"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2008/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-06",
+    "title": {
+      "zh": "皇家騎士 6：馬籠草原",
+      "ja": "レンジャーズ・アプレンティス 6",
+      "en": "Ranger's Apprentice 6: The Siege of Macindaw"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2008/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-07",
+    "title": {
+      "zh": "皇家騎士 7：艾瑞克的贖金",
+      "ja": "レンジャーズ・アプレンティス 7",
+      "en": "Ranger's Apprentice 7: Erak's Ransom"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2009/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-08",
+    "title": {
+      "zh": "皇家騎士 8：克朗梅爾的國王",
+      "ja": "レンジャーズ・アプレンティス 8",
+      "en": "Ranger's Apprentice 8: The Kings of Clonmel"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2009/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-09",
+    "title": {
+      "zh": "皇家騎士 9：哈特的危機",
+      "ja": "レンジャーズ・アプレンティス 9",
+      "en": "Ranger's Apprentice 9: Halt's Peril"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2010/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-10",
+    "title": {
+      "zh": "皇家騎士 10：尼侯的皇帝",
+      "ja": "レンジャーズ・アプレンティス 10",
+      "en": "Ranger's Apprentice 10: The Emperor of Nihon-Ja"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2011/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-11",
+    "title": {
+      "zh": "皇家騎士 11：失落的故事",
+      "ja": "レンジャーズ・アプレンティス 11",
+      "en": "Ranger's Apprentice 11: The Lost Stories"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2012/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "rangers-apprentice-12",
+    "title": {
+      "zh": "皇家騎士 12：皇家騎士",
+      "ja": "レンジャーズ・アプレンティス 12",
+      "en": "Ranger's Apprentice 12: The Royal Ranger"
+    },
+    "creator": {
+      "zh": "約翰·佛萊納根",
+      "ja": "ジョン・フラナガン",
+      "en": "John Flanagan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2013/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用系列集數暫存，待補正式副標",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "percy-jackson-1",
+    "title": {
+      "zh": "波西傑克森 1：神火之賊",
+      "ja": "パーシー・ジャクソンとオリンポスの神々 1：盗まれた雷撃",
+      "en": "Percy Jackson and the Olympians 1: The Lightning Thief"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓",
+      "ja": "リック・リオーダン",
+      "en": "Rick Riordan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2009/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "percy-jackson-2",
+    "title": {
+      "zh": "波西傑克森 2：妖魔之海",
+      "ja": "パーシー・ジャクソンとオリンポスの神々 2：魔海の冒険",
+      "en": "Percy Jackson and the Olympians 2: The Sea of Monsters"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓",
+      "ja": "リック・リオーダン",
+      "en": "Rick Riordan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2009/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "percy-jackson-3",
+    "title": {
+      "zh": "波西傑克森 3：泰坦魔咒",
+      "ja": "パーシー・ジャクソンとオリンポスの神々 3：タイタンの呪い",
+      "en": "Percy Jackson and the Olympians 3: The Titan's Curse"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓",
+      "ja": "リック・リオーダン",
+      "en": "Rick Riordan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2009/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "percy-jackson-4",
+    "title": {
+      "zh": "波西傑克森 4：迷宮戰場",
+      "ja": "パーシー・ジャクソンとオリンポスの神々 4：迷宮の戦い",
+      "en": "Percy Jackson and the Olympians 4: The Battle of the Labyrinth"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓",
+      "ja": "リック・リオーダン",
+      "en": "Rick Riordan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2009/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "percy-jackson-5",
+    "title": {
+      "zh": "波西傑克森 5：終極天神",
+      "ja": "パーシー・ジャクソンとオリンポスの神々 5：最後の神",
+      "en": "Percy Jackson and the Olympians 5: The Last Olympian"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓",
+      "ja": "リック・リオーダン",
+      "en": "Rick Riordan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2010/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "kane-chronicles-1",
+    "title": {
+      "zh": "埃及守護神 1：紅色金字塔",
+      "ja": "ケイン・クロニクル 1：赤いピラミッド",
+      "en": "The Kane Chronicles 1: The Red Pyramid"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓",
+      "ja": "リック・リオーダン",
+      "en": "Rick Riordan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2011/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "kane-chronicles-2",
+    "title": {
+      "zh": "埃及守護神 2：火焰的王座",
+      "ja": "ケイン・クロニクル 2：炎の玉座",
+      "en": "The Kane Chronicles 2: The Throne of Fire"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓",
+      "ja": "リック・リオーダン",
+      "en": "Rick Riordan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2011/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "kane-chronicles-3",
+    "title": {
+      "zh": "埃及守護神 3：巨蛇的暗影",
+      "ja": "ケイン・クロニクル 3：大蛇の影",
+      "en": "The Kane Chronicles 3: The Serpent's Shadow"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓",
+      "ja": "リック・リオーダン",
+      "en": "Rick Riordan"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "adventure"],
+    "publisher": null,
+    "release_dates": ["2012/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-01",
+    "title": {
+      "zh": "39條線索 1",
+      "ja": "39クルーズ 1",
+      "en": "The 39 Clues 1: The Maze of Bones"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-02",
+    "title": {
+      "zh": "39條線索 2",
+      "ja": "39クルーズ 2",
+      "en": "The 39 Clues 2: One False Note"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-03",
+    "title": {
+      "zh": "39條線索 3",
+      "ja": "39クルーズ 3",
+      "en": "The 39 Clues 3: The Sword Thief"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-04",
+    "title": {
+      "zh": "39條線索 4",
+      "ja": "39クルーズ 4",
+      "en": "The 39 Clues 4: Beyond the Grave"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-05",
+    "title": {
+      "zh": "39條線索 5",
+      "ja": "39クルーズ 5",
+      "en": "The 39 Clues 5: The Black Circle"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-06",
+    "title": {
+      "zh": "39條線索 6",
+      "ja": "39クルーズ 6",
+      "en": "The 39 Clues 6: In Too Deep"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-07",
+    "title": {
+      "zh": "39條線索 7",
+      "ja": "39クルーズ 7",
+      "en": "The 39 Clues 7: The Viper's Nest"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-08",
+    "title": {
+      "zh": "39條線索 8",
+      "ja": "39クルーズ 8",
+      "en": "The 39 Clues 8: The Emperor's Code"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-09",
+    "title": {
+      "zh": "39條線索 9",
+      "ja": "39クルーズ 9",
+      "en": "The 39 Clues 9: Storm Warning"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-39-clues-10",
+    "title": {
+      "zh": "39條線索 10",
+      "ja": "39クルーズ 10",
+      "en": "The 39 Clues 10: Into the Gauntlet"
+    },
+    "creator": {
+      "zh": "雷克·萊爾頓等",
+      "ja": "リック・リオーダンほか",
+      "en": "Rick Riordan et al."
+    },
+    "form": "novel",
+    "genres": ["adventure", "mystery"],
+    "publisher": null,
+    "release_dates": ["2010/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "作者群系列，先依使用者歸類於雷克·萊爾頓",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-01",
+    "title": {
+      "zh": "向達倫大冒險 1：怪奇馬戲團",
+      "ja": "ダレン・シャン 1",
+      "en": "Cirque du Freak 1: A Living Nightmare"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2002/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-02",
+    "title": {
+      "zh": "向達倫大冒險 2：吸血鬼助理",
+      "ja": "ダレン・シャン 2",
+      "en": "Cirque du Freak 2: The Vampire's Assistant"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2002/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-03",
+    "title": {
+      "zh": "向達倫大冒險 3：地下血道",
+      "ja": "ダレン・シャン 3",
+      "en": "Cirque du Freak 3: Tunnels of Blood"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2002/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-04",
+    "title": {
+      "zh": "向達倫大冒險 4：吸血鬼山",
+      "ja": "ダレン・シャン 4",
+      "en": "Cirque du Freak 4: Vampire Mountain"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2002/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-05",
+    "title": {
+      "zh": "向達倫大冒險 5：死亡審判",
+      "ja": "ダレン・シャン 5",
+      "en": "Cirque du Freak 5: Trials of Death"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2002/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-06",
+    "title": {
+      "zh": "向達倫大冒險 6：吸血鬼王子",
+      "ja": "ダレン・シャン 6",
+      "en": "Cirque du Freak 6: The Vampire Prince"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2002/12"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-07",
+    "title": {
+      "zh": "向達倫大冒險 7：黃昏獵人",
+      "ja": "ダレン・シャン 7",
+      "en": "Cirque du Freak 7: Hunters of the Dusk"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2003/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-08",
+    "title": {
+      "zh": "向達倫大冒險 8：暗夜盟友",
+      "ja": "ダレン・シャン 8",
+      "en": "Cirque du Freak 8: Allies of the Night"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2003/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-09",
+    "title": {
+      "zh": "向達倫大冒險 9：破曉殺手",
+      "ja": "ダレン・シャン 9",
+      "en": "Cirque du Freak 9: Killers of the Dawn"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2003/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-10",
+    "title": {
+      "zh": "向達倫大冒險 10：靈魂之湖",
+      "ja": "ダレン・シャン 10",
+      "en": "Cirque du Freak 10: The Lake of Souls"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2003/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-11",
+    "title": {
+      "zh": "向達倫大冒險 11：暗影之王",
+      "ja": "ダレン・シャン 11",
+      "en": "Cirque du Freak 11: Lord of the Shadows"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2003/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "cirque-du-freak-12",
+    "title": {
+      "zh": "向達倫大冒險 12：命運之子",
+      "ja": "ダレン・シャン 12",
+      "en": "Cirque du Freak 12: Sons of Destiny"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2003/12"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-city-trilogy-1",
+    "title": {
+      "zh": "城市三部曲 1：亡者的隊列",
+      "ja": "シティ三部作 1：死者の行進",
+      "en": "Procession of the Dead"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "thriller"],
+    "publisher": null,
+    "release_dates": ["2010/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-city-trilogy-2",
+    "title": {
+      "zh": "城市三部曲 2：地獄的地平線",
+      "ja": "シティ三部作 2：地獄の地平線",
+      "en": "Hell's Horizon"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "thriller"],
+    "publisher": null,
+    "release_dates": ["2010/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-city-trilogy-3",
+    "title": {
+      "zh": "城市三部曲 3：蛇城",
+      "ja": "シティ三部作 3：蛇の街",
+      "en": "City of the Snakes"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "thriller"],
+    "publisher": null,
+    "release_dates": ["2010/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-01",
+    "title": {
+      "zh": "魔域大冒險 1",
+      "ja": "デモナータ 1",
+      "en": "The Demonata 1: Lord Loss"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2006/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-02",
+    "title": {
+      "zh": "魔域大冒險 2",
+      "ja": "デモナータ 2",
+      "en": "The Demonata 2: Demon Thief"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2006/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-03",
+    "title": {
+      "zh": "魔域大冒險 3",
+      "ja": "デモナータ 3",
+      "en": "The Demonata 3: Slawter"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2006/12"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-04",
+    "title": {
+      "zh": "魔域大冒險 4",
+      "ja": "デモナータ 4",
+      "en": "The Demonata 4: Bec"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2007/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-05",
+    "title": {
+      "zh": "魔域大冒險 5",
+      "ja": "デモナータ 5",
+      "en": "The Demonata 5: Blood Beast"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2007/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-06",
+    "title": {
+      "zh": "魔域大冒險 6",
+      "ja": "デモナータ 6",
+      "en": "The Demonata 6: Demon Apocalypse"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2007/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-07",
+    "title": {
+      "zh": "魔域大冒險 7",
+      "ja": "デモナータ 7",
+      "en": "The Demonata 7: Death's Shadow"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2007/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-08",
+    "title": {
+      "zh": "魔域大冒險 8",
+      "ja": "デモナータ 8",
+      "en": "The Demonata 8: Wolf Island"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2007/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-09",
+    "title": {
+      "zh": "魔域大冒險 9",
+      "ja": "デモナータ 9",
+      "en": "The Demonata 9: Dark Calling"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2007/12"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-demonata-10",
+    "title": {
+      "zh": "魔域大冒險 10",
+      "ja": "デモナータ 10",
+      "en": "The Demonata 10: Hell's Heroes"
+    },
+    "creator": {
+      "zh": "向達倫",
+      "ja": "ダレン・シャン",
+      "en": "Darren Shan"
+    },
+    "form": "novel",
+    "genres": ["horror", "fantasy"],
+    "publisher": null,
+    "release_dates": ["2008/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-01",
+    "title": {
+      "zh": "妖怪公寓 1",
+      "ja": "妖怪アパートの幽雅な日常 1",
+      "en": "Elegant Yokai Apartment Life 1"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2011/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-02",
+    "title": {
+      "zh": "妖怪公寓 2",
+      "ja": "妖怪アパートの幽雅な日常 2",
+      "en": "Elegant Yokai Apartment Life 2"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2011/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-03",
+    "title": {
+      "zh": "妖怪公寓 3",
+      "ja": "妖怪アパートの幽雅な日常 3",
+      "en": "Elegant Yokai Apartment Life 3"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2011/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-04",
+    "title": {
+      "zh": "妖怪公寓 4",
+      "ja": "妖怪アパートの幽雅な日常 4",
+      "en": "Elegant Yokai Apartment Life 4"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2011/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-05",
+    "title": {
+      "zh": "妖怪公寓 5",
+      "ja": "妖怪アパートの幽雅な日常 5",
+      "en": "Elegant Yokai Apartment Life 5"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2011/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-06",
+    "title": {
+      "zh": "妖怪公寓 6",
+      "ja": "妖怪アパートの幽雅な日常 6",
+      "en": "Elegant Yokai Apartment Life 6"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2011/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-07",
+    "title": {
+      "zh": "妖怪公寓 7",
+      "ja": "妖怪アパートの幽雅な日常 7",
+      "en": "Elegant Yokai Apartment Life 7"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2012/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-08",
+    "title": {
+      "zh": "妖怪公寓 8",
+      "ja": "妖怪アパートの幽雅な日常 8",
+      "en": "Elegant Yokai Apartment Life 8"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2012/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-09",
+    "title": {
+      "zh": "妖怪公寓 9",
+      "ja": "妖怪アパートの幽雅な日常 9",
+      "en": "Elegant Yokai Apartment Life 9"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2012/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-10",
+    "title": {
+      "zh": "妖怪公寓 10",
+      "ja": "妖怪アパートの幽雅な日常 10",
+      "en": "Elegant Yokai Apartment Life 10"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2012/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "yokai-apartment-side-story",
+    "title": {
+      "zh": "妖怪公寓 外傳",
+      "ja": "妖怪アパートの幽雅な日常 外伝",
+      "en": "Elegant Yokai Apartment Life Side Story"
+    },
+    "creator": {
+      "zh": "香月日輪",
+      "ja": "香月日輪",
+      "en": "Hinowa Kouzuki"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "slice-of-life"],
+    "publisher": null,
+    "release_dates": ["2014/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "fourth-wing",
+    "title": {
+      "zh": "第四翼",
+      "ja": "フォース・ウィング",
+      "en": "Fourth Wing"
+    },
+    "creator": {
+      "zh": "瑞貝卡·亞羅斯",
+      "ja": "レベッカ・ヤロス",
+      "en": "Rebecca Yarros"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "romance"],
+    "publisher": null,
+    "release_dates": ["2025/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "iron-flame",
+    "title": {
+      "zh": "鋼鐵烈焰",
+      "ja": "アイアン・フレイム",
+      "en": "Iron Flame"
+    },
+    "creator": {
+      "zh": "瑞貝卡·亞羅斯",
+      "ja": "レベッカ・ヤロス",
+      "en": "Rebecca Yarros"
+    },
+    "form": "novel",
+    "genres": ["fantasy", "romance"],
+    "publisher": null,
+    "release_dates": ["2025/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "tsugumi",
+    "title": {
+      "zh": "鶇",
+      "ja": "TUGUMI",
+      "en": "Goodbye Tsugumi"
+    },
+    "creator": {
+      "zh": "吉本芭娜娜",
+      "ja": "吉本ばなな",
+      "en": "Banana Yoshimoto"
+    },
+    "form": "novel",
+    "genres": ["series"],
+    "publisher": null,
+    "release_dates": ["2024/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "the-miracles-of-the-namiya-general-store",
+    "title": {
+      "zh": "解憂雜貨店",
+      "ja": "ナミヤ雑貨店の奇蹟",
+      "en": "The Miracles of the Namiya General Store"
+    },
+    "creator": {
+      "zh": "東野圭吾",
+      "ja": "東野圭吾",
+      "en": "Keigo Higashino"
+    },
+    "form": "novel",
+    "genres": ["mystery"],
+    "publisher": null,
+    "release_dates": ["2025/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  },
+  {
+    "key": "moon-and-fire-dog",
+    "title": {
+      "zh": "月與火犬",
+      "ja": "月と火犬",
+      "en": "Moon and Fire Dog"
+    },
+    "creator": {
+      "zh": "星子",
+      "ja": "星子",
+      "en": "Xing Zi"
+    },
+    "form": "novel",
+    "genres": ["fantasy"],
+    "publisher": null,
+    "release_dates": ["2020/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "pending"
+    }
+  }
+]

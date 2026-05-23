@@ -1,0 +1,627 @@
+[
+  {
+    "key": "sounds-of-winter",
+    "title": {
+      "zh": "冬日的什麼呀，春日的什麼呢",
+      "ja": "冬のなんかさ、春のなんかね",
+      "en": "Sounds of Winter"
+    },
+    "creator": {
+      "zh": "今泉力哉、山下敦弘",
+      "ja": "今泉力哉、山下敦弘",
+      "en": "Rikiya Imaizumi, Nobuhiro Yamashita"
+    },
+    "form": "series",
+    "genres": ["romance", "slice-of-life"],
+    "publisher": "nippon_tv",
+    "release_dates": ["2026/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "reborn-the-last-hero",
+    "title": {
+      "zh": "重生：最後的英雄",
+      "ja": "リボーン〜最後の英雄〜",
+      "en": "Reborn: The Last Hero"
+    },
+    "creator": {
+      "zh": "林誠人",
+      "ja": "林誠人",
+      "en": "Makoto Hayashi"
+    },
+    "form": "series",
+    "genres": ["fantasy", "mystery"],
+    "publisher": "tv_asahi",
+    "release_dates": ["2026/04"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": 2,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "sins-of-kujo",
+    "title": {
+      "zh": "九条的大罪",
+      "ja": "九条の大罪",
+      "en": "Sins of Kujo"
+    },
+    "creator": {
+      "zh": "真鍋昌平",
+      "ja": "真鍋昌平",
+      "en": "Shohei Manabe"
+    },
+    "form": "series",
+    "genres": ["series", "thriller"],
+    "publisher": "netflix",
+    "release_dates": ["2026/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "kikazaru-koi-niwa-riyuu-ga-atte",
+    "title": {
+      "zh": "打扮的戀愛是有理由的",
+      "ja": "着飾る恋には理由があって",
+      "en": "Why I Dress Up for Love"
+    },
+    "creator": {
+      "zh": "金子亞里紗",
+      "ja": "金子ありさ",
+      "en": "Arisa Kaneko"
+    },
+    "form": "series",
+    "genres": ["romance", "slice-of-life"],
+    "publisher": "tbs",
+    "release_dates": ["2021/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "she-hulk-attorney-at-law",
+    "title": {
+      "zh": "律師女浩克",
+      "ja": "シー・ハルク：ザ・アトーニー",
+      "en": "She-Hulk: Attorney at Law"
+    },
+    "creator": {
+      "zh": "潔西卡·高",
+      "ja": "ジェシカ・ガオ",
+      "en": "Jessica Gao"
+    },
+    "form": "series",
+    "genres": ["action", "comedy", "sci-fi"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2022/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "ishiko-and-haneo",
+    "title": {
+      "zh": "石子與羽男",
+      "ja": "石子と羽男-そんなコトで訴えます?-",
+      "en": "Ishiko and Haneo"
+    },
+    "creator": {
+      "zh": "西田征史",
+      "ja": "西田征史",
+      "en": "Masafumi Nishida"
+    },
+    "form": "series",
+    "genres": ["comedy", "series"],
+    "publisher": "tbs",
+    "release_dates": ["2022/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "hatsukoi-no-akuma",
+    "title": {
+      "zh": "初戀的惡魔",
+      "ja": "初恋の悪魔",
+      "en": "Hatsukoi no Akuma"
+    },
+    "creator": {
+      "zh": "坂元裕二",
+      "ja": "坂元裕二",
+      "en": "Yuji Sakamoto"
+    },
+    "form": "series",
+    "genres": ["mystery", "comedy"],
+    "publisher": "nippon_tv",
+    "release_dates": ["2022/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "animals-2022",
+    "title": {
+      "zh": "ANIMALS",
+      "ja": "ANIMALS-アニマルズ-",
+      "en": "ANIMALS"
+    },
+    "creator": {
+      "zh": "鈴木收、木內健人",
+      "ja": "鈴木おさむ、木内健人",
+      "en": "Osamu Suzuki, Kento Kiuchi"
+    },
+    "form": "series",
+    "genres": ["romance", "slice-of-life"],
+    "publisher": "abema",
+    "release_dates": ["2022/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-boys",
+    "title": {
+      "zh": "黑袍糾察隊",
+      "ja": "ザ・ボーイズ",
+      "en": "The Boys"
+    },
+    "creator": {
+      "zh": "艾瑞克·克萊普克",
+      "ja": "エリック・クリプキ",
+      "en": "Eric Kripke"
+    },
+    "form": "series",
+    "genres": ["action", "comedy", "sci-fi"],
+    "publisher": "amazon_mgm_studios",
+    "release_dates": ["2019/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "stranger-things",
+    "title": {
+      "zh": "怪奇物語",
+      "ja": "ストレンジャー・シングス 未知の世界",
+      "en": "Stranger Things"
+    },
+    "creator": {
+      "zh": "達菲兄弟",
+      "ja": "ザ・ダファー・ブラザーズ",
+      "en": "The Duffer Brothers"
+    },
+    "form": "series",
+    "genres": ["horror", "sci-fi", "mystery"],
+    "publisher": "netflix",
+    "release_dates": ["2016/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "ms-marvel",
+    "title": {
+      "zh": "驚奇少女",
+      "ja": "ミズ・マーベル",
+      "en": "Ms. Marvel"
+    },
+    "creator": {
+      "zh": "碧莎·K·阿里",
+      "ja": "ビシャ・K・アリ",
+      "en": "Bisha K. Ali"
+    },
+    "form": "series",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2022/06"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "moon-knight",
+    "title": {
+      "zh": "月光騎士",
+      "ja": "ムーンナイト",
+      "en": "Moon Knight"
+    },
+    "creator": {
+      "zh": "傑瑞米·史萊特",
+      "ja": "ジェレミー・スレイター",
+      "en": "Jeremy Slater"
+    },
+    "form": "series",
+    "genres": ["action", "fantasy"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2022/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "what-if",
+    "title": {
+      "zh": "無限可能：假如…？",
+      "ja": "ホワット・イフ...?",
+      "en": "What If...?"
+    },
+    "creator": {
+      "zh": "A·C·布拉德利",
+      "ja": "A・C・ブラッドリー",
+      "en": "A. C. Bradley"
+    },
+    "form": "series",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2021/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "wandavision",
+    "title": {
+      "zh": "汪達與幻視",
+      "ja": "ワンダヴィジョン",
+      "en": "WandaVision"
+    },
+    "creator": {
+      "zh": "潔克·薛佛",
+      "ja": "ジャック・シェイファー",
+      "en": "Jac Schaeffer"
+    },
+    "form": "series",
+    "genres": ["sci-fi", "fantasy"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2021/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-man-who-cant-get-married",
+    "title": {
+      "zh": "熟男不結婚",
+      "ja": "結婚できない男",
+      "en": "The Man Who Can't Get Married"
+    },
+    "creator": {
+      "zh": "尾崎將也",
+      "ja": "尾崎将也",
+      "en": "Masaya Ozaki"
+    },
+    "form": "series",
+    "genres": ["comedy", "romance"],
+    "publisher": "fuji_tv",
+    "release_dates": ["2006/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "「熟男不戀愛」按日劇《熟男不結婚》去重收錄",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "tokyo-swindlers",
+    "title": {
+      "zh": "地面師",
+      "ja": "地面師たち",
+      "en": "Tokyo Swindlers"
+    },
+    "creator": {
+      "zh": "新庄耕、大根仁",
+      "ja": "新庄耕、大根仁",
+      "en": "Ko Shinjo, Hitoshi One"
+    },
+    "form": "series",
+    "genres": ["thriller", "series"],
+    "publisher": "netflix",
+    "release_dates": ["2024/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "avatar-the-last-airbender-2024",
+    "title": {
+      "zh": "降世神通：最後的氣宗",
+      "ja": "アバター：伝説の少年アン",
+      "en": "Avatar: The Last Airbender"
+    },
+    "creator": {
+      "zh": "亞伯特·金",
+      "ja": "アルバート・キム",
+      "en": "Albert Kim"
+    },
+    "form": "series",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "netflix",
+    "release_dates": ["2024/02"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "ikebukuro-west-gate-park",
+    "title": {
+      "zh": "池袋西口公園",
+      "ja": "池袋ウエストゲートパーク",
+      "en": "Ikebukuro West Gate Park"
+    },
+    "creator": {
+      "zh": "石田衣良、宮藤官九郎",
+      "ja": "石田衣良、宮藤官九郎",
+      "en": "Ira Ishida, Kankuro Kudo"
+    },
+    "form": "series",
+    "genres": ["mystery", "series"],
+    "publisher": "tbs",
+    "release_dates": ["2000/04"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "extremely-inappropriate",
+    "title": {
+      "zh": "極度不妥！",
+      "ja": "不適切にもほどがある！",
+      "en": "Extremely Inappropriate!"
+    },
+    "creator": {
+      "zh": "宮藤官九郎",
+      "ja": "宮藤官九郎",
+      "en": "Kankuro Kudo"
+    },
+    "form": "series",
+    "genres": ["comedy", "sci-fi"],
+    "publisher": "tbs",
+    "release_dates": ["2024/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "quartet",
+    "title": {
+      "zh": "四重奏",
+      "ja": "カルテット",
+      "en": "Quartet"
+    },
+    "creator": {
+      "zh": "坂元裕二",
+      "ja": "坂元裕二",
+      "en": "Yuji Sakamoto"
+    },
+    "form": "series",
+    "genres": ["mystery", "romance"],
+    "publisher": "tbs",
+    "release_dates": ["2017/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "vivant",
+    "title": {
+      "zh": "VIVANT",
+      "ja": "VIVANT",
+      "en": "VIVANT"
+    },
+    "creator": {
+      "zh": "福澤克雄",
+      "ja": "福澤克雄",
+      "en": "Katsuo Fukuzawa"
+    },
+    "form": "series",
+    "genres": ["mystery", "thriller"],
+    "publisher": "tbs",
+    "release_dates": ["2023/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "turn-to-me-mukai-kun",
+    "title": {
+      "zh": "看向這邊嘛向井君",
+      "ja": "こっち向いてよ向井くん",
+      "en": "Turn to Me Mukai-kun"
+    },
+    "creator": {
+      "zh": "ねむようこ、渡邉真子",
+      "ja": "ねむようこ、渡邉真子",
+      "en": "Yoko Nemu, Mako Watanabe"
+    },
+    "form": "series",
+    "genres": ["romance", "comedy"],
+    "publisher": "nippon_tv",
+    "release_dates": ["2023/07"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "one-piece-live-action",
+    "title": {
+      "zh": "航海王真人版",
+      "ja": "ONE PIECE",
+      "en": "One Piece"
+    },
+    "creator": {
+      "zh": "尾田榮一郎、麥特·歐文斯、史蒂芬·梅達",
+      "ja": "尾田栄一郎、マット・オーウェンズ、スティーヴン・マエダ",
+      "en": "Eiichiro Oda, Matt Owens, Steven Maeda"
+    },
+    "form": "series",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "netflix",
+    "release_dates": ["2023/08"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "we-married-as-a-job",
+    "title": {
+      "zh": "月薪嬌妻",
+      "ja": "逃げるは恥だが役に立つ",
+      "en": "We Married as a Job"
+    },
+    "creator": {
+      "zh": "海野綱彌、野木亞紀子",
+      "ja": "海野つなみ、野木亜紀子",
+      "en": "Tsunami Umino, Akiko Nogi"
+    },
+    "form": "series",
+    "genres": ["romance", "comedy"],
+    "publisher": "tbs",
+    "release_dates": ["2016/10"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "brush-up-life",
+    "title": {
+      "zh": "重啟人生",
+      "ja": "ブラッシュアップライフ",
+      "en": "Brush Up Life"
+    },
+    "creator": {
+      "zh": "笨蛋節奏",
+      "ja": "バカリズム",
+      "en": "Bakarhythm"
+    },
+    "form": "series",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "nippon_tv",
+    "release_dates": ["2023/01"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  }
+]

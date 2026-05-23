@@ -1,0 +1,266 @@
+[
+  {
+    "key": "chainsaw-man",
+    "title": {
+      "zh": "鏈鋸人",
+      "ja": "チェンソーマン",
+      "en": "Chainsaw Man"
+    },
+    "creator": {
+      "zh": "藤本樹",
+      "ja": "藤本タツキ",
+      "en": "Tatsuki Fujimoto"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "drama", "horror"],
+    "publisher": "shueisha",
+    "release_dates": ["2018/12"],
+    "my_completed_date": null,
+    "my_status": "on_hold",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "drama-queen",
+    "title": {
+      "zh": "DRAMA QUEEN戲劇女王",
+      "ja": "ドラマクイン",
+      "en": "Drama Queen"
+    },
+    "creator": {
+      "zh": "市川苦楽",
+      "ja": "市川苦楽",
+      "en": "Kuraku Ichikawa"
+    },
+    "form": "manga",
+    "genres": ["comedy", "sci-fi"],
+    "publisher": "Shogakukan",
+    "release_dates": ["2024/12"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "centuria",
+    "title": {
+      "zh": "百人魂",
+      "ja": "ケントゥリア",
+      "en": "Centuria "
+    },
+    "creator": {
+      "zh": "暗森透",
+      "ja": "暗森透",
+      "en": "Tooru Kuramori"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2024/04"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "helck",
+    "title": {
+      "zh": "勇者赫魯庫",
+      "ja": "Helck",
+      "en": "Helck"
+    },
+    "creator": {
+      "zh": "七尾七希",
+      "ja": "七尾ナナキ",
+      "en": "Nanaki Nanao"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy"],
+    "publisher": "Shogakukan",
+    "release_dates": ["2014/05"],
+    "my_completed_date": "2021/08/31",
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "sakamoto-days",
+    "title": {
+      "zh": "坂本日常",
+      "ja": "サカモトデイズ",
+      "en": "Sakamoto Days"
+    },
+    "creator": {
+      "zh": "鈴木祐斗",
+      "ja": "鈴木祐斗",
+      "en": "Yuto Suzuki"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "drama"],
+    "publisher": "shueisha",
+    "release_dates": ["2020/11/21"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "tokyo-revengers",
+    "title": {
+      "zh": "東京卍復仇者",
+      "ja": "東京卍リベンジャーズ",
+      "en": "Tokyo Revengers"
+    },
+    "creator": {
+      "zh": "和久井健",
+      "ja": "和久井健",
+      "en": "Ken Wakui"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "romance"],
+    "publisher": "kodansha",
+    "release_dates": ["2021/04"],
+    "my_completed_date": "2023/01",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "kemono-jihen",
+    "title": {
+      "zh": "怪物事變",
+      "ja": "怪物事変",
+      "en": "Kemono Jihen"
+    },
+    "creator": {
+      "zh": "藍本松",
+      "ja": "藍本松",
+      "en": "Shou Aimoto"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "mystery"],
+    "publisher": "shueisha",
+    "release_dates": ["2017/01"],
+    "my_completed_date": "",
+    "my_status": "on_hold",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "the-dungeon-of-black-company",
+    "title": {
+      "zh": "暗黑企業的迷宮",
+      "ja": "迷宮ブラックカンパニー",
+      "en": "The Dungeon of Black Company"
+    },
+    "creator": {
+      "zh": "安村洋平",
+      "ja": "安村洋平",
+      "en": "Youhei Yasumura"
+    },
+    "form": "manga",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "magcomi",
+    "release_dates": ["2016/12"],
+    "my_completed_date": "",
+    "my_status": "on_hold",
+    "my_score": 2,
+    "note": null,
+    "has_article": false
+  },
+  {
+    "key": "im-standing-on-a-million-lives",
+    "title": {
+      "zh": "我立於百萬生命之上",
+      "ja": "100萬の命の上に俺は立っている",
+      "en": "I'm Standing on a Million Lives"
+    },
+    "creator": {
+      "zh": "山川直輝",
+      "ja": "山川直輝",
+      "en": "Naoki Yamakawa"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2016/07"],
+    "my_completed_date": "2021/10",
+    "my_status": "on_hold",
+    "my_score": 3,
+    "note": "哀傷的設定，對社會運作的思考很深入。",
+    "has_article": false
+  },
+  {
+    "key": "demon-slayer-kimetsu-no-yaiba",
+    "title": {
+      "zh": "鬼滅之刃",
+      "ja": "鬼滅の刃",
+      "en": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    "creator": {
+      "zh": "吾峠呼世晴",
+      "ja": "吾峠呼世晴",
+      "en": "Koyoharu Gotouge"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2016/02"],
+    "my_completed_date": "2020/05/18",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": "漫畫本身還好，結尾也差強人意，但是 ufotable 做的動畫真的非常讚。",
+    "has_article": false
+  },
+  {
+    "key": "biaoren",
+    "title": {
+      "zh": "鏢人",
+      "ja": "鏢人",
+      "en": "Biaoren"
+    },
+    "creator": {
+      "zh": "許先哲",
+      "ja": "許先哲",
+      "en": "Xianzhe Xu"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama"],
+    "publisher": null,
+    "release_dates": ["2023/06"],
+    "my_completed_date": "",
+    "my_status": "on_hold",
+    "my_score": 3,
+    "note": "中國武俠題材，畫工跟氣氛的營造都很有味道，非常推薦。",
+    "has_article": false
+  },
+  {
+    "key": "dan-da-dan",
+    "title": {
+      "zh": "膽大黨",
+      "ja": "ダンダダン",
+      "en": "DAN DA DAN"
+    },
+    "creator": {
+      "zh": "龍幸伸",
+      "ja": "龍幸伸",
+      "en": "Yukinobu Tatsu"
+    },
+    "form": "managa",
+    "genres": ["action", "comedy", "drama", "romance", "sci-fi"],
+    "publisher": "shueisha",
+    "release_dates": ["2021/04"],
+    "my_completed_date": "",
+    "my_status": "ongoing",
+    "my_score": 5,
+    "note": null,
+    "has_article": false
+  }
+]
