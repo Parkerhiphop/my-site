@@ -19,7 +19,7 @@ const homeCopy = {
     statsTitle: '目前站上有',
     postsUnit: '篇文章',
     supportTitle: '喜歡這些文字嗎？',
-    webTitle: '我喜歡的區域',
+    areaTitle: '我喜歡的區域',
     webLinks: {
       database: {
         title: '作品資料庫',
@@ -52,7 +52,7 @@ const homeCopy = {
     aboutLink: '👉 More about me',
     primaryAction: 'Start with now',
     secondaryAction: 'Browse the database',
-    picksTitle: 'Parker Picks',
+    picksTitle: 'Recent Favorite Posts',
     timelineTitle: 'Timeline',
     statsTitle: 'On this site',
     postsUnit: 'posts',
@@ -60,7 +60,7 @@ const homeCopy = {
     supportLabel: 'Support',
     supportDescription: 'If something here kept you company, you can buy me a boba.',
     supportAction: 'Give me a Boba!',
-    webTitle: 'Favorite Areas',
+    areaTitle: 'Favorite Areas',
     webLinks: {
       database: {
         title: 'Works Database',
@@ -94,7 +94,7 @@ const homeCopy = {
     aboutLink: '👉 もっと詳しく',
     primaryAction: '近況から読む',
     secondaryAction: '作品データベースへ',
-    picksTitle: 'Parker Picks',
+    picksTitle: '最近好きな文章',
     timelineTitle: 'Timeline',
     statsTitle: 'このサイトには',
     postsUnit: 'posts',
@@ -103,7 +103,7 @@ const homeCopy = {
     supportDescription:
       '何かの考えるきっかけになったなら、Boba を一杯おごってもらえるとうれしいです。',
     supportAction: 'Boba を一杯おごる',
-    webTitle: '好きなエリア',
+    areaTitle: '好きなエリア',
     webLinks: {
       database: {
         title: '作品データベース',
@@ -132,13 +132,13 @@ const homeCopy = {
 };
 
 const categoryStyles = {
-  life: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800',
+  life: 'bg-emerald-50 text-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300 hover:bg-emerald-100 dark:hover:bg-emerald-900/70',
   review:
-    'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300 hover:bg-purple-200 dark:hover:bg-purple-800',
+    'bg-violet-50 text-violet-800 dark:bg-violet-950/60 dark:text-violet-300 hover:bg-violet-100 dark:hover:bg-violet-900/70',
   software:
-    'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800',
+    'bg-primary-50 text-primary-800 dark:bg-primary-950/70 dark:text-primary-300 hover:bg-primary-100 dark:hover:bg-primary-900/70',
   novel:
-    'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-800',
+    'bg-amber-50 text-amber-900 dark:bg-amber-950/60 dark:text-amber-300 hover:bg-amber-100 dark:hover:bg-amber-900/70',
 };
 
 const pinnedPostSlugs = ['ideal-life', 'fear-of-living-well', 'after-homelessness'];
@@ -274,7 +274,7 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
 
           <section className="space-y-4">
             <h2 className="text-xl font-bold text-gray-900 dark:text-gray-100 md:text-2xl">
-              {copy.webTitle}
+              {copy.areaTitle}
             </h2>
             <div className="md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-4">
               {webLinks.map((link) => (
@@ -297,7 +297,7 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
           <section className="space-y-4">
             <div className="space-y-4">
               <div className="max-w-2xl">
-                <h2 className="text-xl font-bold text-gray-900 dark:text-gray-100 md:text-2xl">
+                <h2 className="mt-1 text-xl font-bold text-gray-900 dark:text-gray-100 md:text-2xl">
                   {copy.picksTitle}
                 </h2>
               </div>

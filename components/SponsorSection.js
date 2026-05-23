@@ -58,7 +58,7 @@ const sponsorCopy = {
 export function BobaButton({ children }) {
   return (
     <a
-      className="inline-flex h-10 w-fit min-w-[164px] shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-xl border border-[#C4C4C4] bg-white px-4 py-2 text-sm font-semibold text-[#C07C62] no-underline backdrop-blur-[20px] transition hover:border-[#C07C62] hover:bg-[#FFF8F5] hover:text-[#A9654C] hover:no-underline dark:border-gray-600 dark:bg-gray-900 dark:text-[#E0A28B] dark:hover:border-[#E0A28B] dark:hover:bg-gray-800 dark:hover:text-[#F0B8A4]"
+      className="inline-flex h-10 w-fit min-w-[164px] shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-xl border border-accent-200 bg-white px-4 py-2 text-sm font-semibold text-accent-700 no-underline backdrop-blur-[20px] transition hover:border-accent-500 hover:bg-accent-50 hover:text-accent-800 hover:no-underline dark:border-accent-900 dark:bg-gray-900 dark:text-accent-300 dark:hover:border-accent-400 dark:hover:bg-accent-950/30 dark:hover:text-accent-200"
       href={bobaUrl}
       target="_blank"
       rel="noopener noreferrer"
@@ -78,8 +78,10 @@ export default function SponsorSection({ locale = 'zh-TW', variant = 'short' }) 
 
   if (variant === 'inline') {
     return (
-      <section className="rounded-lg border border-gray-200 p-4 dark:border-gray-700">
-        <p className="text-sm font-semibold uppercase text-primary-500">{copy.eyebrow}</p>
+      <section className="rounded-lg border border-accent-100 bg-accent-50/30 p-4 dark:border-accent-900/70 dark:bg-accent-950/10">
+        <p className="text-sm font-semibold uppercase text-accent-500 dark:text-accent-400">
+          {copy.eyebrow}
+        </p>
         <div className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-base leading-7 text-gray-600 dark:text-gray-400">
             {copy.shortDescription}
@@ -91,8 +93,10 @@ export default function SponsorSection({ locale = 'zh-TW', variant = 'short' }) 
   }
 
   return (
-    <section className="rounded-lg border border-gray-200 p-5 dark:border-gray-700">
-      <p className="text-sm font-semibold uppercase text-primary-500">{copy.eyebrow}</p>
+    <section className="rounded-lg border border-accent-100 bg-accent-50/30 p-5 dark:border-accent-900/70 dark:bg-accent-950/10">
+      <p className="text-sm font-semibold uppercase text-accent-500 dark:text-accent-400">
+        {copy.eyebrow}
+      </p>
       <h2 className="mt-3 text-2xl font-bold text-gray-900 dark:text-gray-100">
         {variant === 'full' ? copy.title : copy.shortTitle}
       </h2>
