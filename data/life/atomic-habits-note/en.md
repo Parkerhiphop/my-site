@@ -3,9 +3,8 @@ title: '"Atomic Habits" Full Book Notes'
 date: '2020-03-28'
 draft: false
 summary: Atomic Habits Reading Notes
+review-by-me: false
 ---
-
-> **Note:** This post is translated by AI. If you find any unnatural phrasing or errors, please feel free to contact me via email or other channels. Your feedback is appreciated!
 
 # Atomic Habits
 

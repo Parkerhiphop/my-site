@@ -1,66 +1,69 @@
 {
+  "review-by-me": false,
   "updatedAt": "2026-05-06",
   "updatedAtLabel": "Last updated",
-  "intro": "A snapshot of where I am right now, what I am practicing, and the bits of life snapshot.",
+  "intro": "A record of where I am right now, what I am practicing, and a few snapshots of life.",
   "databaseLink": "Works Database",
+  "databaseOngoingLink": "Watching now",
   "sections": [
     {
       "icon": "📍",
-      "title": "Where I Am",
+      "title": "Where I Am Now",
       "items": [
-        "I just received a contractor offer as a software engineer in Tokyo, so I ended my working-holiday life in Australia and Japan earlier than expected.",
-        "I want to build my own life in Tokyo: favorite shops, favorite corners, and favorite people."
+        "I just received a contractor offer as a software engineer in Tokyo, so I ended my working-holiday life in Australia and Japan earlier than planned.",
+        "I want to build my own circle of life in Tokyo: favorite shops, favorite corners, and favorite people."
       ]
     },
     {
       "icon": "💪",
       "title": "Recent Practices",
       "items": [
-        "Moving from pessimism toward optimism",
-        "Not getting anxious too early",
-        "Finding my exercise habit again",
-        "Raising my Japanese from everyday conversation to business level",
-        "Trying to design my life with Be Your Own Life Designer. I once used the idea of Atomic Habits to draw my own map.",
-        "Studying system design with Modern System Design Bootcamp",
-        "Trying to keep up with AI. Recently I have been thinking about Harnesses Engineering."
+        "No longer getting anxious ahead of time",
+        "Recovering a regular routine and exercise habit, and adjusting my eating habits",
+        "Improving my Japanese so I am less often troubled by not having enough Japanese",
+        "Modern System Design Bootcamp",
+        "Keeping up with AI developments: LLM, Harness, Agent"
       ]
     },
     {
       "icon": "🏁",
       "title": "Recent Achievements",
       "items": [
-        "Found a software engineering job in Tokyo as a contractor",
-        "Made quite a few friends in English at my share house",
-        "Got better at cooking for myself"
+        "Found a job in Tokyo",
+        "Made friends in a non-native language",
+        "Got better at cooking for myself (still not brave enough to cook for others)",
+        "Redesigned my personal website"
       ]
     },
     {
       "icon": "🧩",
       "title": "Recent Frustrations",
       "items": [
-        "Japanese",
-        "The regular routine I had during working holiday has fallen apart again",
-        "How to choose, trade off, and let go"
+        "Japanese and AI anxiety",
+        "The regular routine I built during working holiday has fallen apart again",
+        "It is too easy to spend too much time reading novels and manga"
       ]
     },
     {
       "icon": "💡",
       "title": "Recent Discoveries",
       "items": [
-        "The world is truly huge. Huge enough that I can always find people somewhere doing things similar to what I am doing. No one can really be that special, but it also means that even when I feel out of place, there must be a corner of the world that can hold me.",
-        "Having a Western face does not automatically mean someone is good at English. I have met people from Latin America and Europe whose English is also shaky. Even blond, blue-eyed people can get nervous speaking English like I do, though many of them are brave enough to ask questions and clarify things."
+        "The world is vast, vast enough that I can surely find people somewhere doing things similar to what I am doing. No one can really be that special, but that also means even if I feel out of place in my current environment, there must be some corner of the world where I can belong.",
+        "I have been away from the software industry for almost a year. The things I worried about and felt anxious over last year did not happen, or at least did not happen that quickly. I suffered more in my imagination than in reality. Following the trend means doing it for as long as I can, but I should not eliminate myself first."
       ]
     },
     {
       "icon": "✨",
       "title": "Recent Favorites",
       "items": [
-        "J-pop: Airi Suzuki, milet, Ryokuoushoku Shakai",
-        "Manga: Fujii on the Roadside, 100 Meters",
-        "Book: The Almanack of Naval Ravikant",
-        "Movie: Emergency Declaration"
+        "☀️ The comfortable weather right now: not too cold, not too hot, with sunlight falling down",
+        "😎 My redesigned personal website",
+        "🎵 J-Pop: The Story of Us (milet), Hitotarashi (Keisuke Kuwata), Salad Bowl (Aooo), illusion (Ryokuoushoku Shakai)",
+        "🎨 Manga: Fujii on the Roadside, 100 Meters",
+        "📺 Anime: Re:ZERO Season 4, Akane-banashi (the OP is amazing), Yomi no Tsugai",
+        "🎬 Movie: Last Breath"
       ],
-      "footer": "Other works I have finished"
+      "footer": ""
     }
   ]
 }

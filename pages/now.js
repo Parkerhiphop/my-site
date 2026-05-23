@@ -14,7 +14,7 @@ export default function Now({ availableLocales }) {
     intro: t('now:intro'),
     updatedAt: t('now:updatedAt'),
     updatedAtLabel: t('now:updatedAtLabel'),
-    databaseLink: t('now:databaseLink'),
+    databaseOngoingLink: t('now:databaseOngoingLink'),
     sections: t('now:sections', {}, { returnObjects: true }),
   };
 
@@ -30,7 +30,6 @@ export default function Now({ availableLocales }) {
           <h1>
             {siteMetadata.iconMap.now} {t('headerNavLinks:now')}
           </h1>
-          <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400">{nowContent.intro}</h2>
         </div>
         <div className="space-y-8 py-8">
           <p className="text-sm font-semibold uppercase tracking-wide text-primary-500">
@@ -58,14 +57,14 @@ export default function Now({ availableLocales }) {
                     </li>
                   ))}
                 </ul>
-                {section.footer && (
+                {section.footer !== undefined && (
                   <p className="mt-4 text-base leading-7 text-gray-600 dark:text-gray-400">
-                    {section.footer}{' '}
+                    {section.footer && `${section.footer} `}
                     <Link
-                      href="/database"
+                      href="/database?status=ongoing"
                       className="font-semibold text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                     >
-                      👉 {nowContent.databaseLink}
+                      👉 {nowContent.databaseOngoingLink}
                     </Link>
                   </p>
                 )}
