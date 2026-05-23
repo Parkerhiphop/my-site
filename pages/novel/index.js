@@ -12,13 +12,7 @@ export async function getStaticProps({ locale, locales }) {
   };
 }
 
-export default function Novel({
-  posts,
-  locale,
-  availableLocales,
-  initialDisplayPosts,
-  pagination,
-}) {
+export default function Novel({ posts, locale, availableLocales }) {
   const { t } = useTranslation();
 
   return (
@@ -30,8 +24,6 @@ export default function Novel({
       />
       <ListLayout
         posts={posts}
-        initialDisplayPosts={initialDisplayPosts}
-        pagination={pagination}
         type="novel"
         title={t('headerNavLinks:novel')}
         description={t('headerNavLinks:novel-description')}

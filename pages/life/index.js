@@ -12,7 +12,7 @@ export async function getStaticProps({ locale, locales }) {
   };
 }
 
-export default function Life({ posts, locale, availableLocales, initialDisplayPosts, pagination }) {
+export default function Life({ posts, locale, availableLocales }) {
   const { t } = useTranslation();
 
   return (
@@ -24,8 +24,6 @@ export default function Life({ posts, locale, availableLocales, initialDisplayPo
       />
       <ListLayout
         posts={posts}
-        initialDisplayPosts={initialDisplayPosts}
-        pagination={pagination}
         type="life"
         title={t('headerNavLinks:life')}
         description={t('headerNavLinks:life-description')}

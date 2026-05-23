@@ -12,13 +12,7 @@ export async function getStaticProps({ locale, locales }) {
   };
 }
 
-export default function Software({
-  posts,
-  locale,
-  availableLocales,
-  initialDisplayPosts,
-  pagination,
-}) {
+export default function Software({ posts, locale, availableLocales }) {
   const { t } = useTranslation();
 
   return (
@@ -30,8 +24,6 @@ export default function Software({
       />
       <ListLayout
         posts={posts}
-        initialDisplayPosts={initialDisplayPosts}
-        pagination={pagination}
         type="software"
         title={t('headerNavLinks:software')}
         description={t('headerNavLinks:software-description')}

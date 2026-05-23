@@ -1,21 +1,12 @@
 import Link from '@/components/Link';
 
 import { useState } from 'react';
-import Pagination from '@/components/Pagination';
 import formatDate from '@/lib/utils/formatDate';
 import useTranslation from 'next-translate/useTranslation';
 import { useRouter } from 'next/router';
 import siteMetadata from '@/data/siteMetadata';
 
-export default function ListLayout({
-  type,
-  posts,
-  title,
-  description,
-  filters = [],
-  initialDisplayPosts = [],
-  pagination,
-}) {
+export default function ListLayout({ type, posts, title, description, filters = [] }) {
   const [searchValue, setSearchValue] = useState('');
   const [activeFilter, setActiveFilter] = useState('all');
 
@@ -33,12 +24,6 @@ export default function ListLayout({
 
   const { t } = useTranslation();
   const { locale } = useRouter();
-
-  // If initialDisplayPosts exist, display it if no searchValue is specified
-  const displayPosts =
-    initialDisplayPosts.length > 0 && !searchValue && activeFilter === 'all'
-      ? initialDisplayPosts
-      : filteredBlogPosts;
 
   return (
     <>
@@ -95,7 +80,7 @@ export default function ListLayout({
         </div>
         <ul className="md:mt-5 md:pt-5">
           {!filteredBlogPosts.length && <p className="text-6xl">🚧</p>}
-          {displayPosts.map((frontMatter) => {
+          {filteredBlogPosts.map((frontMatter) => {
             const { slug, date, title, summary, description, category } = frontMatter;
             return (
               <li key={slug} className="py-6">
@@ -127,9 +112,6 @@ export default function ListLayout({
           })}
         </ul>
       </div>
-      {pagination && pagination.totalPages > 1 && !searchValue && activeFilter === 'all' && (
-        <Pagination currentPage={pagination.currentPage} totalPages={pagination.totalPages} />
-      )}
     </>
   );
 }
