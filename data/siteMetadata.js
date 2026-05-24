@@ -20,8 +20,8 @@ const siteMetadata = {
   linkedin: 'https://www.linkedin.com/in/cheng-yi-chang-19b148176/',
   rss: {
     'zh-TW': 'https://www.parkerchang.life/feed.xml',
-    en: 'https://www.parkerchang.life/feed.ja.xml',
-    ja: 'https://www.parkerchang.life/feed.en.xml',
+    en: 'https://www.parkerchang.life/feed.en.xml',
+    ja: 'https://www.parkerchang.life/feed.ja.xml',
   },
   locale: 'zh-TW',
   analytics: {
