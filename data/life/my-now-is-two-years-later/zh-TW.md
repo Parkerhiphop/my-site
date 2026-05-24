@@ -3,6 +3,7 @@ title: 我的 Now 是兩年後
 date: '2026-05-23'
 draft: false
 summary: 拖了兩年才做的近況頁面，為什麼是現在，以及歡迎大家一起來做近況頁面！
+coverCaption: 這是兩年前說自己要做 now page 的那天（2024/10/14），結果一晃眼就 2026 了。
 ---
 
 我的 [近況 / Now 頁面](/now)，最早 2024 年就有跟 [leafwind](https://midori.land/)、[Kalan](https://blog.kalan.dev/now/) 和 [Ya Xuan](https://yaxuanhe.me/about/) 聊到，結果兩年後才做。

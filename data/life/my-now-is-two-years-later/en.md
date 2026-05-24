@@ -3,6 +3,7 @@ title: My Now Is Two Years Later
 date: '2026-05-23'
 draft: false
 summary: 'A Now page I finally made after putting it off for two years: why now, and an invitation for everyone to make one too.'
+coverCaption: This was the day two years ago when I said I was going to make a Now page (2024/10/14). Then I blinked, and it was already 2026.
 review-by-me: false
 ---
 
