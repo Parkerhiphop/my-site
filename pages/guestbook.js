@@ -7,31 +7,27 @@ import siteMetadata from '@/data/siteMetadata';
 const guestbookCopy = {
   'zh-TW': {
     title: '簽名板',
-    intro: '我一直都很喜歡旅館或是咖啡廳裡的簽名板，這裡也放一個，歡迎你在這裡留下你的足跡！',
+    intro: '來簽到！',
     notes: [
-      '可以留一句讀後感、近況、推薦給我的作品，或單純說聲你好。',
-      '歡迎貼上你的網站、部落格、作品集，讓我順著連結去拜訪。',
+      '可以單純簽到，也可以分享對我網站的想法、你的近況，推薦作品，也歡迎貼上你的網站、Substack 讓我去拜訪！',
       '留言會公開顯示，私人訊息可以用 Email 或其他社群聯絡我。',
     ],
     commentTitle: '留下你的足跡',
   },
   en: {
     title: 'Guestbook',
-    intro:
-      'I always loved the guestbooks in hostels or coffee shops, so here is one for you to leave your mark!',
+    intro: 'Come sign in!',
     notes: [
-      'Leave a thought, a life update, a recommendation, or just a simple hello.',
-      'You are welcome to share your website, blog, or portfolio so I can visit back.',
+      'You can simply sign in, share what you think of my site, tell me how you are doing, recommend something, or leave your website or Substack so I can visit!',
       'Comments are public, so private messages are still better sent by email or socials.',
     ],
     commentTitle: 'Leave your trace',
   },
   ja: {
     title: 'ゲストブック',
-    intro: '私はいつも宿題や喫茶店のゲストブックが好きでした。ここにもあなたが残すためのものです！',
+    intro: 'よかったら記帳していってください！',
     notes: [
-      '感想、近況、おすすめ作品、または一言の挨拶だけでも大歓迎です。',
-      'あなたのサイト、ブログ、ポートフォリオもぜひ残してください。あとで訪ねに行きます。',
+      '記帳だけでも、サイトの感想や近況、おすすめ作品の共有でも大歓迎です。あなたのサイトやSubstackもぜひ残してください。あとで遊びに行きます！',
       'コメントは公開されるため、個人的な内容はメールやSNSで送ってください。',
     ],
     commentTitle: '足跡を残す',
