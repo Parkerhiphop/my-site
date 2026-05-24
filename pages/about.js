@@ -5,7 +5,7 @@ import useTranslation from 'next-translate/useTranslation';
 const DEFAULT_LAYOUT = 'AuthorLayout';
 
 export async function getStaticProps({ locale, locales }) {
-  const authorDetails = await getFileBySlug('authors', [`me`], locale);
+  const authorDetails = await getFileBySlug('about-me', '', locale);
   return { props: { authorDetails, availableLocales: locales } };
 }
 

@@ -21,11 +21,19 @@ At first I wanted to write technical articles and reading notes, but I ended up 
 
 I used to [worry too much about writing](/en/life/my-struggle-of-writing), but as I wrote more and more regularly, writing slowly became part of my life. Receiving feedback from readers also gave me more motivation. Thank you to everyone who has ever shared thoughts with me: people from Crazy Writing, Twitter meetups, Substack comments and other platforms, and readers or friends who wrote to me directly.
 
+You can subscribe to the [RSS feed](/feed.en.xml) to get updates on new posts under [life](/life).
+
 ## Background
 
 I am a software engineer who switched careers from philosophy. You can read more about that journey in [Reviewing My First Three Years as a Software Engineer](/en/software/my-first-three-year-in-code).
 
-In 2025, after hitting a wall in Taiwan, I went to Australia and Japan on working holiday. I once gave up on being a software engineer, but later realized I might simply have needed to step away from my environment and rest. I decided to try again in Japan, while still actively exploring different possibilities.
+In 2025, after hitting a wall in Taiwan, I quit without a backup plan and took working holidays in Australia and Japan.
+
+I had once considered giving up on being a software engineer, but later realized I might simply have needed to step away and give myself some rest.
+
+Once the anxiety and panic subsided, I was able to assess the situation more clearly. I came to see that while AI is having a tremendous impact, humans are still very much needed in the loop. After researching the job market in Japan, I found there were plenty of opportunities, along with a higher salary ceiling.
+
+I decided to give it another shot in Japan, while continuing to actively explore different possibilities.
 
 I was born in Taipei, Taiwan, but I do not really have a home in Taiwan. I wrote about my thoughts on home in [After Becoming Homeless](/en/life/after-homelessness).
 
@@ -44,9 +52,12 @@ I was born in Taipei, Taiwan, but I do not really have a home in Taiwan. I wrote
 5. Pain is not necessary. I need to practice telling which hardships are not worth enduring.
 6. Gratitude for everyone who keeps society running.
 7. Wealth does not bring happiness, but it can bring room to breathe.
-8. The way to protect yourself is to know their methods first. "If corrupt officials are cunning, honest officials must be even more cunning." (Hail the Judge)
-9. Nothing I have should ever be taken for granted. Being able to gain something through effort alone is a privilege.
-10. It is never too late. "The best time to plant a tree was ten years ago. The second-best time is now."
+8. Comparison is the thief of joy.
+9. Experiences usually bring more satisfaction than material things.
+10. People are the ones who make things complicated. Truly capable people can always find a way to make things simple.
+11. The way to protect yourself is to know their methods first. "If corrupt officials are cunning, honest officials must be even more cunning." (Hail the Judge)
+12. Nothing I have should ever be taken for granted. Being able to gain something through effort alone is a privilege.
+13. It is never too late. "The best time to plant a tree was ten years ago. The second-best time is now."
 
 ## About Support
 
