@@ -803,5 +803,15 @@
     "zh": "Zexcs",
     "ja": "Zexcs",
     "en": "Zexcs"
+  },
+  "webtoon": {
+    "zh": "LINE WEBTOON",
+    "ja": "LINEマンガ",
+    "en": "WEBTOON"
+  },
+  "line_digital_frontier": {
+    "zh": "LINE Digital Frontier",
+    "ja": "LINE Digital Frontier",
+    "en": "LINE Digital Frontier"
   }
 }

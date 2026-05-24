@@ -262,5 +262,1980 @@
     "my_score": 5,
     "note": null,
     "has_article": false
+  },
+  {
+    "key": "hero-killer",
+    "title": {
+      "zh": "英雄殺手",
+      "ja": "ヒーローキラー",
+      "en": "Hero Killer"
+    },
+    "creator": {
+      "zh": "Kkulbeol / Beolkkul",
+      "ja": "Kkulbeol / Beolkkul",
+      "en": "Kkulbeol / Beolkkul"
+    },
+    "form": "manga",
+    "genres": ["action", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/02"],
+    "my_completed_date": "2026/05/23",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "sera",
+    "title": {
+      "zh": "暴走少女具世拉",
+      "ja": "暴走少女具世拉",
+      "en": "Sera"
+    },
+    "creator": {
+      "zh": "SEUNG / Han Gi Ppeum",
+      "ja": "SEUNG / Han Gi Ppeum",
+      "en": "SEUNG / Han Gi Ppeum"
+    },
+    "form": "manga",
+    "genres": ["comedy", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2025"],
+    "my_completed_date": "2026/05/23",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "manager-kim",
+    "title": {
+      "zh": "金部長",
+      "ja": "김부장",
+      "en": "Manager Kim"
+    },
+    "creator": {
+      "zh": "泰俊漫畫工作室 / 鄭宗澤",
+      "ja": "泰俊漫畫工作室 / 鄭宗澤",
+      "en": "泰俊漫畫工作室 / 鄭宗澤"
+    },
+    "form": "manga",
+    "genres": ["action", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/10"],
+    "my_completed_date": "2026/05/23",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-peenky-promise",
+    "title": {
+      "zh": "課金派戀愛",
+      "ja": "課金派恋愛",
+      "en": "The Peenky Promise"
+    },
+    "creator": {
+      "zh": "HOM",
+      "ja": "HOM",
+      "en": "HOM"
+    },
+    "form": "manga",
+    "genres": ["romance", "comedy", "sci-fi"],
+    "publisher": "webtoon",
+    "release_dates": ["2026/02"],
+    "my_completed_date": "2026/05/23",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-player-hides-his-past",
+    "title": {
+      "zh": "隱藏過去的玩家",
+      "ja": "プレイヤーが過去を隠す",
+      "en": "The Player Hides His Past"
+    },
+    "creator": {
+      "zh": "KIM JIN / Gaechaban",
+      "ja": "KIM JIN / Gaechaban",
+      "en": "KIM JIN / Gaechaban"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2024"],
+    "my_completed_date": "2026/05/23",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "killer-peter",
+    "title": {
+      "zh": "殺手彼得",
+      "ja": "キラーピーター",
+      "en": "Killer Peter"
+    },
+    "creator": {
+      "zh": "金正賢 / Lim Lina",
+      "ja": "金正賢 / Lim Lina",
+      "en": "金正賢 / Lim Lina"
+    },
+    "form": "manga",
+    "genres": ["action", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2023/09"],
+    "my_completed_date": "2026/05/22",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-superhuman-era",
+    "title": {
+      "zh": "超人時代",
+      "ja": "超人時代",
+      "en": "The Superhuman Era"
+    },
+    "creator": {
+      "zh": "supp",
+      "ja": "supp",
+      "en": "supp"
+    },
+    "form": "manga",
+    "genres": ["action", "sci-fi"],
+    "publisher": "webtoon",
+    "release_dates": ["2019"],
+    "my_completed_date": "2026/05/22",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "lookism",
+    "title": {
+      "zh": "看臉時代",
+      "ja": "外見至上主義",
+      "en": "Lookism"
+    },
+    "creator": {
+      "zh": "泰俊",
+      "ja": "泰俊",
+      "en": "泰俊"
+    },
+    "form": "manga",
+    "genres": ["action", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2014/11"],
+    "my_completed_date": "2026/05/21",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "clevatess",
+    "title": {
+      "zh": "Clevatess - 魔獸之王與嬰兒與屍之勇者",
+      "ja": "クレバテス-魔獣の王と赤子と屍の勇者-",
+      "en": "Clevatess"
+    },
+    "creator": {
+      "zh": "岩原裕二",
+      "ja": "岩原裕二",
+      "en": "岩原裕二"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "line_digital_frontier",
+    "release_dates": ["2020/08"],
+    "my_completed_date": "2026/05/21",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-last-passage",
+    "title": {
+      "zh": "死者之書",
+      "ja": "死者之書",
+      "en": "The Last Passage"
+    },
+    "creator": {
+      "zh": "朗朵 / KIRO",
+      "ja": "朗朵 / KIRO",
+      "en": "朗朵 / KIRO"
+    },
+    "form": "manga",
+    "genres": ["fantasy", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2024"],
+    "my_completed_date": "2026/05/21",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "apocalypse-in-seoul",
+    "title": {
+      "zh": "首爾末日危機",
+      "ja": "首爾末日危機",
+      "en": "Apocalypse in Seoul"
+    },
+    "creator": {
+      "zh": "park chang geun",
+      "ja": "park chang geun",
+      "en": "park chang geun"
+    },
+    "form": "manga",
+    "genres": ["thriller", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2022"],
+    "my_completed_date": "2026/05/21",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "tower-of-god-urek-mazino",
+    "title": {
+      "zh": "神之塔外傳：烏雷克·馬奇努",
+      "ja": "神之塔 外伝：ウレック・マジノ",
+      "en": "Tower of God: Urek Mazino"
+    },
+    "creator": {
+      "zh": "SIU",
+      "ja": "SIU",
+      "en": "SIU"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2024"],
+    "my_completed_date": "2026/05/21",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "mercenary-enrollment",
+    "title": {
+      "zh": "入學傭兵",
+      "ja": "入学傭兵",
+      "en": "Mercenary Enrollment"
+    },
+    "creator": {
+      "zh": "YC / rak hyun",
+      "ja": "YC / rak hyun",
+      "en": "YC / rak hyun"
+    },
+    "form": "manga",
+    "genres": ["action", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2020/11"],
+    "my_completed_date": "2026/05/20",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "unemployed-gye-baek-soon",
+    "title": {
+      "zh": "無業宅女吳夜",
+      "ja": "無職ニート、ケ・ベクスン",
+      "en": "Unemployed Gye Baek Soon"
+    },
+    "creator": {
+      "zh": "Z VAL",
+      "ja": "Z VAL",
+      "en": "Z VAL"
+    },
+    "form": "manga",
+    "genres": ["comedy", "series", "slice-of-life"],
+    "publisher": "webtoon",
+    "release_dates": ["2023/06"],
+    "my_completed_date": "2026/05/20",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "plagiarism-suspicion",
+    "title": {
+      "zh": "抄襲疑雲",
+      "ja": "剽窃疑惑",
+      "en": "Plagiarism Suspicion"
+    },
+    "creator": {
+      "zh": "金坎比 / 黃英璨",
+      "ja": "金坎比 / 黃英璨",
+      "en": "金坎比 / 黃英璨"
+    },
+    "form": "manga",
+    "genres": ["mystery", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2024"],
+    "my_completed_date": "2026/05/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-knight-only-lives-today",
+    "title": {
+      "zh": "今日騎士",
+      "ja": "今日だけを生きる騎士",
+      "en": "The Knight Only Lives Today"
+    },
+    "creator": {
+      "zh": "SOULPUNG / Lee hyunmin",
+      "ja": "SOULPUNG / Lee hyunmin",
+      "en": "SOULPUNG / Lee hyunmin"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2024/05"],
+    "my_completed_date": "2026/05/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-world-after-the-fall",
+    "title": {
+      "zh": "滅亡後的世界",
+      "ja": "滅亡後の世界",
+      "en": "The World After the Fall"
+    },
+    "creator": {
+      "zh": "Undead Gamja / S-Cynan",
+      "ja": "Undead Gamja / S-Cynan",
+      "en": "Undead Gamja / S-Cynan"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2022/02"],
+    "my_completed_date": "2026/05/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "baek-xx",
+    "title": {
+      "zh": "白XX",
+      "ja": "白XX",
+      "en": "Baek XX"
+    },
+    "creator": {
+      "zh": "泰俊漫畫工作室 / SGT",
+      "ja": "泰俊漫畫工作室 / SGT",
+      "en": "泰俊漫畫工作室 / SGT"
+    },
+    "form": "manga",
+    "genres": ["action", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2023/01"],
+    "my_completed_date": "2026/05/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "return-of-the-blossoming-blade",
+    "title": {
+      "zh": "劍尊歸來",
+      "ja": "華山帰還",
+      "en": "Return of the Blossoming Blade"
+    },
+    "creator": {
+      "zh": "ARCHE / LICO",
+      "ja": "ARCHE / LICO",
+      "en": "ARCHE / LICO"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/03"],
+    "my_completed_date": "2026/05/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "get-schooled",
+    "title": {
+      "zh": "極權教師",
+      "ja": "真なる男",
+      "en": "Get Schooled"
+    },
+    "creator": {
+      "zh": "蔡溶宅 / GARAM",
+      "ja": "蔡溶宅 / GARAM",
+      "en": "蔡溶宅 / GARAM"
+    },
+    "form": "manga",
+    "genres": ["action", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2020/11"],
+    "my_completed_date": "2026/05/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-greatest-estate-developer",
+    "title": {
+      "zh": "史詩級領地設計師",
+      "ja": "史上最高の領地設計士",
+      "en": "The Greatest Estate Developer"
+    },
+    "creator": {
+      "zh": "Lee hyunmin / Kim Hyunsoo",
+      "ja": "Lee hyunmin / Kim Hyunsoo",
+      "en": "Lee hyunmin / Kim Hyunsoo"
+    },
+    "form": "manga",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/08"],
+    "my_completed_date": "2026/05/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "black-box",
+    "title": {
+      "zh": "黑盒子",
+      "ja": "ブラックボックス",
+      "en": "Black Box"
+    },
+    "creator": {
+      "zh": "Pony",
+      "ja": "Pony",
+      "en": "Pony"
+    },
+    "form": "manga",
+    "genres": ["mystery", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2025"],
+    "my_completed_date": "2026/05/18",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-crown-prince-that-sells-medicine",
+    "title": {
+      "zh": "賣藥的皇太子",
+      "ja": "薬売りの皇太子",
+      "en": "The Crown Prince That Sells Medicine"
+    },
+    "creator": {
+      "zh": "kangho HA / Dadang",
+      "ja": "kangho HA / Dadang",
+      "en": "kangho HA / Dadang"
+    },
+    "form": "manga",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2023"],
+    "my_completed_date": "2026/05/18",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "mist-prison",
+    "title": {
+      "zh": "迷霧監獄",
+      "ja": "霧の監獄",
+      "en": "Mist Prison"
+    },
+    "creator": {
+      "zh": "POGO",
+      "ja": "POGO",
+      "en": "POGO"
+    },
+    "form": "manga",
+    "genres": ["mystery", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2025"],
+    "my_completed_date": "2026/05/18",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "restricted-area-management-department",
+    "title": {
+      "zh": "禁區管理部",
+      "ja": "禁区管理部",
+      "en": "Restricted Area Management Department"
+    },
+    "creator": {
+      "zh": "Tan",
+      "ja": "Tan",
+      "en": "Tan"
+    },
+    "form": "manga",
+    "genres": ["mystery", "sci-fi", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2025"],
+    "my_completed_date": "2026/05/17",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "omniscient-reader",
+    "title": {
+      "zh": "全知讀者視角",
+      "ja": "全知的な読者の視点から",
+      "en": "Omniscient Reader"
+    },
+    "creator": {
+      "zh": "UMI / Sleepy-C",
+      "ja": "UMI / Sleepy-C",
+      "en": "UMI / Sleepy-C"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2020/05"],
+    "my_completed_date": "2026/05/10",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "return-of-the-mad-demon",
+    "title": {
+      "zh": "狂魔重生記",
+      "ja": "狂魔回帰",
+      "en": "Return of the Mad Demon"
+    },
+    "creator": {
+      "zh": "JP / Yu jin sung",
+      "ja": "JP / Yu jin sung",
+      "en": "JP / Yu jin sung"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "historical"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/07"],
+    "my_completed_date": "2026/05/01",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "heavenly-demon-cultivation-simulation",
+    "title": {
+      "zh": "魔教教主戰戰兢兢",
+      "ja": "魔教教主の慎重生活",
+      "en": "Heavenly Demon Cultivation Simulation"
+    },
+    "creator": {
+      "zh": "Nabong / SongSil",
+      "ja": "Nabong / SongSil",
+      "en": "Nabong / SongSil"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2022"],
+    "my_completed_date": "2026/03/15",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "hell-creator",
+    "title": {
+      "zh": "地獄創造者",
+      "ja": "地獄創造者",
+      "en": "Hell Creator"
+    },
+    "creator": {
+      "zh": "奈落 / YOUNG GI",
+      "ja": "奈落 / YOUNG GI",
+      "en": "奈落 / YOUNG GI"
+    },
+    "form": "manga",
+    "genres": ["fantasy", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2024"],
+    "my_completed_date": "2026/02/17",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "grandpa-warrior-and-supreme-granddaughter",
+    "title": {
+      "zh": "爺爺武士與至尊孫女",
+      "ja": "爺爺武士與至尊孫女",
+      "en": "Grandpa Warrior and Supreme Granddaughter"
+    },
+    "creator": {
+      "zh": "Kim Myunghyun / IRON Shin",
+      "ja": "Kim Myunghyun / IRON Shin",
+      "en": "Kim Myunghyun / IRON Shin"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2024"],
+    "my_completed_date": "2025/12/11",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "body-scout",
+    "title": {
+      "zh": "體探者",
+      "ja": "体探者",
+      "en": "Body Scout"
+    },
+    "creator": {
+      "zh": "SGT / haesoung",
+      "ja": "SGT / haesoung",
+      "en": "SGT / haesoung"
+    },
+    "form": "manga",
+    "genres": ["action", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2025"],
+    "my_completed_date": "2025/10/13",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "shelter-of-the-apocalypse",
+    "title": {
+      "zh": "末日的藏身之處",
+      "ja": "終末の隠れ家",
+      "en": "Shelter of the Apocalypse"
+    },
+    "creator": {
+      "zh": "DD / Double_S",
+      "ja": "DD / Double_S",
+      "en": "DD / Double_S"
+    },
+    "form": "manga",
+    "genres": ["series", "sci-fi", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2025"],
+    "my_completed_date": "2025/09/02",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "questism",
+    "title": {
+      "zh": "任務至上主義",
+      "ja": "クエスト至上主義",
+      "en": "Questism"
+    },
+    "creator": {
+      "zh": "泰俊漫畫工作室",
+      "ja": "泰俊漫畫工作室",
+      "en": "泰俊漫畫工作室"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/10"],
+    "my_completed_date": "2025/06/02",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "loser-life-2",
+    "title": {
+      "zh": "囧途人生2",
+      "ja": "人生崩壊2",
+      "en": "Loser Life 2"
+    },
+    "creator": {
+      "zh": "泰俊漫畫工作室 / Peanut",
+      "ja": "泰俊漫畫工作室 / Peanut",
+      "en": "泰俊漫畫工作室 / Peanut"
+    },
+    "form": "manga",
+    "genres": ["comedy", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2024"],
+    "my_completed_date": "2025/03/27",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "tower-of-god",
+    "title": {
+      "zh": "神之塔",
+      "ja": "神之塔",
+      "en": "Tower of God"
+    },
+    "creator": {
+      "zh": "SIU",
+      "ja": "SIU",
+      "en": "SIU"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2010/06"],
+    "my_completed_date": "2025/02/16",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "my-s-class-hunters",
+    "title": {
+      "zh": "我培育的S級們",
+      "ja": "俺が育てたS級たち",
+      "en": "My S-Class Hunters"
+    },
+    "creator": {
+      "zh": "biwan / seri",
+      "ja": "biwan / seri",
+      "en": "biwan / seri"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/11"],
+    "my_completed_date": "2025/02/14",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "juvenile-offender",
+    "title": {
+      "zh": "觸法少年",
+      "ja": "触法少年",
+      "en": "Juvenile Offender"
+    },
+    "creator": {
+      "zh": "泰俊漫畫工作室 / Man's story",
+      "ja": "泰俊漫畫工作室 / Man's story",
+      "en": "泰俊漫畫工作室 / Man's story"
+    },
+    "form": "manga",
+    "genres": ["action", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2023/04"],
+    "my_completed_date": "2025/01/03",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "returned-from-another-world-and-enlisted",
+    "title": {
+      "zh": "從異世界歸來後入伍當兵",
+      "ja": "異世界から帰って入隊しました",
+      "en": "Returned From Another World and Enlisted"
+    },
+    "creator": {
+      "zh": "hwanggeumbidulgi / Oh Comic",
+      "ja": "hwanggeumbidulgi / Oh Comic",
+      "en": "hwanggeumbidulgi / Oh Comic"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2022"],
+    "my_completed_date": "2024/05/04",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "viral-hit",
+    "title": {
+      "zh": "格鬥實況",
+      "ja": "喧嘩独学",
+      "en": "Viral Hit"
+    },
+    "creator": {
+      "zh": "泰俊 / 金正賢",
+      "ja": "泰俊 / 金正賢",
+      "en": "泰俊 / 金正賢"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2019/11"],
+    "my_completed_date": "2024/03/03",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "doom-breaker",
+    "title": {
+      "zh": "鬥神轉生記",
+      "ja": "闘神転生記",
+      "en": "Doom Breaker"
+    },
+    "creator": {
+      "zh": "Blue-Deep",
+      "ja": "Blue-Deep",
+      "en": "Blue-Deep"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/06"],
+    "my_completed_date": "2024/02/10",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "hive",
+    "title": {
+      "zh": "蟲穴",
+      "ja": "HIVE",
+      "en": "Hive"
+    },
+    "creator": {
+      "zh": "金圭森",
+      "ja": "金圭森",
+      "en": "金圭森"
+    },
+    "form": "manga",
+    "genres": ["action", "horror", "sci-fi"],
+    "publisher": "webtoon",
+    "release_dates": ["2014/01"],
+    "my_completed_date": "2023/12/01",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "youth-white-paper",
+    "title": {
+      "zh": "青春白卷",
+      "ja": "青春白書",
+      "en": "Youth White Paper"
+    },
+    "creator": {
+      "zh": "田善旭",
+      "ja": "田善旭",
+      "en": "田善旭"
+    },
+    "form": "manga",
+    "genres": ["series", "slice-of-life"],
+    "publisher": "webtoon",
+    "release_dates": ["2020"],
+    "my_completed_date": "2023/11/14",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "hardcore-leveling-warrior",
+    "title": {
+      "zh": "熱練戰士",
+      "ja": "熱練戦士",
+      "en": "Hardcore Leveling Warrior"
+    },
+    "creator": {
+      "zh": "金勢勳",
+      "ja": "金勢勳",
+      "en": "金勢勳"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2016/11"],
+    "my_completed_date": "2023/08/18",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "distant-sky",
+    "title": {
+      "zh": "深淵的天空",
+      "ja": "深淵の空",
+      "en": "Distant Sky"
+    },
+    "creator": {
+      "zh": "尹仁完 / 金善希",
+      "ja": "尹仁完 / 金善希",
+      "en": "尹仁完 / 金善希"
+    },
+    "form": "manga",
+    "genres": ["horror", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2014"],
+    "my_completed_date": "2023/08/18",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "money-game",
+    "title": {
+      "zh": "囧途貨幣",
+      "ja": "マネーゲーム",
+      "en": "Money Game"
+    },
+    "creator": {
+      "zh": "泰俊漫畫工作室",
+      "ja": "泰俊漫畫工作室",
+      "en": "泰俊漫畫工作室"
+    },
+    "form": "manga",
+    "genres": ["series", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2018/11"],
+    "my_completed_date": "2023/07/14",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "love-revolution",
+    "title": {
+      "zh": "戀愛革命",
+      "ja": "恋愛革命",
+      "en": "Love Revolution"
+    },
+    "creator": {
+      "zh": "232",
+      "ja": "232",
+      "en": "232"
+    },
+    "form": "manga",
+    "genres": ["comedy", "romance", "slice-of-life"],
+    "publisher": "webtoon",
+    "release_dates": ["2013/09"],
+    "my_completed_date": "2023/07/05",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-god-of-high-school",
+    "title": {
+      "zh": "高校之神",
+      "ja": "ゴッド・オブ・ハイスクール",
+      "en": "The God of High School"
+    },
+    "creator": {
+      "zh": "朴溶濟",
+      "ja": "朴溶濟",
+      "en": "朴溶濟"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2011/04"],
+    "my_completed_date": "2023/05/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "naras-list",
+    "title": {
+      "zh": "娜羅的名單",
+      "ja": "ナラのリスト",
+      "en": "Nara's List"
+    },
+    "creator": {
+      "zh": "閔宋雅",
+      "ja": "閔宋雅",
+      "en": "閔宋雅"
+    },
+    "form": "manga",
+    "genres": ["series", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2015"],
+    "my_completed_date": "2023/05/18",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "tales-of-the-unusual-shop",
+    "title": {
+      "zh": "怪奇商行",
+      "ja": "怪奇商行",
+      "en": "Tales of the Unusual Shop"
+    },
+    "creator": {
+      "zh": "Bom Sohee / 金善希",
+      "ja": "Bom Sohee / 金善希",
+      "en": "Bom Sohee / 金善希"
+    },
+    "form": "manga",
+    "genres": ["horror", "mystery", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2020"],
+    "my_completed_date": "2023/04/21",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "terror-vs-revival",
+    "title": {
+      "zh": "恐怖份子 vs 復活男",
+      "ja": "テラー対リバイバル",
+      "en": "Terror vs Revival"
+    },
+    "creator": {
+      "zh": "韓東圩 / 高鎭浩",
+      "ja": "韓東圩 / 高鎭浩",
+      "en": "韓東圩 / 高鎭浩"
+    },
+    "form": "manga",
+    "genres": ["action", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2020"],
+    "my_completed_date": "2023/02/17",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "loser-life",
+    "title": {
+      "zh": "囧途人生",
+      "ja": "人生崩壊",
+      "en": "Loser Life"
+    },
+    "creator": {
+      "zh": "泰俊 / 田善旭",
+      "ja": "泰俊 / 田善旭",
+      "en": "泰俊 / 田善旭"
+    },
+    "form": "manga",
+    "genres": ["comedy", "series"],
+    "publisher": "webtoon",
+    "release_dates": ["2019"],
+    "my_completed_date": "2023/01/27",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "vigilante",
+    "title": {
+      "zh": "非法正義",
+      "ja": "ヴィジランテ",
+      "en": "Vigilante"
+    },
+    "creator": {
+      "zh": "CRG / 金圭森",
+      "ja": "CRG / 金圭森",
+      "en": "CRG / 金圭森"
+    },
+    "form": "manga",
+    "genres": ["action", "series", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2018"],
+    "my_completed_date": "2023/01/13",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "island",
+    "title": {
+      "zh": "靈甲鬼修羅",
+      "ja": "アイランド",
+      "en": "Island"
+    },
+    "creator": {
+      "zh": "尹仁完 / 梁慶一",
+      "ja": "尹仁完 / 梁慶一",
+      "en": "尹仁完 / 梁慶一"
+    },
+    "form": "manga",
+    "genres": ["action", "horror", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["1997"],
+    "my_completed_date": "2022/12/23",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "island-part-2",
+    "title": {
+      "zh": "靈甲鬼修羅 - 避邪回歸",
+      "ja": "アイランド 第2部",
+      "en": "Island Part 2"
+    },
+    "creator": {
+      "zh": "尹仁完 / 梁慶一",
+      "ja": "尹仁完 / 梁慶一",
+      "en": "尹仁完 / 梁慶一"
+    },
+    "form": "manga",
+    "genres": ["action", "horror", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2016"],
+    "my_completed_date": "2022/12/23",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "return-of-the-blossoming-blade-season-1",
+    "title": {
+      "zh": "劍尊歸來 第一季",
+      "ja": "華山帰還 第1シーズン",
+      "en": "Return of the Blossoming Blade Season 1"
+    },
+    "creator": {
+      "zh": "BIGA / LICO",
+      "ja": "BIGA / LICO",
+      "en": "BIGA / LICO"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2021/03"],
+    "my_completed_date": "2022/09/25",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-golden-spoon",
+    "title": {
+      "zh": "金湯匙",
+      "ja": "金のさじ",
+      "en": "The Golden Spoon"
+    },
+    "creator": {
+      "zh": "HD3",
+      "ja": "HD3",
+      "en": "HD3"
+    },
+    "form": "manga",
+    "genres": ["series", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2016"],
+    "my_completed_date": "2022/09/16",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "tales-of-the-unusual",
+    "title": {
+      "zh": "奇奇怪怪",
+      "ja": "奇々怪々",
+      "en": "Tales of the Unusual"
+    },
+    "creator": {
+      "zh": "吳城垈",
+      "ja": "吳城垈",
+      "en": "吳城垈"
+    },
+    "form": "manga",
+    "genres": ["horror", "mystery", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2013"],
+    "my_completed_date": "2022/08/19",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "dice",
+    "title": {
+      "zh": "DICE-骰子",
+      "ja": "DICE",
+      "en": "DICE"
+    },
+    "creator": {
+      "zh": "尹炫晳",
+      "ja": "尹炫晳",
+      "en": "尹炫晳"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2013/05"],
+    "my_completed_date": "2022/06/13",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "my-id-is-gangnam-beauty",
+    "title": {
+      "zh": "我的ID是江南美人",
+      "ja": "私のIDはカンナム美人",
+      "en": "My ID Is Gangnam Beauty"
+    },
+    "creator": {
+      "zh": "淇萌琪",
+      "ja": "淇萌琪",
+      "en": "淇萌琪"
+    },
+    "form": "manga",
+    "genres": ["series", "romance"],
+    "publisher": "webtoon",
+    "release_dates": ["2016"],
+    "my_completed_date": "2022/03/11",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "w-manhwa",
+    "title": {
+      "zh": "W",
+      "ja": "W",
+      "en": "W"
+    },
+    "creator": {
+      "zh": "黃色書刊",
+      "ja": "黃色書刊",
+      "en": "黃色書刊"
+    },
+    "form": "manga",
+    "genres": ["series", "romance"],
+    "publisher": "webtoon",
+    "release_dates": ["2019"],
+    "my_completed_date": "2022/01/28",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "bloody-sweet",
+    "title": {
+      "zh": "血紅的白玫瑰",
+      "ja": "ブラッディ・スイート",
+      "en": "Bloody Sweet"
+    },
+    "creator": {
+      "zh": "Lim Lina",
+      "ja": "Lim Lina",
+      "en": "Lim Lina"
+    },
+    "form": "manga",
+    "genres": ["fantasy", "romance"],
+    "publisher": "webtoon",
+    "release_dates": ["2014"],
+    "my_completed_date": "2022/01/28",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "sweet-home",
+    "title": {
+      "zh": "SWEET HOME",
+      "ja": "Sweet Home",
+      "en": "Sweet Home"
+    },
+    "creator": {
+      "zh": "金坎比 / 黃英璨",
+      "ja": "金坎比 / 黃英璨",
+      "en": "金坎比 / 黃英璨"
+    },
+    "form": "manga",
+    "genres": ["horror", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2017/10"],
+    "my_completed_date": "2021/12/09",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "noblesse",
+    "title": {
+      "zh": "大貴族",
+      "ja": "ノブレス",
+      "en": "Noblesse"
+    },
+    "creator": {
+      "zh": "孫齊晧 / 李光洙",
+      "ja": "孫齊晧 / 李光洙",
+      "en": "孫齊晧 / 李光洙"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2007/12"],
+    "my_completed_date": "2020/10/28",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "revival-man",
+    "title": {
+      "zh": "復活男",
+      "ja": "復活男",
+      "en": "Revival Man"
+    },
+    "creator": {
+      "zh": "蔡溶宅 / 金載瀚",
+      "ja": "蔡溶宅 / 金載瀚",
+      "en": "蔡溶宅 / 金載瀚"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2016"],
+    "my_completed_date": "2020/06/28",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "terror-man",
+    "title": {
+      "zh": "恐怖份子",
+      "ja": "テラーマン",
+      "en": "Terror Man"
+    },
+    "creator": {
+      "zh": "韓東圩 / 高鎭浩",
+      "ja": "韓東圩 / 高鎭浩",
+      "en": "韓東圩 / 高鎭浩"
+    },
+    "form": "manga",
+    "genres": ["action", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2016"],
+    "my_completed_date": "2020/05/25",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "neolithic-girl",
+    "title": {
+      "zh": "新石器女",
+      "ja": "新石器女",
+      "en": "Neolithic Girl"
+    },
+    "creator": {
+      "zh": "JAEAH / GARAM",
+      "ja": "JAEAH / GARAM",
+      "en": "JAEAH / GARAM"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2017"],
+    "my_completed_date": "2020/01/04",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "flower-boy-k-house",
+    "title": {
+      "zh": "花樣 K-HOUSE",
+      "ja": "花様 K-HOUSE",
+      "en": "Flower Boy K-HOUSE"
+    },
+    "creator": {
+      "zh": "泰俊",
+      "ja": "泰俊",
+      "en": "泰俊"
+    },
+    "form": "manga",
+    "genres": ["comedy", "romance"],
+    "publisher": "webtoon",
+    "release_dates": ["2014"],
+    "my_completed_date": "2019/12/14",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "blade-of-the-phantom-master",
+    "title": {
+      "zh": "新暗行御史",
+      "ja": "新暗行御史",
+      "en": "Blade of the Phantom Master"
+    },
+    "creator": {
+      "zh": "尹仁完 / 梁慶一",
+      "ja": "尹仁完 / 梁慶一",
+      "en": "尹仁完 / 梁慶一"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2001"],
+    "my_completed_date": "2019/11/12",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "melo-holic",
+    "title": {
+      "zh": "Melo Holic-致命戀情",
+      "ja": "メロホリック",
+      "en": "Melo Holic"
+    },
+    "creator": {
+      "zh": "aruani / 金坎比",
+      "ja": "aruani / 金坎比",
+      "en": "aruani / 金坎比"
+    },
+    "form": "manga",
+    "genres": ["mystery", "romance", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2010"],
+    "my_completed_date": "2019/03/13",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "my-wife-is-a-vampire",
+    "title": {
+      "zh": "嗜血賢妻",
+      "ja": "嗜血賢妻",
+      "en": "My Wife Is a Vampire"
+    },
+    "creator": {
+      "zh": "金李聯",
+      "ja": "金李聯",
+      "en": "金李聯"
+    },
+    "form": "manga",
+    "genres": ["comedy", "fantasy", "romance"],
+    "publisher": "webtoon",
+    "release_dates": ["2014"],
+    "my_completed_date": "2018/07/27",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "super-secret",
+    "title": {
+      "zh": "超級助手",
+      "ja": "スーパーシークレット",
+      "en": "Super Secret"
+    },
+    "creator": {
+      "zh": "IRON Shin",
+      "ja": "IRON Shin",
+      "en": "IRON Shin"
+    },
+    "form": "manga",
+    "genres": ["comedy", "fantasy", "romance"],
+    "publisher": "webtoon",
+    "release_dates": ["2015"],
+    "my_completed_date": "2018/02/13",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "friday-forbidden-tales",
+    "title": {
+      "zh": "禁日",
+      "ja": "禁曜日",
+      "en": "Friday: Forbidden Tales"
+    },
+    "creator": {
+      "zh": "裵眞秀",
+      "ja": "裵眞秀",
+      "en": "裵眞秀"
+    },
+    "form": "manga",
+    "genres": ["horror", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2013"],
+    "my_completed_date": "2018/01/11",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "hell-is-the-end",
+    "title": {
+      "zh": "地獄盡頭",
+      "ja": "地獄の果て",
+      "en": "Hell Is the End"
+    },
+    "creator": {
+      "zh": "朔",
+      "ja": "朔",
+      "en": "朔"
+    },
+    "form": "manga",
+    "genres": ["horror", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2015"],
+    "my_completed_date": "2018/01/05",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "about-time",
+    "title": {
+      "zh": "時間迴歸",
+      "ja": "時間回帰",
+      "en": "About Time"
+    },
+    "creator": {
+      "zh": "宋家 / 垠昭",
+      "ja": "宋家 / 垠昭",
+      "en": "宋家 / 垠昭"
+    },
+    "form": "manga",
+    "genres": ["series", "fantasy", "romance"],
+    "publisher": "webtoon",
+    "release_dates": ["2015"],
+    "my_completed_date": "2017/05/29",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "invisible-roommate",
+    "title": {
+      "zh": "隱形的同居者",
+      "ja": "見えない同居人",
+      "en": "Invisible Roommate"
+    },
+    "creator": {
+      "zh": "正瑞",
+      "ja": "正瑞",
+      "en": "正瑞"
+    },
+    "form": "manga",
+    "genres": ["series", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2015"],
+    "my_completed_date": "2017/05/28",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "bastard",
+    "title": {
+      "zh": "不肖子",
+      "ja": "バスタード",
+      "en": "Bastard"
+    },
+    "creator": {
+      "zh": "金坎比 / 黃英璨",
+      "ja": "金坎比 / 黃英璨",
+      "en": "金坎比 / 黃英璨"
+    },
+    "form": "manga",
+    "genres": ["horror", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2014/07"],
+    "my_completed_date": "2017/04/07",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-princess-never-sleeps",
+    "title": {
+      "zh": "公主徹夜未眠",
+      "ja": "眠らない姫",
+      "en": "The Princess Never Sleeps"
+    },
+    "creator": {
+      "zh": "Haga",
+      "ja": "Haga",
+      "en": "Haga"
+    },
+    "form": "manga",
+    "genres": ["fantasy", "romance"],
+    "publisher": "webtoon",
+    "release_dates": ["2014"],
+    "my_completed_date": "2017/02/28",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "flood",
+    "title": {
+      "zh": "泛濫",
+      "ja": "氾濫",
+      "en": "Flood"
+    },
+    "creator": {
+      "zh": "蜜蜂",
+      "ja": "蜜蜂",
+      "en": "蜜蜂"
+    },
+    "form": "manga",
+    "genres": ["series", "thriller"],
+    "publisher": "webtoon",
+    "release_dates": ["2014"],
+    "my_completed_date": "2016/05/22",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "about-death",
+    "title": {
+      "zh": "關於死亡",
+      "ja": "死について",
+      "en": "About Death"
+    },
+    "creator": {
+      "zh": "信喜 / 賢鎬",
+      "ja": "信喜 / 賢鎬",
+      "en": "信喜 / 賢鎬"
+    },
+    "form": "manga",
+    "genres": ["series", "fantasy"],
+    "publisher": "webtoon",
+    "release_dates": ["2012"],
+    "my_completed_date": "2014/12/07",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
   }
 ]
