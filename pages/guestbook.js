@@ -60,7 +60,7 @@ export default function Guestbook({ locale, availableLocales }) {
         </header>
 
         <section className="py-8">
-          <div className="grid gap-4 md:grid-cols-3">
+          <div className="grid gap-4">
             {copy.notes.map((note) => (
               <p
                 key={note}
