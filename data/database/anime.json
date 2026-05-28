@@ -17,7 +17,7 @@
     "release_dates": ["1999/10"],
     "my_completed_date": null,
     "my_status": "ongoing",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -42,7 +42,7 @@
     "release_dates": ["2026/04"],
     "my_completed_date": null,
     "my_status": "ongoing",
-    "my_score": null,
+    "my_score": 2,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -67,7 +67,7 @@
     "release_dates": ["2026/04"],
     "my_completed_date": null,
     "my_status": "ongoing",
-    "my_score": null,
+    "my_score": 3,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -3348,7 +3348,7 @@
     "release_dates": ["2016/04", "2020/07", "2021/01", "2024/10", "2025/02", "2026/04", "2026/08"],
     "my_completed_date": null,
     "my_status": "ongoing",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false
   },

@@ -39,7 +39,7 @@
     "release_dates": ["2024/12"],
     "my_completed_date": null,
     "my_status": "ongoing",
-    "my_score": null,
+    "my_score": 2,
     "note": null,
     "has_article": false
   },
@@ -104,7 +104,7 @@
     "publisher": "shueisha",
     "release_dates": ["2020/11/21"],
     "my_completed_date": null,
-    "my_status": "ongoing",
+    "my_status": "on_hold",
     "my_score": 2,
     "note": null,
     "has_article": false

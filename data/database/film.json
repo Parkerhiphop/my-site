@@ -1107,17 +1107,17 @@
       "en": "Everything Everywhere All at Once"
     },
     "creator": {
-      "zh": "關家永、丹尼爾·舒奈特",
-      "ja": "ダニエル・クワン、ダニエル・シャイナート",
-      "en": "Daniel Kwan, Daniel Scheinert"
+      "zh": "關家永、丹尼爾·舒奈特、楊紫瓊、關繼威",
+      "ja": "ダニエル・クワン、ダニエル・シャイナート、ミシェル・ヨー、キー・ホイ・クァン",
+      "en": "Daniel Kwan, Daniel Scheinert、Michelle Yeoh, Jonathan Ke Huy Quan"
     },
     "form": "film",
     "genres": ["action", "comedy", "sci-fi"],
     "publisher": "a24",
     "release_dates": ["2022/03"],
-    "my_completed_date": null,
+    "my_completed_date": "2022/03",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -1140,9 +1140,9 @@
     "genres": ["adventure", "fantasy"],
     "publisher": "warner_bros",
     "release_dates": ["2016/11"],
-    "my_completed_date": null,
+    "my_completed_date": "2016/11",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 2,
     "note": null,
     "has_article": false,
     "data_review": {
