@@ -9,7 +9,7 @@ hideSponsor: true
 review-by-me: false
 ---
 
-こんにちは、Parker です。
+こんにちは、Parker です。最近私が何をしているか知りたい方は、[近況](/ja/now)をご覧ください！
 
 昔は Patrick と名乗っていましたが、スパイダーマンが好きだったので名前を変えました。
 

@@ -9,6 +9,7 @@ import anime from '@/data/database/anime.json';
 import film from '@/data/database/film.json';
 import manga from '@/data/database/manga.json';
 import maps from '@/data/database/maps.json';
+import databaseMetadata from '@/data/database/metadata.json';
 import novel from '@/data/database/novel.json';
 import publishers from '@/data/database/publishers.json';
 import series from '@/data/database/series.json';
@@ -69,10 +70,13 @@ const uiText = {
     ascending: '升冪',
     descending: '降冪',
     briefReview: '簡評',
+    alsoWatched: '也有看',
     filterToggle: '篩選',
     clearSelection: '清除選取',
+    clearSearch: '清除搜尋',
     itemCount: '目前收錄 {total} 筆資料',
     filteredItemCount: '顯示 {shown} / {total} 筆',
+    lastUpdated: '最後更新 {date}',
     upcomingRelease: '預定',
     rangeStart: '起',
     rangeEnd: '迄',
@@ -110,10 +114,13 @@ const uiText = {
     ascending: 'Ascending',
     descending: 'Descending',
     briefReview: 'Brief review',
+    alsoWatched: 'Also watched',
     filterToggle: 'Filters',
     clearSelection: 'Clear selection',
+    clearSearch: 'Clear search',
     itemCount: '{total} entries collected',
     filteredItemCount: 'Showing {shown} / {total}',
+    lastUpdated: 'Last updated {date}',
     upcomingRelease: 'Upcoming',
     rangeStart: 'From',
     rangeEnd: 'To',
@@ -151,10 +158,13 @@ const uiText = {
     ascending: '昇順',
     descending: '降順',
     briefReview: '短評',
+    alsoWatched: 'ほかに見たもの',
     filterToggle: '絞り込み',
     clearSelection: '選択を解除',
+    clearSearch: '検索をクリア',
     itemCount: '現在 {total} 件収録',
     filteredItemCount: '{shown} / {total} 件を表示',
+    lastUpdated: '最終更新 {date}',
     upcomingRelease: '予定',
     rangeStart: '開始',
     rangeEnd: '終了',
@@ -382,6 +392,15 @@ export default function Works({ locale, availableLocales }) {
     () => dateOptions(works.map((work) => work.my_completed_date)),
     []
   );
+  const relatedFormsByKey = useMemo(() => {
+    const relatedMap = new Map();
+    for (const work of works) {
+      if (!work.key) continue;
+      if (!relatedMap.has(work.key)) relatedMap.set(work.key, new Set());
+      relatedMap.get(work.key).add(work.form);
+    }
+    return relatedMap;
+  }, []);
   const totalCount = works.length;
   const isWatchingNowActive = filters.status.length === 1 && filters.status[0] === 'ongoing';
   const activeFilterCount = [
@@ -391,6 +410,7 @@ export default function Works({ locale, availableLocales }) {
     filters.genre.length,
     filters.releaseFrom || filters.releaseTo ? 1 : 0,
     filters.completedFrom || filters.completedTo ? 1 : 0,
+    filters.search.trim() ? 1 : 0,
   ].reduce((total, count) => total + count, 0);
 
   const filteredWorks = useMemo(() => {
@@ -514,8 +534,13 @@ export default function Works({ locale, availableLocales }) {
 
   function clearFilterSelection() {
     setExpandedId(null);
-    setFilters((current) => ({ ...initialFilters, search: current.search }));
+    setFilters(initialFilters);
     updateStatusQuery([]);
+  }
+
+  function clearSearch() {
+    setExpandedId(null);
+    setFilters((current) => ({ ...current, search: '' }));
   }
 
   function toggleStatus(status) {
@@ -686,6 +711,29 @@ export default function Works({ locale, availableLocales }) {
     );
   }
 
+  function renderRelatedForms(work) {
+    const relatedForms = [...(relatedFormsByKey.get(work.key) ?? [])].filter(
+      (form) => form !== work.form
+    );
+
+    if (!relatedForms.length) return null;
+
+    return (
+      <div className="flex flex-wrap gap-1.5">
+        {relatedForms.map((form) => (
+          <span
+            key={form}
+            className={`inline-flex rounded-full px-2.5 py-1 text-xs font-semibold ${
+              formTone[form] ?? 'bg-gray-100 text-gray-800'
+            }`}
+          >
+            {display(mapLabel('form', form, locale), text)}
+          </span>
+        ))}
+      </div>
+    );
+  }
+
   function renderWorkTitle(title, href, className, style = undefined) {
     const label = display(title, text);
 
@@ -711,11 +759,13 @@ export default function Works({ locale, availableLocales }) {
 
   function renderWorkDetails(work, publisher, status) {
     const upcomingDate = nextReleaseDate(work);
+    const relatedForms = renderRelatedForms(work);
 
     return (
       <dl className="grid gap-x-8 gap-y-4 sm:grid-cols-2">
         {[
           [text.columns.publisher, display(publisher, text)],
+          ...(relatedForms ? [[text.alsoWatched, relatedForms]] : []),
           [
             text.columns.release,
             <span className="inline-flex flex-wrap items-center gap-2" key="release">
@@ -830,6 +880,10 @@ export default function Works({ locale, availableLocales }) {
                 shown: filteredWorks.length,
                 total: totalCount,
               })}
+            </span>
+            <span className="hidden h-4 w-px bg-gray-300 dark:bg-gray-700 sm:inline-block" />
+            <span className="text-gray-500 dark:text-gray-400">
+              {formatCount(text.lastUpdated, { date: databaseMetadata.lastUpdated })}
             </span>
           </div>
           <div className="flex flex-col gap-2 sm:flex-row">
@@ -952,14 +1006,26 @@ export default function Works({ locale, availableLocales }) {
           </div>
           <label className="flex min-w-0 flex-col gap-1 text-xs font-semibold text-gray-500 dark:text-gray-400">
             {text.searchFields}
-            <input
-              aria-label={text.search}
-              type="text"
-              value={filters.search}
-              onChange={(event) => updateFilter('search', event.target.value)}
-              placeholder={text.search}
-              className="rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-normal text-gray-900 focus:border-primary-500 focus:ring-primary-500 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-100"
-            />
+            <span className="relative">
+              <input
+                aria-label={text.search}
+                type="text"
+                value={filters.search}
+                onChange={(event) => updateFilter('search', event.target.value)}
+                placeholder={text.search}
+                className="w-full rounded-md border border-gray-300 bg-white px-3 py-2 pr-10 text-sm font-normal text-gray-900 focus:border-primary-500 focus:ring-primary-500 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-100"
+              />
+              {filters.search && (
+                <button
+                  type="button"
+                  onClick={clearSearch}
+                  aria-label={text.clearSearch}
+                  className="absolute right-1.5 top-1/2 flex h-7 w-7 -translate-y-1/2 items-center justify-center rounded-full text-sm font-bold text-gray-400 transition hover:bg-gray-100 hover:text-gray-700 focus:bg-gray-100 focus:text-gray-700 focus:outline-none dark:hover:bg-gray-800 dark:hover:text-gray-200 dark:focus:bg-gray-800 dark:focus:text-gray-200"
+                >
+                  X
+                </button>
+              )}
+            </span>
           </label>
           <div className={`${filtersOpen ? 'grid' : 'hidden'} gap-3 md:grid-cols-2 lg:grid-cols-4`}>
             <div className="md:col-span-2">

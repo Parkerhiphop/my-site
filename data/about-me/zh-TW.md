@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/cheng-yi-chang-19b148176/
 hideSponsor: true
 ---
 
-嗨！我是 Parker！
+嗨！我是 Parker！想知道我最近在幹嘛可以參考 [近況](/now)！
 
 很久以前叫 Patrick，但因為喜歡蜘蛛人就改名了。
 

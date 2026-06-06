@@ -2150,31 +2150,6 @@
     }
   },
   {
-    "key": "made-in-abyss-journeys-dawn",
-    "title": {
-      "zh": "劇場版 來自深淵 啟程的黎明",
-      "ja": "メイドインアビス 旅立ちの夜明け",
-      "en": "Made in Abyss: Journey's Dawn"
-    },
-    "creator": {
-      "zh": null,
-      "ja": "つくしあきひと",
-      "en": "Akihito Tsukushi"
-    },
-    "form": "film",
-    "genres": ["adventure", "drama", "fantasy", "horror", "mystery", "sci-fi"],
-    "publisher": "kinema_citrus",
-    "release_dates": ["2019/01"],
-    "my_completed_date": "",
-    "my_status": "completed",
-    "my_score": null,
-    "note": null,
-    "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
-  },
-  {
     "key": "no-game-no-life-zero",
     "title": {
       "zh": "NO GAME NO LIFE 遊戲人生 ZERO",
@@ -2190,9 +2165,9 @@
     "genres": ["action", "adventure", "drama", "fantasy", "romance"],
     "publisher": "madhouse",
     "release_dates": ["2014/04", "2017/07"],
-    "my_completed_date": "",
+    "my_completed_date": "2018",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -3255,5 +3230,30 @@
     "my_score": 3,
     "note": "動畫的真人版電影，因為在 YouTube 上看到 MV 就跑來看完了，很喜歡。",
     "has_article": false
+  },
+  {
+    "key": "demolition",
+    "title": {
+      "zh": "崩壞人生",
+      "ja": "雨の日は会えない、晴れた日は君を想う",
+      "en": "Demolition"
+    },
+    "creator": {
+      "zh": "尚-馬克·瓦利",
+      "ja": "ジャン＝マルク・ヴァレ",
+      "en": "Jean-Marc Vallée"
+    },
+    "form": "film",
+    "genres": ["drama"],
+    "publisher": "searchlight_pictures",
+    "release_dates": ["2015/09"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "多倫多影展首映；美國院線 2016/04。",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
   }
 ]
