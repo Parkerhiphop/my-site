@@ -9,7 +9,7 @@ hideSponsor: true
 review-by-me: false
 ---
 
-Hi! I'm Parker. If you want to know what I've been up to lately, check out [now]](/en/now)!
+Hi! I'm Parker. If you want to know what I've been up to lately, check out [now](/en/now)!
 
 I used to go by Patrick a long time ago, but I changed it because I love Spider-Man.
 
