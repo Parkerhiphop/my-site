@@ -23,7 +23,8 @@ Planning is one thing, though. Most of the time I slept until I woke up naturall
 
 There were a few days when I managed to get into a good state, but most of the time I was just drifting around like that. I think the hardest thing for me is still recognizing the self I am in right now: right now I want to "relax," or right now I should "work." I also need to be clearer about what actually feels better for the current version of me. During my working holiday in Australia, I realized that not being able to touch my phone or computer, and having simple physical labor that left blank space in my mind, made me more at ease. Recently, my phone has been glued to me, and I keep finding things or opening apps to fill myself up. So I have decided to leave more blank space in my life. Maybe then I can spend time with myself more peacefully.
 
-That is the life update. What I actually wanted to share today is an old essay, written on 2022/08/26. A while ago, after watching The Return, I thought of this years-old essay related to stars.
+That is the life update. What I actually wanted to share today is an old essay, written on 2022/08/26. A while ago, after watching "Project Hail Mary", I thought of this years-old essay related to stars.
+
 Reading it again after almost four years feels a little embarrassing, but I still like it very much, so I decided to share it anyway. If I keep leaving it there, I will probably only feel even more embarrassed and even less willing to publish it.
 
 ## The Essay Begins

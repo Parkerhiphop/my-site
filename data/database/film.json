@@ -1,5 +1,30 @@
 [
   {
+    "key": "project-hail-mary",
+    "title": {
+      "zh": "極限返航",
+      "ja": "プロジェクト・ヘイル・メアリー",
+      "en": "Project Hail Mary"
+    },
+    "creator": {
+      "zh": "安迪·威爾、菲爾·洛德、克里斯多福·米勒",
+      "ja": "アンディ・ウィアー、フィル・ロード、クリストファー・ミラー",
+      "en": "Andy Weir, Phil Lord, Christopher Miller"
+    },
+    "form": "film",
+    "genres": ["adventure", "drama", "sci-fi"],
+    "publisher": "amazon_mgm_studios",
+    "release_dates": ["2026/03"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "改編自 Andy Weir 同名小說；美國由 Amazon MGM Studios 發行，國際由 Sony Pictures Releasing International 發行。",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
     "key": "kpop-demon-hunters",
     "title": {
       "zh": "KPop 獵魔女團",
