@@ -73,7 +73,11 @@ I originally thought the biggest challenge would be Japanese or technical abilit
 
 I also have almost zero interaction with my Japanese coworkers. Since joining, outside of meetings, I have barely spoken a few sentences with them. Only on the first day did we eat together.
 
-Even though in Taiwan I used to laugh and say, "Good coworkers at work, strangers after work," many of my good friends now are former coworkers, and many opportunities came from former coworkers introducing them to me. Here, there is an invisible wall between me and my coworkers. Even starting a conversation is difficult. Work feels quite oppressive. Outside meetings, I basically do not speak at all. I am grateful to a Twitter friend who introduced me to other Taiwanese people in the company, so I can speak Chinese at lunch and catch my breath, and also have friends to complain with.
+Even though in Taiwan I used to laugh and say, "Good coworkers at work, strangers after work," many of my good friends now are former coworkers, and many opportunities came from former coworkers introducing them to me.
+
+Here, there is an invisible wall between me and my coworkers. Even starting a conversation is difficult. Work feels quite oppressive. Outside meetings, I basically do not speak at all.
+
+I am grateful to a Twitter friend who introduced me to other Taiwanese people in the company, so I can speak Chinese at lunch and catch my breath, and also have friends to complain with.
 
 Maybe there has never been such a thing as a normal job or the way things should be. Constantly imagining what a company should look like and comparing it with reality may be where the pain begins.
 
