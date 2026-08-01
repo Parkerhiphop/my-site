@@ -33,6 +33,7 @@ const works = Object.entries(workCollections)
 const forms = ['anime', 'film', 'manga', 'novel', 'series'];
 const progressFilters = ['completed', 'ongoing', 'on_hold', 'dropped'];
 const scoreFilters = ['5', '3', '2', '1', 'unrated'];
+const defaultStatusFilter = ['ongoing'];
 const formTone = {
   anime: 'bg-indigo-100 text-indigo-800 dark:bg-indigo-200 dark:text-indigo-900',
   film: 'bg-rose-100 text-rose-800 dark:bg-rose-200 dark:text-rose-900',
@@ -48,7 +49,7 @@ const statusDotTone = {
 };
 const initialFilters = {
   form: [],
-  status: [],
+  status: defaultStatusFilter,
   score: [],
   genre: [],
   releaseFrom: '',
@@ -310,7 +311,8 @@ function compareNullable(a, b, direction) {
 
 function parseStatusQuery(statusQuery) {
   const statusValue = Array.isArray(statusQuery) ? statusQuery.join(',') : statusQuery;
-  if (!statusValue) return [];
+  if (!statusValue) return defaultStatusFilter;
+  if (statusValue === 'all') return [];
   return statusValue
     .split(',')
     .map((status) => status.trim())
@@ -380,7 +382,7 @@ export default function Works({ locale, availableLocales }) {
   const text = uiText[locale] ?? uiText['zh-TW'];
   const [expandedId, setExpandedId] = useState(null);
   const [filtersOpen, setFiltersOpen] = useState(false);
-  const [sort, setSort] = useState({ key: 'release', direction: 'desc' });
+  const [sort, setSort] = useState({ key: 'completed', direction: 'desc' });
   const [filters, setFilters] = useState(initialFilters);
 
   const genres = useMemo(() => Object.keys(maps.genre), []);
@@ -493,7 +495,7 @@ export default function Works({ locale, availableLocales }) {
     if (statuses.length) {
       nextQuery.status = statuses.join(',');
     } else {
-      delete nextQuery.status;
+      nextQuery.status = 'all';
     }
 
     router.replace({ pathname: router.pathname, query: nextQuery }, undefined, {
@@ -534,7 +536,7 @@ export default function Works({ locale, availableLocales }) {
 
   function clearFilterSelection() {
     setExpandedId(null);
-    setFilters(initialFilters);
+    setFilters({ ...initialFilters, status: [] });
     updateStatusQuery([]);
   }
 
@@ -872,20 +874,7 @@ export default function Works({ locale, availableLocales }) {
           <div
             className="inline-flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-gray-200 bg-gray-50 px-3.5 py-2 text-sm font-semibold text-gray-700 dark:border-gray-800 dark:bg-gray-900/50 dark:text-gray-200"
             aria-live="polite"
-          >
-            <span>{formatCount(text.itemCount, { total: totalCount })}</span>
-            <span className="hidden h-4 w-px bg-gray-300 dark:bg-gray-700 sm:inline-block" />
-            <span className="text-gray-500 dark:text-gray-400">
-              {formatCount(text.filteredItemCount, {
-                shown: filteredWorks.length,
-                total: totalCount,
-              })}
-            </span>
-            <span className="hidden h-4 w-px bg-gray-300 dark:bg-gray-700 sm:inline-block" />
-            <span className="text-gray-500 dark:text-gray-400">
-              {formatCount(text.lastUpdated, { date: databaseMetadata.lastUpdated })}
-            </span>
-          </div>
+          ></div>
           <div className="flex flex-col gap-2 sm:flex-row">
             <button
               type="button"
@@ -1054,8 +1043,16 @@ export default function Works({ locale, availableLocales }) {
               <span className="mr-1 text-xs font-semibold text-gray-500 dark:text-gray-400">
                 {text.sort}
               </span>
-              {renderSortButton('release', text.columns.sortRelease)}
               {renderSortButton('completed', text.columns.sortCompleted)}
+              {renderSortButton('release', text.columns.sortRelease)}
+              <span>
+                {formatCount(text.filteredItemCount, {
+                  shown: filteredWorks.length,
+                  total: totalCount,
+                })}
+              </span>
+              <span className="hidden h-4 w-px bg-gray-300 dark:bg-gray-700 sm:inline-block" />
+              <span>{formatCount(text.lastUpdated, { date: databaseMetadata.lastUpdated })}</span>
             </div>
             <button
               type="button"

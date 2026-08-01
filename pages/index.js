@@ -344,7 +344,14 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
               key={postByYear.year}
               className="border-t border-gray-200 pt-4 first:border-t-0 dark:border-gray-700 md:pt-8"
             >
-              <span className="text-2xl md:text-3xl text-primary-500">{postByYear.year}</span>
+              <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
+                <span className="text-2xl text-primary-500 md:text-3xl">{postByYear.year}</span>
+                {postByYear.posts.length > 0 && (
+                  <span className="text-sm font-medium text-gray-500 dark:text-gray-400">
+                    {postByYear.posts.length} {copy.postsUnit}
+                  </span>
+                )}
+              </div>
               <ul className=" border-l-4  border-primary-500 my-4 md:my-8 pl-4">
                 {postByYear.posts.map(({ category, slug, date, title, summary }) => (
                   <li key={slug} className="py-4">
