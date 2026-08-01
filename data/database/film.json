@@ -50,6 +50,31 @@
     }
   },
   {
+    "key": "cosmic-princess-kaguya",
+    "title": {
+      "zh": "超時空輝耀姬！",
+      "ja": "超かぐや姫！",
+      "en": "Cosmic Princess Kaguya!"
+    },
+    "creator": {
+      "zh": "山下清悟",
+      "ja": "山下清悟",
+      "en": "Shingo Yamashita"
+    },
+    "form": "film",
+    "genres": ["fantasy", "sci-fi"],
+    "publisher": "netflix",
+    "release_dates": ["2026/01"],
+    "my_completed_date": "2026/07",
+    "my_status": "completed",
+    "my_score": null,
+    "note": "Netflix 原創動畫電影；動畫制作為 Studio Colorido / Studio Chromato。",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
     "key": "the-fantastic-four-first-steps",
     "title": {
       "zh": "驚奇4超人：第一步",

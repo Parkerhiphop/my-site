@@ -256,6 +256,15 @@ function formatYearList(values, text) {
   return display(years.join(', '), text);
 }
 
+function formatDate(value, text) {
+  return display(value, text);
+}
+
+function formatDateList(values, text) {
+  const dates = [...new Set((values ?? []).filter(Boolean))];
+  return display(dates.join(', '), text);
+}
+
 function currentMonth() {
   const today = new Date();
   return Number(`${today.getFullYear()}${String(today.getMonth() + 1).padStart(2, '0')}`);
@@ -771,10 +780,10 @@ export default function Works({ locale, availableLocales }) {
           [
             text.columns.release,
             <span className="inline-flex flex-wrap items-center gap-2" key="release">
-              <span>{formatYearList(work.release_dates, text)}</span>
+              <span>{formatDateList(work.release_dates, text)}</span>
               {upcomingDate && (
                 <span className="rounded-full border border-sky-200 bg-sky-50 px-2 py-0.5 text-xs font-semibold text-sky-700 dark:border-sky-900 dark:bg-sky-950 dark:text-sky-200">
-                  {text.upcomingRelease} {formatYearDate(upcomingDate, text)}
+                  {text.upcomingRelease} {formatDate(upcomingDate, text)}
                 </span>
               )}
             </span>,
@@ -788,7 +797,7 @@ export default function Works({ locale, availableLocales }) {
               {display(status, text)}
             </span>,
           ],
-          [text.columns.completedDate, formatYearDate(work.my_completed_date, text)],
+          [text.columns.completedDate, formatDate(work.my_completed_date, text)],
           [text.briefReview, display(work.note, text)],
         ].map(([label, value]) => (
           <div key={label}>

@@ -574,6 +574,11 @@
     "ja": "Shochiku",
     "en": "Shochiku"
   },
+  "Shogakukan": {
+    "zh": "小學館",
+    "ja": "小学館",
+    "en": "Shogakukan"
+  },
   "shogakukan_shueisha_productions": {
     "zh": "Shogakukan Shueisha Productions",
     "ja": "Shogakukan Shueisha Productions",
@@ -813,5 +818,10 @@
     "zh": "LINE Digital Frontier",
     "ja": "LINE Digital Frontier",
     "en": "LINE Digital Frontier"
+  },
+  "asahi_production": {
+    "zh": "Asahi Production",
+    "ja": "旭プロダクション",
+    "en": "Asahi Production"
   }
 }

@@ -22,6 +22,31 @@
     "has_article": false
   },
   {
+    "key": "nippon-sangoku",
+    "title": {
+      "zh": "日本三國",
+      "ja": "日本三國",
+      "en": "Nippon Sangoku"
+    },
+    "creator": {
+      "zh": "松木いっか",
+      "ja": "松木いっか",
+      "en": "Ikka Matsuki"
+    },
+    "form": "manga",
+    "genres": ["sci-fi", "historical"],
+    "publisher": "Shogakukan",
+    "release_dates": ["2021/11"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
     "key": "drama-queen",
     "title": {
       "zh": "DRAMA QUEEN戲劇女王",
@@ -454,31 +479,6 @@
     "genres": ["action", "series"],
     "publisher": "webtoon",
     "release_dates": ["2014/11"],
-    "my_completed_date": "2026/05/21",
-    "my_status": "completed",
-    "my_score": null,
-    "note": null,
-    "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
-  },
-  {
-    "key": "clevatess",
-    "title": {
-      "zh": "Clevatess - 魔獸之王與嬰兒與屍之勇者",
-      "ja": "クレバテス-魔獣の王と赤子と屍の勇者-",
-      "en": "Clevatess"
-    },
-    "creator": {
-      "zh": "岩原裕二",
-      "ja": "岩原裕二",
-      "en": "岩原裕二"
-    },
-    "form": "manga",
-    "genres": ["action", "adventure", "fantasy"],
-    "publisher": "line_digital_frontier",
-    "release_dates": ["2020/08"],
     "my_completed_date": "2026/05/21",
     "my_status": "completed",
     "my_score": null,

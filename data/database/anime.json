@@ -25,6 +25,106 @@
     }
   },
   {
+    "key": "smoking-behind-the-supermarket-with-you",
+    "title": {
+      "zh": "超市後面抽菸的兩人",
+      "ja": "スーパーの裏でヤニ吸うふたり",
+      "en": "Smoking Behind the Supermarket with You"
+    },
+    "creator": {
+      "zh": "地主",
+      "ja": "地主",
+      "en": "Jinushi"
+    },
+    "form": "anime",
+    "genres": ["romance", "slice-of-life"],
+    "publisher": "asahi_production",
+    "release_dates": ["2026/07"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "milky-subway",
+    "title": {
+      "zh": "銀河特急 Milky☆Subway",
+      "ja": "銀河特急 ミルキー☆サブウェイ",
+      "en": "Milky☆Subway"
+    },
+    "creator": {
+      "zh": "龜山陽平",
+      "ja": "亀山陽平",
+      "en": "Yohei Kameyama"
+    },
+    "form": "anime",
+    "genres": ["comedy", "sci-fi"],
+    "publisher": "shin_ei_animation",
+    "release_dates": ["2025/07"],
+    "my_completed_date": "2026/07",
+    "my_status": "completed",
+    "my_score": null,
+    "note": "很喜歡的小品，有復古風味的太空題材。最喜歡柯特和麥克斯，因為沒有被說謝謝，所以不想做原本的工作。讓我想到我也是會這樣因為氣氛影響很大的人，我也想要好好被道謝；即便是理所當然的事情也值得好好道謝。",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "one-piece-heroines",
+    "title": {
+      "zh": "ONE PIECE HEROINES",
+      "ja": "ONE PIECE HEROINES",
+      "en": "One Piece Heroines"
+    },
+    "creator": {
+      "zh": "尾田榮一郎",
+      "ja": "尾田栄一郎",
+      "en": "Eiichiro Oda"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "toei_animation",
+    "release_dates": ["2026/07"],
+    "my_completed_date": "2026/07",
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "kore-kaite-shine",
+    "title": {
+      "zh": "畫完這個再去死",
+      "ja": "これ描いて死ね",
+      "en": "Kore Kaite Shine"
+    },
+    "creator": {
+      "zh": "豐田實",
+      "ja": "とよ田みのる",
+      "en": "Minoru Toyoda"
+    },
+    "form": "anime",
+    "genres": ["drama", "slice-of-life"],
+    "publisher": "shin_ei_animation",
+    "release_dates": ["2026/07"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
     "key": "kill-blue",
     "title": {
       "zh": "殺手青春",
@@ -41,7 +141,7 @@
     "publisher": "cue",
     "release_dates": ["2026/04"],
     "my_completed_date": null,
-    "my_status": "ongoing",
+    "my_status": "on_hold",
     "my_score": 2,
     "note": null,
     "has_article": false,
@@ -65,8 +165,8 @@
     "genres": ["series"],
     "publisher": "zexcs",
     "release_dates": ["2026/04"],
-    "my_completed_date": null,
-    "my_status": "ongoing",
+    "my_completed_date": "2026/06",
+    "my_status": "completed",
     "my_score": 3,
     "note": null,
     "has_article": false,
@@ -135,7 +235,7 @@
     "publisher": "bones_film",
     "release_dates": ["2026/04"],
     "my_completed_date": null,
-    "my_status": "ongoing",
+    "my_status": "on_hold",
     "my_score": 2,
     "note": null,
     "has_article": false
@@ -385,9 +485,9 @@
   {
     "key": "clevatess",
     "title": {
-      "zh": "Clevatess -魔獸之王與嬰兒與屍之勇者-",
-      "ja": "クレバテス-魔獣の王と赤子と屍の勇者",
-      "en": "Clevatess"
+      "zh": "Clevatess Ⅱ－魔獸之王與虛假的勇者傳承－",
+      "ja": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+      "en": "Clevatess II: The King of Magical Beasts and the False Heroic Legend"
     },
     "creator": {
       "zh": "巖原裕二",
@@ -396,10 +496,10 @@
     },
     "form": "anime",
     "genres": ["action", "drama", "fantasy"],
-    "publisher": "kadokawa_corporation",
+    "publisher": "lay_duce",
     "release_dates": ["2025/07", "2026/07"],
-    "my_completed_date": "",
-    "my_status": "completed",
+    "my_completed_date": null,
+    "my_status": "ongoing",
     "my_score": 2,
     "note": null,
     "has_article": false
@@ -706,8 +806,8 @@
     "genres": ["action", "adventure"],
     "publisher": "cloverworks",
     "release_dates": ["2024/07", "2026/07"],
-    "my_completed_date": "",
-    "my_status": "completed",
+    "my_completed_date": null,
+    "my_status": "ongoing",
     "my_score": 3,
     "note": null,
     "has_article": false
@@ -3346,8 +3446,8 @@
     "genres": ["action", "adventure", "drama", "fantasy", "romance", "thriller"],
     "publisher": "white_fox",
     "release_dates": ["2016/04", "2020/07", "2021/01", "2024/10", "2025/02", "2026/04", "2026/08"],
-    "my_completed_date": null,
-    "my_status": "ongoing",
+    "my_completed_date": "2026/06",
+    "my_status": "completed",
     "my_score": 5,
     "note": null,
     "has_article": false
@@ -5049,9 +5149,9 @@
   {
     "key": "bleach",
     "title": {
-      "zh": "BLEACH 死神",
-      "ja": "BLEACH",
-      "en": "Bleach"
+      "zh": "BLEACH 死神 千年血戰篇-禍進譚-",
+      "ja": "BLEACH 千年血戦篇-禍進譚-",
+      "en": "Bleach: Thousand-Year Blood War - The Calamity"
     },
     "creator": {
       "zh": "久保帶人",
@@ -5061,9 +5161,9 @@
     "form": "anime",
     "genres": ["action", "adventure"],
     "publisher": "pierrot",
-    "release_dates": ["2004/10", "2022/10"],
-    "my_completed_date": "",
-    "my_status": "completed",
+    "release_dates": ["2004/10", "2022/10", "2026/07"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
     "my_score": 3,
     "note": null,
     "has_article": false
