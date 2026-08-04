@@ -1,5 +1,30 @@
 [
   {
+    "key": "sagrada-reset",
+    "title": {
+      "zh": "重啟咲良田",
+      "ja": "サクラダリセット",
+      "en": "Sagrada Reset"
+    },
+    "creator": {
+      "zh": "河野裕",
+      "ja": "河野裕",
+      "en": "Yutaka Kono"
+    },
+    "form": "anime",
+    "genres": ["drama", "mystery", "sci-fi"],
+    "publisher": "david_production",
+    "release_dates": ["2017/04"],
+    "my_completed_date": null,
+    "my_status": "planned",
+    "my_score": null,
+    "note": "改編自河野裕小說《サクラダリセット》系列。",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
     "key": "one-piece",
     "title": {
       "zh": "航海王",
@@ -18,6 +43,31 @@
     "my_completed_date": null,
     "my_status": "ongoing",
     "my_score": 5,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "nippon-sangoku",
+    "title": {
+      "zh": "日本三國",
+      "ja": "日本三國",
+      "en": "Nippon Sangoku"
+    },
+    "creator": {
+      "zh": "松木いっか",
+      "ja": "松木いっか",
+      "en": "Ikka Matsuki"
+    },
+    "form": "anime",
+    "genres": ["sci-fi", "historical"],
+    "publisher": "studio_kafka",
+    "release_dates": ["2026/04"],
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": null,
     "note": null,
     "has_article": false,
     "data_review": {

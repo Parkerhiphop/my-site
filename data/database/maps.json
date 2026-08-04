@@ -82,6 +82,11 @@
       "ja": "視聴中",
       "en": "Watching"
     },
+    "planned": {
+      "zh": "想看",
+      "ja": "観たい",
+      "en": "Want to Watch"
+    },
     "on_hold": {
       "zh": "中斷",
       "ja": "保留",

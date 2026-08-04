@@ -157,7 +157,7 @@ JPop 也是實現抽票自由，歌手釋出場次上網登記就好，基本上
 
 在 Share House 很常看到大家在視訊，我在台灣是很討厭講電話的人，沒想到我現在也幾乎每天在找朋友們視訊聊天，感謝這之間陪我聊過天的人。
 
-感謝雄史、Nayu、Joyce、子漢、V 神、Lydia、憲哥、Josh (From UK)、Josiah 羅老師、Diamond、甯予、凱元、為尹、Elaine Lee、冠智、方塊、布丁、Andie、袁浩、岱穎、倚卉、詩函、Eric（南瓜）、查理貓貓、Jason & Eric。
+感謝雄史、うけん、Nayu、Joyce、子漢、V 神、Lydia、憲哥、Josh (From UK)、Josiah 羅老師、Diamond、甯予、凱元、為尹、Elaine Lee、冠智、方塊、布丁、Andie、袁浩、岱穎、倚卉、詩函、Eric（南瓜）、查理貓貓、Jason & Eric。
 
 感謝其他用訊息給予我支持與鼓勵的人們。
 

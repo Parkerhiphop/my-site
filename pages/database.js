@@ -11,10 +11,14 @@ import manga from '@/data/database/manga.json';
 import maps from '@/data/database/maps.json';
 import databaseMetadata from '@/data/database/metadata.json';
 import novel from '@/data/database/novel.json';
+import planned from '@/data/database/planned.json';
 import publishers from '@/data/database/publishers.json';
 import series from '@/data/database/series.json';
 
 const workCollections = { anime, film, manga, novel, series };
+const plannedWorks = Object.entries(planned).flatMap(([form, items]) =>
+  items.map((work) => ({ ...work, form }))
+);
 
 const works = Object.entries(workCollections)
   .flatMap(([form, items]) =>
@@ -24,6 +28,12 @@ const works = Object.entries(workCollections)
       databaseId: `${form}-${work.key ?? 'untitled'}-${index}`,
     }))
   )
+  .concat(
+    plannedWorks.map((work, index) => ({
+      ...work,
+      databaseId: `planned-${work.form}-${work.key ?? 'untitled'}-${index}`,
+    }))
+  )
   .sort((a, b) => {
     const dateA = a.release_dates?.[0] ?? '';
     const dateB = b.release_dates?.[0] ?? '';
@@ -31,7 +41,7 @@ const works = Object.entries(workCollections)
   });
 
 const forms = ['anime', 'film', 'manga', 'novel', 'series'];
-const progressFilters = ['completed', 'ongoing', 'on_hold', 'dropped'];
+const progressFilters = ['completed', 'ongoing', 'planned', 'on_hold', 'dropped'];
 const scoreFilters = ['5', '3', '2', '1', 'unrated'];
 const defaultStatusFilter = ['ongoing'];
 const formTone = {
@@ -44,6 +54,7 @@ const formTone = {
 const statusDotTone = {
   completed: 'bg-emerald-500',
   ongoing: 'bg-orange-400',
+  planned: 'bg-sky-500',
   on_hold: 'bg-gray-400',
   dropped: 'bg-red-500',
 };
@@ -68,6 +79,7 @@ const uiText = {
     empty: '沒有符合條件的作品',
     sort: '排序',
     watchingNow: '正在看',
+    plannedList: '想看',
     ascending: '升冪',
     descending: '降冪',
     briefReview: '簡評',
@@ -112,6 +124,7 @@ const uiText = {
     empty: 'No matching works',
     sort: 'Sort',
     watchingNow: 'Watching',
+    plannedList: 'Want to Watch',
     ascending: 'Ascending',
     descending: 'Descending',
     briefReview: 'Brief review',
@@ -156,6 +169,7 @@ const uiText = {
     empty: '一致する作品はありません',
     sort: '並び替え',
     watchingNow: '視聴中',
+    plannedList: '観たい',
     ascending: '昇順',
     descending: '降順',
     briefReview: '短評',
@@ -414,6 +428,7 @@ export default function Works({ locale, availableLocales }) {
   }, []);
   const totalCount = works.length;
   const isWatchingNowActive = filters.status.length === 1 && filters.status[0] === 'ongoing';
+  const isPlannedListActive = filters.status.length === 1 && filters.status[0] === 'planned';
   const activeFilterCount = [
     filters.form.length,
     filters.status.length,
@@ -564,6 +579,10 @@ export default function Works({ locale, availableLocales }) {
 
   function toggleWatchingNow() {
     updateStatusFilter(isWatchingNowActive ? [] : ['ongoing']);
+  }
+
+  function togglePlannedList() {
+    updateStatusFilter(isPlannedListActive ? [] : ['planned']);
   }
 
   function toggleExpanded(rowId, isExpanded) {
@@ -1063,23 +1082,42 @@ export default function Works({ locale, availableLocales }) {
               <span className="hidden h-4 w-px bg-gray-300 dark:bg-gray-700 sm:inline-block" />
               <span>{formatCount(text.lastUpdated, { date: databaseMetadata.lastUpdated })}</span>
             </div>
-            <button
-              type="button"
-              onClick={toggleWatchingNow}
-              className={`ml-auto inline-flex items-center gap-2 rounded-full border px-3 py-2 text-sm font-semibold transition ${
-                isWatchingNowActive
-                  ? 'border-orange-400 bg-orange-400 text-white'
-                  : 'border-gray-300 text-gray-700 hover:border-orange-400 hover:text-orange-500 dark:border-gray-800 dark:text-gray-300'
-              }`}
-              aria-pressed={isWatchingNowActive}
-            >
-              <span
-                className={`h-2.5 w-2.5 rounded-full ${
-                  isWatchingNowActive ? 'bg-white' : 'bg-orange-400'
+            <div className="ml-auto flex flex-wrap items-center gap-2">
+              <button
+                type="button"
+                onClick={toggleWatchingNow}
+                className={`inline-flex items-center gap-2 rounded-full border px-3 py-2 text-sm font-semibold transition ${
+                  isWatchingNowActive
+                    ? 'border-orange-400 bg-orange-400 text-white'
+                    : 'border-gray-300 text-gray-700 hover:border-orange-400 hover:text-orange-500 dark:border-gray-800 dark:text-gray-300'
                 }`}
-              />
-              {text.watchingNow}
-            </button>
+                aria-pressed={isWatchingNowActive}
+              >
+                <span
+                  className={`h-2.5 w-2.5 rounded-full ${
+                    isWatchingNowActive ? 'bg-white' : 'bg-orange-400'
+                  }`}
+                />
+                {text.watchingNow}
+              </button>
+              <button
+                type="button"
+                onClick={togglePlannedList}
+                className={`inline-flex items-center gap-2 rounded-full border px-3 py-2 text-sm font-semibold transition ${
+                  isPlannedListActive
+                    ? 'border-sky-500 bg-sky-500 text-white'
+                    : 'border-gray-300 text-gray-700 hover:border-sky-500 hover:text-sky-600 dark:border-gray-800 dark:text-gray-300'
+                }`}
+                aria-pressed={isPlannedListActive}
+              >
+                <span
+                  className={`h-2.5 w-2.5 rounded-full ${
+                    isPlannedListActive ? 'bg-white' : 'bg-sky-500'
+                  }`}
+                />
+                {text.plannedList}
+              </button>
+            </div>
           </div>
         </div>
         <div className="py-6">

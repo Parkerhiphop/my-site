@@ -676,7 +676,7 @@
   },
   "studio_kafka": {
     "zh": "Studio Kafka",
-    "ja": "Studio Kafka",
+    "ja": "スタジオカフカ",
     "en": "Studio Kafka"
   },
   "studio_kai": {
@@ -728,6 +728,11 @@
     "zh": "Toei Animation",
     "ja": "Toei Animation",
     "en": "Toei Animation"
+  },
+  "times_publishing": {
+    "zh": "時報出版",
+    "ja": "時報出版",
+    "en": "China Times Publishing"
   },
   "toho": {
     "zh": "東寶",
@@ -823,5 +828,30 @@
     "zh": "Asahi Production",
     "ja": "旭プロダクション",
     "en": "Asahi Production"
+  },
+  "akita_shoten": {
+    "zh": "秋田書店",
+    "ja": "秋田書店",
+    "en": "Akita Shoten"
+  },
+  "futabasha": {
+    "zh": "雙葉社",
+    "ja": "双葉社",
+    "en": "Futabasha"
+  },
+  "hakusensha": {
+    "zh": "白泉社",
+    "ja": "白泉社",
+    "en": "Hakusensha"
+  },
+  "shogakukan": {
+    "zh": "小學館",
+    "ja": "小学館",
+    "en": "Shogakukan"
+  },
+  "origin_pictures": {
+    "zh": "Origin Pictures",
+    "ja": "Origin Pictures",
+    "en": "Origin Pictures"
   }
 }

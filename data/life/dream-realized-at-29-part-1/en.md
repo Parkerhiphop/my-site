@@ -157,7 +157,7 @@ Thank you to everyone who read this far. Although I am giving a warning that the
 
 In the share house, I often see people on video calls. In Taiwan, I hated talking on the phone. I never expected that now I would be video calling friends almost every day. Thank you to everyone who has chatted with me during this period.
 
-Thank you to Yushi, Nayu, Joyce, Zihan, V, Lydia, Xian-ge, Josh (from the UK), Teacher Josiah Luo, Diamond, Ningyu, Kaiyuan, Weiyin, Elaine Lee, Guanzhi, Fangkuai, Buding, Andie, Yuanhao, Daiying, Yihui, Shihan, Eric (Pumpkin), Charlie Cat, Jason & Eric.
+Thank you to Yuuya, U-ken, Nayu, Joyce, Zihan, V, Lydia, Xian-ge, Josh (from the UK), Teacher Josiah Luo, Diamond, Ningyu, Kaiyuan, Weiyin, Elaine Lee, Guanzhi, Fangkuai, Buding, Andie, Yuanhao, Daiying, Yihui, Shihan, Eric (Pumpkin), Charlie Cat, Jason & Eric.
 
 Thank you to everyone else who supported and encouraged me through messages.
 

@@ -1,0 +1,1619 @@
+{
+  "anime": [
+    {
+      "key": "the-summer-hikaru-died",
+      "title": {
+        "zh": "光死去的夏天",
+        "ja": "光が死んだ夏",
+        "en": "The Summer Hikaru Died"
+      },
+      "creator": {
+        "zh": "モクモクれん",
+        "ja": "モクモクれん",
+        "en": "モクモクれん"
+      },
+      "genres": ["horror", "mystery", "thriller"],
+      "publisher": "kadokawa_corporation",
+      "release_dates": ["2025/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "zenshu",
+      "title": {
+        "zh": "全修。",
+        "ja": "全修。",
+        "en": "ZENSHU"
+      },
+      "creator": {
+        "zh": "山崎光惠",
+        "ja": "山崎光惠",
+        "en": "山崎光惠"
+      },
+      "genres": ["action", "fantasy", "romance"],
+      "publisher": "mappa",
+      "release_dates": ["2025/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "kowloon-generic-romance",
+      "title": {
+        "zh": "九龍大眾浪漫",
+        "ja": "九龍ジェネリックロマンス",
+        "en": "KOWLOON GENERIC ROMANCE"
+      },
+      "creator": {
+        "zh": "眉月純",
+        "ja": "眉月純",
+        "en": "眉月純"
+      },
+      "genres": ["drama", "mystery", "romance", "sci-fi", "slice-of-life"],
+      "publisher": "arvo_animation",
+      "release_dates": ["2025/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "kaguya-sama-love-is-war-stairway-to-adulthood",
+      "title": {
+        "zh": "輝夜大小姐想讓我告白 通往大人的階梯",
+        "ja": "かぐや様は告らせたい 大人への階段",
+        "en": "Kaguya-sama: Love Is War -Stairway to Adulthood-"
+      },
+      "creator": {
+        "zh": "赤坂明",
+        "ja": "赤坂明",
+        "en": "赤坂明"
+      },
+      "genres": ["comedy", "romance", "slice-of-life"],
+      "publisher": "aniplex",
+      "release_dates": ["2025/12"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "medalist",
+      "title": {
+        "zh": "金牌得主",
+        "ja": "メダリスト",
+        "en": "Medalist"
+      },
+      "creator": {
+        "zh": "つるまいかだ",
+        "ja": "つるまいかだ",
+        "en": "つるまいかだ"
+      },
+      "genres": ["drama", "sports"],
+      "publisher": "engi",
+      "release_dates": ["2025/01", "2026/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "new-panty-and-stocking-with-garterbelt",
+      "title": {
+        "zh": "新 吊帶襪天使",
+        "ja": "New PANTY & STOCKING with GARTERBELT",
+        "en": "New PANTY & STOCKING with GARTERBELT"
+      },
+      "creator": {
+        "zh": "錦織敦史",
+        "ja": "錦織敦史",
+        "en": "錦織敦史"
+      },
+      "genres": ["action", "comedy"],
+      "publisher": "trigger",
+      "release_dates": ["2025/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "rock-is-a-ladys-modesty",
+      "title": {
+        "zh": "搖滾樂是淑女的嗜好",
+        "ja": "ロックは淑女の嗜みでして",
+        "en": "Rock is a Lady’s Modesty"
+      },
+      "creator": {
+        "zh": "福田宏",
+        "ja": "福田宏",
+        "en": "福田宏"
+      },
+      "genres": ["drama"],
+      "publisher": "bandai_namco_pictures",
+      "release_dates": ["2025/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "orb-on-the-movements-of-the-earth",
+      "title": {
+        "zh": "地。-關於地球的運動-",
+        "ja": "チ。-地球の運動について-",
+        "en": "Orb: On the Movements of the Earth"
+      },
+      "creator": {
+        "zh": "魚豊",
+        "ja": "魚豊",
+        "en": "魚豊"
+      },
+      "genres": ["drama"],
+      "publisher": "madhouse",
+      "release_dates": ["2024/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "hokkaido-gals-are-super-adorable",
+      "title": {
+        "zh": "北海道辣妹金古錐",
+        "ja": "道産子ギャルはなまらめんこい",
+        "en": "Hokkaido Gals Are Super Adorable!"
+      },
+      "creator": {
+        "zh": "伊科田海",
+        "ja": "伊科田海",
+        "en": "伊科田海"
+      },
+      "genres": ["comedy", "romance", "slice-of-life"],
+      "publisher": "blade",
+      "release_dates": ["2024/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "baki-hanma-vs-kengan-ashura",
+      "title": {
+        "zh": "範馬刃牙 VS 拳願阿修羅",
+        "ja": "範馬刃牙 VS ケンガンアシュラ",
+        "en": "Baki Hanma VS Kengan Ashura"
+      },
+      "creator": {
+        "zh": "板垣惠介、三肉必起、Daromeon",
+        "ja": "板垣惠介、三肉必起、Daromeon",
+        "en": "板垣惠介、三肉必起、Daromeon"
+      },
+      "genres": ["action", "sports"],
+      "publisher": "netflix",
+      "release_dates": ["2024/06"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "skip-and-loafer",
+      "title": {
+        "zh": "躍動青春",
+        "ja": "スキップとローファー",
+        "en": "Skip and Loafer"
+      },
+      "creator": {
+        "zh": "高松美咲",
+        "ja": "高松美咲",
+        "en": "高松美咲"
+      },
+      "genres": ["comedy", "romance", "slice-of-life"],
+      "publisher": "p_a_works",
+      "release_dates": ["2023/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "ragna-crimson",
+      "title": {
+        "zh": "狩龍人拉格納",
+        "ja": "ラグナクリムゾン",
+        "en": "Ragna Crimson"
+      },
+      "creator": {
+        "zh": "小林大紀",
+        "ja": "小林大紀",
+        "en": "小林大紀"
+      },
+      "genres": ["action", "adventure", "fantasy", "mystery"],
+      "publisher": "silver_link",
+      "release_dates": ["2023/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "pluto",
+      "title": {
+        "zh": "PLUTO 冥王",
+        "ja": "PLUTO",
+        "en": "PLUTO"
+      },
+      "creator": {
+        "zh": "浦澤直樹",
+        "ja": "浦澤直樹",
+        "en": "浦澤直樹"
+      },
+      "genres": ["action", "drama", "mystery", "sci-fi", "thriller"],
+      "publisher": "studio_m2",
+      "release_dates": ["2023/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "bungo-stray-dogs-5",
+      "title": {
+        "zh": "文豪野犬",
+        "ja": "文豪ストレイドッグス",
+        "en": "Bungo Stray"
+      },
+      "creator": {
+        "zh": "朝霧卡夫卡",
+        "ja": "朝霧卡夫卡",
+        "en": "朝霧卡夫卡"
+      },
+      "genres": ["action", "comedy", "mystery"],
+      "publisher": "bones",
+      "release_dates": ["2016/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "the-ancient-magus-bride",
+      "title": {
+        "zh": "魔法使的新娘",
+        "ja": "魔法使いの嫁",
+        "en": "The Ancient Magus' Bride"
+      },
+      "creator": {
+        "zh": "Yamazaki Kore",
+        "ja": "Yamazaki Kore",
+        "en": "Yamazaki Kore"
+      },
+      "genres": ["drama", "fantasy", "romance", "slice-of-life"],
+      "publisher": "studio_kafka",
+      "release_dates": ["2023/04", "2023/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": "想看第二季。",
+      "has_article": false
+    },
+    {
+      "key": "fate-strange-fake-whispers-of-dawn",
+      "title": {
+        "zh": "Fate/strange Fake",
+        "ja": "Fate/strange Fake",
+        "en": "Fate/strange Fake -Whispers of Dawn-"
+      },
+      "creator": {
+        "zh": "成田良悟",
+        "ja": "成田良悟",
+        "en": "成田良悟"
+      },
+      "genres": ["action", "adventure", "fantasy", "mystery"],
+      "publisher": "a_1_pictures",
+      "release_dates": ["2023/07", "2026/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "edens-zero",
+      "title": {
+        "zh": "伊甸星原",
+        "ja": "EDENS ZERO",
+        "en": "EDENS ZERO"
+      },
+      "creator": {
+        "zh": "真島浩",
+        "ja": "真島浩",
+        "en": "真島浩"
+      },
+      "genres": ["action", "adventure", "comedy", "fantasy", "sci-fi"],
+      "publisher": "j_c_staff",
+      "release_dates": ["2023/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": "想看第二季。",
+      "has_article": false
+    },
+    {
+      "key": "cyberpunk-edgerunners",
+      "title": {
+        "zh": "電馭叛客：邊緣行者",
+        "ja": "サイバーパンク エッジランナーズ",
+        "en": "Cyberpunk: Edgerunners"
+      },
+      "creator": {
+        "zh": "邁克·蓬施密斯",
+        "ja": "邁克·蓬施密斯",
+        "en": "邁克·蓬施密斯"
+      },
+      "genres": ["action", "drama", "sci-fi"],
+      "publisher": "trigger",
+      "release_dates": ["2022/09"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "call-of-the-night",
+      "title": {
+        "zh": "徹夜之歌",
+        "ja": "よふかしのうた",
+        "en": "Call of the Night"
+      },
+      "creator": {
+        "zh": "琴山",
+        "ja": "琴山",
+        "en": "琴山"
+      },
+      "genres": ["comedy", "romance", "slice-of-life"],
+      "publisher": "liden_films",
+      "release_dates": ["2022/07", "2025/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "summer-time-rendering",
+      "title": {
+        "zh": "夏日時光",
+        "ja": "サマータイムレンダ",
+        "en": "Summer Time Rendering"
+      },
+      "creator": {
+        "zh": "田中靖規",
+        "ja": "田中靖規",
+        "en": "田中靖規"
+      },
+      "genres": ["action", "drama", "mystery", "thriller"],
+      "publisher": "olm",
+      "release_dates": ["2022/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "akiba-maid-war",
+      "title": {
+        "zh": "秋葉原冥途戰爭",
+        "ja": "アキバ冥途戦争",
+        "en": "Akiba Maid War"
+      },
+      "creator": {
+        "zh": "Kedamono Land 經營戰略室",
+        "ja": "Kedamono Land 經營戰略室",
+        "en": "Kedamono Land 經營戰略室"
+      },
+      "genres": ["action", "comedy", "drama"],
+      "publisher": "p_a_works",
+      "release_dates": ["2022/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "raven-of-the-inner-palace",
+      "title": {
+        "zh": "後宮之烏",
+        "ja": "後宮の烏",
+        "en": "Raven of the Inner Palace"
+      },
+      "creator": {
+        "zh": "白川紺子",
+        "ja": "白川紺子",
+        "en": "白川紺子"
+      },
+      "genres": ["drama", "fantasy", "mystery"],
+      "publisher": "bandai_namco_pictures",
+      "release_dates": ["2022/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "the-tatami-time-machine-blues",
+      "title": {
+        "zh": "四疊半時光機藍調",
+        "ja": "四畳半タイムマシンブルース",
+        "en": "The Tatami Time Machine Blues"
+      },
+      "creator": {
+        "zh": "森見登美彥",
+        "ja": "森見登美彥",
+        "en": "森見登美彥"
+      },
+      "genres": ["comedy", "mystery", "romance", "sci-fi"],
+      "publisher": "science_saru",
+      "release_dates": ["2022/09"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "lucifer-and-the-biscuit-hammer",
+      "title": {
+        "zh": "惑星公主蜥蜴騎士",
+        "ja": "惑星のさみだれ",
+        "en": "Lucifer and the Biscuit Hammer"
+      },
+      "creator": {
+        "zh": "水上悟志",
+        "ja": "水上悟志",
+        "en": "水上悟志"
+      },
+      "genres": ["action", "comedy", "drama"],
+      "publisher": "naz",
+      "release_dates": ["2022/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "room-camp",
+      "title": {
+        "zh": "房間露營 △",
+        "ja": "へやキャン △",
+        "en": "ROOM CAMP"
+      },
+      "creator": {
+        "zh": "あ f ろ",
+        "ja": "あ f ろ",
+        "en": "あ f ろ"
+      },
+      "genres": ["comedy", "slice-of-life"],
+      "publisher": "c_station",
+      "release_dates": ["2020/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "the-gymnastics-samurai",
+      "title": {
+        "zh": "體操武士",
+        "ja": "體操ザムライ",
+        "en": "The Gymnastics Samurai"
+      },
+      "creator": {
+        "zh": "Snack Marie",
+        "ja": "Snack Marie",
+        "en": "Snack Marie"
+      },
+      "genres": ["drama", "sports"],
+      "publisher": "mappa",
+      "release_dates": ["2020/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "dororo",
+      "title": {
+        "zh": "多羅羅",
+        "ja": "どろろ",
+        "en": "Dororo"
+      },
+      "creator": {
+        "zh": "手塚治蟲",
+        "ja": "手塚治蟲",
+        "en": "手塚治蟲"
+      },
+      "genres": ["action", "adventure", "drama"],
+      "publisher": "mappa",
+      "release_dates": ["2019/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "laid-back-camp",
+      "title": {
+        "zh": "搖曳露營 △",
+        "ja": "ゆるキャン △",
+        "en": "Laid-Back Camp"
+      },
+      "creator": {
+        "zh": "あ f ろ",
+        "ja": "あ f ろ",
+        "en": "あ f ろ"
+      },
+      "genres": ["comedy", "slice-of-life"],
+      "publisher": "c_station",
+      "release_dates": ["2018/01", "2021/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "land-of-the-lustrous",
+      "title": {
+        "zh": "寶石之國",
+        "ja": "宝石の国",
+        "en": "Land of the Lustrous"
+      },
+      "creator": {
+        "zh": "市川春子",
+        "ja": "市川春子",
+        "en": "市川春子"
+      },
+      "genres": ["action", "drama", "fantasy", "mystery"],
+      "publisher": "orange",
+      "release_dates": ["2017/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "death-parade",
+      "title": {
+        "zh": "死亡遊行",
+        "ja": "デス・パレード",
+        "en": "Death Parade"
+      },
+      "creator": {
+        "zh": "立川讓",
+        "ja": "立川讓",
+        "en": "立川讓"
+      },
+      "genres": ["drama", "mystery", "thriller"],
+      "publisher": "madhouse",
+      "release_dates": ["2015/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "gangsta",
+      "title": {
+        "zh": "黑街",
+        "ja": "ギャングスタ",
+        "en": "GANGSTA."
+      },
+      "creator": {
+        "zh": "佑介",
+        "ja": "佑介",
+        "en": "佑介"
+      },
+      "genres": ["action", "drama"],
+      "publisher": "manglobe",
+      "release_dates": ["2015/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "ushio-and-tora-tv",
+      "title": {
+        "zh": "潮與虎",
+        "ja": "うしおととら (TV)",
+        "en": "Ushio and Tora (TV)"
+      },
+      "creator": {
+        "zh": "藤田和日郎",
+        "ja": "藤田和日郎",
+        "en": "藤田和日郎"
+      },
+      "genres": ["action", "adventure", "comedy", "drama"],
+      "publisher": "mappa",
+      "release_dates": ["2015/07", "2016/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "your-lie-in-april",
+      "title": {
+        "zh": "四月是你的謊言",
+        "ja": "四月は君の噓",
+        "en": "Your lie in April"
+      },
+      "creator": {
+        "zh": "新川直司",
+        "ja": "新川直司",
+        "en": "新川直司"
+      },
+      "genres": ["drama", "romance", "slice-of-life"],
+      "publisher": "a_1_pictures",
+      "release_dates": ["2014/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "ping-pong-the-animation",
+      "title": {
+        "zh": "乒乓",
+        "ja": "ピンポン THE ANIMATION",
+        "en": "Ping Pong the Animation"
+      },
+      "creator": {
+        "zh": "松本大洋",
+        "ja": "松本大洋",
+        "en": "松本大洋"
+      },
+      "genres": ["drama", "sports"],
+      "publisher": "tatsunoko_production",
+      "release_dates": ["2014/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "mushi-shi",
+      "title": {
+        "zh": "蟲師",
+        "ja": "蟲師",
+        "en": "MUSHI-SHI"
+      },
+      "creator": {
+        "zh": "漆原友紀",
+        "ja": "漆原友紀",
+        "en": "漆原友紀"
+      },
+      "genres": ["adventure", "fantasy", "mystery", "slice-of-life"],
+      "publisher": "artland",
+      "release_dates": ["2014/10", "2015/05"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "beyond-the-boundary",
+      "title": {
+        "zh": "境界的彼方",
+        "ja": "境界の彼方",
+        "en": "Beyond the Boundary"
+      },
+      "creator": {
+        "zh": "鳥居奈古夢",
+        "ja": "鳥居奈古夢",
+        "en": "鳥居奈古夢"
+      },
+      "genres": ["action", "drama", "fantasy", "slice-of-life"],
+      "publisher": "kyoto_animation",
+      "release_dates": ["2013/10", "2015/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "from-the-new-world",
+      "title": {
+        "zh": "來自新世界",
+        "ja": "新世界より",
+        "en": "From the New World"
+      },
+      "creator": {
+        "zh": "貴志祐介",
+        "ja": "貴志祐介",
+        "en": "貴志祐介"
+      },
+      "genres": ["drama", "horror", "mystery", "sci-fi"],
+      "publisher": "aniplex",
+      "release_dates": ["2012/09"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "chihayafuru",
+      "title": {
+        "zh": "歌牌情緣",
+        "ja": "ちはやふる",
+        "en": "Chihayafuru"
+      },
+      "creator": {
+        "zh": "末次由紀",
+        "ja": "末次由紀",
+        "en": "末次由紀"
+      },
+      "genres": ["drama", "romance", "slice-of-life", "sports"],
+      "publisher": "madhouse",
+      "release_dates": ["2011/10", "2013/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "kimi-ni-todoke-from-me-to-you",
+      "title": {
+        "zh": "只想告訴你",
+        "ja": "君に届け",
+        "en": "Kimi ni Todoke: From Me to You"
+      },
+      "creator": {
+        "zh": "椎名輕穗",
+        "ja": "椎名輕穗",
+        "en": "椎名輕穗"
+      },
+      "genres": ["comedy", "drama", "romance", "slice-of-life"],
+      "publisher": "production_i_g",
+      "release_dates": ["2011/01", "2024/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": "想看第二季。",
+      "has_article": false
+    },
+    {
+      "key": "the-tatami-galaxy",
+      "title": {
+        "zh": "四疊半神話大系",
+        "ja": "四畳半神話大系",
+        "en": "The Tatami Galaxy"
+      },
+      "creator": {
+        "zh": "森見登美彥",
+        "ja": "森見登美彥",
+        "en": "森見登美彥"
+      },
+      "genres": ["comedy", "mystery", "romance"],
+      "publisher": "madhouse",
+      "release_dates": ["2010/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "arakawa-under-the-bridge",
+      "title": {
+        "zh": "荒川爆笑團",
+        "ja": "荒川アンダー ザ ブリッジ",
+        "en": "Arakawa Under the Bridge"
+      },
+      "creator": {
+        "zh": "中村光",
+        "ja": "中村光",
+        "en": "中村光"
+      },
+      "genres": ["comedy", "romance"],
+      "publisher": "shaft",
+      "release_dates": ["2010/04", "2010/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "mononoke",
+      "title": {
+        "zh": "物怪",
+        "ja": "モノノ怪",
+        "en": "Mononoke"
+      },
+      "creator": {
+        "zh": "東映動畫",
+        "ja": "東映動畫",
+        "en": "東映動畫"
+      },
+      "genres": ["fantasy", "horror", "mystery"],
+      "publisher": "toei_animation",
+      "release_dates": ["2007/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "black-lagoon",
+      "title": {
+        "zh": "黑礁",
+        "ja": "BLACK LAGOON",
+        "en": "Black Lagoon"
+      },
+      "creator": {
+        "zh": "廣江禮威",
+        "ja": "廣江禮威",
+        "en": "廣江禮威"
+      },
+      "genres": ["action", "adventure", "drama", "thriller"],
+      "publisher": "madhouse",
+      "release_dates": ["2006/04", "2006/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "freedom",
+      "title": {
+        "zh": "FREEDOM-PROJECT",
+        "ja": "FREEDOM",
+        "en": "Freedom"
+      },
+      "creator": {
+        "zh": "大友克洋",
+        "ja": "大友克洋",
+        "en": "大友克洋"
+      },
+      "genres": ["action", "adventure", "sci-fi"],
+      "publisher": "sunrise",
+      "release_dates": ["2006/11"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "mushi-shi",
+      "title": {
+        "zh": "蟲師",
+        "ja": "蟲師",
+        "en": "MUSHI-SHI"
+      },
+      "creator": {
+        "zh": "漆原友紀",
+        "ja": "漆原友紀",
+        "en": "漆原友紀"
+      },
+      "genres": ["adventure", "fantasy", "mystery", "slice-of-life"],
+      "publisher": "artland",
+      "release_dates": ["2005/10", "2014/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "paranoia-agent",
+      "title": {
+        "zh": "妄想代理人",
+        "ja": "妄想代理人",
+        "en": "Paranoia Agent"
+      },
+      "creator": {
+        "zh": "今敏",
+        "ja": "今敏",
+        "en": "今敏"
+      },
+      "genres": ["drama", "mystery", "thriller"],
+      "publisher": "madhouse",
+      "release_dates": ["2004/02"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "hellsing",
+      "title": {
+        "zh": "厄夜怪客",
+        "ja": "HELLSING",
+        "en": "Hellsing"
+      },
+      "creator": {
+        "zh": "平野耕太",
+        "ja": "平野耕太",
+        "en": "平野耕太"
+      },
+      "genres": ["action", "horror"],
+      "publisher": "gonzo",
+      "release_dates": ["2001/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    }
+  ],
+  "film": [
+    {
+      "key": "tatsuki-fujimoto-17-26",
+      "title": {
+        "zh": "藤本樹 17-26",
+        "ja": "藤本タツキ 17-26",
+        "en": "Tatsuki Fujimoto 17-26"
+      },
+      "creator": {
+        "zh": "藤本樹",
+        "ja": "藤本タツキ",
+        "en": "藤本タツキ"
+      },
+      "genres": ["action", "comedy", "drama", "romance", "sci-fi", "slice-of-life"],
+      "publisher": "zexcs",
+      "release_dates": ["2025/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "scarlet",
+      "title": {
+        "zh": "Scarlet永無止境的史嘉蕾 ",
+        "ja": "果てしなきスカーレット",
+        "en": "Scarlet"
+      },
+      "creator": {
+        "zh": "細田守",
+        "ja": "細田守",
+        "en": "細田守"
+      },
+      "genres": ["action", "adventure", "drama", "fantasy"],
+      "publisher": "studio_chizu",
+      "release_dates": ["2025/11"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "mononoke-the-movie-the-phantom-in-the-rain",
+      "title": {
+        "zh": "劇場版物怪 唐傘",
+        "ja": "劇場版モノノ怪 唐傘",
+        "en": "Mononoke The Movie: The Phantom in the Rain"
+      },
+      "creator": null,
+      "genres": ["fantasy", "horror", "mystery"],
+      "publisher": "twin_engine",
+      "release_dates": ["2024/07", "2025/03"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "lonely-castle-in-the-mirror",
+      "title": {
+        "zh": "鏡之孤城",
+        "ja": "かがみの孤城",
+        "en": "Lonely Castle in the Mirror"
+      },
+      "creator": {
+        "zh": "辻村深月",
+        "ja": "辻村深月",
+        "en": "辻村深月"
+      },
+      "genres": ["drama", "fantasy", "mystery"],
+      "publisher": "shouchiku",
+      "release_dates": ["2022/12", "2023/05"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "josee-the-tiger-and-the-fish",
+      "title": {
+        "zh": "喬瑟與虎與魚群",
+        "ja": "ジョゼと虎と魚たち",
+        "en": "Josee, the Tiger and the Fish"
+      },
+      "creator": {
+        "zh": "田辺聖子",
+        "ja": "田辺聖子",
+        "en": "田辺聖子"
+      },
+      "genres": ["drama", "romance", "slice-of-life"],
+      "publisher": "bones",
+      "release_dates": ["2020/12"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "on-gaku-our-sound",
+      "title": {
+        "zh": "音樂",
+        "ja": "音楽",
+        "en": "ON-GAKU: OUR SOUND"
+      },
+      "creator": {
+        "zh": "大橋裕之",
+        "ja": "大橋裕之",
+        "en": "大橋裕之"
+      },
+      "genres": ["comedy", "slice-of-life"],
+      "publisher": "rock_n_roll_mountain",
+      "release_dates": ["2020/01"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "earwig-and-the-witch",
+      "title": {
+        "zh": "安雅與魔女",
+        "ja": "アーヤと魔女",
+        "en": "Earwig and the Witch"
+      },
+      "creator": {
+        "zh": "Diana Wynne Jones",
+        "ja": "Diana Wynne Jones",
+        "en": "Diana Wynne Jones"
+      },
+      "genres": ["fantasy"],
+      "publisher": "studio_ghibli",
+      "release_dates": ["2020/12"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "promare",
+      "title": {
+        "zh": "普羅米亞",
+        "ja": "プロメア",
+        "en": "Promare"
+      },
+      "creator": {
+        "zh": "中島かずき",
+        "ja": "中島かずき",
+        "en": "中島かずき"
+      },
+      "genres": ["action", "sci-fi"],
+      "publisher": "trigger",
+      "release_dates": ["2019/05"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "human-lost",
+      "title": {
+        "zh": "HUMAN LOST 人間失格",
+        "ja": "HUMAN LOST 人間失格",
+        "en": "HUMAN LOST"
+      },
+      "creator": {
+        "zh": "太宰治",
+        "ja": "太宰治",
+        "en": "太宰治"
+      },
+      "genres": ["action", "sci-fi"],
+      "publisher": "polygon_pictures",
+      "release_dates": ["2019/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "k-seven-stories-r-b-blaze",
+      "title": {
+        "zh": "K SEVEN STORIES Episode 1「R:B ～BLAZE～」",
+        "ja": "K SEVEN STORIES Episode 1「R:B ～BLAZE～」",
+        "en": "K: SEVEN STORIES \"R:B - BLAZE -\""
+      },
+      "creator": {
+        "zh": "壁井ユカコ",
+        "ja": "壁井ユカコ",
+        "en": "壁井ユカコ"
+      },
+      "genres": ["action"],
+      "publisher": "gohands",
+      "release_dates": ["2018/07", "2018/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "fate-kaleid-liner-prisma-illya-vow-in-the-snow",
+      "title": {
+        "zh": "Fate/kaleid liner 魔法少女☆伊莉雅：雪下的誓言",
+        "ja": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い",
+        "en": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow"
+      },
+      "creator": {
+        "zh": "Type-Moon",
+        "ja": "Type-Moon",
+        "en": "Type-Moon"
+      },
+      "genres": ["action", "drama", "fantasy"],
+      "publisher": "silver_link",
+      "release_dates": ["2017/08", "2021/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "kizumonogatari-part-1-tekketsu",
+      "title": {
+        "zh": "物語系列",
+        "ja": "物語",
+        "en": "Monogatari"
+      },
+      "creator": {
+        "zh": "西尾維新",
+        "ja": "西尾維新",
+        "en": "Nisio Isin"
+      },
+      "genres": ["action", "drama", "mystery"],
+      "publisher": "aniplex",
+      "release_dates": ["2016/01", "2016/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "steins-gate-the-movie-load-region-of-de-ja-vu",
+      "title": {
+        "zh": "劇場版 STEINS;GATE 負荷領域的既視感",
+        "ja": "劇場版 STEINS;GATE 負荷領域のデジャヴ",
+        "en": "Steins;Gate The Movie – Load Region of Déjà Vu"
+      },
+      "creator": {
+        "zh": "ニトロプラス",
+        "ja": "ニトロプラス",
+        "en": "ニトロプラス"
+      },
+      "genres": ["drama", "romance", "sci-fi", "thriller"],
+      "publisher": "frontier_works",
+      "release_dates": ["2013/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "puella-magi-madoka-magica-the-movie-rebellion",
+      "title": {
+        "zh": "劇場版 魔法少女小圓［新篇］叛逆的物語",
+        "ja": "劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語",
+        "en": "Puella Magi Madoka Magica the Movie -Rebellion-"
+      },
+      "creator": {
+        "zh": "Magica Quartet",
+        "ja": "Magica Quartet",
+        "en": "Magica Quartet"
+      },
+      "genres": ["drama", "fantasy", "mystery", "thriller"],
+      "publisher": "aniplex",
+      "release_dates": ["2013/10", "2026/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "wolf-children",
+      "title": {
+        "zh": "狼的孩子雨和雪",
+        "ja": "おおかみこどもの雨と雪",
+        "en": "Wolf Children"
+      },
+      "creator": {
+        "zh": "細田守",
+        "ja": "細田守",
+        "en": "細田守"
+      },
+      "genres": ["drama", "fantasy", "romance", "slice-of-life"],
+      "publisher": "madhouse",
+      "release_dates": ["2012/06"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "blood-c-the-last-dark",
+      "title": {
+        "zh": "劇場版 BLOOD-C The Last Dark",
+        "ja": "劇場版 BLOOD-C The Last Dark",
+        "en": "BLOOD-C: The Last Dark"
+      },
+      "creator": {
+        "zh": "CLAMP",
+        "ja": "CLAMP",
+        "en": "CLAMP"
+      },
+      "genres": ["action", "horror"],
+      "publisher": "production_i_g",
+      "release_dates": ["2012/06"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "from-up-on-poppy-hill",
+      "title": {
+        "zh": "來自紅花坂",
+        "ja": "コクリコ坂から",
+        "en": "From Up on Poppy Hill"
+      },
+      "creator": {
+        "zh": "佐山哲郎",
+        "ja": "佐山哲郎",
+        "en": "佐山哲郎"
+      },
+      "genres": ["drama", "romance", "slice-of-life"],
+      "publisher": "studio_ghibli",
+      "release_dates": ["2011/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "the-secret-world-of-arrietty",
+      "title": {
+        "zh": "借物少女艾莉緹",
+        "ja": "借りぐらしのアリエッティ",
+        "en": "The Secret World of Arrietty"
+      },
+      "creator": {
+        "zh": "Mary Norton",
+        "ja": "Mary Norton",
+        "en": "Mary Norton"
+      },
+      "genres": ["adventure", "drama", "fantasy"],
+      "publisher": "studio_ghibli",
+      "release_dates": ["2010/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "ponyo",
+      "title": {
+        "zh": "崖上的波妞",
+        "ja": "崖の上のポニョ",
+        "en": "Ponyo"
+      },
+      "creator": {
+        "zh": "宮崎駿",
+        "ja": "宮崎駿",
+        "en": "宮崎駿"
+      },
+      "genres": ["adventure", "fantasy"],
+      "publisher": "studio_ghibli",
+      "release_dates": ["2008/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "mind-game",
+      "title": {
+        "zh": "心靈遊戲",
+        "ja": "マインド・ゲーム",
+        "en": "Mind Game"
+      },
+      "creator": {
+        "zh": "ロビン西",
+        "ja": "ロビン西",
+        "en": "ロビン西"
+      },
+      "genres": ["adventure", "comedy", "romance"],
+      "publisher": "horipro",
+      "release_dates": ["2004/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "steamboy",
+      "title": {
+        "zh": "蒸汽男孩",
+        "ja": "スチームボーイ",
+        "en": "Steamboy"
+      },
+      "creator": null,
+      "genres": ["action", "adventure", "drama", "sci-fi"],
+      "publisher": "horipro",
+      "release_dates": ["2004/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "metropolis",
+      "title": {
+        "zh": "大都會",
+        "ja": "メトロポリス",
+        "en": "Metropolis"
+      },
+      "creator": {
+        "zh": "手塚治虫",
+        "ja": "手塚治虫",
+        "en": "手塚治虫"
+      },
+      "genres": ["adventure", "drama", "romance", "sci-fi"],
+      "publisher": "madhouse",
+      "release_dates": ["2001/05"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "memories",
+      "title": {
+        "zh": "回憶三部曲",
+        "ja": "MEMORIES",
+        "en": "Memories"
+      },
+      "creator": {
+        "zh": "大友克洋",
+        "ja": "大友克洋",
+        "en": "大友克洋"
+      },
+      "genres": ["adventure", "comedy", "drama", "horror", "mystery", "sci-fi"],
+      "publisher": "madhouse",
+      "release_dates": ["1995/12"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "whisper-of-the-heart",
+      "title": {
+        "zh": "心之谷",
+        "ja": "耳をすませば",
+        "en": "Whisper of the Heart"
+      },
+      "creator": {
+        "zh": "柊あおい",
+        "ja": "柊あおい",
+        "en": "柊あおい"
+      },
+      "genres": ["adventure", "drama", "romance", "slice-of-life"],
+      "publisher": "studio_ghibli",
+      "release_dates": ["1995/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "ghost-in-the-shell",
+      "title": {
+        "zh": "攻殼機動隊",
+        "ja": "GHOST IN THE SHELL / 攻殻機動隊",
+        "en": "Ghost in the Shell"
+      },
+      "creator": {
+        "zh": "士郎正宗",
+        "ja": "士郎正宗",
+        "en": "士郎正宗"
+      },
+      "genres": ["action", "sci-fi"],
+      "publisher": "production_i_g",
+      "release_dates": ["1995/11", "2004/03"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "porco-rosso",
+      "title": {
+        "zh": "紅豬",
+        "ja": "紅の豚",
+        "en": "Porco Rosso"
+      },
+      "creator": {
+        "zh": "宮崎駿",
+        "ja": "宮崎駿",
+        "en": "宮崎駿"
+      },
+      "genres": ["action", "adventure", "comedy", "drama", "romance"],
+      "publisher": "studio_ghibli",
+      "release_dates": ["1992/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "kikis-delivery-service",
+      "title": {
+        "zh": "魔女宅急便",
+        "ja": "魔女の宅急便",
+        "en": "Kiki's Delivery Service"
+      },
+      "creator": {
+        "zh": "角野栄子",
+        "ja": "角野栄子",
+        "en": "角野栄子"
+      },
+      "genres": ["adventure", "drama", "fantasy", "slice-of-life"],
+      "publisher": "studio_ghibli",
+      "release_dates": ["1989/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "my-neighbor-totoro",
+      "title": {
+        "zh": "龍貓",
+        "ja": "となりのトトロ",
+        "en": "My Neighbor Totoro"
+      },
+      "creator": {
+        "zh": "宮崎駿",
+        "ja": "宮崎駿",
+        "en": "宮崎駿"
+      },
+      "genres": ["adventure", "fantasy", "slice-of-life"],
+      "publisher": "studio_ghibli",
+      "release_dates": ["1988/04", "2002/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "vampire-hunter-d",
+      "title": {
+        "zh": "吸血鬼獵人D",
+        "ja": "吸血鬼ハンターD",
+        "en": "VAMPIRE HUNTER D"
+      },
+      "creator": {
+        "zh": "菊地秀行",
+        "ja": "菊地秀行",
+        "en": "菊地秀行"
+      },
+      "genres": ["action", "fantasy", "horror", "sci-fi"],
+      "publisher": "ajiado",
+      "release_dates": ["1985/12", "2000/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    }
+  ],
+  "manga": [
+    {
+      "key": "blue-period",
+      "title": {
+        "zh": "藍色時期",
+        "ja": "ブルーピリオド",
+        "en": "Blue Period"
+      },
+      "creator": {
+        "zh": "山口飛翔",
+        "ja": "山口飛翔",
+        "en": "山口飛翔"
+      },
+      "genres": ["drama", "slice-of-life"],
+      "publisher": "kodansha",
+      "release_dates": ["2017/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    }
+  ],
+  "novel": [],
+  "series": []
+}

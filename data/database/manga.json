@@ -1,5 +1,105 @@
 [
   {
+    "key": "umi-ga-hashiru-end-roll",
+    "title": {
+      "zh": "海波追尋的終幕",
+      "ja": "海が走るエンドロール",
+      "en": "The Credits Roll Into the Sea"
+    },
+    "creator": {
+      "zh": "John Tarachine",
+      "ja": "たらちねジョン",
+      "en": "John Tarachine"
+    },
+    "form": "manga",
+    "genres": ["drama", "slice-of-life"],
+    "publisher": "akita_shoten",
+    "release_dates": ["2021/08"],
+    "my_completed_date": null,
+    "my_status": "planned",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "tsugumomo",
+    "title": {
+      "zh": "怪怪守護神",
+      "ja": "つぐもも",
+      "en": "Tsugumomo"
+    },
+    "creator": {
+      "zh": "浜田義一",
+      "ja": "浜田よしかづ",
+      "en": "Yoshikazu Hamada"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "futabasha",
+    "release_dates": ["2008/06"],
+    "my_completed_date": null,
+    "my_status": "planned",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "berserk",
+    "title": {
+      "zh": "烙印勇士",
+      "ja": "ベルセルク",
+      "en": "Berserk"
+    },
+    "creator": {
+      "zh": "三浦建太郎",
+      "ja": "三浦建太郎",
+      "en": "Kentaro Miura"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "fantasy", "horror"],
+    "publisher": "hakusensha",
+    "release_dates": ["1989/08"],
+    "my_completed_date": null,
+    "my_status": "planned",
+    "my_score": null,
+    "note": "三浦建太郎逝世後，由 Studio Gaga 作畫、森恆二監修續作。",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "7seeds",
+    "title": {
+      "zh": "7 SEEDS~幻海奇情~",
+      "ja": "７ＳＥＥＤＳ",
+      "en": "7SEEDS"
+    },
+    "creator": {
+      "zh": "田村由美",
+      "ja": "田村由美",
+      "en": "Yumi Tamura"
+    },
+    "form": "manga",
+    "genres": ["adventure", "drama", "sci-fi"],
+    "publisher": "shogakukan",
+    "release_dates": ["2001/11"],
+    "my_completed_date": null,
+    "my_status": "planned",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
     "key": "chainsaw-man",
     "title": {
       "zh": "鏈鋸人",
@@ -41,6 +141,56 @@
     "my_status": "ongoing",
     "my_score": null,
     "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "the-climber",
+    "title": {
+      "zh": "孤高之人",
+      "ja": "孤高の人",
+      "en": "The Climber"
+    },
+    "creator": {
+      "zh": "坂本真一、鍋田吉郎、新田次郎",
+      "ja": "坂本眞一、鍋田吉郎、新田次郎",
+      "en": "Shinichi Sakamoto, Yoshiro Nabeda, Jiro Nitta"
+    },
+    "form": "manga",
+    "genres": ["drama", "sports"],
+    "publisher": "shueisha",
+    "release_dates": ["2007/11"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "brave-series",
+    "title": {
+      "zh": "勇者系列",
+      "ja": "勇者系列",
+      "en": "Brave Series"
+    },
+    "creator": {
+      "zh": "黃色書刊",
+      "ja": "黃色書刊",
+      "en": "Yellow Book"
+    },
+    "form": "manga",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "times_publishing",
+    "release_dates": ["2016/05"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": 5,
+    "note": "臺灣四格漫畫，原於作者 Facebook 連載，後出版單行本。",
     "has_article": false,
     "data_review": {
       "title_zh": "approved"
@@ -1756,7 +1906,7 @@
     "release_dates": ["2019"],
     "my_completed_date": "2022/01/28",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
     "data_review": {

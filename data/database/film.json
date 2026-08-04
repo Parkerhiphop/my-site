@@ -1,5 +1,55 @@
 [
   {
+    "key": "safe-house",
+    "title": {
+      "zh": "狡兔計畫",
+      "ja": "デンジャラス・ラン",
+      "en": "Safe House"
+    },
+    "creator": {
+      "zh": "丹尼爾艾斯皮諾沙",
+      "ja": "ダニエル・エスピノーサ",
+      "en": "Daniel Espinosa"
+    },
+    "form": "film",
+    "genres": ["action", "thriller"],
+    "publisher": "universal_pictures",
+    "release_dates": ["2012/02"],
+    "my_completed_date": null,
+    "my_status": "planned",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "woman-in-gold",
+    "title": {
+      "zh": "名畫的控訴",
+      "ja": "黄金のアデーレ 名画の帰還",
+      "en": "Woman in Gold"
+    },
+    "creator": {
+      "zh": "賽門·柯提斯",
+      "ja": "サイモン・カーティス",
+      "en": "Simon Curtis"
+    },
+    "form": "film",
+    "genres": ["drama", "historical"],
+    "publisher": "origin_pictures",
+    "release_dates": ["2015/02"],
+    "my_completed_date": null,
+    "my_status": "planned",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
     "key": "project-hail-mary",
     "title": {
       "zh": "極限返航",
@@ -69,6 +119,31 @@
     "my_status": "completed",
     "my_score": null,
     "note": "Netflix 原創動畫電影；動畫制作為 Studio Colorido / Studio Chromato。",
+    "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "soul",
+    "title": {
+      "zh": "靈魂急轉彎",
+      "ja": "ソウルフル・ワールド",
+      "en": "Soul"
+    },
+    "creator": {
+      "zh": "彼特·達克特、坎普·鮑爾斯",
+      "ja": "ピート・ドクター、ケンプ・パワーズ",
+      "en": "Pete Docter, Kemp Powers"
+    },
+    "form": "film",
+    "genres": ["comedy", "drama", "fantasy"],
+    "publisher": "pixar",
+    "release_dates": ["2020/12"],
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": 5,
+    "note": null,
     "has_article": false,
     "data_review": {
       "title_zh": "approved"
@@ -667,7 +742,7 @@
     "release_dates": ["2021/06"],
     "my_completed_date": null,
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 3,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -1632,9 +1707,9 @@
       "en": "Ya Boy Kongming! Road to Summer Sonia"
     },
     "creator": {
-      "zh": null,
-      "ja": null,
-      "en": null
+      "zh": "森見登美彥、湯淺政明",
+      "ja": "森見登美彦、湯浅政明",
+      "en": "Tomihiko Morimi, Masaaki Yuasa"
     },
     "form": "film",
     "genres": ["comedy", "drama"],
@@ -2232,9 +2307,9 @@
       "en": "The Night is Short, Walk on Girl"
     },
     "creator": {
-      "zh": null,
-      "ja": null,
-      "en": null
+      "zh": "森見登美彥、湯淺政明",
+      "ja": "森見登美彦、湯浅政明",
+      "en": "Tomihiko Morimi, Masaaki Yuasa"
     },
     "form": "film",
     "genres": ["comedy", "romance"],
@@ -2242,7 +2317,7 @@
     "release_dates": ["2017/04"],
     "my_completed_date": "",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -2517,7 +2592,7 @@
     "release_dates": ["2009/08"],
     "my_completed_date": "",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -2542,7 +2617,7 @@
     "release_dates": ["2009/08"],
     "my_completed_date": "",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
     "data_review": {
@@ -2842,7 +2917,7 @@
     "release_dates": ["2003/11"],
     "my_completed_date": "",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
     "data_review": {
