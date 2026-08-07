@@ -13,7 +13,7 @@ Hi everyone. July's article is a little late, but I am insisting that a day only
 
 Although I marked this as "Part 1," I am not sure whether "Part 2" will come out smoothly. The things I want to write next cover a wider range, and my thoughts are not clear yet, but you can look forward to it for now.
 
-The main reason I wanted to write this article was to sort through my own thoughts. It was also inspired by [持續擺擺的 29 歲](https://life.huli.tw/2024/09/23/being-29/).
+The main reason I wanted to write this article was to sort through my own thoughts. It was also inspired by [持續搖擺的 29 歲](https://life.huli.tw/2024/09/23/being-29/).
 
 ---
 
