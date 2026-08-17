@@ -44,7 +44,7 @@
     "my_status": "planned",
     "my_score": null,
     "note": null,
-    "has_article": false,
+    "has_article": true,
     "data_review": {
       "title_zh": "approved"
     }
@@ -1470,6 +1470,31 @@
     "my_score": null,
     "note": null,
     "has_article": false,
+    "data_review": {
+      "title_zh": "approved"
+    }
+  },
+  {
+    "key": "spider-man-brand-new-day",
+    "title": {
+      "zh": "蜘蛛人：重生日",
+      "ja": "スパイダーマン：ブランド・ニュー・デイ",
+      "en": "Spider-Man: Brand New Day"
+    },
+    "creator": {
+      "zh": "史丹·李、史蒂夫·迪特科、德斯汀·丹尼爾·克雷頓、湯姆·霍蘭德、辛蒂亞、莎蒂·辛克、雅各布·貝塔隆、強·柏恩瑟、馬克·盧法洛",
+      "ja": "スタン・リー、スティーヴ・ディッコ、デスティン・ダニエル・クレットン、トム・ホランド、ゼンデイヤ、セイディー・シンク、ジェイコブ・バタロン、ジョン・バーンサル、マーク・ラファロ",
+      "en": "Stan Lee, Steve Ditko, Destin Daniel Cretton, Tom Holland, Zendaya, Sadie Sink, Jacob Batalon, Jon Bernthal, Mark Ruffalo"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "sci-fi"],
+    "publisher": "marvel_studios",
+    "release_dates": ["2026/07"],
+    "my_completed_date": "2026/08/16",
+    "my_status": "completed",
+    "my_score": null,
+    "note": "台灣 2026/07/29 上映；日本與美國 2026/07/31 上映。Sony Pictures / Columbia Pictures 發行，Marvel Studios 共同製作。",
+    "has_article": true,
     "data_review": {
       "title_zh": "approved"
     }
