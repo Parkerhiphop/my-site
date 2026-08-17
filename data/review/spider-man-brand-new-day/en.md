@@ -1,25 +1,31 @@
 ---
-title: 'The Rebuilt Connections of Spider-Man: Brand New Day'
+title: '(Spoilers) Spider-Man: Brand New Day - Rebuilt Connections'
 date: '2026-08-17'
 draft: false
-summary: 'Thoughts on Spider-Man: Brand New Day, exploring loneliness, self-identity, self-indulgent sacrifice, and redemption through love.'
+summary: 'Thoughts after watching Spider-Man: Brand New Day, exploring loneliness, self-identity, self-indulgent sacrifice, and redemption through love.'
 review-by-me: true
 ---
 
 > In the previous film, No Way Home, the whole world ultimately forgot Peter Parker.
+
 > But in Brand New Day, Peter Parker is recognized by the world once again.
 
-The central theme of this Spider-Man film is "loneliness."
+As a huge Spider-Man fan, and someone whose name even comes from Spider-Man, I realized that I had somehow never written an article about Spider-Man!
 
-A teenager forgotten by his comrades, closest friends, and lover still shoulders his responsibility and protects his neighborhood.
+That said, this article will still focus on the film itself first. My own connection with Spider-Man can wait for another time.
 
-Truly, your friendly neighborhood Spider-Man.
+I loved this movie so much after watching it. It has been a long time since I saw a superhero movie so focused on portraying a single hero. It is not just focused on introducing a world and characters, nor is it a pile of visual effects and godlike battles. The story simply revolves around "Spider-Man, Peter Parker": his experiences, his state of mind, and his choices.
 
-While watching this film, I quietly connected my own feelings with Peter Parker's. The only person he can talk to on the phone is the director, and later the Punisher too. But when he asks whether they are friends, they just laugh without answering.
-Now that I have come to Tokyo, I have also arrived in a city where I have no connections. Even though I have visited a few times as a tourist, living here every day as a foreigner still gives me a powerful sense of loneliness and unfamiliarity.
+The Spider-Man in this film radiates a strong sense of "loneliness" and melancholy.
+
+A teenager forgotten by his comrades, closest friends, and lover still shoulders his responsibility and protects his neighborhood. Truly, your friendly neighborhood Spider-Man.
+
+While watching, I kept quietly connecting my own feelings with Peter Parker's. The only person he can talk to on the phone is the director, and later the Punisher too. But when he asks whether they are friends, they just laugh without answering.
+Now that I have come to Tokyo, I have also arrived in a city where I have no connections. Even though I have visited a few times as a tourist, living here every day as a foreigner also gives me a powerful sense of loneliness and unfamiliarity.
 
 The things he usually does also feel a lot like me: writing code and talking with his AI, E.V.
-It suddenly reminded me that when I used to watch sci-fi movies like this, I always thought the scientists typing away in front of multiple screens looked so cool. I never expected that I would now be doing something fairly similar, though most of what I write these days is not especially interesting.
+
+It suddenly reminded me that when I used to watch sci-fi movies like this, I always thought the scientists typing away in front of multiple screens looked so cool. Maybe that was also one small reason I wanted to become a software engineer back then.
 
 ## From Loneliness to Mutation
 
@@ -60,8 +66,6 @@ If it were the old me, I might have found this kind of tragic hero silently taki
 The film's arrangement is also clever. Even though Peter Parker keeps his distance from MJ to protect her, MJ still ends up in danger. That makes Peter's four years of sacrifice and pain feel futile.
 
 Fortunately, though, this also becomes the trigger that breaks Peter Parker out of his continued, silent sacrifice.
-
-It has been a long time since I saw a superhero movie so focused on portraying a single hero. It is not just focused on introducing a world and characters, nor is it a pile of visual effects and godlike battles. The story simply revolves around "him": his experiences, his state of mind, and his choices.
 
 ## Redemption Through Love
 
