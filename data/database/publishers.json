@@ -853,5 +853,50 @@
     "zh": "Origin Pictures",
     "ja": "Origin Pictures",
     "en": "Origin Pictures"
+  },
+  "coamix": {
+    "zh": "Coamix",
+    "ja": "コアミックス",
+    "en": "Coamix"
+  },
+  "earth_star_entertainment": {
+    "zh": "Earth Star Entertainment",
+    "ja": "アース・スター エンターテイメント",
+    "en": "Earth Star Entertainment"
+  },
+  "houbunsha": {
+    "zh": "芳文社",
+    "ja": "芳文社",
+    "en": "Houbunsha"
+  },
+  "ichijinsha": {
+    "zh": "一迅社",
+    "ja": "一迅社",
+    "en": "Ichijinsha"
+  },
+  "mag_garden": {
+    "zh": "Mag Garden",
+    "ja": "マッグガーデン",
+    "en": "Mag Garden"
+  },
+  "overlap": {
+    "zh": "Overlap",
+    "ja": "オーバーラップ",
+    "en": "Overlap"
+  },
+  "self_published": {
+    "zh": "自費出版",
+    "ja": "自費出版",
+    "en": "Self-published"
+  },
+  "shinchosha": {
+    "zh": "新潮社",
+    "ja": "新潮社",
+    "en": "Shinchosha"
+  },
+  "shonen_gahosha": {
+    "zh": "少年畫報社",
+    "ja": "少年画報社",
+    "en": "Shonen Gahosha"
   }
 }

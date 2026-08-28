@@ -408,6 +408,11 @@ export default function Works({ locale, availableLocales }) {
   const [sort, setSort] = useState({ key: 'completed', direction: 'desc' });
   const [filters, setFilters] = useState(initialFilters);
 
+  const localizedWorks = useMemo(
+    () => works.filter((work) => Boolean(localizedField(work, 'title', locale)?.trim())),
+    [locale]
+  );
+
   const genres = useMemo(() => Object.keys(maps.genre), []);
   const releaseDateOptions = useMemo(
     () => dateOptions(works.flatMap((work) => work.release_dates ?? [])),
@@ -426,7 +431,7 @@ export default function Works({ locale, availableLocales }) {
     }
     return relatedMap;
   }, []);
-  const totalCount = works.length;
+  const totalCount = localizedWorks.length;
   const isWatchingNowActive = filters.status.length === 1 && filters.status[0] === 'ongoing';
   const isPlannedListActive = filters.status.length === 1 && filters.status[0] === 'planned';
   const activeFilterCount = [
@@ -440,7 +445,7 @@ export default function Works({ locale, availableLocales }) {
   ].reduce((total, count) => total + count, 0);
 
   const filteredWorks = useMemo(() => {
-    const filtered = works.filter((work) => {
+    const filtered = localizedWorks.filter((work) => {
       const title = localizedField(work, 'title', locale);
       const creator = localizedField(work, 'creator', locale);
       const searchableText = [
@@ -500,7 +505,7 @@ export default function Works({ locale, availableLocales }) {
       }
       return 0;
     });
-  }, [filters, locale, sort]);
+  }, [filters, locale, localizedWorks, sort]);
 
   useEffect(() => {
     if (!router.isReady) return;

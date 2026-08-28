@@ -20,9 +20,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "tsugumomo",
@@ -45,9 +43,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "berserk",
@@ -70,9 +66,7 @@
     "my_score": null,
     "note": "三浦建太郎逝世後，由 Studio Gaga 作畫、森恆二監修續作。",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "7seeds",
@@ -95,9 +89,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "chainsaw-man",
@@ -119,7 +111,8 @@
     "my_status": "on_hold",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "nippon-sangoku",
@@ -142,9 +135,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-climber",
@@ -164,12 +155,10 @@
     "release_dates": ["2007/11"],
     "my_completed_date": null,
     "my_status": "completed",
-    "my_score": 3,
+    "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "brave-series",
@@ -192,9 +181,7 @@
     "my_score": 5,
     "note": "臺灣四格漫畫，原於作者 Facebook 連載，後出版單行本。",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "drama-queen",
@@ -216,7 +203,8 @@
     "my_status": "ongoing",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "centuria",
@@ -238,7 +226,8 @@
     "my_status": "ongoing",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "helck",
@@ -260,7 +249,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sakamoto-days",
@@ -282,7 +272,8 @@
     "my_status": "on_hold",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "tokyo-revengers",
@@ -304,7 +295,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kemono-jihen",
@@ -326,7 +318,8 @@
     "my_status": "on_hold",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-dungeon-of-black-company",
@@ -348,7 +341,8 @@
     "my_status": "on_hold",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "im-standing-on-a-million-lives",
@@ -370,7 +364,8 @@
     "my_status": "on_hold",
     "my_score": 3,
     "note": "哀傷的設定，對社會運作的思考很深入。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "demon-slayer-kimetsu-no-yaiba",
@@ -392,7 +387,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": "漫畫本身還好，結尾也差強人意，但是 ufotable 做的動畫真的非常讚。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "biaoren",
@@ -414,7 +410,8 @@
     "my_status": "on_hold",
     "my_score": 3,
     "note": "中國武俠題材，畫工跟氣氛的營造都很有味道，非常推薦。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "dan-da-dan",
@@ -436,7 +433,8 @@
     "my_status": "ongoing",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "hero-killer",
@@ -459,9 +457,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "sera",
@@ -484,9 +480,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "manager-kim",
@@ -509,9 +503,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-peenky-promise",
@@ -534,9 +526,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-player-hides-his-past",
@@ -559,9 +549,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "killer-peter",
@@ -584,9 +572,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-superhuman-era",
@@ -609,9 +595,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "lookism",
@@ -634,9 +618,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-last-passage",
@@ -659,9 +641,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "apocalypse-in-seoul",
@@ -684,9 +664,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "tower-of-god-urek-mazino",
@@ -709,9 +687,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "mercenary-enrollment",
@@ -734,9 +710,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "unemployed-gye-baek-soon",
@@ -759,9 +733,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "plagiarism-suspicion",
@@ -784,9 +756,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-knight-only-lives-today",
@@ -806,12 +776,10 @@
     "release_dates": ["2024/05"],
     "my_completed_date": "2026/05/19",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 3,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-world-after-the-fall",
@@ -834,9 +802,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "baek-xx",
@@ -859,9 +825,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "return-of-the-blossoming-blade",
@@ -884,9 +848,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "get-schooled",
@@ -909,9 +871,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-greatest-estate-developer",
@@ -931,12 +891,10 @@
     "release_dates": ["2021/08"],
     "my_completed_date": "2026/05/19",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "black-box",
@@ -959,9 +917,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-crown-prince-that-sells-medicine",
@@ -984,9 +940,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "mist-prison",
@@ -1009,9 +963,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "restricted-area-management-department",
@@ -1034,9 +986,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "omniscient-reader",
@@ -1059,9 +1009,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "return-of-the-mad-demon",
@@ -1084,9 +1032,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "heavenly-demon-cultivation-simulation",
@@ -1109,9 +1055,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "hell-creator",
@@ -1134,9 +1078,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "grandpa-warrior-and-supreme-granddaughter",
@@ -1159,9 +1101,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "body-scout",
@@ -1184,9 +1124,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "shelter-of-the-apocalypse",
@@ -1209,9 +1147,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "questism",
@@ -1234,9 +1170,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "loser-life-2",
@@ -1259,9 +1193,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "tower-of-god",
@@ -1284,9 +1216,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "my-s-class-hunters",
@@ -1309,9 +1239,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "juvenile-offender",
@@ -1334,9 +1262,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "returned-from-another-world-and-enlisted",
@@ -1359,9 +1285,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "viral-hit",
@@ -1384,9 +1308,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "doom-breaker",
@@ -1409,9 +1331,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "hive",
@@ -1434,9 +1354,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "youth-white-paper",
@@ -1459,9 +1377,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "hardcore-leveling-warrior",
@@ -1484,9 +1400,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "distant-sky",
@@ -1509,9 +1423,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "money-game",
@@ -1534,9 +1446,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "love-revolution",
@@ -1559,9 +1469,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-god-of-high-school",
@@ -1584,9 +1492,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "naras-list",
@@ -1609,9 +1515,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "tales-of-the-unusual-shop",
@@ -1634,9 +1538,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "terror-vs-revival",
@@ -1659,9 +1561,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "loser-life",
@@ -1684,9 +1584,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "vigilante",
@@ -1709,9 +1607,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "island",
@@ -1734,9 +1630,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "island-part-2",
@@ -1759,9 +1653,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "return-of-the-blossoming-blade-season-1",
@@ -1784,9 +1676,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-golden-spoon",
@@ -1809,9 +1699,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "tales-of-the-unusual",
@@ -1834,9 +1722,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "dice",
@@ -1859,9 +1745,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "my-id-is-gangnam-beauty",
@@ -1884,9 +1768,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "w-manhwa",
@@ -1909,9 +1791,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "bloody-sweet",
@@ -1934,9 +1814,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "sweet-home",
@@ -1959,9 +1837,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "noblesse",
@@ -1984,9 +1860,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "revival-man",
@@ -2009,9 +1883,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "terror-man",
@@ -2034,9 +1906,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "neolithic-girl",
@@ -2059,9 +1929,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "flower-boy-k-house",
@@ -2084,9 +1952,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "blade-of-the-phantom-master",
@@ -2109,9 +1975,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "melo-holic",
@@ -2134,9 +1998,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "my-wife-is-a-vampire",
@@ -2159,9 +2021,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "super-secret",
@@ -2184,9 +2044,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "friday-forbidden-tales",
@@ -2209,9 +2067,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "hell-is-the-end",
@@ -2234,9 +2090,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "about-time",
@@ -2259,9 +2113,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "invisible-roommate",
@@ -2284,9 +2136,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "bastard",
@@ -2309,9 +2159,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-princess-never-sleeps",
@@ -2334,9 +2182,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "flood",
@@ -2359,9 +2205,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "about-death",
@@ -2384,8 +2228,3342 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
+  },
+  {
+    "key": "the-unwanted-undead-adventurer",
+    "title": {
+      "zh": "非自願的不死冒險者",
+      "ja": "望まぬ不死の冒険者",
+      "en": "The Unwanted Undead Adventurer"
+    },
+    "creator": {
+      "zh": "中曽根ハイジ / 丘野優",
+      "ja": "中曽根ハイジ / 丘野優",
+      "en": "Haiji Nakasone / Yuu Okano"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "overlap",
+    "release_dates": ["2017/11"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "under-ninja",
+    "title": {
+      "zh": "地下忍者",
+      "ja": "アンダーニンジャ",
+      "en": "Under Ninja"
+    },
+    "creator": {
+      "zh": "花沢健吾",
+      "ja": "花沢健吾",
+      "en": "Kengo Hanazawa"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy"],
+    "publisher": "kodansha",
+    "release_dates": ["2018/07"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "one-punch-man",
+    "title": {
+      "zh": "一拳超人",
+      "ja": "ワンパンマン",
+      "en": "One-Punch Man"
+    },
+    "creator": {
+      "zh": "ONE / 村田雄介",
+      "ja": "ONE / 村田雄介",
+      "en": "ONE / Yuusuke Murata"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "sci-fi", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2012/06"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "usogui",
+    "title": {
+      "zh": "噬謊者",
+      "ja": "嘘喰い",
+      "en": "Usogui"
+    },
+    "creator": {
+      "zh": "迫稔雄",
+      "ja": "迫稔雄",
+      "en": "Toshio Sako"
+    },
+    "form": "manga",
+    "genres": ["action", "thriller"],
+    "publisher": "shueisha",
+    "release_dates": ["2006/05"],
+    "end_date": "2017/12",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "high-rise-invasion",
+    "title": {
+      "zh": "天空侵犯",
+      "ja": "天空侵犯",
+      "en": "High-Rise Invasion"
+    },
+    "creator": {
+      "zh": "三浦追儺",
+      "ja": "三浦追儺",
+      "en": "Tsuina Miura"
+    },
+    "form": "manga",
+    "genres": ["action", "horror", "mystery"],
+    "publisher": "kodansha",
+    "release_dates": ["2013/12"],
+    "end_date": "2018/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "choujin-x",
+    "title": {
+      "zh": "超人X",
+      "ja": "超人X",
+      "en": "Choujin X"
+    },
+    "creator": {
+      "zh": "石田スイ",
+      "ja": "石田スイ",
+      "en": "Sui Ishida"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "fantasy", "thriller"],
+    "publisher": "shueisha",
+    "release_dates": ["2021/05"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "batuque",
+    "title": {
+      "zh": "巴突克戰舞",
+      "ja": "バトゥーキ",
+      "en": "Batuque"
+    },
+    "creator": {
+      "zh": "迫稔雄",
+      "ja": "迫稔雄",
+      "en": "Toshio Sako"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "sports"],
+    "publisher": "shueisha",
+    "release_dates": ["2018/07"],
+    "end_date": "2023/12",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "dead-mount-death-play",
+    "title": {
+      "zh": "亡骸遊戲",
+      "ja": "デッドマウント・デスプレイ",
+      "en": "Dead Mount Death Play"
+    },
+    "creator": {
+      "zh": "成田良悟 / 藤本新太",
+      "ja": "成田良悟 / 藤本新太",
+      "en": "Ryougo Narita / Shinta Fujimoto"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy", "thriller"],
+    "publisher": "square_enix",
+    "release_dates": ["2017/10"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "witch-hat-atelier",
+    "title": {
+      "zh": "尖帽子的魔法工房",
+      "ja": "とんがり帽子のアトリエ",
+      "en": "Witch Hat Atelier"
+    },
+    "creator": {
+      "zh": "白浜鴎",
+      "ja": "白浜鴎",
+      "en": "Kamome Shirahama"
+    },
+    "form": "manga",
+    "genres": ["adventure", "drama", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2016/07"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "level-1-demon-lord-and-one-room-hero",
+    "title": {
+      "zh": "LV1魔王與獨居廢勇者",
+      "ja": "Lv1魔王とワンルーム勇者",
+      "en": "Level 1 Demon Lord and One Room Hero"
+    },
+    "creator": {
+      "zh": "豆腐",
+      "ja": "豆腐",
+      "en": "Toufu"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "houbunsha",
+    "release_dates": ["2019/03"],
+    "end_date": "2024/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "vinland-saga",
+    "title": {
+      "zh": "海盜戰記",
+      "ja": "ヴィンランド・サガ",
+      "en": "Vinland Saga"
+    },
+    "creator": {
+      "zh": "幸村誠",
+      "ja": "幸村誠",
+      "en": "Makoto Yukimura"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama"],
+    "publisher": "kodansha",
+    "release_dates": ["2005/04"],
+    "end_date": "2025/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kaiju-no-8",
+    "title": {
+      "zh": "怪獸8號",
+      "ja": "怪獣８号",
+      "en": "Kaiju No.8"
+    },
+    "creator": {
+      "zh": "松本直也 / Blanca Mira",
+      "ja": "松本直也 / Blanca Mira",
+      "en": "Naoya Matsumoto / Blanca Mira"
+    },
+    "form": "manga",
+    "genres": ["action", "sci-fi"],
+    "publisher": "shueisha",
+    "release_dates": ["2020/07"],
+    "end_date": "2025/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "uncle-from-another-world",
+    "title": {
+      "zh": "異世界叔叔",
+      "ja": "異世界おじさん",
+      "en": "Uncle from Another World"
+    },
+    "creator": {
+      "zh": "殆ど死んでいる",
+      "ja": "殆ど死んでいる",
+      "en": "Shindeiru Hotondo"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy", "slice-of-life"],
+    "publisher": "kadokawa",
+    "release_dates": ["2018/06"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "satanophany",
+    "title": {
+      "zh": "Satanophany",
+      "ja": "サタノファニ",
+      "en": "Satanophany"
+    },
+    "creator": {
+      "zh": "山田恵庸",
+      "ja": "山田恵庸",
+      "en": "Yoshinobu Yamada"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "mystery", "fantasy", "thriller"],
+    "publisher": "kodansha",
+    "release_dates": ["2017/03"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "noragami-stray-god",
+    "title": {
+      "zh": "野良神",
+      "ja": "ノラガミ",
+      "en": "Noragami: Stray God"
+    },
+    "creator": {
+      "zh": "あだちとか",
+      "ja": "あだちとか",
+      "en": "Adachitoka"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "romance", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2010/12"],
+    "end_date": "2024/01",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "that-time-i-got-reincarnated-as-a-slime",
+    "title": {
+      "zh": "關於我轉生後成為史萊姆的那件事",
+      "ja": "転生したらスライムだった件",
+      "en": "That Time I Got Reincarnated as a Slime"
+    },
+    "creator": {
+      "zh": "伏瀬 / 川上泰樹",
+      "ja": "伏瀬 / 川上泰樹",
+      "en": "Fuse / Taiki Kawakami"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2015/03"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kowloon-generic-romance",
+    "title": {
+      "zh": "九龍大眾浪漫",
+      "ja": "九龍ジェネリックロマンス",
+      "en": "Kowloon Generic Romance"
+    },
+    "creator": {
+      "zh": "眉月じゅん",
+      "ja": "眉月じゅん",
+      "en": "Jun Mayuzuki"
+    },
+    "form": "manga",
+    "genres": ["drama", "mystery", "romance", "sci-fi", "slice-of-life"],
+    "publisher": "shueisha",
+    "release_dates": ["2019/11"],
+    "end_date": "2026/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "shangri-la-frontier",
+    "title": {
+      "zh": "香格里拉·弗隴提亞~屎作獵人向神作發起挑戰~",
+      "ja": "シャングリラ・フロンティア〜クソゲーハンター, 神ゲーに挑まんとす〜",
+      "en": "Shangri-La Frontier"
+    },
+    "creator": {
+      "zh": "不二涼介 / 硬梨菜",
+      "ja": "不二涼介 / 硬梨菜",
+      "en": "Ryousuke Fuji / Katarina"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy", "sci-fi"],
+    "publisher": "kodansha",
+    "release_dates": ["2020/07"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "oshi-no-ko",
+    "title": {
+      "zh": "【我推的孩子】",
+      "ja": "【推しの子】",
+      "en": "[Oshi no Ko]"
+    },
+    "creator": {
+      "zh": "赤坂アカ / 橫槍メンゴ",
+      "ja": "赤坂アカ / 橫槍メンゴ",
+      "en": "Aka Akasaka / Mengo Yokoyari"
+    },
+    "form": "manga",
+    "genres": ["drama", "mystery", "thriller", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2020/04"],
+    "end_date": "2024/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "boku-ga-shinu-dake-no-hyakumonogatari",
+    "title": {
+      "zh": "我死前的百物語",
+      "ja": "僕が死ぬだけの百物語",
+      "en": "Boku ga Shinu Dake no Hyakumonogatari"
+    },
+    "creator": {
+      "zh": "的野安志",
+      "ja": "的野アンジ",
+      "en": "Anji Matono"
+    },
+    "form": "manga",
+    "genres": ["horror", "mystery"],
+    "publisher": "shogakukan",
+    "release_dates": ["2020/12"],
+    "end_date": "2025/03",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "goblin-slayer",
+    "title": {
+      "zh": "哥布林殺手",
+      "ja": "ゴブリンスレイヤー",
+      "en": "Goblin Slayer"
+    },
+    "creator": {
+      "zh": "蝸牛くも / 黒瀬浩介",
+      "ja": "蝸牛くも / 黒瀬浩介",
+      "en": "Kumo Kagyuu / Kousuke Kurose"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "square_enix",
+    "release_dates": ["2016/05"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "space-brothers",
+    "title": {
+      "zh": "宇宙兄弟",
+      "ja": "宇宙兄弟",
+      "en": "Space Brothers"
+    },
+    "creator": {
+      "zh": "小山宙哉 / 手石ロウ",
+      "ja": "小山宙哉 / 手石ロウ",
+      "en": "Chuuya Koyama / Teishirou"
+    },
+    "form": "manga",
+    "genres": ["sci-fi", "slice-of-life"],
+    "publisher": "kodansha",
+    "release_dates": ["2007/12"],
+    "end_date": "2026/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "mushoku-tensei-jobless-reincarnation",
+    "title": {
+      "zh": "無職轉生",
+      "ja": "無職転生 ～異世界行ったら本気だす～",
+      "en": "Mushoku Tensei: Jobless Reincarnation"
+    },
+    "creator": {
+      "zh": "理不盡な孫の手 / 藤川祐華",
+      "ja": "理不盡な孫の手 / 藤川祐華",
+      "en": "Rifujin na Magonote / Yuka Fujikawa"
+    },
+    "form": "manga",
+    "genres": ["adventure", "drama", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2014/05"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "darwins-game",
+    "title": {
+      "zh": "達爾文遊戲",
+      "ja": "ダーウィンズゲーム",
+      "en": "Darwin's Game"
+    },
+    "creator": {
+      "zh": "FLIPFLOPs",
+      "ja": "FLIPFLOPs",
+      "en": "FLIPFLOPs"
+    },
+    "form": "manga",
+    "genres": ["action", "mystery"],
+    "publisher": "kadokawa",
+    "release_dates": ["2012/12"],
+    "end_date": "2023/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "dark-gathering",
+    "title": {
+      "zh": "黑暗集會",
+      "ja": "ダークギャザリング",
+      "en": "Dark Gathering"
+    },
+    "creator": {
+      "zh": "近藤憲一",
+      "ja": "近藤憲一",
+      "en": "Kenichi Kondou"
+    },
+    "form": "manga",
+    "genres": ["adventure", "horror", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2019/03"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "volundio-divergent-sword-saga",
+    "title": {
+      "zh": "異劍戰記Völundio",
+      "ja": "異剣戦記ヴェルンディオ",
+      "en": "Völundio: Divergent Sword Saga"
+    },
+    "creator": {
+      "zh": "七尾七希",
+      "ja": "七尾ナナキ",
+      "en": "Nanaki Nanao"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["2020/08"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "ginrou-blood-bone",
+    "title": {
+      "zh": "銀狼血骨",
+      "ja": "銀狼ブラッドボーン",
+      "en": "Ginrou Blood Bone"
+    },
+    "creator": {
+      "zh": "艮田竜和",
+      "ja": "艮田竜和",
+      "en": "Tatsukazu Konda"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "horror", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["2015/04"],
+    "end_date": "2021/10",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-kingdoms-of-ruin",
+    "title": {
+      "zh": "破滅之國",
+      "ja": "はめつのおうこく",
+      "en": "The Kingdoms of Ruin"
+    },
+    "creator": {
+      "zh": "梶軒タガネ",
+      "ja": "梶軒タガネ",
+      "en": "Tagane Kajinoki"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "mag_garden",
+    "release_dates": ["2019/05"],
+    "end_date": "2026/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-rising-of-the-shield-hero",
+    "title": {
+      "zh": "盾之勇者成名錄",
+      "ja": "盾の勇者の成り上がり",
+      "en": "The Rising of the Shield Hero"
+    },
+    "creator": {
+      "zh": "藍屋球 / アネコユサギ",
+      "ja": "藍屋球 / アネコユサギ",
+      "en": "Kyu Aiya / Aneko Yusagi"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2014/02"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "delicious-in-dungeon",
+    "title": {
+      "zh": "迷宮飯",
+      "ja": "ダンジョン飯",
+      "en": "Delicious in Dungeon"
+    },
+    "creator": {
+      "zh": "九井諒子",
+      "ja": "九井諒子",
+      "en": "Ryouko Kui"
+    },
+    "form": "manga",
+    "genres": ["adventure", "comedy", "drama", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2014/02"],
+    "end_date": "2023/09",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-idaten-deities-know-only-peace",
+    "title": {
+      "zh": "平穩世代的韋馱天們",
+      "ja": "平穏世代の韋駄天達",
+      "en": "The Idaten Deities Know Only Peace"
+    },
+    "creator": {
+      "zh": "天原 / クール教信者",
+      "ja": "天原 / クール教信者",
+      "en": "Amahara / Cool-kyou Shinja"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "hakusensha",
+    "release_dates": ["2018/08"],
+    "end_date": "2024/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kunoichi-tsubaki-no-mune-no-uchi",
+    "title": {
+      "zh": "女忍者椿的心事",
+      "ja": "くノ一ツバキの胸の内",
+      "en": "Kunoichi Tsubaki no Mune no Uchi"
+    },
+    "creator": {
+      "zh": "山本崇一朗",
+      "ja": "山本崇一朗",
+      "en": "Souichirou Yamamoto"
+    },
+    "form": "manga",
+    "genres": ["comedy", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["2018/01"],
+    "end_date": "2023/05",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "mashle-magic-and-muscles",
+    "title": {
+      "zh": "物理魔法使馬修",
+      "ja": "マッシュル-MASHLE-",
+      "en": "Mashle: Magic and Muscles"
+    },
+    "creator": {
+      "zh": "甲本一 / 城本祥",
+      "ja": "甲本一 / 城本祥",
+      "en": "Hajime Koumoto / Shou Shiromoto"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2020/01"],
+    "end_date": "2023/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "rikudou",
+    "title": {
+      "zh": "陸道",
+      "ja": "リクドウ",
+      "en": "Rikudou"
+    },
+    "creator": {
+      "zh": "松原利光",
+      "ja": "松原利光",
+      "en": "Toshimitsu Matsubara"
+    },
+    "form": "manga",
+    "genres": ["drama", "sports"],
+    "publisher": "shueisha",
+    "release_dates": ["2014/04"],
+    "end_date": "2019/05",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-fable",
+    "title": {
+      "zh": "殺手寓言",
+      "ja": "ザ・ファブル",
+      "en": "The Fable"
+    },
+    "creator": {
+      "zh": "南勝久",
+      "ja": "南勝久",
+      "en": "Katsuhisa Minami"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "drama", "romance"],
+    "publisher": "kodansha",
+    "release_dates": ["2014/11"],
+    "end_date": "2019/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用者提供別名「寓言殺手」；正式繁中常見譯名為「殺手寓言」。",
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "skeleton-knight-in-another-world",
+    "title": {
+      "zh": "骸骨騎士大人異世界冒險中",
+      "ja": "骸骨騎士様、只今異世界へお出掛け中",
+      "en": "Skeleton Knight in Another World"
+    },
+    "creator": {
+      "zh": "澤野明",
+      "ja": "澤野明",
+      "en": "Akira Sawano"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "overlap",
+    "release_dates": ["2017/02"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "talentless-nana",
+    "title": {
+      "zh": "無能的奈奈",
+      "ja": "無能なナナ",
+      "en": "Talentless Nana"
+    },
+    "creator": {
+      "zh": "るーすぼーい ",
+      "ja": "るーすぼーい ",
+      "en": "Loose Boy"
+    },
+    "form": "manga",
+    "genres": ["drama", "horror", "mystery", "thriller", "fantasy"],
+    "publisher": "square_enix",
+    "release_dates": ["2016/05"],
+    "end_date": "2026/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "heavenly-delusion",
+    "title": {
+      "zh": "天國大魔境",
+      "ja": "天国大魔境",
+      "en": "Heavenly Delusion"
+    },
+    "creator": {
+      "zh": "石黒正教",
+      "ja": "石黒正教",
+      "en": "Masakazu Ishiguro"
+    },
+    "form": "manga",
+    "genres": ["adventure", "drama", "mystery"],
+    "publisher": "kodansha",
+    "release_dates": ["2018/01"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "blue-giant",
+    "title": {
+      "zh": "BLUE GIANT",
+      "ja": "BLUE GIANT",
+      "en": "Blue Giant"
+    },
+    "creator": {
+      "zh": "石塚真一",
+      "ja": "石塚真一",
+      "en": "Shinichi Ishizuka"
+    },
+    "form": "manga",
+    "genres": ["drama", "slice-of-life"],
+    "publisher": "shogakukan",
+    "release_dates": ["2013/05"],
+    "end_date": "2016/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "otaku-elf",
+    "title": {
+      "zh": "江戶前的廢柴精靈",
+      "ja": "江戸前エルフ",
+      "en": "Otaku Elf"
+    },
+    "creator": {
+      "zh": "樋口彰彥",
+      "ja": "樋口彰彥",
+      "en": "Akihiko Higuchi"
+    },
+    "form": "manga",
+    "genres": ["comedy", "slice-of-life", "fantasy"],
+    "publisher": "shonen_gahosha",
+    "release_dates": ["2019/06"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kemono-michi",
+    "title": {
+      "zh": "萌獸寵物店",
+      "ja": "けものみち",
+      "en": "Kemono Michi"
+    },
+    "creator": {
+      "zh": "暁なつめ",
+      "ja": "暁なつめ",
+      "en": "Natsume Akatsuki"
+    },
+    "form": "manga",
+    "genres": ["comedy", "fantasy", "slice-of-life"],
+    "publisher": "kadokawa",
+    "release_dates": ["2016/11"],
+    "end_date": "2024/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "hells-paradise-jigokuraku",
+    "title": {
+      "zh": "地獄樂",
+      "ja": "地獄楽",
+      "en": "Hell’s Paradise: Jigokuraku"
+    },
+    "creator": {
+      "zh": "賀來ゆうじ / 龍幸伸",
+      "ja": "賀來ゆうじ / 龍幸伸",
+      "en": "Yuuji Kaku / Yukinobu Tatsu"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "mystery", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2018/01"],
+    "end_date": "2021/01",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "mob-psycho-100",
+    "title": {
+      "zh": "靈能百分百",
+      "ja": "モブサイコ100",
+      "en": "Mob Psycho 100"
+    },
+    "creator": {
+      "zh": "ONE",
+      "ja": "ONE",
+      "en": "ONE"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "drama", "thriller", "slice-of-life"],
+    "publisher": "shogakukan",
+    "release_dates": ["2012/04"],
+    "end_date": "2017/12",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "requiem-of-the-rose-king",
+    "title": {
+      "zh": "薔薇園傳奇",
+      "ja": "薔薇王の葬列",
+      "en": "Requiem of the Rose King"
+    },
+    "creator": {
+      "zh": "菅野文 / William Shakespeare",
+      "ja": "菅野文 / William Shakespeare",
+      "en": "Aya Kanno / William Shakespeare"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "akita_shoten",
+    "release_dates": ["2013/10"],
+    "end_date": "2022/01",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "ranking-of-kings",
+    "title": {
+      "zh": "國王排名",
+      "ja": "王様ランキング",
+      "en": "Ranking of Kings"
+    },
+    "creator": {
+      "zh": "十日草輔",
+      "ja": "十日草輔",
+      "en": "Sousuke Touka"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2017/05"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "bungo-stray-dogs",
+    "title": {
+      "zh": "文豪野犬",
+      "ja": "文豪ストレイドッグス",
+      "en": "Bungo Stray Dogs"
+    },
+    "creator": {
+      "zh": "朝霧カフカ / 春河35",
+      "ja": "朝霧カフカ / 春河35",
+      "en": "Kafka Asagiri / Harukawa35"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "mystery", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2012/12"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "fire-force",
+    "title": {
+      "zh": "炎炎之消防隊",
+      "ja": "炎炎ノ消防隊",
+      "en": "Fire Force"
+    },
+    "creator": {
+      "zh": "大久保篤 / 裡那圭",
+      "ja": "大久保篤 / 裡那圭",
+      "en": "Atsushi Ookubo / Kei Urana"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "sci-fi", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2015/09"],
+    "end_date": "2022/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "zatch-bell",
+    "title": {
+      "zh": "金童卡修",
+      "ja": "金色のガッシュ!!",
+      "en": "Zatch Bell!"
+    },
+    "creator": {
+      "zh": "雷句誠 / 田辺イエロウ",
+      "ja": "雷句誠 / 田辺イエロウ",
+      "en": "Makoto Raiku / Yellow Tanabe"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["2001/05"],
+    "end_date": "2007/12",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "zombie-land-saga-gaiden-the-first-zombiee",
+    "title": {
+      "zh": "佐賀偶像是傳奇外傳 The·First·Zombiee",
+      "ja": "ゾンビランドサガ外伝 ザ・ファースト・ゾンビィ",
+      "en": "Zombie Land Saga Gaiden: The First Zombiee"
+    },
+    "creator": {
+      "zh": "深川可純 / 廣報廣聽課殭屍係",
+      "ja": "深川可純 / 広報広聴課ゾンビ係",
+      "en": "Kasumi Fukagawa / Zombie Land Saga Project"
+    },
+    "form": "manga",
+    "genres": ["comedy", "horror"],
+    "publisher": "shueisha",
+    "release_dates": ["2021/05"],
+    "end_date": "2022/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "golden-kamuy",
+    "title": {
+      "zh": "黃金神威",
+      "ja": "ゴールデンカムイ",
+      "en": "Golden Kamuy"
+    },
+    "creator": {
+      "zh": "野田サトル",
+      "ja": "野田サトル",
+      "en": "Satoru Noda"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "drama"],
+    "publisher": "shueisha",
+    "release_dates": ["2014/08"],
+    "end_date": "2022/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-reprise-of-the-spear-hero",
+    "title": {
+      "zh": "槍之勇者重生錄",
+      "ja": "槍の勇者のやり直し",
+      "en": "The Reprise of the Spear Hero"
+    },
+    "creator": {
+      "zh": "アネコユサギ",
+      "ja": "アネコユサギ",
+      "en": "Aneko Yusagi"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2017/09"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "durarara-saika-arc",
+    "title": {
+      "zh": "無頭騎士異聞錄罪歌篇",
+      "ja": "デュラララ!! 罪歌編",
+      "en": "Durarara!! Saika Arc"
+    },
+    "creator": {
+      "zh": "成田良悟 / ヤスダスズヒト",
+      "ja": "成田良悟 / ヤスダスズヒト",
+      "en": "Ryougo Narita / Suzuhito Yasuda"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "drama", "romance", "fantasy"],
+    "publisher": "square_enix",
+    "release_dates": ["2011/09"],
+    "end_date": "2013/01",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "id-invaded-brake-broken",
+    "title": {
+      "zh": "ID:INVADED",
+      "ja": "ID: INVADED #BRAKE BROKEN",
+      "en": "ID:Invaded #Brake-Broken"
+    },
+    "creator": {
+      "zh": "舞城王太郎 / 小玉有起",
+      "ja": "舞城王太郎 / 小玉有起",
+      "en": "Outarou Maijou / Yuuki Kodama"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "mystery", "fantasy", "thriller"],
+    "publisher": "kadokawa",
+    "release_dates": ["2019/10"],
+    "end_date": "2020/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "love-after-world-domination",
+    "title": {
+      "zh": "戀愛要在世界征服後",
+      "ja": "恋は世界征服のあとで",
+      "en": "Love After World Domination"
+    },
+    "creator": {
+      "zh": "野田宏 / 若松卓宏",
+      "ja": "野田宏 / 若松卓宏",
+      "en": "Hiroshi Noda / Takahiro Wakamatsu"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "romance", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2019/10"],
+    "end_date": "2022/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "deadman-wonderland",
+    "title": {
+      "zh": "亡靈幻境",
+      "ja": "デッドマン・ワンダーランド",
+      "en": "Deadman Wonderland"
+    },
+    "creator": {
+      "zh": "片岡人生 / 近藤一馬",
+      "ja": "片岡人生 / 近藤一馬",
+      "en": "Jinsei Kataoka / Kazuma Kondou"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "sci-fi", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2007/04"],
+    "end_date": "2013/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "yokai-doctor",
+    "title": {
+      "zh": "妖怪醫生",
+      "ja": "妖怪のお医者さん",
+      "en": "Yokai Doctor"
+    },
+    "creator": {
+      "zh": "佐藤友生 / 諫山創",
+      "ja": "佐藤友生 / 諫山創",
+      "en": "Yuuki Satou / Hajime Isayama"
+    },
+    "form": "manga",
+    "genres": ["comedy", "romance", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2006/07"],
+    "end_date": "2011/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "denjin-n",
+    "title": {
+      "zh": "電人N",
+      "ja": "電人N",
+      "en": "Denjin N"
+    },
+    "creator": {
+      "zh": "蔵石ユウ / イナベカズ",
+      "ja": "蔵石ユウ / イナベカズ",
+      "en": "Yuu Kuraishi / Kazu Inabe"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "horror", "mystery", "thriller"],
+    "publisher": "kodansha",
+    "release_dates": ["2019/04"],
+    "end_date": "2020/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-vertical-world",
+    "title": {
+      "zh": "縱之國",
+      "ja": "タテの国",
+      "en": "The Vertical World"
+    },
+    "creator": {
+      "zh": "田中空",
+      "ja": "田中空",
+      "en": "Kuu Tanaka"
+    },
+    "form": "manga",
+    "genres": ["adventure", "mystery", "sci-fi"],
+    "publisher": "shueisha",
+    "release_dates": ["2019/01"],
+    "end_date": "2021/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "knights-and-magic",
+    "title": {
+      "zh": "騎士魔法",
+      "ja": "ナイツ＆マジック",
+      "en": "Knight's & Magic"
+    },
+    "creator": {
+      "zh": "加藤拓弐 / 天酒之瓢 ",
+      "ja": "加藤拓弐 / 天酒之瓢 ",
+      "en": "Takuji Katou / Amazake no Hisago"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy"],
+    "publisher": "square_enix",
+    "release_dates": ["2016/04"],
+    "end_date": "2022/03",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "d-gray-man",
+    "title": {
+      "zh": "驅魔少年",
+      "ja": "ディー・グレイマン",
+      "en": "D.Gray-man"
+    },
+    "creator": {
+      "zh": "星野桂 / 暁月あきら",
+      "ja": "星野桂 / 暁月あきら",
+      "en": "Katsura Hoshino / Akira Akatsuki"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2004/05"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-daily-lives-of-high-school-boys",
+    "title": {
+      "zh": "男子高中生的日常",
+      "ja": "男子高校生の日常",
+      "en": "The Daily Lives of High School Boys"
+    },
+    "creator": {
+      "zh": "山內泰延",
+      "ja": "山內泰延",
+      "en": "Yasunobu Yamauchi"
+    },
+    "form": "manga",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "square_enix",
+    "release_dates": ["2009/05"],
+    "end_date": "2012/09",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "xxxholic",
+    "title": {
+      "zh": "xxxHoLic",
+      "ja": "×××ホリック",
+      "en": "xxxHOLiC"
+    },
+    "creator": {
+      "zh": "CLAMP",
+      "ja": "CLAMP",
+      "en": "CLAMP"
+    },
+    "form": "manga",
+    "genres": ["comedy", "drama", "mystery", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2003/02"],
+    "end_date": "2011/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kotarou-wa-hitorigurashi",
+    "title": {
+      "zh": "小太郎一個人生活",
+      "ja": "コタローは１人暮らし",
+      "en": "Kotarou wa Hitorigurashi"
+    },
+    "creator": {
+      "zh": "津村マミ",
+      "ja": "津村マミ",
+      "en": "Mami Tsumura"
+    },
+    "form": "manga",
+    "genres": ["comedy", "drama", "slice-of-life"],
+    "publisher": "shogakukan",
+    "release_dates": ["2015/03"],
+    "end_date": "2023/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "good-luck-girl",
+    "title": {
+      "zh": "貧乏神來了",
+      "ja": "貧乏神が！",
+      "en": "Good Luck Girl!"
+    },
+    "creator": {
+      "zh": "助野嘉昭",
+      "ja": "助野嘉昭",
+      "en": "Yoshiaki Sukeno"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2008/06"],
+    "end_date": "2013/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "hunter-x-hunter",
+    "title": {
+      "zh": "獵人",
+      "ja": "HUNTER×HUNTER",
+      "en": "Hunter x Hunter"
+    },
+    "creator": {
+      "zh": "冨樫義博 / 武內直子",
+      "ja": "冨樫義博 / 武內直子",
+      "en": "Yoshihiro Togashi / Naoko Takeuchi"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["1998/03"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "spy-x-family",
+    "title": {
+      "zh": "間諜過家家",
+      "ja": "SPY×FAMILY",
+      "en": "SPY x FAMILY"
+    },
+    "creator": {
+      "zh": "遠藤達哉 / 小西真冬",
+      "ja": "遠藤達哉 / 小西真冬",
+      "en": "Tatsuya Endou / Mafuyu Konishi"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "slice-of-life", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2019/03"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "tomodachi-game",
+    "title": {
+      "zh": "朋友遊戲",
+      "ja": "トモダチゲーム",
+      "en": "Tomodachi Game"
+    },
+    "creator": {
+      "zh": "山口ミコト / 佐藤友生",
+      "ja": "山口ミコト / 佐藤友生",
+      "en": "Mikoto Yamaguchi / Yuuki Satou"
+    },
+    "form": "manga",
+    "genres": ["drama", "mystery", "thriller"],
+    "publisher": "kodansha",
+    "release_dates": ["2013/12"],
+    "end_date": "2024/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "land-of-the-lustrous",
+    "title": {
+      "zh": "寶石之國",
+      "ja": "宝石の国",
+      "en": "Land of the Lustrous"
+    },
+    "creator": {
+      "zh": "市川春子",
+      "ja": "市川春子",
+      "en": "Haruko Ichikawa"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "fantasy", "mystery", "thriller"],
+    "publisher": "kodansha",
+    "release_dates": ["2012/10"],
+    "end_date": "2024/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "bakemonogatari",
+    "title": {
+      "zh": "化物語",
+      "ja": "化物語",
+      "en": "Bakemonogatari"
+    },
+    "creator": {
+      "zh": "大暮維人 / 西尾維新",
+      "ja": "大暮維人 / 西尾維新",
+      "en": "Ito Oogure / NISIOISIN"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "drama", "mystery", "romance"],
+    "publisher": "kodansha",
+    "release_dates": ["2018/03"],
+    "end_date": "2023/03",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "orient",
+    "title": {
+      "zh": "Orient",
+      "ja": "オリエント",
+      "en": "Orient"
+    },
+    "creator": {
+      "zh": "大高忍 / 石後千鳥",
+      "ja": "大高忍 / 石後千鳥",
+      "en": "Shinobu Ootaka / Chidori Ishigo"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2018/05"],
+    "end_date": "2024/10",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "dr-stone",
+    "title": {
+      "zh": "Dr.STONE",
+      "ja": "Dr.STONE",
+      "en": "Dr. STONE"
+    },
+    "creator": {
+      "zh": "稲垣理一郎 / ボウイチ",
+      "ja": "稲垣理一郎 / ボウイチ",
+      "en": "Riichirou Inagaki / Boichi"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "sci-fi"],
+    "publisher": "shueisha",
+    "release_dates": ["2017/03"],
+    "end_date": "2024/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "how-a-realist-hero-rebuilt-the-kingdom",
+    "title": {
+      "zh": "現實主義勇者的王國再建記",
+      "ja": "現実主義勇者の王国再建記",
+      "en": "How a Realist Hero Rebuilt the Kingdom"
+    },
+    "creator": {
+      "zh": "上田悟司 / どぜう丸",
+      "ja": "上田悟司 / どぜう丸",
+      "en": "Satoshi Ueda / Dozeumaru"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy", "thriller"],
+    "publisher": "overlap",
+    "release_dates": ["2017/07"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "jojos-bizarre-adventure-part-6-stone-ocean",
+    "title": {
+      "zh": "JOJO奇妙冒險第06部",
+      "ja": "ジョジョの奇妙な冒険 ストーンオーシャン",
+      "en": "JoJo's Bizarre Adventure Part 6: Stone Ocean"
+    },
+    "creator": {
+      "zh": "荒木飛呂彥",
+      "ja": "荒木飛呂彥",
+      "en": "Hirohiko Araki"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["1999/12"],
+    "end_date": "2003/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "mieruko-chan",
+    "title": {
+      "zh": "陰陽眼見子",
+      "ja": "見える子ちゃん",
+      "en": "Mieruko-chan"
+    },
+    "creator": {
+      "zh": "泉朝樹 / 長瀬宙夢",
+      "ja": "泉朝樹 / 長瀬宙夢",
+      "en": "Tomoki Izumi / Hiromu Nagase"
+    },
+    "form": "manga",
+    "genres": ["comedy", "horror", "slice-of-life", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2018/11"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "grimgar-of-fantasy-and-ash",
+    "title": {
+      "zh": "灰與幻想的格林姆迦爾",
+      "ja": "灰と幻想のグリムガル",
+      "en": "Grimgar of Fantasy and Ash"
+    },
+    "creator": {
+      "zh": "十文字青",
+      "ja": "十文字青",
+      "en": "Ao Juumonji"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "fantasy"],
+    "publisher": "square_enix",
+    "release_dates": ["2013/06"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "ajin-demi-human",
+    "title": {
+      "zh": "亞人",
+      "ja": "亜人",
+      "en": "Ajin: Demi-Human"
+    },
+    "creator": {
+      "zh": "桜井畫門",
+      "ja": "桜井畫門",
+      "en": "Gamon Sakurai"
+    },
+    "form": "manga",
+    "genres": ["action", "horror", "mystery", "thriller", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2012/07"],
+    "end_date": "2021/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用者提供別名「異變者」；正式繁中常見譯名為「亞人」。",
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "to-your-eternity",
+    "title": {
+      "zh": "致不滅的你",
+      "ja": "不滅のあなたへ",
+      "en": "To Your Eternity"
+    },
+    "creator": {
+      "zh": "大今良時",
+      "ja": "大今良時",
+      "en": "Yoshitoki Ooima"
+    },
+    "form": "manga",
+    "genres": ["adventure", "drama", "fantasy", "thriller"],
+    "publisher": "kodansha",
+    "release_dates": ["2016/11"],
+    "end_date": "2025/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "nichijou",
+    "title": {
+      "zh": "日常",
+      "ja": "日常",
+      "en": "Nichijou"
+    },
+    "creator": {
+      "zh": "あらゐけいいち",
+      "ja": "あらゐけいいち",
+      "en": "Keiichi Arawi"
+    },
+    "form": "manga",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "kadokawa",
+    "release_dates": ["2006/06"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "frieren-beyond-journeys-end",
+    "title": {
+      "zh": "葬送的芙莉蓮",
+      "ja": "葬送のフリーレン",
+      "en": "Frieren: Beyond Journey’s End"
+    },
+    "creator": {
+      "zh": "山田鐘人 / アベツカサ",
+      "ja": "山田鐘人 / アベツカサ",
+      "en": "Kanehito Yamada / Tsukasa Abe"
+    },
+    "form": "manga",
+    "genres": ["adventure", "drama", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["2020/04"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "platinum-end",
+    "title": {
+      "zh": "鉑金終局",
+      "ja": "プラチナエンド",
+      "en": "Platinum End"
+    },
+    "creator": {
+      "zh": "大場つぐみ / 小畑健",
+      "ja": "大場つぐみ / 小畑健",
+      "en": "Tsugumi Ooba / Takeshi Obata"
+    },
+    "form": "manga",
+    "genres": ["drama", "mystery", "thriller", "romance", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2015/11"],
+    "end_date": "2021/01",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "alice-in-borderland-retry",
+    "title": {
+      "zh": "彌留之國的愛麗絲 RETRY",
+      "ja": "今際の国のアリス RETRY",
+      "en": "Alice in Borderland Retry"
+    },
+    "creator": {
+      "zh": "麻生羽呂",
+      "ja": "麻生羽呂",
+      "en": "Haro Aso"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "thriller", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["2020/10"],
+    "end_date": "2021/01",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "alice-in-borderland",
+    "title": {
+      "zh": "彌留之國的愛麗絲",
+      "ja": "今際の国のアリス",
+      "en": "Alice in Borderland"
+    },
+    "creator": {
+      "zh": "麻生羽呂",
+      "ja": "麻生羽呂",
+      "en": "Haro Aso"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "horror", "thriller", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["2010/11"],
+    "end_date": "2016/03",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "life-lessons-with-uramichi-oniisan",
+    "title": {
+      "zh": "陰晴不定大哥哥",
+      "ja": "うらみちお兄さん",
+      "en": "Life Lessons with Uramichi Oniisan"
+    },
+    "creator": {
+      "zh": "久世嶽",
+      "ja": "久世嶽",
+      "en": "Gaku Kuze"
+    },
+    "form": "manga",
+    "genres": ["comedy", "slice-of-life"],
+    "publisher": "ichijinsha",
+    "release_dates": ["2017/05"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "blue-lock",
+    "title": {
+      "zh": "BLUE LOCK",
+      "ja": "ブルーロック",
+      "en": "Blue Lock"
+    },
+    "creator": {
+      "zh": "金城宗幸 / ノ村優介",
+      "ja": "金城宗幸 / ノ村優介",
+      "en": "Muneyuki Kaneshiro / Yuusuke Nomura"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "sports"],
+    "publisher": "kodansha",
+    "release_dates": ["2018/08"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "record-of-ragnarok",
+    "title": {
+      "zh": "終末的女武神",
+      "ja": "終末のワルキューレ",
+      "en": "Record of Ragnarok"
+    },
+    "creator": {
+      "zh": "フクイタクミ / 梅村真也",
+      "ja": "フクイタクミ / 梅村真也",
+      "en": "Takumi Fukui / Shinya Umemura"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "fantasy"],
+    "publisher": "coamix",
+    "release_dates": ["2017/11"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "ssss-gridman",
+    "title": {
+      "zh": "SSSS.GRIDMAN",
+      "ja": "SSSS.GRIDMAN",
+      "en": "SSSS.GRIDMAN"
+    },
+    "creator": {
+      "zh": "今野ユウキ",
+      "ja": "今野ユウキ",
+      "en": "Yuuki  Konno"
+    },
+    "form": "manga",
+    "genres": ["action", "sci-fi"],
+    "publisher": "shogakukan",
+    "release_dates": ["2019/11"],
+    "end_date": "2021/12",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "look-back",
+    "title": {
+      "zh": "驀然回首",
+      "ja": "ルックバック",
+      "en": "Look Back"
+    },
+    "creator": {
+      "zh": "藤本タツキ / 遠山花近",
+      "ja": "藤本タツキ / 遠山花近",
+      "en": "Tatsuki Fujimoto / Hanachika Toyama"
+    },
+    "form": "manga",
+    "genres": ["drama", "slice-of-life"],
+    "publisher": "shueisha",
+    "release_dates": ["2021/07"],
+    "end_date": "2021/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "flame-of-recca",
+    "title": {
+      "zh": "烈火之炎",
+      "ja": "烈火の炎",
+      "en": "Flame of Recca"
+    },
+    "creator": {
+      "zh": "安西信行",
+      "ja": "安西信行",
+      "en": "Nobuyuki Anzai"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["1995/04"],
+    "end_date": "2002/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "attack-on-titan",
+    "title": {
+      "zh": "進擊的巨人",
+      "ja": "進撃の巨人",
+      "en": "Attack on Titan"
+    },
+    "creator": {
+      "zh": "諫山創 / 遠藤達哉",
+      "ja": "諫山創 / 遠藤達哉",
+      "en": "Hajime Isayama / Tatsuya Endou"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "fantasy", "mystery"],
+    "publisher": "kodansha",
+    "release_dates": ["2009/09"],
+    "end_date": "2021/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "so-im-a-spider-so-what",
+    "title": {
+      "zh": "轉生成蜘蛛人又怎樣",
+      "ja": "蜘蛛ですが、なにか？",
+      "en": "So I'm a Spider, So What?"
+    },
+    "creator": {
+      "zh": "馬場翁 / 輝竜司",
+      "ja": "馬場翁 / 輝竜司",
+      "en": "Okina Baba / Tsukasa Kiryuu"
+    },
+    "form": "manga",
+    "genres": ["adventure", "comedy", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2015/12"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "pandora-hearts",
+    "title": {
+      "zh": "潘朵拉之心",
+      "ja": "パンドラハーツ",
+      "en": "Pandora Hearts"
+    },
+    "creator": {
+      "zh": "望月淳",
+      "ja": "望月淳",
+      "en": "Jun Mochizuki"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "fantasy", "mystery"],
+    "publisher": "square_enix",
+    "release_dates": ["2006/05"],
+    "end_date": "2015/03",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-seven-deadly-sins",
+    "title": {
+      "zh": "七大罪",
+      "ja": "七つの大罪",
+      "en": "The Seven Deadly Sins"
+    },
+    "creator": {
+      "zh": "鈴木央",
+      "ja": "鈴木央",
+      "en": "Nakaba Suzuki"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2012/10"],
+    "end_date": "2020/03",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "使用者提供別名「七原罪」；正式繁中常見譯名為「七大罪」。",
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "haikyu",
+    "title": {
+      "zh": "排球少年",
+      "ja": "ハイキュー！！",
+      "en": "Haikyu!!"
+    },
+    "creator": {
+      "zh": "古舘春一 / 內田康平",
+      "ja": "古舘春一 / 內田康平",
+      "en": "Haruichi Furudate / Kouhei Uchida"
+    },
+    "form": "manga",
+    "genres": ["comedy", "drama", "sports"],
+    "publisher": "shueisha",
+    "release_dates": ["2012/02"],
+    "end_date": "2020/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kengan-omega",
+    "title": {
+      "zh": "拳願奧米伽",
+      "ja": "ケンガンオメガ",
+      "en": "Kengan Omega"
+    },
+    "creator": {
+      "zh": "サンドロビッチ・ヤバ子 / だろめおん ",
+      "ja": "サンドロビッチ・ヤバ子 / だろめおん ",
+      "en": "Yabako Sandrovich / Daromeon"
+    },
+    "form": "manga",
+    "genres": ["action", "sports"],
+    "publisher": "shogakukan",
+    "release_dates": ["2019/01"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "parallel-paradise",
+    "title": {
+      "zh": "平行天堂",
+      "ja": "パラレルパラダイス",
+      "en": "Parallel Paradise"
+    },
+    "creator": {
+      "zh": "岡本倫",
+      "ja": "岡本倫",
+      "en": "Lynn Okamoto"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy", "romance"],
+    "publisher": "kodansha",
+    "release_dates": ["2017/03"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kaguya-sama-love-is-war",
+    "title": {
+      "zh": "輝夜姬想讓人告白 ~天才們的戀愛頭腦戰~",
+      "ja": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+      "en": "Kaguya-sama: Love is War"
+    },
+    "creator": {
+      "zh": "赤坂アカ",
+      "ja": "赤坂アカ",
+      "en": "Aka Akasaka"
+    },
+    "form": "manga",
+    "genres": ["comedy", "thriller", "romance", "slice-of-life"],
+    "publisher": "shueisha",
+    "release_dates": ["2015/05"],
+    "end_date": "2022/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "erased",
+    "title": {
+      "zh": "只有我不在的街道",
+      "ja": "僕だけがいない街",
+      "en": "Erased"
+    },
+    "creator": {
+      "zh": "三部けい",
+      "ja": "三部けい",
+      "en": "Kei Sanbe"
+    },
+    "form": "manga",
+    "genres": ["drama", "mystery", "thriller", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2012/06"],
+    "end_date": "2016/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kingdom",
+    "title": {
+      "zh": "王者天下",
+      "ja": "キングダム",
+      "en": "Kingdom"
+    },
+    "creator": {
+      "zh": "原泰久 / 石田スイ",
+      "ja": "原泰久 / 石田スイ",
+      "en": "Yasuhisa Hara / Sui Ishida"
+    },
+    "form": "manga",
+    "genres": ["action", "drama"],
+    "publisher": "shueisha",
+    "release_dates": ["2006/01"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "real-account",
+    "title": {
+      "zh": "真實帳號",
+      "ja": "リアルアカウント",
+      "en": "Real Account"
+    },
+    "creator": {
+      "zh": "オクショウ / 渡辺靜",
+      "ja": "オクショウ / 渡辺靜",
+      "en": "Okushou / Shizumu Watanabe"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "drama", "thriller", "sci-fi"],
+    "publisher": "kodansha",
+    "release_dates": ["2014/01"],
+    "end_date": "2019/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "as-the-gods-will",
+    "title": {
+      "zh": "要聽神明的話",
+      "ja": "神さまの言うとおり",
+      "en": "As the Gods Will"
+    },
+    "creator": {
+      "zh": "金城宗幸 / 藤村緋二",
+      "ja": "金城宗幸 / 藤村緋二",
+      "en": "Muneyuki Kaneshiro / Akeji Fujimura"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "horror", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2011/02"],
+    "end_date": "2012/10",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "as-the-gods-will-zero",
+    "title": {
+      "zh": "要聽神明的話 零",
+      "ja": "神さまの言うとおり零",
+      "en": "As the Gods Will Zero"
+    },
+    "creator": {
+      "zh": "藤村緋二 / 金城宗幸",
+      "ja": "藤村緋二 / 金城宗幸",
+      "en": "Akeji Fujimura / Muneyuki Kaneshiro"
+    },
+    "form": "manga",
+    "genres": ["horror", "thriller"],
+    "publisher": "kodansha",
+    "release_dates": ["2017/01"],
+    "end_date": "2017/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "fate-avalon-the-girls-thoughts",
+    "title": {
+      "zh": "fate/Avalon 少女的思念",
+      "ja": "fate/Avalon 少女の思い",
+      "en": "fate/Avalon: The Girl's Thoughts"
+    },
+    "creator": {
+      "zh": "meeting",
+      "ja": "meeting",
+      "en": "meeting"
+    },
+    "form": "manga",
+    "genres": ["adventure", "fantasy"],
+    "publisher": "self_published",
+    "release_dates": ["2025/05"],
+    "end_date": "2025/05",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "Fate/stay night 衛宮士郎與 Saber 題材同人作品；公開資料有限。",
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "hinamatsuri",
+    "title": {
+      "zh": "黑社會的超能力女兒",
+      "ja": "ヒナまつり",
+      "en": "Hinamatsuri"
+    },
+    "creator": {
+      "zh": "大武政夫",
+      "ja": "大武政夫",
+      "en": "Masao Ootake"
+    },
+    "form": "manga",
+    "genres": ["comedy", "sci-fi", "slice-of-life", "fantasy"],
+    "publisher": "kadokawa",
+    "release_dates": ["2010/06"],
+    "end_date": "2020/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-promised-neverland",
+    "title": {
+      "zh": "約定的夢幻島",
+      "ja": "約束のネバーランド",
+      "en": "The Promised Neverland"
+    },
+    "creator": {
+      "zh": "白井カイウ / 出水ぽすか",
+      "ja": "白井カイウ / 出水ぽすか",
+      "en": "Kaiu Shirai / Posuka Demizu"
+    },
+    "form": "manga",
+    "genres": ["drama", "fantasy", "horror", "mystery", "thriller"],
+    "publisher": "shueisha",
+    "release_dates": ["2016/08"],
+    "end_date": "2020/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "shaman-king",
+    "title": {
+      "zh": "通靈王",
+      "ja": "シャーマンキング",
+      "en": "Shaman King"
+    },
+    "creator": {
+      "zh": "武井宏之 / 松井勝法",
+      "ja": "武井宏之 / 松井勝法",
+      "en": "Hiroyuki Takei / Katsunori Matsui"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["1998/06"],
+    "end_date": "2004/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "soul-eater",
+    "title": {
+      "zh": "噬魂師",
+      "ja": "ソウルイーター",
+      "en": "Soul Eater"
+    },
+    "creator": {
+      "zh": "大久保篤 / 外海良基",
+      "ja": "大久保篤 / 外海良基",
+      "en": "Atsushi Ookubo / Yoshiki Tonogai"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "square_enix",
+    "release_dates": ["2003/06"],
+    "end_date": "2013/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "drifters",
+    "title": {
+      "zh": "漂流武士",
+      "ja": "ドリフターズ",
+      "en": "Drifters"
+    },
+    "creator": {
+      "zh": "平野耕太",
+      "ja": "平野耕太",
+      "en": "Kouta Hirano"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "drama", "fantasy"],
+    "publisher": "shonen_gahosha",
+    "release_dates": ["2009/04"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kengan-ashura",
+    "title": {
+      "zh": "拳願阿修羅",
+      "ja": "ケンガンアシュラ",
+      "en": "Kengan Ashura"
+    },
+    "creator": {
+      "zh": "サンドロビッチ・ヤバ子 / だろめおん ",
+      "ja": "サンドロビッチ・ヤバ子 / だろめおん ",
+      "en": "Yabako Sandrovich / Daromeon"
+    },
+    "form": "manga",
+    "genres": ["action", "sports"],
+    "publisher": "shogakukan",
+    "release_dates": ["2012/04"],
+    "end_date": "2018/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "dorohedoro",
+    "title": {
+      "zh": "異獸魔都",
+      "ja": "ドロヘドロ",
+      "en": "Dorohedoro"
+    },
+    "creator": {
+      "zh": "林田球",
+      "ja": "林田球",
+      "en": "Q Hayashida"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy", "horror"],
+    "publisher": "shogakukan",
+    "release_dates": ["2000/11"],
+    "end_date": "2018/09",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "jojos-bizarre-adventure",
+    "title": {
+      "zh": "JoJo奇妙冒險",
+      "ja": "ジョジョの奇妙な冒険",
+      "en": "JoJo's Bizarre Adventure"
+    },
+    "creator": {
+      "zh": "荒木飛呂彥",
+      "ja": "荒木飛呂彦",
+      "en": "Hirohiko Araki"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["1987/01"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": "系列總稱條目。",
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "kinos-journey-the-beautiful-world",
+    "title": {
+      "zh": "奇諾之旅 the Beautiful World",
+      "ja": "キノの旅 -the Beautiful World-",
+      "en": "Kino's Journey: The Beautiful World"
+    },
+    "creator": {
+      "zh": "時雨沢恵一 / シオミヤイルカ",
+      "ja": "時雨沢恵一 / シオミヤイルカ",
+      "en": "Keiichi Shigusawa / Iruka Shiomiya"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "fantasy", "mystery", "sci-fi"],
+    "publisher": "kodansha",
+    "release_dates": ["2017/03"],
+    "end_date": "2020/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "fairy-tail",
+    "title": {
+      "zh": "妖精的尾巴",
+      "ja": "FAIRY TAIL",
+      "en": "FAIRY TAIL"
+    },
+    "creator": {
+      "zh": "川崎美羽 / 真島ヒロ",
+      "ja": "川崎美羽 / 真島ヒロ",
+      "en": "Miu Kawasaki / Hiro Mashima"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2012/05"],
+    "end_date": "2016/03",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "death-office",
+    "title": {
+      "zh": "死役所",
+      "ja": "死役所",
+      "en": "Death Office"
+    },
+    "creator": {
+      "zh": "あずみきし",
+      "ja": "あずみきし",
+      "en": "Kishi Azumi"
+    },
+    "form": "manga",
+    "genres": ["drama", "thriller", "slice-of-life", "fantasy"],
+    "publisher": "shinchosha",
+    "release_dates": ["2013/09"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "bakuon",
+    "title": {
+      "zh": "17歲青春遁走",
+      "ja": "シガテラ",
+      "en": "Ciguatera!!"
+    },
+    "creator": {
+      "zh": "古谷實",
+      "ja": "古谷実",
+      "en": "Minoru Furuya"
+    },
+    "form": "manga",
+    "genres": ["romance", "slice-of-life"],
+    "publisher": "young_magazine",
+    "release_dates": ["2003/01"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": 3,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "fate-stay-night",
+    "title": {
+      "zh": "Fate-staynight",
+      "ja": "Fate/stay night",
+      "en": "Fate/stay night"
+    },
+    "creator": {
+      "zh": "奈須きのこ / 西脇だっと",
+      "ja": "奈須きのこ / 西脇だっと",
+      "en": "Kinoko Nasu / Datto Nishiwaki"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy", "romance"],
+    "publisher": "kadokawa",
+    "release_dates": ["2005/12"],
+    "end_date": "2012/10",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "lord-el-melloi-ii-sei-no-jikenbo",
+    "title": {
+      "zh": "君主·埃爾梅羅Ⅱ世事件簿",
+      "ja": "ロード・エルメロイⅡ世の事件簿",
+      "en": "Lord El-Melloi II-sei no Jikenbo"
+    },
+    "creator": {
+      "zh": "三田誠",
+      "ja": "三田誠",
+      "en": "Makoto Sanda"
+    },
+    "form": "manga",
+    "genres": ["fantasy", "mystery"],
+    "publisher": "kadokawa",
+    "release_dates": ["2014/12"],
+    "end_date": "2019/05",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "battle-angel-alita",
+    "title": {
+      "zh": "銃夢",
+      "ja": "銃夢",
+      "en": "Battle Angel Alita"
+    },
+    "creator": {
+      "zh": "木城ゆきと ",
+      "ja": "木城ゆきと ",
+      "en": "Yukito Kishiro"
+    },
+    "form": "manga",
+    "genres": ["action", "sci-fi"],
+    "publisher": "shueisha",
+    "release_dates": ["1990/12"],
+    "end_date": "1995/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "naruto",
+    "title": {
+      "zh": "火影忍者",
+      "ja": "NARUTO",
+      "en": "NARUTO"
+    },
+    "creator": {
+      "zh": "岸本斉史",
+      "ja": "岸本斉史",
+      "en": "Masashi Kishimoto"
+    },
+    "form": "manga",
+    "genres": ["action"],
+    "publisher": "shueisha",
+    "release_dates": ["1997/01"],
+    "end_date": "1997/01",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "saint-young-men",
+    "title": {
+      "zh": "聖☆哥傳",
+      "ja": "聖☆おにいさん",
+      "en": "Saint Young Men"
+    },
+    "creator": {
+      "zh": "中村光",
+      "ja": "中村光",
+      "en": "Hikaru Nakamura"
+    },
+    "form": "manga",
+    "genres": ["comedy", "slice-of-life", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2006/08"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "btooom",
+    "title": {
+      "zh": "驚爆遊戲",
+      "ja": "BTOOOM!-ブトゥーム",
+      "en": "Btooom!"
+    },
+    "creator": {
+      "zh": "井上淳哉",
+      "ja": "井上淳哉",
+      "en": "Junya Inoue"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "thriller", "romance", "sci-fi"],
+    "publisher": "shinchosha",
+    "release_dates": ["2009/07"],
+    "end_date": "2018/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "fire-punch",
+    "title": {
+      "zh": "炎拳",
+      "ja": "ファイアパンチ",
+      "en": "Fire Punch"
+    },
+    "creator": {
+      "zh": "藤本タツキ / 遠藤達哉",
+      "ja": "藤本タツキ / 遠藤達哉",
+      "en": "Tatsuki Fujimoto / Tatsuya Endou"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "mystery", "thriller", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2016/04"],
+    "end_date": "2018/01",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "gintama",
+    "title": {
+      "zh": "銀魂",
+      "ja": "銀魂",
+      "en": "Gintama"
+    },
+    "creator": {
+      "zh": "空知英秋 / 篠原健太",
+      "ja": "空知英秋 / 篠原健太",
+      "en": "Hideaki Sorachi / Kenta Shinohara"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "drama", "sci-fi"],
+    "publisher": "shueisha",
+    "release_dates": ["2003/12"],
+    "end_date": "2019/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "durarara",
+    "title": {
+      "zh": "無頭騎士異聞錄",
+      "ja": "デュラララ!!",
+      "en": "Durarara!!"
+    },
+    "creator": {
+      "zh": "成田良悟 / ヤスダスズヒト",
+      "ja": "成田良悟 / ヤスダスズヒト",
+      "en": "Ryougo Narita / Suzuhito Yasuda"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "romance", "fantasy"],
+    "publisher": "square_enix",
+    "release_dates": ["2009/06"],
+    "end_date": "2011/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "tokyo-ghoul",
+    "title": {
+      "zh": "東京喰種",
+      "ja": "東京喰種 トーキョーグール",
+      "en": "Tokyo Ghoul"
+    },
+    "creator": {
+      "zh": "石田スイ",
+      "ja": "石田スイ",
+      "en": "Sui Ishida"
+    },
+    "form": "manga",
+    "genres": ["action", "horror", "mystery", "thriller", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2011/09"],
+    "end_date": "2014/09",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "attack-on-titan-before-the-fall",
+    "title": {
+      "zh": "進擊的巨人before the fall",
+      "ja": "進撃の巨人 Before the fall",
+      "en": "Attack on Titan: Before the Fall"
+    },
+    "creator": {
+      "zh": "諫山創",
+      "ja": "諫山創",
+      "en": "Hajime Isayama"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "fantasy", "horror", "mystery"],
+    "publisher": "kodansha",
+    "release_dates": ["2011/12"],
+    "end_date": "2012/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "the-legendary-hero-is-dead",
+    "title": {
+      "zh": "勇者死了！是因為勇者掉進了作為村民的我挖的陷阱裡",
+      "ja": "勇者が死んだ! 村人の俺が掘った落とし穴に勇者が落ちた結果。",
+      "en": "The Legendary Hero Is Dead!"
+    },
+    "creator": {
+      "zh": "スバルイチ ",
+      "ja": "スバルイチ ",
+      "en": "Subaruichi"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "shogakukan",
+    "release_dates": ["2014/12"],
+    "end_date": "2020/12",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "parasyte",
+    "title": {
+      "zh": "寄生獸",
+      "ja": "寄生獣",
+      "en": "Parasyte"
+    },
+    "creator": {
+      "zh": "巖明均",
+      "ja": "巖明均",
+      "en": "Hitoshi Iwaaki"
+    },
+    "form": "manga",
+    "genres": ["action", "drama", "horror", "thriller", "sci-fi"],
+    "publisher": "kodansha",
+    "release_dates": ["1989/11"],
+    "end_date": "1995/12",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "beelzebub",
+    "title": {
+      "zh": "惡魔奶爸",
+      "ja": "べるぜバブ",
+      "en": "Beelzebub"
+    },
+    "creator": {
+      "zh": "田村隆平 / 田畠裕基",
+      "ja": "田村隆平 / 田畠裕基",
+      "en": "Ryuuhei Tamura / Yuuki Tabata"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2009/02"],
+    "end_date": "2014/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "higanjima-48-nichigo",
+    "title": {
+      "zh": "彼岸島48天後",
+      "ja": "彼岸島 48日後…",
+      "en": "Higanjima: 48 Nichigo..."
+    },
+    "creator": {
+      "zh": "松本光司",
+      "ja": "松本光司",
+      "en": "Kouji Matsumoto"
+    },
+    "form": "manga",
+    "genres": ["action", "horror", "mystery"],
+    "publisher": "kodansha",
+    "release_dates": ["2014/08"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "higanjima-saigo-no-47-hiai",
+    "title": {
+      "zh": "彼岸島-最後的47天",
+      "ja": "彼岸島 最後の47日間",
+      "en": "Higanjima: Saigo no 47 hiai"
+    },
+    "creator": {
+      "zh": "松本光司",
+      "ja": "松本光司",
+      "en": "Kouji Matsumoto"
+    },
+    "form": "manga",
+    "genres": ["action", "fantasy", "horror"],
+    "publisher": "kodansha",
+    "release_dates": ["2010/08"],
+    "end_date": "2014/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "higanjima",
+    "title": {
+      "zh": "彼岸島",
+      "ja": "彼岸島",
+      "en": "Higanjima"
+    },
+    "creator": {
+      "zh": "松本光司",
+      "ja": "松本光司",
+      "en": "Kouji Matsumoto"
+    },
+    "form": "manga",
+    "genres": ["fantasy", "horror"],
+    "publisher": "kodansha",
+    "release_dates": ["2002/01"],
+    "end_date": "2010/07",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "blood-blockade-battlefront",
+    "title": {
+      "zh": "血界戰線",
+      "ja": "血界戦線",
+      "en": "Blood Blockade Battlefront"
+    },
+    "creator": {
+      "zh": "內藤泰弘",
+      "ja": "內藤泰弘",
+      "en": "Yasuhiro Nightow"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "fantasy"],
+    "publisher": "shueisha",
+    "release_dates": ["2009/01"],
+    "end_date": "2015/02",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "shinigami-sama-ni-saigo-no-onegai-wo",
+    "title": {
+      "zh": "向死神許下最後的願望",
+      "ja": "死神様に最期のお願いを",
+      "en": "Shinigami-sama ni Saigo no Onegai wo"
+    },
+    "creator": {
+      "zh": "山口尊",
+      "ja": "山口ミコト",
+      "en": "Mikoto Yamaguchi"
+    },
+    "form": "manga",
+    "genres": ["mystery", "thriller"],
+    "publisher": "square_enix",
+    "release_dates": ["2009/09"],
+    "end_date": "2011/04",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "suicide-island",
+    "title": {
+      "zh": "自殺島",
+      "ja": "自殺島",
+      "en": "Suicide Island"
+    },
+    "creator": {
+      "zh": "森恆二",
+      "ja": "森恆二",
+      "en": "Kouji Mori"
+    },
+    "form": "manga",
+    "genres": ["drama", "mystery", "thriller"],
+    "publisher": "hakusensha",
+    "release_dates": ["2008/11"],
+    "end_date": "2016/08",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "tegami-bachi",
+    "title": {
+      "zh": "信蜂",
+      "ja": "テガミバチ",
+      "en": "Tegami Bachi"
+    },
+    "creator": {
+      "zh": "淺田弘幸",
+      "ja": "淺田弘幸",
+      "en": "Hiroyuki Asada"
+    },
+    "form": "manga",
+    "genres": ["adventure", "fantasy", "mystery", "slice-of-life"],
+    "publisher": "shueisha",
+    "release_dates": ["2006/09"],
+    "end_date": "2015/11",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "nana",
+    "title": {
+      "zh": "NANA",
+      "ja": "NANA",
+      "en": "Nana"
+    },
+    "creator": {
+      "zh": "矢沢あい",
+      "ja": "矢沢あい",
+      "en": "Ai Yazawa"
+    },
+    "form": "manga",
+    "genres": ["drama", "romance", "slice-of-life"],
+    "publisher": "shueisha",
+    "release_dates": ["2000/05"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "shijou-saikyou-no-deshi-kenichi",
+    "title": {
+      "zh": "史上最強弟子兼一",
+      "ja": "史上最強の弟子ケンイチ",
+      "en": "Shijou Saikyou no Deshi Kenichi"
+    },
+    "creator": {
+      "zh": "松江名俊",
+      "ja": "松江名俊",
+      "en": "Shun Matsuena"
+    },
+    "form": "manga",
+    "genres": ["action", "comedy", "drama"],
+    "publisher": "shogakukan",
+    "release_dates": ["2002/08"],
+    "end_date": "2014/09",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "xxxholic-rei",
+    "title": {
+      "zh": "xxxHOLiC·戻",
+      "ja": "xxxHOLiC・戻",
+      "en": "xxxHOLiC Rei"
+    },
+    "creator": {
+      "zh": "CLAMP",
+      "ja": "CLAMP",
+      "en": "CLAMP"
+    },
+    "form": "manga",
+    "genres": ["drama", "mystery", "fantasy"],
+    "publisher": "kodansha",
+    "release_dates": ["2013/03"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "hakaijuu",
+    "title": {
+      "zh": "破壞獸",
+      "ja": "ハカイジュウ",
+      "en": "Hakaijuu"
+    },
+    "creator": {
+      "zh": "本田真吾",
+      "ja": "本田真吾",
+      "en": "Shingo Honda"
+    },
+    "form": "manga",
+    "genres": ["horror", "sci-fi", "thriller"],
+    "publisher": "akita_shoten",
+    "release_dates": ["2010/05"],
+    "end_date": "2017/06",
+    "my_completed_date": null,
+    "my_status": "completed",
+    "my_score": null,
+    "note": null,
+    "has_article": false,
+    "check": "pending"
   }
 ]

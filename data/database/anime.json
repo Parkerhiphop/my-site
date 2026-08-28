@@ -20,9 +20,7 @@
     "my_score": null,
     "note": "改編自河野裕小說《サクラダリセット》系列。",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "one-piece",
@@ -45,9 +43,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "nippon-sangoku",
@@ -70,9 +66,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "smoking-behind-the-supermarket-with-you",
@@ -95,9 +89,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "milky-subway",
@@ -120,9 +112,7 @@
     "my_score": null,
     "note": "很喜歡的小品，有復古風味的太空題材。最喜歡柯特和麥克斯，因為沒有被說謝謝，所以不想做原本的工作。讓我想到我也是會這樣因為氣氛影響很大的人，我也想要好好被道謝；即便是理所當然的事情也值得好好道謝。",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "one-piece-heroines",
@@ -145,9 +135,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "kore-kaite-shine",
@@ -170,9 +158,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "kill-blue",
@@ -195,9 +181,7 @@
     "my_score": 2,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "akane-banashi",
@@ -220,9 +204,7 @@
     "my_score": 3,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "witch-hat-atelier",
@@ -244,7 +226,8 @@
     "my_status": "ongoing",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "daemons-of-the-shadow-realm",
@@ -266,7 +249,8 @@
     "my_status": "ongoing",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "marriagetoxin",
@@ -288,7 +272,8 @@
     "my_status": "on_hold",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "frieren-beyond-journeys-end",
@@ -310,7 +295,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "my-hero-academia",
@@ -332,7 +318,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "fullmetal-alchemist-brotherhood",
@@ -354,7 +341,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "hunter-x-hunter-2011",
@@ -376,7 +364,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "steins-gate",
@@ -398,7 +387,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sentenced-to-be-a-hero",
@@ -420,7 +410,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "reincarnated-as-a-sword",
@@ -442,7 +433,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "gachiakuta",
@@ -464,7 +456,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sakamoto-days",
@@ -486,7 +479,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "lazarus",
@@ -508,7 +502,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "witch-watch",
@@ -530,7 +525,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "clevatess",
@@ -552,7 +548,8 @@
     "my_status": "ongoing",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "secrets-of-the-silent-witch",
@@ -574,7 +571,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "my-hero-academia-vigilantes",
@@ -596,7 +594,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time",
@@ -618,7 +617,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge",
@@ -640,7 +640,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "from-bureaucrat-to-villainess-dads-been-reincarnated",
@@ -662,7 +663,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "gintama-mr-ginpachis-zany-class",
@@ -684,7 +686,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "dan-da-dan",
@@ -706,7 +709,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "solo-leveling",
@@ -728,7 +732,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kaiju-no-8",
@@ -750,7 +755,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "delicious-in-dungeon",
@@ -772,7 +778,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "wind-breaker",
@@ -794,7 +801,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": true
+    "has_article": true,
+    "check": "pending"
   },
   {
     "key": "the-wrong-way-to-use-healing-magic",
@@ -816,7 +824,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "chained-soldier",
@@ -838,7 +847,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-elusive-samurai",
@@ -860,7 +870,8 @@
     "my_status": "ongoing",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible",
@@ -882,7 +893,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "gushing-over-magical-girls",
@@ -904,7 +916,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "let-this-grieving-soul-retire",
@@ -926,7 +939,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "suicide-squad-isekai",
@@ -948,7 +962,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "jellyfish-cant-swim-in-the-night",
@@ -970,7 +985,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "demon-lord-2099",
@@ -992,7 +1008,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-fable",
@@ -1014,7 +1031,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "tis-time-for-torture-princess",
@@ -1036,7 +1054,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sengoku-youko",
@@ -1058,7 +1077,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "monsters-103-mercies-dragon-damnation",
@@ -1080,7 +1100,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "dungeon-people",
@@ -1102,7 +1123,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "oblivion-battery",
@@ -1124,7 +1146,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "hells-paradise",
@@ -1146,7 +1169,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "oshi-no-ko",
@@ -1168,7 +1192,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-apothecary-diaries",
@@ -1190,7 +1215,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "mashle-magic-and-muscles",
@@ -1212,7 +1238,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "zom-100-bucket-list-of-the-dead",
@@ -1231,10 +1258,11 @@
     "publisher": "shogakukan_shueisha_productions",
     "release_dates": ["2023/07"],
     "my_completed_date": "",
-    "my_status": "completed",
+    "my_status": "on_hold",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "tengoku-daimakyo",
@@ -1256,7 +1284,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "shangri-la-frontier",
@@ -1278,7 +1307,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-dangers-in-my-heart",
@@ -1300,7 +1330,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "konosuba-an-explosion-on-this-wonderful-world",
@@ -1322,7 +1353,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "undead-unluck",
@@ -1344,7 +1376,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "campfire-cooking-in-another-world-with-my-absurd-skill",
@@ -1366,7 +1399,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "dead-mount-death-play",
@@ -1388,7 +1422,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kamikatsu-working-for-god-in-a-godless-world",
@@ -1410,7 +1445,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "handyman-saitou-in-another-world",
@@ -1432,7 +1468,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "my-home-hero",
@@ -1454,7 +1491,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "helck",
@@ -1476,7 +1514,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-masterful-cat-is-depressed-again-today",
@@ -1498,7 +1537,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "record-of-ragnarok",
@@ -1520,7 +1560,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "level-1-demon-lord-and-one-room-hero",
@@ -1542,7 +1583,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "otaku-elf",
@@ -1564,7 +1606,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "malevolent-spirits-mononogatari",
@@ -1586,7 +1629,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "under-ninja",
@@ -1608,7 +1652,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "現代社會中潛藏的忍者，腦洞大開的忍術設定跟戰鬥方式，荒謬到好笑的一部作品，挺舒壓的。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "burn-the-witch-0-8",
@@ -1630,7 +1675,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "久保帶人就是潮，對應東方死神與虛，西方是龍與魔女的設定，希望死神動畫化完結後可以來做這邊。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "go-go-loser-ranger",
@@ -1652,7 +1698,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "chainsaw-man",
@@ -1674,7 +1721,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "spy-x-family",
@@ -1696,7 +1744,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "bocchi-the-rock",
@@ -1718,7 +1767,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "lycoris-recoil",
@@ -1740,7 +1790,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "uncle-from-another-world",
@@ -1762,7 +1813,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "skeleton-knight-in-another-world",
@@ -1784,7 +1836,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "love-after-world-domination",
@@ -1806,7 +1859,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "mobile-suit-gundam-the-witch-from-mercury",
@@ -1828,7 +1882,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout",
@@ -1850,7 +1905,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "in-the-heart-of-kunoichi-tsubaki",
@@ -1872,7 +1928,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "mushoku-tensei-jobless-reincarnation",
@@ -1894,7 +1951,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "that-time-i-got-reincarnated-as-a-slime-season-2",
@@ -1916,7 +1974,8 @@
     "my_status": "on_hold",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "86-eighty-six",
@@ -1938,7 +1997,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "wonder-egg-priority",
@@ -1960,7 +2020,8 @@
     "my_status": "dropped",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "ranking-of-kings",
@@ -1982,7 +2043,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "vivy-fluorite-eyes-song",
@@ -2004,7 +2066,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "miss-kobayashis-dragon-maid-s",
@@ -2026,12 +2089,13 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "mieruko-chan",
     "title": {
-      "zh": "看得見的女孩",
+      "zh": "陰陽眼見子",
       "ja": "見える子ちゃん",
       "en": "Mieruko-chan"
     },
@@ -2048,7 +2112,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "oddtaxi",
@@ -2070,7 +2135,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "so-im-a-spider-so-what",
@@ -2092,7 +2158,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": "慘遭動畫化的案例，當初為了悠木碧看的，結果動畫製作組魔改得亂七八糟，最後結尾直接趕火車斷送後續動畫化的可能性。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "high-rise-invasion",
@@ -2114,7 +2181,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": "前期還不錯，但被腰斬了。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sonny-boy",
@@ -2136,7 +2204,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": "很意識流的作品，藝術風格很喜歡，配音是落日飛車，最有印象的是戰爭的世界。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "ive-been-killing-slimes-for-300-years-and-maxed-out-my-level",
@@ -2158,7 +2227,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kemono-jihen",
@@ -2180,7 +2250,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "my-senpai-is-annoying",
@@ -2202,7 +2273,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "shadows-house",
@@ -2224,7 +2296,8 @@
     "my_status": "on_hold",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "cells-at-work",
@@ -2246,7 +2319,8 @@
     "my_status": "dropped",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "life-lessons-with-uramichi-oniisan",
@@ -2268,7 +2342,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "挺搞笑的，主角是個體操哥哥，總是面帶微笑地說著一些讓人心裡發毛的話。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-dungeon-of-black-company",
@@ -2290,7 +2365,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-idaten-deities-know-only-peace",
@@ -2312,7 +2388,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "衝著跟《異獸魔都》類似的混沌氣質入坑的，意外發現與《小林家的龍女僕》是同一個作者。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "super-crooks",
@@ -2334,7 +2411,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "OP 我很喜歡！",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-vampire-dies-in-no-time",
@@ -2356,7 +2434,8 @@
     "my_status": "dropped",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "pui-pui-molcar",
@@ -2378,7 +2457,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "haikyu",
@@ -2400,7 +2480,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-misfit-of-demon-king-academy-historys-strongest-demon-king-reincarnates-and-goes-to-school-with-his-descendants",
@@ -2422,7 +2503,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "great-pretender",
@@ -2444,7 +2526,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "很像電影《出神入化》。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "dorohedoro",
@@ -2466,7 +2549,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense",
@@ -2488,7 +2572,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "in-spectre",
@@ -2510,7 +2595,8 @@
     "my_status": "on_hold",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "my-next-life-as-a-villainess-all-routes-lead-to-doom",
@@ -2532,7 +2618,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "第一步入坑的惡役千金，看著主角一直跑去種田很好笑。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "bna",
@@ -2554,7 +2641,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "熟悉的 Trigger 最對味，OP 很好聽，不過比較像是小品。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "id-invaded",
@@ -2576,7 +2664,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "keep-your-hands-off-eizouken",
@@ -2598,7 +2687,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": "每個畫面都細節滿滿。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "deca-dence",
@@ -2620,7 +2710,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "不錯的小品，當時看得挺享受的",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "im-standing-on-a-million-lives",
@@ -2642,7 +2733,8 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "漫畫版給比較高分，動畫省略太多了。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kyokou-uranai",
@@ -2664,7 +2756,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "munou-na-nana-mini-anime",
@@ -2686,7 +2779,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "demon-slayer-kimetsu-no-yaiba",
@@ -2708,7 +2802,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": "動畫化非常讚！",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-promised-neverland",
@@ -2730,7 +2825,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": "又一個慘遭動畫化的案例...不過原作的結尾也是挺微妙的。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kaguya-sama-love-is-war",
@@ -2752,7 +2848,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "dr-stone",
@@ -2774,7 +2871,8 @@
     "my_status": "dropped",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-rising-of-the-shield-hero",
@@ -2796,7 +2894,8 @@
     "my_status": "dropped",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "fire-force",
@@ -2818,7 +2917,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "vinland-saga",
@@ -2840,7 +2940,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "welcome-to-demon-school-iruma-kun",
@@ -2862,7 +2963,8 @@
     "my_status": "ongoing",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "a-certain-scientific-accelerator",
@@ -2884,7 +2986,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "boogiepop-and-others",
@@ -2906,7 +3009,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "lord-el-melloi-iis-case-files-rail-zeppelin-grace-note",
@@ -2928,7 +3032,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kemono-michi-rise-up",
@@ -2950,7 +3055,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "that-time-i-got-reincarnated-as-a-slime",
@@ -2972,7 +3078,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "devilman-crybaby",
@@ -2994,7 +3101,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "goblin-slayer",
@@ -3016,7 +3124,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "grand-blue-dreaming",
@@ -3038,7 +3147,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "steins-gate-0",
@@ -3060,7 +3170,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "a-place-further-than-the-universe",
@@ -3082,7 +3193,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "zombie-land-saga",
@@ -3104,7 +3216,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": "電影版還沒看！",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "golden-kamuy",
@@ -3124,9 +3237,10 @@
     "release_dates": ["2018/04", "2018/10"],
     "my_completed_date": "",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "megalobox",
@@ -3148,7 +3262,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "ssss-gridman",
@@ -3170,7 +3285,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "run-with-the-wind",
@@ -3192,7 +3308,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "hakata-tonkotsu-ramens",
@@ -3214,7 +3331,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "miss-kobayashis-dragon-something",
@@ -3236,7 +3354,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "fate-grand-order-first-order",
@@ -3258,7 +3377,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "made-in-abyss",
@@ -3280,7 +3400,8 @@
     "my_status": "on_hold",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "miss-kobayashis-dragon-maid",
@@ -3302,7 +3423,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "saga-of-tanya-the-evil",
@@ -3324,7 +3446,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-ancient-magus-bride",
@@ -3346,7 +3469,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "inuyashiki-last-hero",
@@ -3368,7 +3492,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "fate-apocrypha",
@@ -3390,7 +3515,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sword-oratoria-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side",
@@ -3412,7 +3538,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "thus-spoke-rohan-kishibe",
@@ -3434,7 +3561,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kinos-journey-the-beautiful-world",
@@ -3456,7 +3584,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "mob-psycho-100",
@@ -3478,7 +3607,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "re-zero-starting-life-in-another-world",
@@ -3500,7 +3630,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "erased",
@@ -3522,7 +3653,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "konosuba-gods-blessing-on-this-wonderful-world",
@@ -3544,7 +3676,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "bungo-stray-dogs",
@@ -3566,7 +3699,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-disastrous-life-of-saiki-k",
@@ -3588,7 +3722,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "drifters",
@@ -3610,7 +3745,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "one-punch-man",
@@ -3632,7 +3768,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "overlord",
@@ -3654,7 +3791,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
@@ -3676,7 +3814,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "prison-school",
@@ -3698,7 +3837,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "blood-blockade-battlefront",
@@ -3720,7 +3860,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "gate",
@@ -3742,7 +3883,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "tokyo-ghoul",
@@ -3764,7 +3906,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "noragami",
@@ -3786,7 +3929,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "parasyte-the-maxim",
@@ -3808,7 +3952,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-seven-deadly-sins",
@@ -3830,7 +3975,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "terra-formars",
@@ -3852,7 +3998,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "attack-on-titan",
@@ -3874,7 +4021,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kill-la-kill",
@@ -3896,7 +4044,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "log-horizon",
@@ -3918,7 +4067,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "a-certain-scientific-railgun-s",
@@ -3940,7 +4090,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "jojos-bizarre-adventure-tv",
@@ -3962,7 +4113,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sword-art-online",
@@ -3984,7 +4136,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "psycho-pass",
@@ -4006,7 +4159,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "magi-the-labyrinth-of-magic",
@@ -4028,7 +4182,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "daily-lives-of-high-school-boys",
@@ -4050,7 +4205,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kokoro-connect",
@@ -4072,7 +4228,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "k",
@@ -4094,7 +4251,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "btooom",
@@ -4116,7 +4274,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "accel-world",
@@ -4138,7 +4297,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sankarea-undying-love",
@@ -4160,7 +4320,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "jormungand",
@@ -4182,7 +4343,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kingdom",
@@ -4204,7 +4366,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "space-brothers",
@@ -4226,7 +4389,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "anohana-the-flower-we-saw-that-day",
@@ -4248,7 +4412,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "fate-zero",
@@ -4270,7 +4435,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "deadman-wonderland",
@@ -4292,7 +4458,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "guilty-crown",
@@ -4314,7 +4481,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "infinite-stratos",
@@ -4336,7 +4504,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "beelzebub",
@@ -4358,7 +4527,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "no-6",
@@ -4380,7 +4550,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "ground-control-to-psychoelectric-girl",
@@ -4402,7 +4573,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "aria-the-scarlet-ammo",
@@ -4424,7 +4596,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "baka-and-test-summon-the-beasts-2",
@@ -4446,7 +4619,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "toradora-bento-battle",
@@ -4468,7 +4642,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "level-e",
@@ -4490,7 +4665,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "angel-beats",
@@ -4512,7 +4688,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "durarara",
@@ -4534,7 +4711,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "baka-and-test-summon-the-beasts",
@@ -4556,7 +4734,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "rainbow",
@@ -4578,7 +4757,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "nura-rise-of-the-yokai-clan",
@@ -4600,7 +4780,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "fairy-tail",
@@ -4622,7 +4803,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "bakemonogatari",
@@ -4644,7 +4826,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "spice-and-wolf-ii",
@@ -4666,7 +4849,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "pandorahearts",
@@ -4688,7 +4872,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "ka-mpfer",
@@ -4710,7 +4895,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "letter-bee",
@@ -4732,7 +4918,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "shugo-chara-party",
@@ -4754,7 +4941,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "toradora",
@@ -4776,7 +4964,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "soul-eater",
@@ -4798,7 +4987,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "spice-and-wolf",
@@ -4820,7 +5010,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "a-certain-magical-index",
@@ -4842,7 +5033,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "gurren-lagann",
@@ -4864,7 +5056,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "clannad",
@@ -4886,7 +5079,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "baccano",
@@ -4908,7 +5102,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "blue-dragon",
@@ -4930,7 +5125,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "death-note",
@@ -4952,7 +5148,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "gintama",
@@ -4974,7 +5171,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-familiar-of-zero",
@@ -4996,7 +5194,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "d-gray-man",
@@ -5018,7 +5217,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "xxxholic",
@@ -5040,7 +5240,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "air-gear",
@@ -5062,7 +5263,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "reborn",
@@ -5084,7 +5286,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kenichi-the-mightiest-disciple",
@@ -5106,7 +5309,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kekkaishi",
@@ -5128,7 +5332,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "oh-my-goddess-tv",
@@ -5150,7 +5355,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "the-law-of-ueki",
@@ -5172,7 +5378,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "marchen-awakens-romance",
@@ -5194,7 +5401,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "bleach",
@@ -5216,7 +5424,8 @@
     "my_status": "ongoing",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "samurai-champloo",
@@ -5238,7 +5447,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "gantz",
@@ -5260,7 +5470,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "yakitate-japan",
@@ -5282,7 +5493,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "sgt-frog",
@@ -5304,7 +5516,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "mermaid-melody-pichi-pichi-pitch-pure",
@@ -5326,7 +5539,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kaiketsu-zorori",
@@ -5348,7 +5562,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "fullmetal-alchemist",
@@ -5370,7 +5585,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "zatch-bell",
@@ -5392,7 +5608,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "saiyuki-reload",
@@ -5414,7 +5631,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "wagamama-fairy-mirumo-de-pon-golden",
@@ -5436,7 +5654,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "naruto",
@@ -5458,7 +5677,8 @@
     "my_status": "completed",
     "my_score": 5,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "digimon-frontier",
@@ -5480,7 +5700,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "shaman-king",
@@ -5502,7 +5723,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "digimon-tamers",
@@ -5524,7 +5746,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "rave-master",
@@ -5546,7 +5769,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kirby-right-back-at-ya",
@@ -5568,7 +5792,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "legend-of-condor-hero",
@@ -5590,7 +5815,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "inuyasha",
@@ -5612,7 +5838,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "digimon-digital-monsters-02",
@@ -5634,7 +5861,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "digimon-digital-monsters",
@@ -5656,7 +5884,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "gto-great-teacher-onizuka",
@@ -5678,7 +5907,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "hunter-x-hunter",
@@ -5700,7 +5930,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "flame-of-recca",
@@ -5722,7 +5953,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "cooking-master-boy",
@@ -5744,7 +5976,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "dr-slump",
@@ -5766,7 +5999,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kodocha",
@@ -5788,7 +6022,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "kochikame",
@@ -5810,7 +6045,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "zenki",
@@ -5832,7 +6068,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "magical-circle-guru-guru",
@@ -5854,7 +6091,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "yu-yu-hakusho-ghostfiles",
@@ -5876,7 +6114,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "matchless-raijin-oh",
@@ -5898,7 +6137,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "saint-seiya-knights-of-the-zodiac",
@@ -5920,7 +6160,8 @@
     "my_status": "completed",
     "my_score": null,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "wandering-witch-the-journey-of-elaina",
@@ -5942,7 +6183,8 @@
     "my_status": "on_hold",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "puella-magi-madoka-magica",
@@ -5964,6 +6206,7 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   }
 ]

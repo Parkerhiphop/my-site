@@ -20,9 +20,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "woman-in-gold",
@@ -45,9 +43,7 @@
     "my_score": null,
     "note": null,
     "has_article": true,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "project-hail-mary",
@@ -70,9 +66,7 @@
     "my_score": null,
     "note": "改編自 Andy Weir 同名小說；美國由 Amazon MGM Studios 發行，國際由 Sony Pictures Releasing International 發行。",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "kpop-demon-hunters",
@@ -95,9 +89,7 @@
     "my_score": null,
     "note": "Netflix 配信電影；Sony Pictures Animation 製作。",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "cosmic-princess-kaguya",
@@ -120,9 +112,7 @@
     "my_score": null,
     "note": "Netflix 原創動畫電影；動畫制作為 Studio Colorido / Studio Chromato。",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "soul",
@@ -145,9 +135,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-fantastic-four-first-steps",
@@ -170,9 +158,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "whisper-of-the-heart",
@@ -195,9 +181,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "interstellar",
@@ -220,9 +204,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "venom-the-last-dance",
@@ -245,9 +227,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-wild-robot",
@@ -270,9 +250,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "dead-talents-society",
@@ -295,9 +273,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "deadpool-and-wolverine",
@@ -320,9 +296,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "april-come-she-will",
@@ -345,9 +319,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "twisters",
@@ -370,9 +342,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "ikoku-nikki",
@@ -395,9 +365,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "humanist-vampire-seeking-consenting-suicidal-person",
@@ -420,9 +388,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "dead-dead-demons-dededededestruction-koushou",
@@ -445,9 +411,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "twilight-of-the-warriors-walled-in",
@@ -470,9 +434,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "inside-out-2",
@@ -495,9 +457,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "furiosa-a-mad-max-saga",
@@ -520,9 +480,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "mad-max-fury-road",
@@ -545,9 +503,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-fall-guy",
@@ -570,9 +526,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "haikyu-the-dumpster-battle",
@@ -595,9 +549,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "godzilla-x-kong-the-new-empire",
@@ -620,9 +572,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "dune-part-two",
@@ -645,9 +595,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "perfect-days",
@@ -670,9 +618,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "robot-dreams",
@@ -695,9 +641,7 @@
     "my_score": 5,
     "note": null,
     "has_article": true,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "la-la-land",
@@ -720,9 +664,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "pompo-the-cinephile",
@@ -745,9 +687,7 @@
     "my_score": 3,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "barbie",
@@ -770,9 +710,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "oppenheimer",
@@ -795,9 +733,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "elemental",
@@ -820,9 +756,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "spider-man-across-the-spider-verse",
@@ -842,12 +776,10 @@
     "release_dates": ["2023/06"],
     "my_completed_date": null,
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-whale",
@@ -870,9 +802,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "superman-2025",
@@ -895,9 +825,7 @@
     "my_score": null,
     "note": "2025 年電影",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "how-to-train-your-dragon-2025",
@@ -920,9 +848,7 @@
     "my_score": null,
     "note": "真人版",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "lilo-and-stitch-2025",
@@ -945,9 +871,7 @@
     "my_score": null,
     "note": "真人版",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "thunderbolts",
@@ -970,9 +894,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "my-beloved-stranger",
@@ -995,9 +917,7 @@
     "my_score": 3,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "wicked",
@@ -1020,9 +940,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "glass-onion-a-knives-out-mystery",
@@ -1045,9 +963,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "thor-love-and-thunder",
@@ -1070,9 +986,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-shawshank-redemption",
@@ -1095,9 +1009,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "bohemian-rhapsody",
@@ -1120,9 +1032,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "top-gun-maverick",
@@ -1145,9 +1055,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "top-gun",
@@ -1170,9 +1078,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "chip-n-dale-rescue-rangers",
@@ -1195,9 +1101,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "doctor-strange-in-the-multiverse-of-madness",
@@ -1220,9 +1124,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "everything-everywhere-all-at-once",
@@ -1245,9 +1147,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "fantastic-beasts-and-where-to-find-them",
@@ -1270,9 +1170,7 @@
     "my_score": 2,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "john-wick",
@@ -1295,9 +1193,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "satoshi-kon-the-illusionist",
@@ -1320,9 +1216,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "thermae-romae",
@@ -1345,9 +1239,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-kings-man",
@@ -1370,9 +1262,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-adam-project",
@@ -1395,9 +1285,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "incantation",
@@ -1420,9 +1308,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-batman",
@@ -1445,9 +1331,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "spider-man-no-way-home",
@@ -1470,9 +1354,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "spider-man-brand-new-day",
@@ -1492,12 +1374,10 @@
     "release_dates": ["2026/07"],
     "my_completed_date": "2026/08/16",
     "my_status": "completed",
-    "my_score": null,
+    "my_score": 3,
     "note": "台灣 2026/07/29 上映；日本與美國 2026/07/31 上映。Sony Pictures / Columbia Pictures 發行，Marvel Studios 共同製作。",
     "has_article": true,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "a-silent-voice",
@@ -1520,9 +1400,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "100-meters",
@@ -1545,9 +1423,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "kaiju-no-8-mission-recon",
@@ -1570,9 +1446,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "jujutsu-kaisen-hidden-inventory-premature-death-the-movie",
@@ -1595,9 +1469,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "detective-conan-one-eyed-flashback",
@@ -1620,9 +1492,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "look-back",
@@ -1645,9 +1515,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "solo-leveling-reawakening",
@@ -1670,9 +1538,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "bocchi-the-rock-recap-part-1",
@@ -1695,9 +1561,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "dead-dead-demons-dededededestruction-zenshou",
@@ -1720,9 +1584,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "ya-boy-kongming-road-to-summer-sonia",
@@ -1745,9 +1607,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-lord-of-the-rings-the-war-of-the-rohirrim",
@@ -1770,9 +1630,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "gintama-on-theater-2d-kintama-hen",
@@ -1795,9 +1653,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "spy-x-family-code-white",
@@ -1820,9 +1676,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-boy-and-the-heron",
@@ -1845,9 +1699,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "blue-giant",
@@ -1870,9 +1722,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-concierge-at-hokkyoku-department-store",
@@ -1895,9 +1745,7 @@
     "my_score": null,
     "note": null,
     "has_article": true,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "digimon-adventure-02-the-beginning",
@@ -1920,9 +1768,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "shin-jigen-crayon-shin-chan-the-movie-chounouryoku-daikessen-tobe-tobe-temakizushi",
@@ -1945,9 +1791,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "suzume",
@@ -1970,9 +1814,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "one-piece-film-red",
@@ -1995,9 +1837,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "inu-oh",
@@ -2020,9 +1860,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "oddtaxi-in-the-woods",
@@ -2045,9 +1883,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-deer-king",
@@ -2070,9 +1906,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "jujutsu-kaisen-0",
@@ -2095,9 +1929,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "words-bubble-up-like-soda-pop",
@@ -2120,9 +1952,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "belle",
@@ -2145,9 +1975,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "fate-grand-order-divine-realm-of-the-round-table-camelot-paladin-agateram",
@@ -2170,9 +1998,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "child-of-kamiari-month",
@@ -2195,9 +2021,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "violet-evergarden-the-movie",
@@ -2220,9 +2044,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "weathering-with-you",
@@ -2245,9 +2067,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "fate-stay-night-heavens-feel-ii-lost-butterfly",
@@ -2270,9 +2090,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "children-of-the-sea",
@@ -2295,9 +2113,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "no-game-no-life-zero",
@@ -2320,9 +2136,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-night-is-short-walk-on-girl",
@@ -2345,9 +2159,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "fireworks",
@@ -2370,9 +2182,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "your-name",
@@ -2395,9 +2205,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "accel-world-infinite-burst",
@@ -2420,9 +2228,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-boy-and-the-beast",
@@ -2445,9 +2251,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "boruto-naruto-the-movie",
@@ -2470,9 +2274,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "patema-inverted",
@@ -2495,9 +2297,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "hunter-x-hunter-phantom-rouge",
@@ -2520,9 +2320,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "hunter-x-hunter-the-last-mission",
@@ -2545,9 +2343,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "one-piece-film-z",
@@ -2570,9 +2366,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-disappearance-of-haruhi-suzumiya",
@@ -2595,14 +2389,12 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "redline",
     "title": {
-      "zh": "紅線",
+      "zh": "REDLINE",
       "ja": "REDLINE",
       "en": "Redline"
     },
@@ -2620,9 +2412,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "summer-wars",
@@ -2645,9 +2435,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars",
@@ -2670,9 +2458,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-garden-of-sinners-chapter-1-thanatos-overlooking-view",
@@ -2695,9 +2481,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-girl-who-leapt-through-time",
@@ -2720,9 +2504,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "paprika",
@@ -2745,9 +2527,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "tekkonkinkreet",
@@ -2770,9 +2550,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "final-fantasy-vii-advent-children",
@@ -2795,9 +2573,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "xxxholic-a-midsummer-nights-dream",
@@ -2820,9 +2596,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "howl-s-moving-castle",
@@ -2845,9 +2619,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "inuyasha-the-movie-4-fire-on-the-mystic-island",
@@ -2870,9 +2642,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "blade-of-the-phantom-master",
@@ -2895,9 +2665,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "zatch-bell-101st-devil",
@@ -2920,9 +2688,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "tokyo-godfathers",
@@ -2945,9 +2711,7 @@
     "my_score": 5,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "millennium-actress",
@@ -2970,9 +2734,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "the-cat-returns",
@@ -2995,9 +2757,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "spirited-away",
@@ -3020,9 +2780,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "poke-mon-3-the-movie",
@@ -3045,9 +2803,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "perfect-blue",
@@ -3070,9 +2826,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "grandma-and-her-ghosts",
@@ -3095,9 +2849,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "princess-mononoke",
@@ -3120,9 +2872,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "neon-genesis-evangelion-death-and-rebirth",
@@ -3145,9 +2895,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "crayon-shin-chan-unkokusais-ambition",
@@ -3170,9 +2918,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "akira",
@@ -3195,9 +2941,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "castle-in-the-sky",
@@ -3220,9 +2964,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "nausicaa-of-the-valley-of-the-wind",
@@ -3245,9 +2987,7 @@
     "my_score": null,
     "note": null,
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   },
   {
     "key": "bubble",
@@ -3269,7 +3009,8 @@
     "my_status": "completed",
     "my_score": 1,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "boku-no-hero-academia-the-movie-two-heroes",
@@ -3291,7 +3032,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "boku-no-hero-academia-the-movie-heroes-rising",
@@ -3313,7 +3055,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "boku-no-hero-academia-the-movie-world-heroes-mission",
@@ -3335,7 +3078,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "boku-no-hero-academia-the-movie-youre-next",
@@ -3357,7 +3101,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": null,
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "after-the-rain",
@@ -3379,7 +3124,8 @@
     "my_status": "completed",
     "my_score": 3,
     "note": "動畫的真人版電影，因為在 YouTube 上看到 MV 就跑來看完了，很喜歡。",
-    "has_article": false
+    "has_article": false,
+    "check": "pending"
   },
   {
     "key": "demolition",
@@ -3402,8 +3148,6 @@
     "my_score": null,
     "note": "多倫多影展首映；美國院線 2016/04。",
     "has_article": false,
-    "data_review": {
-      "title_zh": "approved"
-    }
+    "check": "pending"
   }
 ]
