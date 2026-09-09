@@ -62,8 +62,8 @@
     "publisher": "studio_kafka",
     "release_dates": ["2026/04"],
     "my_completed_date": "2026/06",
-    "my_status": "ongoing",
-    "my_score": null,
+    "my_status": "completed",
+    "my_score": 3,
     "note": null,
     "has_article": false,
     "check": "pending"
@@ -223,7 +223,7 @@
     "publisher": "bug_films",
     "release_dates": ["2026/04"],
     "my_completed_date": null,
-    "my_status": "ongoing",
+    "my_status": "on_hold",
     "my_score": 3,
     "note": null,
     "has_article": false,
@@ -3626,8 +3626,8 @@
     "genres": ["action", "adventure", "drama", "fantasy", "romance", "thriller"],
     "publisher": "white_fox",
     "release_dates": ["2016/04", "2020/07", "2021/01", "2024/10", "2025/02", "2026/04", "2026/08"],
-    "my_completed_date": "2026/06",
-    "my_status": "completed",
+    "my_completed_date": "",
+    "my_status": "ongoing",
     "my_score": 5,
     "note": null,
     "has_article": false,
@@ -6206,6 +6206,29 @@
     "my_status": "completed",
     "my_score": 2,
     "note": null,
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "blue-eye-samurai",
+    "title": {
+      "zh": "藍眼武士",
+      "ja": "ブルーアイ・サムライ",
+      "en": "Blue Eye Samurai"
+    },
+    "creator": {
+      "zh": "安柏·野泉、麥可·葛林",
+      "ja": "アンバー・ノイズミ、マイケル・グリーン",
+      "en": "Amber Noizumi, Michael Green"
+    },
+    "form": "anime",
+    "genres": ["action", "adventure", "drama", "historical"],
+    "publisher": "netflix",
+    "release_dates": ["2023/11"],
+    "my_completed_date": "2023/12",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "Netflix 原創成人動畫系列；以江戶時代日本為背景。",
     "has_article": false,
     "check": "pending"
   }

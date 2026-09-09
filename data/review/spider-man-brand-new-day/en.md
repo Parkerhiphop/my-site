@@ -3,7 +3,7 @@ title: '(Spoilers) Spider-Man: Brand New Day - Rebuilt Connections'
 date: '2026-08-17'
 draft: false
 summary: 'Thoughts after watching Spider-Man: Brand New Day, exploring loneliness, self-identity, self-indulgent sacrifice, and redemption through love.'
-review-by-me: true
+review-by-me: false
 ---
 
 > In the previous film, No Way Home, the whole world ultimately forgot Peter Parker.

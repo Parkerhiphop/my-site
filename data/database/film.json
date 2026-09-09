@@ -3149,5 +3149,51 @@
     "note": "多倫多影展首映；美國院線 2016/04。",
     "has_article": false,
     "check": "pending"
+  },
+  {
+    "key": "brave-story",
+    "title": {
+      "zh": "勇者物語",
+      "ja": "ブレイブ ストーリー",
+      "en": "Brave Story"
+    },
+    "creator": {
+      "zh": "宮部美幸、千明孝一",
+      "ja": "宮部みゆき、千明孝一",
+      "en": "Miyuki Miyabe, Koichi Chigira"
+    },
+    "form": "film",
+    "genres": ["adventure", "fantasy"],
+    "publisher": "warner_bros",
+    "release_dates": ["2006/07"],
+    "my_completed_date": "2026/08/29",
+    "my_status": "completed",
+    "my_score": 2,
+    "note": "宮部美幸原作小說改編的劇場版動畫；GONZO 製作。",
+    "has_article": false,
+    "check": "pending"
+  },
+  {
+    "key": "backrooms",
+    "title": {
+      "zh": "後室",
+      "ja": "バックルームズ",
+      "en": "Backrooms"
+    },
+    "creator": {
+      "zh": "凱恩·帕森斯",
+      "ja": "ケイン・パーソンズ",
+      "en": "Kane Parsons"
+    },
+    "form": "film",
+    "genres": ["horror", "sci-fi", "thriller"],
+    "publisher": "a24",
+    "release_dates": ["2026/05", "2026/09"],
+    "my_completed_date": "2026/09/05",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": "Kane Pixels 的網路短片系列改編電影；美國 2026/05 上映，日本 2026/09/04 上映。",
+    "has_article": false,
+    "check": "pending"
   }
 ]

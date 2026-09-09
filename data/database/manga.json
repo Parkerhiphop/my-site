@@ -5565,5 +5565,29 @@
     "note": null,
     "has_article": false,
     "check": "pending"
+  },
+  {
+    "key": "daemons-of-the-shadow-realm",
+    "title": {
+      "zh": "黃泉使者",
+      "ja": "黄泉のツガイ",
+      "en": "Daemons of the Shadow Realm"
+    },
+    "creator": {
+      "zh": "荒川弘",
+      "ja": "荒川弘",
+      "en": "Hiromu Arakawa"
+    },
+    "form": "manga",
+    "genres": ["action", "adventure", "comedy", "fantasy"],
+    "publisher": "square_enix",
+    "release_dates": ["2022/01"],
+    "end_date": null,
+    "my_completed_date": null,
+    "my_status": "ongoing",
+    "my_score": 3,
+    "note": "",
+    "has_article": false,
+    "check": "pending"
   }
 ]
