@@ -97,9 +97,7 @@ export default function SponsorSection({ locale = 'zh-TW', variant = 'short' }) 
       <p className="text-sm font-semibold uppercase text-accent-500 dark:text-accent-400">
         {copy.eyebrow}
       </p>
-      <h2 className="mt-3 text-2xl font-bold text-gray-900 dark:text-gray-100">
-        {variant === 'full' ? copy.title : copy.shortTitle}
-      </h2>
+      <h2 className="heading-2 mt-3">{variant === 'full' ? copy.title : copy.shortTitle}</h2>
       <div className="mt-4 space-y-4 text-base leading-7 text-gray-600 dark:text-gray-400">
         {variant === 'full' ? (
           <>

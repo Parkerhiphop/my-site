@@ -53,7 +53,7 @@ export default function Guestbook({ locale, availableLocales }) {
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <header className="pb-8">
-          <h1 className="mt-3">
+          <h1>
             {siteMetadata.iconMap.guestbook} {copy.title}
           </h1>
           <p className="mt-5 text-lg leading-8 text-gray-600 dark:text-gray-400">{copy.intro}</p>
@@ -73,9 +73,7 @@ export default function Guestbook({ locale, availableLocales }) {
         </section>
 
         <section className="py-8">
-          <h2 className="text-2xl font-bold leading-9 text-gray-900 dark:text-gray-100">
-            {copy.commentTitle}
-          </h2>
+          <h2 className="heading-2">{copy.commentTitle}</h2>
           <Comments
             pageId="guestbook"
             pageUrl={`${siteMetadata.siteUrl}/guestbook`}

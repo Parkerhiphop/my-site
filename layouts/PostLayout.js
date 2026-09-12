@@ -67,7 +67,7 @@ export default function PostLayout({
       />
       <ScrollTopAndComment />
       <article className="pb-12">
-        <header className="border-b border-gray-200 pb-8 pt-6 dark:border-gray-800 md:pb-10 md:pt-12">
+        <header className="border-b border-gray-200 pb-8 dark:border-gray-800 md:pb-10">
           <div className="mx-auto max-w-3xl">
             <div className="flex flex-wrap items-center gap-x-3 gap-y-2 text-sm font-semibold text-gray-500 dark:text-gray-400">
               {category && (
@@ -88,9 +88,7 @@ export default function PostLayout({
               </span>
               <span>{wordCountLabel}</span>
             </div>
-            <h1 className="mt-5 !text-3xl !font-extrabold !leading-tight !tracking-tight !text-gray-950 dark:!text-gray-50 sm:!text-4xl md:!text-5xl md:!leading-tight">
-              {title}
-            </h1>
+            <h1 className="heading-1 mt-5">{title}</h1>
             {description && (
               <p className="mt-5 text-lg leading-8 text-gray-600 dark:text-gray-400 md:text-xl md:leading-9">
                 {description}

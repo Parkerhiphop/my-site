@@ -21,8 +21,8 @@ export default function AuthorLayout({ children, frontMatter, availableLocales }
         availableLocales={availableLocales}
       />
       <div className="space-y-10">
-        <header className="border-b border-gray-200 pb-8 dark:border-gray-700 md:pt-6">
-          <h1 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl">
+        <header className="border-b border-gray-200 pb-8 dark:border-gray-700">
+          <h1 className="heading-1">
             {siteMetadata.iconMap.about} {pageTitle}
           </h1>
         </header>

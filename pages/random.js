@@ -37,7 +37,7 @@ export default function Random({ randomPosts, availableLocales }) {
         availableLocales={availableLocales}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="space-y-2 pb-8 md:pt-6 md:space-y-5">
+        <div className="space-y-2 pb-8 md:space-y-5">
           <h1>
             {siteMetadata.iconMap.random} {t('headerNavLinks:random')}
           </h1>

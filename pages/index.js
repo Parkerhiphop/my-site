@@ -4,7 +4,9 @@ import SponsorSection from '@/components/SponsorSection';
 import siteMetadata from '@/data/siteMetadata';
 import formatDate from '@/lib/utils/formatDate';
 import getAllPosts from '@/lib/utils/getAllPosts';
+import { getPostCover } from '@/lib/utils/getPostSlugProps';
 import useTranslation from 'next-translate/useTranslation';
+import Image from '@/components/Image';
 
 // TODO: not review yet
 const homeCopy = {
@@ -143,6 +145,9 @@ const categoryStyles = {
 
 const pinnedPostSlugs = ['ideal-life', 'fear-of-living-well', 'after-homelessness'];
 
+const highlightedHeadingClass =
+  'relative isolate inline-block after:absolute after:inset-x-[-0.14em] after:bottom-[0.1em] after:-z-10 after:h-[0.42em] after:-rotate-1 after:bg-primary-300/70 dark:after:bg-primary-500/50';
+
 function getPostUrl(post) {
   return `/${post.category}/${post.slug}`;
 }
@@ -212,6 +217,7 @@ export async function getStaticProps({ locale, locales }) {
         title: post.title,
         date: post.date,
         summary: post.summary || post.description || '',
+        cover: getPostCover(post.category, post.slug, locale),
       })),
       stats,
       locale,
@@ -241,9 +247,7 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
         <div className="space-y-4 pb-8 md:space-y-6 md:pb-12">
           <section>
             <div className="space-y-5">
-              <h1 className="mr-6 text-2xl leading-10 md:text-4xl md:leading-14">
-                {siteMetadata.title} 🕸️
-              </h1>
+              <h1 className="heading-1 mr-6">{siteMetadata.title} 🕸️</h1>
               <p className="text-lg leading-8 text-gray-600 dark:text-gray-300 md:text-xl md:leading-9">
                 {copy.intro}{' '}
                 <Link
@@ -273,18 +277,24 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
           </section>
 
           <section className="space-y-4">
-            <h2 className="text-xl font-bold text-gray-900 dark:text-gray-100 md:text-2xl">
-              {copy.areaTitle}
-            </h2>
+            <h2 className={`${highlightedHeadingClass} heading-2`}>{copy.areaTitle}</h2>
             <div className="md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-4">
               {webLinks.map((link) => (
                 <Link
                   key={link.key}
                   href={link.href}
-                  className="group block border-t border-gray-200 py-3 transition last:border-b hover:text-primary-600 dark:border-gray-700 dark:hover:text-primary-400 md:rounded-lg md:border md:border-gray-200 md:p-5 md:hover:-translate-y-0.5 md:hover:border-primary-300 md:hover:bg-primary-50/40 md:dark:border-gray-700 md:dark:hover:border-primary-700 md:dark:hover:bg-primary-900/20"
+                  className="group block border-b border-gray-300 py-3 transition hover:text-primary-600 dark:border-gray-700 dark:hover:text-primary-400 md:border-b-2 md:border-primary-300/60 md:py-4 md:hover:bg-primary-50/40 md:dark:border-primary-700/60 md:dark:hover:bg-primary-900/20"
                 >
-                  <div className="text-base font-semibold text-gray-900 group-hover:text-primary-600 dark:text-gray-100 dark:group-hover:text-primary-300">
-                    {siteMetadata.iconMap[link.key]} {copy.webLinks[link.key].title}
+                  <div className="flex items-center gap-2 text-base font-semibold text-gray-900 group-hover:text-primary-600 dark:text-gray-100 dark:group-hover:text-primary-300">
+                    <span
+                      aria-hidden="true"
+                      className="text-lg font-normal text-primary-500 transition-transform duration-200 group-hover:translate-x-1"
+                    >
+                      →
+                    </span>
+                    <span>
+                      {siteMetadata.iconMap[link.key]} {copy.webLinks[link.key].title}
+                    </span>
                   </div>
                   <p className="mt-1 text-sm leading-6 text-gray-500 dark:text-gray-400 md:mt-3 md:text-base md:leading-7">
                     {copy.webLinks[link.key].description}
@@ -297,33 +307,47 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
           <section className="space-y-4">
             <div className="space-y-4">
               <div className="max-w-2xl">
-                <h2 className="mt-1 text-xl font-bold text-gray-900 dark:text-gray-100 md:text-2xl">
-                  {copy.picksTitle}
-                </h2>
+                <h2 className={`${highlightedHeadingClass} heading-2 mt-1`}>{copy.picksTitle}</h2>
               </div>
               <div className="-mx-4 flex snap-x gap-3 overflow-x-auto px-4 pb-2 sm:-mx-6 sm:px-6 md:mx-0 md:grid md:grid-cols-3 md:gap-4 md:overflow-visible md:px-0 md:pb-0">
                 {pinnedPosts.map((post) => (
                   <article
                     key={`${post.category}-${post.slug}`}
-                    className="group flex w-[78vw] max-w-[20rem] shrink-0 snap-start flex-col justify-between rounded-lg border border-gray-200 bg-white p-4 transition hover:-translate-y-0.5 hover:border-primary-300 hover:text-primary-600 hover:shadow-sm dark:border-gray-700 dark:bg-gray-900/30 dark:hover:border-primary-700 dark:hover:text-primary-400 md:min-h-[220px] md:w-auto md:max-w-none md:p-5"
+                    className="group flex w-[78vw] max-w-[19rem] shrink-0 snap-start flex-col overflow-hidden border-b-2 border-gray-300 bg-transparent transition hover:-translate-y-0.5 hover:border-primary-300 hover:text-primary-600 md:w-auto md:max-w-none dark:border-gray-700 dark:bg-transparent dark:hover:border-primary-700 dark:hover:text-primary-400"
                   >
-                    <div className="space-y-2 md:space-y-4">
-                      <CategoryBadge category={post.category} />
-                      <Link href={getPostUrl(post)}>
-                        <h3 className="text-lg font-bold leading-7 text-gray-900 transition group-hover:text-primary-600 dark:text-gray-100 dark:group-hover:text-primary-300 md:text-xl md:leading-8">
-                          {post.title}
-                        </h3>
+                    {post.cover && (
+                      <Link
+                        href={getPostUrl(post)}
+                        className="relative block aspect-[2/1] overflow-hidden bg-gray-100 dark:bg-gray-800"
+                      >
+                        <Image
+                          src={post.cover}
+                          alt={post.title}
+                          fill
+                          sizes="(min-width: 768px) 33vw, 78vw"
+                          className="object-cover transition duration-500 group-hover:scale-105"
+                        />
                       </Link>
-                      <p className="hidden text-base leading-7 text-gray-500 dark:text-gray-400 md:line-clamp-3 md:block">
-                        {post.summary}
-                      </p>
+                    )}
+                    <div className="p-4">
+                      <div className="space-y-2">
+                        <CategoryBadge category={post.category} />
+                        <Link href={getPostUrl(post)}>
+                          <h3 className="heading-3 transition group-hover:text-primary-600 dark:group-hover:text-primary-300">
+                            {post.title}
+                          </h3>
+                        </Link>
+                        <p className="hidden text-base leading-7 text-gray-500 dark:text-gray-400 md:line-clamp-2">
+                          {post.summary}
+                        </p>
+                      </div>
+                      <time
+                        className="mt-3 block text-sm font-medium text-gray-400 dark:text-gray-500 md:mt-6"
+                        dateTime={post.date}
+                      >
+                        {formatDate(post.date, locale, false)}
+                      </time>
                     </div>
-                    <time
-                      className="mt-3 block text-sm font-medium text-gray-400 dark:text-gray-500 md:mt-6"
-                      dateTime={post.date}
-                    >
-                      {formatDate(post.date, locale, false)}
-                    </time>
                   </article>
                 ))}
               </div>
@@ -333,9 +357,7 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
           <SponsorSection locale={locale} variant="inline" />
         </div>
         <div className="border-t border-gray-200 pt-6 dark:border-gray-700 md:pt-8">
-          <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 md:text-3xl">
-            {copy.timelineTitle}
-          </h2>
+          <h2 className={`${highlightedHeadingClass} heading-2`}>{copy.timelineTitle}</h2>
         </div>
         <ul>
           {!posts.length && '🚧'}
@@ -355,8 +377,8 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
               <ul className=" border-l-4  border-primary-500 my-4 md:my-8 pl-4">
                 {postByYear.posts.map(({ category, slug, date, title, summary }) => (
                   <li key={slug} className="py-4">
-                    <div className="flex flex-col md:flex-row gap-2 flex-wrap md:flex-nowrap">
-                      <div className="flex gap-4 md:basis-1/6">
+                    <div className="grid gap-2 md:grid-cols-[6rem_minmax(0,1fr)] md:gap-x-4">
+                      <div className="flex gap-4">
                         <time
                           className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400"
                           dateTime={date}
@@ -367,7 +389,7 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
                           <CategoryBadge category={category} />
                         </div>
                       </div>
-                      <article className="md:basis-5/6 space-y-2">
+                      <article className="space-y-2">
                         <div className="space-y-3">
                           <div>
                             <div className="hidden md:block mb-3">
@@ -377,9 +399,7 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
                               href={`/${category}/${slug}`}
                               className="text-gray-900 dark:text-gray-100 hover:text-primary-600 dark:hover:text-primary-400"
                             >
-                              <h3 className="text-lg md:text-2xl font-bold leading-8 tracking-tight">
-                                {title}
-                              </h3>
+                              <h3 className="heading-3">{title}</h3>
                             </Link>
                           </div>
                           <div className="prose max-w-none text-gray-500 dark:text-gray-400 hidden md:block">

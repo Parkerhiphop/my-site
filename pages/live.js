@@ -121,7 +121,7 @@ export default function Live({ availableLocales }) {
         availableLocales={availableLocales}
       />
       <div className="space-y-12">
-        <header className="border-b border-gray-200 pb-10 dark:border-gray-700 md:pt-6">
+        <header className="border-b border-gray-200 pb-10 dark:border-gray-700">
           <p className="text-sm font-semibold uppercase tracking-wide text-primary-500">
             {text.eyebrow}
           </p>
@@ -145,9 +145,7 @@ export default function Live({ availableLocales }) {
             {years.map((year) => (
               <section key={year} className="grid gap-6 md:grid-cols-[7rem_minmax(0,1fr)]">
                 <div>
-                  <h2 className="sticky top-24 text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-                    {year}
-                  </h2>
+                  <h2 className="heading-2 sticky top-24">{year}</h2>
                   <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">
                     {copy[locale].total} {groupedEvents[year].length}
                   </p>

@@ -25,31 +25,34 @@ export default function Now({ availableLocales }) {
         description={nowContent.intro}
         availableLocales={availableLocales}
       />
-      <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="space-y-2 pb-8 md:pt-6 md:space-y-5">
+      <div className="mx-auto max-w-4xl">
+        <header className="border-b border-gray-200 pb-10 dark:border-gray-700">
           <h1>
             {siteMetadata.iconMap.now} {t('headerNavLinks:now')}
           </h1>
-        </div>
-        <div className="space-y-8 py-8">
-          <p className="text-sm font-semibold uppercase tracking-wide text-primary-500">
+          <p className="mt-5 max-w-2xl text-lg leading-8 text-gray-700 dark:text-gray-200">
+            {nowContent.intro}
+          </p>
+          <p className="mt-6 text-sm font-semibold uppercase tracking-[0.2em] text-primary-500">
             {nowContent.updatedAtLabel} {nowContent.updatedAt}
           </p>
-          <div className="grid gap-6 md:grid-cols-2">
-            {nowContent.sections.map((section) => (
-              <section
-                key={section.title}
-                className="rounded-lg border border-gray-200 bg-white p-5 shadow-sm shadow-gray-100/70 dark:border-gray-700 dark:bg-gray-900/40 dark:shadow-none"
-              >
-                <div className="flex items-center gap-3">
-                  <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-primary-50 text-xl dark:bg-primary-900/30">
-                    {section.icon}
-                  </span>
-                  <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100">
-                    {section.title}
-                  </h3>
-                </div>
-                <ul className="mt-4 space-y-3 text-base leading-7 text-gray-600 dark:text-gray-400">
+        </header>
+        <div>
+          {nowContent.sections.map((section) => (
+            <section
+              key={section.title}
+              className="grid gap-5 border-b border-gray-200 py-8 last:border-b-0 dark:border-gray-700 md:grid-cols-[minmax(12rem,0.8fr)_minmax(0,1.5fr)] md:gap-10 md:py-10"
+            >
+              <div className="flex items-start gap-3">
+                <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-primary-50 text-xl dark:bg-primary-900/30">
+                  {section.icon}
+                </span>
+                <h2 className="heading-2 relative isolate inline-block after:absolute after:inset-x-[-0.14em] after:bottom-[0.1em] after:-z-10 after:h-[0.42em] after:-rotate-1 after:bg-primary-300/70 dark:after:bg-primary-500/50">
+                  {section.title}
+                </h2>
+              </div>
+              <div>
+                <ul className="space-y-3 text-base leading-7 text-gray-900 dark:text-white">
                   {section.items.map((item) => (
                     <li key={item} className="flex gap-3">
                       <span className="mt-3 h-1.5 w-1.5 shrink-0 rounded-full bg-primary-400 dark:bg-primary-300" />
@@ -58,7 +61,7 @@ export default function Now({ availableLocales }) {
                   ))}
                 </ul>
                 {section.footer !== undefined && (
-                  <p className="mt-4 text-base leading-7 text-gray-600 dark:text-gray-400">
+                  <p className="mt-4 text-base leading-7 text-gray-900 dark:text-white">
                     {section.footer && `${section.footer} `}
                     <Link
                       href="/database?status=ongoing"
@@ -68,9 +71,9 @@ export default function Now({ availableLocales }) {
                     </Link>
                   </p>
                 )}
-              </section>
-            ))}
-          </div>
+              </div>
+            </section>
+          ))}
         </div>
       </div>
     </>

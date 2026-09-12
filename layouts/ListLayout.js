@@ -1,4 +1,5 @@
 import Link from '@/components/Link';
+import Image from '@/components/Image';
 
 import { useState } from 'react';
 import formatDate from '@/lib/utils/formatDate';
@@ -58,10 +59,10 @@ export default function ListLayout({ type, posts, title, description, filters = 
 
   return (
     <div className="space-y-8">
-      <header className="border-b border-gray-200 pb-8 dark:border-gray-800 md:pt-6">
+      <header className="border-b border-gray-200 pb-8 dark:border-gray-800">
         <div className="grid gap-6 md:items-end">
           <div>
-            <h1 className="mt-2 !text-3xl !font-extrabold !leading-tight !tracking-tight !text-gray-950 dark:!text-gray-50 sm:!text-4xl md:!text-5xl">
+            <h1 className="heading-1 mt-2">
               {siteMetadata.iconMap[type]} {title}
             </h1>
             <div className="mt-4 text-lg leading-8 text-gray-600 dark:text-gray-400">
@@ -138,21 +139,22 @@ export default function ListLayout({ type, posts, title, description, filters = 
         {!filteredBlogPosts.length && (
           <div className="rounded-lg border border-dashed border-gray-300 px-5 py-10 dark:border-gray-700">
             <p className="text-3xl">🚧</p>
-            <h2 className="mt-4 text-xl font-bold text-gray-950 dark:text-gray-50">
-              {copy.emptyTitle}
-            </h2>
+            <h2 className="heading-2 mt-4">{copy.emptyTitle}</h2>
             <p className="mt-2 text-base leading-7 text-gray-500 dark:text-gray-400">
               {copy.emptyDescription}
             </p>
           </div>
         )}
 
-        <ul className="divide-y divide-gray-200 dark:divide-gray-800">
+        <ul className="space-y-3 md:space-y-0 md:divide-y md:divide-gray-300 md:dark:divide-gray-700">
           {filteredBlogPosts.map((frontMatter) => {
-            const { slug, date, title, summary, description, category } = frontMatter;
+            const { slug, date, title, summary, description, category, cover } = frontMatter;
             return (
-              <li key={slug}>
-                <article className="group py-5 md:grid md:grid-cols-[8rem_minmax(0,1fr)] md:gap-6 md:py-7">
+              <li
+                key={slug}
+                className="overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-colors hover:border-primary-200 hover:bg-gray-50/70 dark:border-gray-700 dark:bg-gray-900/30 dark:hover:border-primary-800 dark:hover:bg-gray-900/60 md:overflow-visible md:rounded-md md:border-0 md:bg-transparent md:shadow-none md:hover:bg-gray-50/70 md:dark:bg-transparent md:dark:hover:bg-gray-900/40"
+              >
+                <article className="group px-4 py-4 md:grid md:grid-cols-[8rem_minmax(0,1fr)_12rem] md:gap-6 md:px-3 md:py-8">
                   <dl className="mb-2 md:mb-0">
                     <dt className="sr-only">{t('common:pub')}</dt>
                     <dd className="text-sm font-semibold leading-6 text-gray-500 dark:text-gray-400">
@@ -160,7 +162,7 @@ export default function ListLayout({ type, posts, title, description, filters = 
                     </dd>
                   </dl>
                   <div className="min-w-0">
-                    <h2 className="text-xl font-bold leading-8 tracking-tight md:text-2xl md:leading-9">
+                    <h2 className="heading-2">
                       <Link
                         href={`/${category}/${slug}`}
                         className="text-gray-950 transition group-hover:text-primary-700 dark:text-gray-50 dark:group-hover:text-primary-300"
@@ -178,6 +180,20 @@ export default function ListLayout({ type, posts, title, description, filters = 
                       {t('common:more')} →
                     </Link>
                   </div>
+                  {cover && (
+                    <Link
+                      href={`/${category}/${slug}`}
+                      className="relative mt-4 block aspect-[16/9] overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800 md:mt-0"
+                    >
+                      <Image
+                        src={cover}
+                        alt={title}
+                        fill
+                        sizes="(min-width: 768px) 12rem, 100vw"
+                        className="object-cover transition duration-500 group-hover:scale-105"
+                      />
+                    </Link>
+                  )}
                 </article>
               </li>
             );
