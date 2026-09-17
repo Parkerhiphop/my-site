@@ -16,6 +16,18 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
+      // Raise every font utility by one weight step, capped at black.
+      fontWeight: {
+        thin: '200',
+        extralight: '300',
+        light: '400',
+        normal: '500',
+        medium: '600',
+        semibold: '700',
+        bold: '800',
+        extrabold: '900',
+        black: '900',
+      },
       spacing: {
         '9/16': '56.25%',
       },
@@ -61,7 +73,15 @@ module.exports = {
         DEFAULT: {
           css: {
             color: theme('colors.gray.700'),
+            // Typography plugin weights are independent of font utilities.
+            dt: { fontWeight: '700' },
+            h4: { fontWeight: '700' },
+            'h2 strong': { fontWeight: '900' },
+            'h3 strong, h4 strong': { fontWeight: '800' },
+            kbd: { fontWeight: '600' },
+            'thead th': { fontWeight: '700' },
             a: {
+              fontWeight: '600',
               color: theme('colors.primary.500'),
               '&:hover': {
                 color: `${theme('colors.primary.600')} !important`,
@@ -69,26 +89,28 @@ module.exports = {
               code: { color: theme('colors.primary.400') },
             },
             h1: {
-              fontWeight: '700',
+              fontWeight: '800',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.900'),
             },
             h2: {
-              fontWeight: '700',
+              fontWeight: '800',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.900'),
             },
             h3: {
-              fontWeight: '600',
+              fontWeight: '700',
               color: theme('colors.gray.900'),
             },
             'h4,h5,h6': {
               color: theme('colors.gray.900'),
             },
             pre: {
+              fontWeight: '500',
               backgroundColor: theme('colors.gray.800'),
             },
             code: {
+              fontWeight: '700',
               color: theme('colors.pink.500'),
               backgroundColor: theme('colors.gray.100'),
               paddingLeft: '4px',
@@ -105,14 +127,15 @@ module.exports = {
             },
             hr: { borderColor: theme('colors.gray.200') },
             'ol li::marker': {
-              fontWeight: '600',
+              fontWeight: '700',
               color: theme('colors.gray.500'),
             },
             'ul li::marker': {
               backgroundColor: theme('colors.gray.500'),
             },
-            strong: { color: theme('colors.gray.600') },
+            strong: { fontWeight: '700', color: theme('colors.gray.600') },
             blockquote: {
+              fontWeight: '600',
               color: theme('colors.gray.900'),
               borderLeftColor: theme('colors.gray.200'),
             },
@@ -132,17 +155,17 @@ module.exports = {
               code: { color: theme('colors.primary.400') },
             },
             h1: {
-              fontWeight: '700',
+              fontWeight: '800',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.100'),
             },
             h2: {
-              fontWeight: '700',
+              fontWeight: '800',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.100'),
             },
             h3: {
-              fontWeight: '600',
+              fontWeight: '700',
               color: theme('colors.gray.100'),
             },
             'h4,h5,h6': {
@@ -156,7 +179,7 @@ module.exports = {
             },
             hr: { borderColor: theme('colors.gray.700') },
             'ol li::marker': {
-              fontWeight: '600',
+              fontWeight: '700',
               color: theme('colors.gray.400'),
             },
             'ul li::marker': {

@@ -128,7 +128,7 @@
 
 .token.important,
 .token.bold {
-  font-weight: bold;
+  font-weight: 800;
 }
 
 .token.italic {
