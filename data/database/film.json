@@ -3195,5 +3195,28 @@
     "note": "Kane Pixels 的網路短片系列改編電影；美國 2026/05 上映，日本 2026/09/04 上映。",
     "has_article": false,
     "check": "pending"
+  },
+  {
+    "key": "the-suicide-squad",
+    "title": {
+      "zh": "自殺突擊隊：集結",
+      "ja": "ザ・スーサイド・スクワッド “極”悪党、集結",
+      "en": "The Suicide Squad"
+    },
+    "creator": {
+      "zh": "詹姆斯·岡恩",
+      "ja": "ジェームズ・ガン",
+      "en": "James Gunn"
+    },
+    "form": "film",
+    "genres": ["action", "adventure", "comedy"],
+    "publisher": "warner_bros",
+    "release_dates": ["2021/08"],
+    "my_completed_date": "2026/09/15",
+    "my_status": "completed",
+    "my_score": 1,
+    "note": "DC 漫畫改編電影；由 James Gunn 編劇及導演。",
+    "has_article": false,
+    "check": "pending"
   }
 ]

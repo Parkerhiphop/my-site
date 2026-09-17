@@ -434,15 +434,22 @@ export default function Works({ locale, availableLocales }) {
   const totalCount = localizedWorks.length;
   const isWatchingNowActive = filters.status.length === 1 && filters.status[0] === 'ongoing';
   const isPlannedListActive = filters.status.length === 1 && filters.status[0] === 'planned';
-  const activeFilterCount = [
-    filters.form.length,
-    filters.status.length,
-    filters.score.length,
-    filters.genre.length,
-    filters.releaseFrom || filters.releaseTo ? 1 : 0,
-    filters.completedFrom || filters.completedTo ? 1 : 0,
-    filters.search.trim() ? 1 : 0,
-  ].reduce((total, count) => total + count, 0);
+  const activeFilterLabels = [
+    ...['form', 'status', 'score', 'genre'].flatMap((group) =>
+      filters[group].map((value) => display(mapLabel(group, value, locale), text))
+    ),
+    ...[
+      ['releaseFrom', 'releaseTo', text.filters.releaseRange],
+      ['completedFrom', 'completedTo', text.filters.completedRange],
+    ].flatMap(([fromKey, toKey, label]) =>
+      filters[fromKey] || filters[toKey]
+        ? [`${label}: ${filters[fromKey] || text.any} → ${filters[toKey] || text.any}`]
+        : []
+    ),
+    ...(filters.search.trim() ? [`${text.search}: ${filters.search.trim()}`] : []),
+  ];
+  const activeFilterCount = activeFilterLabels.length;
+  const filterSummary = activeFilterLabels.join(locale === 'en' ? ', ' : '、');
 
   const filteredWorks = useMemo(() => {
     const filtered = localizedWorks.filter((work) => {
@@ -897,26 +904,27 @@ export default function Works({ locale, availableLocales }) {
         availableLocales={availableLocales}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="space-y-4 pb-8 md:pt-6">
+        <div className="space-y-4 pb-8">
           <h1>
             {siteMetadata.iconMap.database} {t('headerNavLinks:database')}
           </h1>
           <h2 className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             {t('headerNavLinks:database-description')}
           </h2>
-          <div
-            className="inline-flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-gray-200 bg-gray-50 px-3.5 py-2 text-sm font-semibold text-gray-700 dark:border-gray-800 dark:bg-gray-900/50 dark:text-gray-200"
-            aria-live="polite"
-          ></div>
           <div className="flex flex-col gap-2 sm:flex-row">
             <button
               type="button"
               onClick={() => setFiltersOpen((current) => !current)}
-              className="group flex w-full items-center justify-between rounded-lg border border-gray-300 px-4 py-3 text-sm font-semibold text-gray-900 transition hover:border-primary-400 hover:text-primary-500 dark:border-gray-800 dark:text-gray-100"
+              className="group flex min-w-0 w-full items-center justify-between gap-3 rounded-lg border border-gray-300 px-4 py-3 text-sm font-semibold text-gray-900 transition hover:border-primary-400 hover:text-primary-500 dark:border-gray-800 dark:text-gray-100"
+              aria-label={
+                filterSummary ? `${text.filterToggle}: ${filterSummary}` : text.filterToggle
+              }
               aria-expanded={filtersOpen}
             >
-              <span>{text.filterToggle}</span>
-              <span className="inline-flex items-center gap-2">
+              <span className="min-w-0 break-words text-left">
+                {filterSummary || text.filterToggle}
+              </span>
+              <span className="inline-flex shrink-0 items-center gap-2">
                 {activeFilterCount > 0 && (
                   <span className="rounded-full bg-primary-500 px-2 py-0.5 text-xs text-white">
                     {activeFilterCount}
@@ -1086,42 +1094,6 @@ export default function Works({ locale, availableLocales }) {
               </span>
               <span className="hidden h-4 w-px bg-gray-300 dark:bg-gray-700 sm:inline-block" />
               <span>{formatCount(text.lastUpdated, { date: databaseMetadata.lastUpdated })}</span>
-            </div>
-            <div className="ml-auto flex flex-wrap items-center gap-2">
-              <button
-                type="button"
-                onClick={toggleWatchingNow}
-                className={`inline-flex items-center gap-2 rounded-full border px-3 py-2 text-sm font-semibold transition ${
-                  isWatchingNowActive
-                    ? 'border-orange-400 bg-orange-400 text-white'
-                    : 'border-gray-300 text-gray-700 hover:border-orange-400 hover:text-orange-500 dark:border-gray-800 dark:text-gray-300'
-                }`}
-                aria-pressed={isWatchingNowActive}
-              >
-                <span
-                  className={`h-2.5 w-2.5 rounded-full ${
-                    isWatchingNowActive ? 'bg-white' : 'bg-orange-400'
-                  }`}
-                />
-                {text.watchingNow}
-              </button>
-              <button
-                type="button"
-                onClick={togglePlannedList}
-                className={`inline-flex items-center gap-2 rounded-full border px-3 py-2 text-sm font-semibold transition ${
-                  isPlannedListActive
-                    ? 'border-sky-500 bg-sky-500 text-white'
-                    : 'border-gray-300 text-gray-700 hover:border-sky-500 hover:text-sky-600 dark:border-gray-800 dark:text-gray-300'
-                }`}
-                aria-pressed={isPlannedListActive}
-              >
-                <span
-                  className={`h-2.5 w-2.5 rounded-full ${
-                    isPlannedListActive ? 'bg-white' : 'bg-sky-500'
-                  }`}
-                />
-                {text.plannedList}
-              </button>
             </div>
           </div>
         </div>
