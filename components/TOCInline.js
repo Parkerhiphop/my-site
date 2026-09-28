@@ -59,7 +59,7 @@ const TOCInline = ({
         <div className="mb-0 space-y-1 text-sm leading-7 text-primary-700 dark:text-primary-300 md:text-base">
           {filteredToc.map((heading) => (
             <div
-              key={heading.value}
+              key={heading.url}
               className={`${
                 hierarchy[heading.depth]
               } overflow-hidden text-ellipsis border-l border-primary-200 pl-3 dark:border-primary-800`}

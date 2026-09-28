@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import Link from './Link';
 
@@ -10,6 +11,30 @@ const langMap = {
 const LangSwitch = () => {
   const router = useRouter();
   const { locale, locales } = router;
+  const [anchorPath, setAnchorPath] = useState(null);
+
+  useEffect(() => {
+    const syncAnchor = () => {
+      let hash = window.location.hash;
+      try {
+        const target = document.getElementById(decodeURIComponent(hash.slice(1)));
+        const canonicalId = target?.dataset.anchorId;
+        if (canonicalId) {
+          hash = `#${canonicalId}`;
+          // Next's initial fragment handling can miss encoded legacy IDs.
+          document.getElementById(canonicalId)?.scrollIntoView({ block: 'start' });
+        }
+      } catch {
+        // Preserve malformed fragments rather than breaking language navigation.
+      }
+      setAnchorPath({ source: router.asPath, href: router.asPath.split('#')[0] + hash });
+    };
+    syncAnchor();
+    window.addEventListener('hashchange', syncAnchor);
+    return () => window.removeEventListener('hashchange', syncAnchor);
+  }, [router.asPath]);
+
+  const href = anchorPath?.source === router.asPath ? anchorPath.href : router.asPath;
 
   return (
     <div className="flex items-center gap-1 text-sm font-semibold tracking-wide">
@@ -18,7 +43,7 @@ const LangSwitch = () => {
         return (
           <Link
             key={targetLocale}
-            href={router.asPath}
+            href={href}
             locale={targetLocale}
             className={`rounded-full px-2 py-1 transition ${
               isActive

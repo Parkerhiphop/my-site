@@ -11,6 +11,8 @@
     "generate-sitemap": "node ./scripts/generate-sitemap",
     "generate-rss": "node ./scripts/generate-rss",
     "database": "node scripts/database.mjs",
+    "check:anchors": "node scripts/check-heading-anchors.mjs",
+    "test:anchors": "node --test scripts/tests/heading-anchors.test.mjs",
     "check:translations": "node scripts/check-translations.mjs",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",

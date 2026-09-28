@@ -5,6 +5,9 @@ const matter = require('gray-matter');
 const siteMetadata = require('../data/siteMetadata');
 const i18nConfig = require('../i18n.json');
 const { marked } = require('marked');
+const renderHeading = require('../lib/rss-heading');
+
+marked.use({ renderer: { heading: renderHeading } });
 
 // escape
 const es = /&(?:amp|#38|lt|#60|gt|#62|apos|#39|quot|#34);/g;

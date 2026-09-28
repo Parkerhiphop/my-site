@@ -60,13 +60,21 @@ const extractTextFromChildren = (children) => {
 };
 
 const createHeading = (level) => {
-  const HeadingComponent = ({ children, id: existingId, ...props }) => {
+  const HeadingComponent = ({ children, id: existingId, 'data-legacy-id': legacyId, ...props }) => {
     const Tag = `h${level}`;
     const textContent = extractTextFromChildren(children);
     const id = existingId || slug(textContent);
 
     return (
       <Tag id={id} className="group scroll-mt-20" {...props}>
+        {legacyId && (
+          <span
+            id={legacyId}
+            data-anchor-id={id}
+            aria-hidden="true"
+            className="block scroll-mt-20"
+          />
+        )}
         <a href={`#${id}`} className="no-underline hover:no-underline">
           {children}
         </a>
