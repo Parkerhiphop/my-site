@@ -15,8 +15,8 @@ const Layout = ({ children }) => {
 
   return (
     <SectionContainer>
-      <div className="flex h-screen flex-col justify-between">
-        <header className="flex items-center justify-between gap-4 py-6 md:py-10">
+      <div className="flex min-h-screen flex-col justify-between">
+        <header className="sticky top-0 z-20 flex items-center justify-between gap-4 bg-white py-6 dark:bg-gray-900 md:py-10">
           <div className="flex flex-row gap-2">
             <Link href="/" aria-label={siteMetadata.headerTitle}>
               <div className="mr-3 flex-shrink-0">
