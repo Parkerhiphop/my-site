@@ -1,6 +1,5 @@
 const headerNavLinks = [
   { href: '/life', title: 'life' },
-  { href: '/software', title: 'software' },
   { href: '/review', title: 'review' },
   // { href: '/novel', title: 'novel' },
   { href: '/random', title: 'random' },

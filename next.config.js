@@ -54,6 +54,43 @@ const securityHeaders = [
 ];
 
 const redirects = [
+  // Software articles now live on dev-blog; preserve each language URL.
+  ...['', '/zh-TW', '/en', '/ja'].flatMap((prefix) => {
+    const destinationPrefix = prefix === '/zh-TW' ? '' : prefix;
+    const slugs = [
+      'design-system',
+      'from-callback-to-async',
+      'frontend-framework-101',
+      'google-oauth-login',
+      'my-first-three-year-in-code',
+      'talk-about-js-eval',
+      'talk-about-web-font',
+      'wordpress-hosting',
+    ];
+    if (destinationPrefix === '') slugs.push('kafka-sasl-clusterinstance-pr');
+    return [
+      {
+        source: `${prefix}/software`,
+        destination: `https://dev.parkerchang.life${destinationPrefix}/`,
+        statusCode: 301,
+        locale: false,
+      },
+      {
+        source: `${prefix}/software-development`,
+        destination: `https://dev.parkerchang.life${destinationPrefix}/`,
+        statusCode: 301,
+        locale: false,
+      },
+      ...slugs.flatMap((slug) =>
+        ['software', 'software-development', 'blog'].map((category) => ({
+          source: `${prefix}/${category}/${slug}`,
+          destination: `https://dev.parkerchang.life${destinationPrefix}/posts/${slug}/`,
+          statusCode: 301,
+          locale: false,
+        }))
+      ),
+    ];
+  }),
   {
     source: '/review/atomic-habits-basic',
     destination: '/life/atomic-habits-note',
@@ -152,41 +189,6 @@ const redirects = [
   {
     source: '/blog/wind-breaker-shishitouren',
     destination: '/review/wind-breaker',
-    statusCode: 301,
-  },
-  {
-    source: '/blog/design-system',
-    destination: '/software/design-system',
-    statusCode: 301,
-  },
-  {
-    source: '/blog/from-callback-to-async',
-    destination: '/software/from-callback-to-async',
-    statusCode: 301,
-  },
-  {
-    source: '/blog/frontend-framework-101',
-    destination: '/software/frontend-framework-101',
-    statusCode: 301,
-  },
-  {
-    source: '/blog/google-oauth-login',
-    destination: '/software/google-oauth-login',
-    statusCode: 301,
-  },
-  {
-    source: '/blog/my-first-three-year-in-code',
-    destination: '/software/my-first-three-year-in-code',
-    statusCode: 301,
-  },
-  {
-    source: '/blog/talk-about-js-eval',
-    destination: '/software/talk-about-js-eval',
-    statusCode: 301,
-  },
-  {
-    source: '/blog/talk-about-web-font',
-    destination: '/software/talk-about-web-font',
     statusCode: 301,
   },
 ];

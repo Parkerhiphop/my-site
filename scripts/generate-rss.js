@@ -59,8 +59,6 @@ const generateRssItem = (post, locale, defaultLocale) => `
   const contentFiles = await globby([
     'data/life/**/*.mdx',
     'data/life/**/*.md',
-    // 'data/software/**/*.mdx',
-    // 'data/software/**/*.md',
     'data/review/**/*.mdx',
     'data/review/**/*.md',
   ]);
