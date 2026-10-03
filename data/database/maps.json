@@ -109,6 +109,11 @@
       "ja": "漫画",
       "en": "Manga"
     },
+    "webtoon": {
+      "zh": "Webtoon",
+      "ja": "ウェブトゥーン",
+      "en": "Webtoon"
+    },
     "novel": {
       "zh": "小說",
       "ja": "小説",
@@ -126,25 +131,25 @@
     }
   },
   "score": {
-    "5": {
-      "zh": "神作",
-      "ja": "神作",
-      "en": "GOAT"
-    },
-    "3": {
-      "zh": "推薦",
-      "ja": "おすすめ",
-      "en": "Recommended"
+    "1": {
+      "zh": "很閒可以看",
+      "ja": "暇つぶしに",
+      "en": "If You Have Time"
     },
     "2": {
       "zh": "有亮點",
       "ja": "見どころがある",
       "en": "Has Its Moments"
     },
-    "1": {
-      "zh": "很閒可以看",
-      "ja": "暇つぶしに",
-      "en": "If You Have Time"
+    "3": {
+      "zh": "推薦",
+      "ja": "おすすめ",
+      "en": "Recommended"
+    },
+    "5": {
+      "zh": "神作",
+      "ja": "神作",
+      "en": "GOAT"
     },
     "unrated": {
       "zh": "尚未評價",

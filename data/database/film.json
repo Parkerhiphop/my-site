@@ -1,51 +1,5 @@
 [
   {
-    "key": "safe-house",
-    "title": {
-      "zh": "狡兔計畫",
-      "ja": "デンジャラス・ラン",
-      "en": "Safe House"
-    },
-    "creator": {
-      "zh": "丹尼爾艾斯皮諾沙",
-      "ja": "ダニエル・エスピノーサ",
-      "en": "Daniel Espinosa"
-    },
-    "form": "film",
-    "genres": ["action", "thriller"],
-    "publisher": "universal_pictures",
-    "release_dates": ["2012/02"],
-    "my_completed_date": null,
-    "my_status": "planned",
-    "my_score": null,
-    "note": null,
-    "has_article": false,
-    "check": "pending"
-  },
-  {
-    "key": "woman-in-gold",
-    "title": {
-      "zh": "名畫的控訴",
-      "ja": "黄金のアデーレ 名画の帰還",
-      "en": "Woman in Gold"
-    },
-    "creator": {
-      "zh": "賽門·柯提斯",
-      "ja": "サイモン・カーティス",
-      "en": "Simon Curtis"
-    },
-    "form": "film",
-    "genres": ["drama", "historical"],
-    "publisher": "origin_pictures",
-    "release_dates": ["2015/02"],
-    "my_completed_date": null,
-    "my_status": "planned",
-    "my_score": null,
-    "note": null,
-    "has_article": true,
-    "check": "pending"
-  },
-  {
     "key": "project-hail-mary",
     "title": {
       "zh": "極限返航",

@@ -1,28 +1,5 @@
 [
   {
-    "key": "sagrada-reset",
-    "title": {
-      "zh": "重啟咲良田",
-      "ja": "サクラダリセット",
-      "en": "Sagrada Reset"
-    },
-    "creator": {
-      "zh": "河野裕",
-      "ja": "河野裕",
-      "en": "Yutaka Kono"
-    },
-    "form": "anime",
-    "genres": ["drama", "mystery", "sci-fi"],
-    "publisher": "david_production",
-    "release_dates": ["2017/04"],
-    "my_completed_date": null,
-    "my_status": "planned",
-    "my_score": null,
-    "note": "改編自河野裕小說《サクラダリセット》系列。",
-    "has_article": false,
-    "check": "pending"
-  },
-  {
     "key": "one-piece",
     "title": {
       "zh": "航海王",
@@ -430,9 +407,9 @@
     "publisher": "c2c",
     "release_dates": ["2022/09", "2026/10"],
     "my_completed_date": "2022/12",
-    "my_status": "completed",
-    "my_score": 1,
-    "note": null,
+    "my_status": "ongoing",
+    "my_score": 2,
+    "note": "第二季於 2026/10 開播，目前觀看中。",
     "has_article": false,
     "check": "pending"
   },
@@ -6229,6 +6206,30 @@
     "my_status": "completed",
     "my_score": 2,
     "note": "Netflix 原創成人動畫系列；以江戶時代日本為背景。",
+    "has_article": false,
+    "check": "pending"
+  },
+
+  {
+    "key": "cyberpunk-edgerunners",
+    "title": {
+      "zh": "電馭叛客：邊緣行者",
+      "ja": "サイバーパンク エッジランナーズ",
+      "en": "Cyberpunk: Edgerunners"
+    },
+    "creator": {
+      "zh": "邁克·蓬德史密斯、拉法烏·雅基、今石洋之",
+      "ja": "マイク・ポンスミス、ラファウ・ヤキ、今石洋之",
+      "en": "Mike Pondsmith, Rafał Jaki, Hiroyuki Imaishi"
+    },
+    "form": "anime",
+    "genres": ["action", "drama", "sci-fi"],
+    "publisher": "trigger",
+    "release_dates": ["2022/09"],
+    "my_completed_date": "2026/09/26",
+    "my_status": "completed",
+    "my_score": 3,
+    "note": "CD PROJEKT RED 與 TRIGGER 合作製作的 Netflix 原創動畫，設定於《Cyberpunk 2077》世界。",
     "has_article": false,
     "check": "pending"
   }

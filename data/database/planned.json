@@ -43,27 +43,6 @@
       "has_article": false
     },
     {
-      "key": "kowloon-generic-romance",
-      "title": {
-        "zh": "九龍大眾浪漫",
-        "ja": "九龍ジェネリックロマンス",
-        "en": "KOWLOON GENERIC ROMANCE"
-      },
-      "creator": {
-        "zh": "眉月純",
-        "ja": "眉月純",
-        "en": "眉月純"
-      },
-      "genres": ["drama", "mystery", "romance", "sci-fi", "slice-of-life"],
-      "publisher": "arvo_animation",
-      "release_dates": ["2025/04"],
-      "my_completed_date": null,
-      "my_status": "planned",
-      "my_score": null,
-      "note": null,
-      "has_article": false
-    },
-    {
       "key": "kaguya-sama-love-is-war-stairway-to-adulthood",
       "title": {
         "zh": "輝夜大小姐想讓我告白 通往大人的階梯",
@@ -295,27 +274,6 @@
       "has_article": false
     },
     {
-      "key": "the-ancient-magus-bride",
-      "title": {
-        "zh": "魔法使的新娘",
-        "ja": "魔法使いの嫁",
-        "en": "The Ancient Magus' Bride"
-      },
-      "creator": {
-        "zh": "Yamazaki Kore",
-        "ja": "Yamazaki Kore",
-        "en": "Yamazaki Kore"
-      },
-      "genres": ["drama", "fantasy", "romance", "slice-of-life"],
-      "publisher": "studio_kafka",
-      "release_dates": ["2023/04", "2023/10"],
-      "my_completed_date": null,
-      "my_status": "planned",
-      "my_score": null,
-      "note": "想看第二季。",
-      "has_article": false
-    },
-    {
       "key": "fate-strange-fake-whispers-of-dawn",
       "title": {
         "zh": "Fate/strange Fake",
@@ -355,27 +313,6 @@
       "my_status": "planned",
       "my_score": null,
       "note": "想看第二季。",
-      "has_article": false
-    },
-    {
-      "key": "cyberpunk-edgerunners",
-      "title": {
-        "zh": "電馭叛客：邊緣行者",
-        "ja": "サイバーパンク エッジランナーズ",
-        "en": "Cyberpunk: Edgerunners"
-      },
-      "creator": {
-        "zh": "邁克·蓬施密斯",
-        "ja": "邁克·蓬施密斯",
-        "en": "邁克·蓬施密斯"
-      },
-      "genres": ["action", "drama", "sci-fi"],
-      "publisher": "trigger",
-      "release_dates": ["2022/09"],
-      "my_completed_date": null,
-      "my_status": "planned",
-      "my_score": null,
-      "note": null,
       "has_article": false
     },
     {
@@ -589,27 +526,6 @@
       "has_article": false
     },
     {
-      "key": "land-of-the-lustrous",
-      "title": {
-        "zh": "寶石之國",
-        "ja": "宝石の国",
-        "en": "Land of the Lustrous"
-      },
-      "creator": {
-        "zh": "市川春子",
-        "ja": "市川春子",
-        "en": "市川春子"
-      },
-      "genres": ["action", "drama", "fantasy", "mystery"],
-      "publisher": "orange",
-      "release_dates": ["2017/10"],
-      "my_completed_date": null,
-      "my_status": "planned",
-      "my_score": null,
-      "note": null,
-      "has_article": false
-    },
-    {
       "key": "death-parade",
       "title": {
         "zh": "死亡遊行",
@@ -624,27 +540,6 @@
       "genres": ["drama", "mystery", "thriller"],
       "publisher": "madhouse",
       "release_dates": ["2015/01"],
-      "my_completed_date": null,
-      "my_status": "planned",
-      "my_score": null,
-      "note": null,
-      "has_article": false
-    },
-    {
-      "key": "gangsta",
-      "title": {
-        "zh": "黑街",
-        "ja": "ギャングスタ",
-        "en": "GANGSTA."
-      },
-      "creator": {
-        "zh": "佑介",
-        "ja": "佑介",
-        "en": "佑介"
-      },
-      "genres": ["action", "drama"],
-      "publisher": "manglobe",
-      "release_dates": ["2015/07"],
       "my_completed_date": null,
       "my_status": "planned",
       "my_score": null,
@@ -924,27 +819,7 @@
       "note": null,
       "has_article": false
     },
-    {
-      "key": "mushi-shi",
-      "title": {
-        "zh": "蟲師",
-        "ja": "蟲師",
-        "en": "MUSHI-SHI"
-      },
-      "creator": {
-        "zh": "漆原友紀",
-        "ja": "漆原友紀",
-        "en": "漆原友紀"
-      },
-      "genres": ["adventure", "fantasy", "mystery", "slice-of-life"],
-      "publisher": "artland",
-      "release_dates": ["2005/10", "2014/01"],
-      "my_completed_date": null,
-      "my_status": "planned",
-      "my_score": null,
-      "note": null,
-      "has_article": false
-    },
+
     {
       "key": "paranoia-agent",
       "title": {
@@ -981,6 +856,111 @@
       "genres": ["action", "horror"],
       "publisher": "gonzo",
       "release_dates": ["2001/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "sagrada-reset",
+      "title": {
+        "zh": "重啟咲良田",
+        "ja": "サクラダリセット",
+        "en": "Sagrada Reset"
+      },
+      "creator": {
+        "zh": "河野裕",
+        "ja": "河野裕",
+        "en": "Yutaka Kono"
+      },
+      "genres": ["drama", "mystery", "sci-fi"],
+      "publisher": "david_production",
+      "release_dates": ["2017/04"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": "改編自河野裕小說《サクラダリセット》系列。",
+      "has_article": false
+    },
+    {
+      "key": "michiko-to-hatchin",
+      "title": {
+        "zh": "道子與哈金",
+        "ja": "ミチコとハッチン",
+        "en": "Michiko & Hatchin"
+      },
+      "creator": {
+        "zh": "山本沙代",
+        "ja": "山本沙代",
+        "en": "Sayo Yamamoto"
+      },
+      "genres": ["action", "adventure", "drama"],
+      "publisher": "manglobe",
+      "release_dates": ["2008/10"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": "Manglobe 原創動畫；山本沙代執導。",
+      "has_article": false
+    },
+    {
+      "key": "ergo-proxy",
+      "title": {
+        "zh": "死亡代理人",
+        "ja": "エルゴプラクシー",
+        "en": "Ergo Proxy"
+      },
+      "creator": {
+        "zh": "村瀨修功、佐藤大",
+        "ja": "村瀬修功、佐藤大",
+        "en": "Shukou Murase, Dai Satō"
+      },
+      "genres": ["drama", "mystery", "sci-fi", "thriller"],
+      "publisher": "manglobe",
+      "release_dates": ["2006/02"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": "Manglobe 原創科幻動畫；村瀨修功執導、佐藤大擔任首席編劇。",
+      "has_article": false
+    },
+    {
+      "key": "gangsta",
+      "title": {
+        "zh": "黑街",
+        "ja": "ギャングスタ",
+        "en": "GANGSTA."
+      },
+      "creator": {
+        "zh": "コースケ",
+        "ja": "コースケ",
+        "en": "Kohske"
+      },
+      "genres": ["action", "drama"],
+      "publisher": "manglobe",
+      "release_dates": ["2015/07"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": "改編自コースケ同名漫畫；Manglobe 製作、村瀨修功執導。",
+      "has_article": false
+    },
+    {
+      "key": "land-of-the-lustrous",
+      "title": {
+        "zh": "寶石之國",
+        "ja": "宝石の国",
+        "en": "Land of the Lustrous"
+      },
+      "creator": {
+        "zh": "市川春子",
+        "ja": "市川春子",
+        "en": "Haruko Ichikawa"
+      },
+      "genres": ["action", "drama", "fantasy", "mystery", "thriller"],
+      "publisher": "kodansha",
+      "release_dates": ["2012/10"],
       "my_completed_date": null,
       "my_status": "planned",
       "my_score": null,
@@ -1465,27 +1445,6 @@
       "has_article": false
     },
     {
-      "key": "whisper-of-the-heart",
-      "title": {
-        "zh": "心之谷",
-        "ja": "耳をすませば",
-        "en": "Whisper of the Heart"
-      },
-      "creator": {
-        "zh": "柊あおい",
-        "ja": "柊あおい",
-        "en": "柊あおい"
-      },
-      "genres": ["adventure", "drama", "romance", "slice-of-life"],
-      "publisher": "studio_ghibli",
-      "release_dates": ["1995/07"],
-      "my_completed_date": null,
-      "my_status": "planned",
-      "my_score": null,
-      "note": null,
-      "has_article": false
-    },
-    {
       "key": "ghost-in-the-shell",
       "title": {
         "zh": "攻殼機動隊",
@@ -1589,9 +1548,93 @@
       "my_score": null,
       "note": null,
       "has_article": false
+    },
+    {
+      "key": "safe-house",
+      "title": {
+        "zh": "狡兔計畫",
+        "ja": "デンジャラス・ラン",
+        "en": "Safe House"
+      },
+      "creator": {
+        "zh": "丹尼爾艾斯皮諾沙",
+        "ja": "ダニエル・エスピノーサ",
+        "en": "Daniel Espinosa"
+      },
+      "genres": ["action", "thriller"],
+      "publisher": "universal_pictures",
+      "release_dates": ["2012/02"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "woman-in-gold",
+      "title": {
+        "zh": "名畫的控訴",
+        "ja": "黄金のアデーレ 名画の帰還",
+        "en": "Woman in Gold"
+      },
+      "creator": {
+        "zh": "賽門·柯提斯",
+        "ja": "サイモン・カーティス",
+        "en": "Simon Curtis"
+      },
+      "genres": ["drama", "historical"],
+      "publisher": "origin_pictures",
+      "release_dates": ["2015/02"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": true
     }
   ],
   "manga": [
+    {
+      "key": "hibiki-shosetsuka-ni-naru-hoho",
+      "title": {
+        "zh": "響～成為小說家的方法～",
+        "ja": "響 〜小説家になる方法〜",
+        "en": "Hibiki: Shosetsuka ni Naru Hoho"
+      },
+      "creator": {
+        "zh": "柳本光晴",
+        "ja": "柳本光晴",
+        "en": "Mitsuharu Yanamoto"
+      },
+      "genres": ["drama", "slice-of-life"],
+      "publisher": "shogakukan",
+      "release_dates": ["2014/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "colorful-antinomy",
+      "title": {
+        "zh": "色彩悖論",
+        "ja": "カラフルアンチノミー",
+        "en": "Colorful Antinomy"
+      },
+      "creator": {
+        "zh": "芝田光",
+        "ja": "シバタヒカリ",
+        "en": "Hikari Shibata"
+      },
+      "genres": ["drama", "romance"],
+      "publisher": "shodensha",
+      "release_dates": ["2023/11"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
     {
       "key": "blue-period",
       "title": {
@@ -1612,8 +1655,93 @@
       "my_score": null,
       "note": null,
       "has_article": false
+    },
+    {
+      "key": "umi-ga-hashiru-end-roll",
+      "title": {
+        "zh": "海波追尋的終幕",
+        "ja": "海が走るエンドロール",
+        "en": "The Credits Roll Into the Sea"
+      },
+      "creator": {
+        "zh": "John Tarachine",
+        "ja": "たらちねジョン",
+        "en": "John Tarachine"
+      },
+      "genres": ["drama", "slice-of-life"],
+      "publisher": "akita_shoten",
+      "release_dates": ["2021/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "tsugumomo",
+      "title": {
+        "zh": "怪怪守護神",
+        "ja": "つぐもも",
+        "en": "Tsugumomo"
+      },
+      "creator": {
+        "zh": "浜田義一",
+        "ja": "浜田よしかづ",
+        "en": "Yoshikazu Hamada"
+      },
+      "genres": ["action", "comedy", "fantasy"],
+      "publisher": "futabasha",
+      "release_dates": ["2008/06"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
+    },
+    {
+      "key": "berserk",
+      "title": {
+        "zh": "烙印勇士",
+        "ja": "ベルセルク",
+        "en": "Berserk"
+      },
+      "creator": {
+        "zh": "三浦建太郎",
+        "ja": "三浦建太郎",
+        "en": "Kentaro Miura"
+      },
+      "genres": ["action", "adventure", "drama", "fantasy", "horror"],
+      "publisher": "hakusensha",
+      "release_dates": ["1989/08"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": "三浦建太郎逝世後，由 Studio Gaga 作畫、森恆二監修續作。",
+      "has_article": false
+    },
+    {
+      "key": "7seeds",
+      "title": {
+        "zh": "7 SEEDS~幻海奇情~",
+        "ja": "７ＳＥＥＤＳ",
+        "en": "7SEEDS"
+      },
+      "creator": {
+        "zh": "田村由美",
+        "ja": "田村由美",
+        "en": "Yumi Tamura"
+      },
+      "genres": ["adventure", "drama", "sci-fi"],
+      "publisher": "shogakukan",
+      "release_dates": ["2001/11"],
+      "my_completed_date": null,
+      "my_status": "planned",
+      "my_score": null,
+      "note": null,
+      "has_article": false
     }
   ],
+  "webtoon": [],
   "novel": [],
   "series": []
 }

@@ -8,6 +8,7 @@ import siteMetadata from '@/data/siteMetadata';
 import anime from '@/data/database/anime.json';
 import film from '@/data/database/film.json';
 import manga from '@/data/database/manga.json';
+import webtoon from '@/data/database/webtoon.json';
 import maps from '@/data/database/maps.json';
 import databaseMetadata from '@/data/database/metadata.json';
 import novel from '@/data/database/novel.json';
@@ -15,7 +16,7 @@ import planned from '@/data/database/planned.json';
 import publishers from '@/data/database/publishers.json';
 import series from '@/data/database/series.json';
 
-const workCollections = { anime, film, manga, novel, series };
+const workCollections = { anime, film, manga, webtoon, novel, series };
 const plannedWorks = Object.entries(planned).flatMap(([form, items]) =>
   items.map((work) => ({ ...work, form }))
 );
@@ -40,7 +41,7 @@ const works = Object.entries(workCollections)
     return dateB.localeCompare(dateA);
   });
 
-const forms = ['anime', 'film', 'manga', 'novel', 'series'];
+const forms = ['anime', 'film', 'manga', 'webtoon', 'novel', 'series'];
 const progressFilters = ['completed', 'ongoing', 'planned', 'on_hold', 'dropped'];
 const scoreFilters = ['5', '3', '2', '1', 'unrated'];
 const defaultStatusFilter = ['ongoing'];
@@ -48,6 +49,7 @@ const formTone = {
   anime: 'bg-indigo-100 text-indigo-800 dark:bg-indigo-200 dark:text-indigo-900',
   film: 'bg-rose-100 text-rose-800 dark:bg-rose-200 dark:text-rose-900',
   manga: 'bg-amber-100 text-amber-900 dark:bg-amber-200 dark:text-amber-950',
+  webtoon: 'bg-teal-100 text-teal-800 dark:bg-teal-200 dark:text-teal-950',
   novel: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-200 dark:text-emerald-950',
   series: 'bg-sky-100 text-sky-800 dark:bg-sky-200 dark:text-sky-950',
 };
