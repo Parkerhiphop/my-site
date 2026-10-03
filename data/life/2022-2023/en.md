@@ -26,41 +26,41 @@ TOC
 
 Things not posted include "Happy Things", "People and Things to Thank", and "Cool Stuff", etc.
 
-### Annual Goals
+### Annual Goals {#annual-goals}
 
 Honestly, I don't remember, so this year can be said to be a mess. The only thing I remember is wanting to work in Japan, but I must say I didn't work hard enough at all.
 
-### Achievements, Milestones
+### Achievements, Milestones {#achievements-milestones}
 
-#### 1. Living in Japan for a month and a half
+#### 1. Living in Japan for a month and a half {#1-living-in-japan-for-a-month-and-a-half}
 
 Successfully fulfilled the wish of playing passionately while young (also fulfilled the dream of envying others going on exchange during college)
 
 Next, I hope to go abroad directly for work.
 
-#### 2. Passed JLPT N3
+#### 2. Passed JLPT N3 {#2-passed-jlpt-n3}
 
 Just passed by one point above the passing score.
 
-#### 3. Lost 8 kg with a coach at the end of the year
+#### 3. Lost 8 kg with a coach at the end of the year {#3-lost-8-kg-with-a-coach-at-the-end-of-the-year}
 
 - Gained 3 kg back after returning from abroad
 
-#### 4. Dared to speak English more and more, and completed two English interviews
+#### 4. Dared to speak English more and more, and completed two English interviews {#4-dared-to-speak-english-more-and-more-and-completed-two-english-interviews}
 
-#### 5. More mature financially and mentally
+#### 5. More mature financially and mentally {#5-more-mature-financially-and-mentally}
 
 1. Coaching classes, Japanese classes, going abroad
 2. Able to cope with the accident of the company closing down
 3. Not craving relationships so much, able to live relatively comfortably by myself
 
-### Three Most Valuable Lessons
+### Three Most Valuable Lessons {#three-most-valuable-lessons}
 
 > _Looking closely, the first two points are the same as 2021. It seems that one year is not enough to make me learn._
 
 > _Therefore, I am also grateful to myself for recording last year, so I can know how much I have moved forward. If I am marking time, I must change other ways to improve the current situation._
 
-#### Time, Time, Time.
+#### Time, Time, Time. {#time-time-time}
 
 - Start with myself
 - Prioritize things properly
@@ -69,7 +69,7 @@ Just passed by one point above the passing score.
 - Don't just find someone to accompany because of loneliness — previously it was love, this year it is friendship
 - Mainly roommates, secondary are a bunch of casual acquaintance meals that consume me
 
-#### Social media hurts me more than I imagined
+#### Social media hurts me more than I imagined {#social-media-hurts-me-more-than-i-imagined}
 
 There really isn't anything very important that must be said by me or by 2023. Before taking good care of myself, let's not think about what I can do for others.
 
@@ -85,18 +85,18 @@ I believe in my social skills. On this trip to Japan, I also found that interact
 
 It makes more sense for me to use the time managing social media to write my own weekly journal, systematically organizing and reviewing my thoughts.
 
-#### Knowing is easy, doing is hard
+#### Knowing is easy, doing is hard {#knowing-is-easy-doing-is-hard}
 
 - "Premise on myself", "Reduce recording, increase reflection", "Sleep early", "Stable practice of Japanese and English", "Regular exercise", "Priorities", etc.
 - As mentioned above, concepts I knew from the beginning of the year or even 2021, the road between "knowing → doing" is very long, but I know I am moving forward steadily, so don't rush.
 
-### Three Best Decisions
+### Three Best Decisions {#three-best-decisions}
 
 1. One and a half months of independent travel in Japan
 2. Participating in the Spartan Race
 3. Participating in the Line Webtoon script contest
 
-### Three Best Books
+### Three Best Books {#three-best-books}
 
 I read too few books this year QQ, but if I were to say
 
@@ -104,7 +104,7 @@ I read too few books this year QQ, but if I were to say
 2. Gray Thinking
 3. Isaka Kotaro's books (currently like Fish Story the most)
 
-### 5 People Who Influenced You the Most
+### 5 People Who Influenced You the Most {#5-people-who-influenced-you-the-most}
 
 1. RK: Mutual stimulation in writing, encouraged me to write since 2021, and invited me to a small writing group, allowing me to regain my forgotten dream.
 2. KT: The words he writes from time to time, his attitude towards writing and dreams, and his way of life all stimulate me. At the same time, he is a very powerful person worth learning from in all aspects.
@@ -112,39 +112,39 @@ I read too few books this year QQ, but if I were to say
 4. BY: He never limits himself, spins a cocoon around himself, dares to dream, and this trait also got him many unexpected opportunities. Although luck plays a heavy role, I believe this trait makes him luckier.
 5. Y: Brought me a lot of connections. Participating in his gatherings always teaches me a lot, giving me a lot of reflection on how to use my resources to achieve what I want to do.
 
-### Things That Made Me Painful This Year
+### Things That Made Me Painful This Year {#things-that-made-me-painful-this-year}
 
-#### Physique
+#### Physique {#physique}
 
 - Improved after hiring a coach.
 
-#### Loneliness
+#### Loneliness {#loneliness}
 
 - Perhaps feeling lonely in the dead of night, but we will never be alone.
 - Made quite a few bad choices due to loneliness, such as agreeing to attend gatherings too often, putting aside things I should do.
 
-#### Peer Anxiety
+#### Peer Anxiety {#peer-anxiety}
 
 - Most problems are not "not enough", but not having more than others.
 - This mindset needs to be dealt with this year.
 
-#### Spending too much time on creation, not taking care of the main job and the plan to go to Japan
+#### Spending too much time on creation, not taking care of the main job and the plan to go to Japan {#spending-too-much-time-on-creation-not-taking-care-of-the-main-job-and-the-plan-to-go-to-japan}
 
 - Discovered at work that I am actually not suitable for WFH
 - Japanese learning steps never stabilized
 
-#### Continuously suffering from social media, many updates make me unhappy
+#### Continuously suffering from social media, many updates make me unhappy {#continuously-suffering-from-social-media-many-updates-make-me-unhappy}
 
 - Still too easily influenced by others
 
-#### Renewing the lease on the rental place was a bad decision
+#### Renewing the lease on the rental place was a bad decision {#renewing-the-lease-on-the-rental-place-was-a-bad-decision}
 
 - The room has no windows, poor ventilation, and nothing to eat around
 - Sound insulation is too poor (sounds of cars passing by are too obvious)
 
 > _2023/03 All the above pains have found solutions and adjustments, thumbs up._
 
-### Reflecting on 2022
+### Reflecting on 2022 {#reflecting-on-2022}
 
 > _Comfortable, relaxed but painful. For a 24–25 year old, it is not an ideal lifestyle._
 
@@ -170,13 +170,13 @@ My life has always been too easily taken away by others' rhythm, and I have set 
 
 This year I finally realized that I don't need to accept that information. Choosing not to compare with them is not escaping, but focusing more on myself and being responsible for myself more thoroughly.
 
-### About 2023
+### About 2023 {#about-2023}
 
 Looking at the 2022 review above might feel very negative, but actually, I have also figured out a lot of things and am no longer hesitant.
 
 Using "Introduction, Development, Transition, Conclusion", 2019 and before was "Introduction", 2019 ~ 2021 was "Transition", 2022 was "Development", I hope 2023 can be "Conclusion". Converging past pain, accumulation, and growth, letting resources fall into place, mindset positioned, more firmly on my own dream, moving forward steadfastly!
 
-#### Work
+#### Work {#work}
 
 Achieved the stage goal, changed a job (actually because the previous company suddenly closed down haha)
 
@@ -184,22 +184,22 @@ Achieved the stage goal, changed a job (actually because the previous company su
 - Although the treatment cannot be compared with many people around me, reviewing it, I did grow year by year and did not stop.
 - If comparing, it really never ends, but having only been in society for a few years, let's focus on self-growth and mental health first!
 
-#### Interpersonal Relationships
+#### Interpersonal Relationships {#interpersonal-relationships}
 
 - In various big and small matters, I can recognize that there are many friends around me who care about me very much, and I also feel love.
 - But life is short, we cannot afford to waste time on the wrong people. Hope to allow myself to have the spare energy to accompany important people.
 - For relationships, love yourself first before you can love others, but this year I feel I can be a bit more active.
 
-#### Health
+#### Health {#health}
 
 - Still a fat otaku currently, but gradually established exercise habits last year, and less resistant to weight training.
 - Participated in a comprehensive transformation plan in March, from physical training, nutritional management, and living habits, there have been great changes. If continuing at this pace, quite looking forward to my future self.
 
-#### Finance
+#### Finance {#finance}
 
 - Resumed the habit of bookkeeping since the middle of last year, and roughly understood my consumption habits. Aiming to start asset allocation and possess passive income this year.
 
-#### Dream
+#### Dream {#dream}
 
 - JLPT at least N2
 - Stable writing

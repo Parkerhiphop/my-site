@@ -16,9 +16,9 @@ Despite these challenges, I managed to establish a regular fitness routine. This
 
 ---
 
-## Methodology
+## Methodology {#methodology}
 
-### Location, Location, Location.
+### Location, Location, Location. {#location-location-location}
 
 > What's the best gym? The one that's closest to your home or office.
 
@@ -30,13 +30,13 @@ Once you've settled on a location, you might prefer a gym with powerful air cond
 
 (From my personal experience, I wouldn’t rely on contracts to compel yourself to go to the gym. I once signed a two-year contract with a gym, but ended up not going after changing jobs within half a year, wasting the remaining one and a half years.)
 
-### What if I don't have time?
+### What if I don't have time? {#what-if-i-don-t-have-time}
 
 Usually, finding a gym closer to your location can help solve the 'time' problem.
 
 That's because you can incorporate your gym time into three parts of your day: "Before work", "After work", and "Before heading home". Without needing to commute separately to the gym, you can save a lot of time. It also makes the process of working out more comfortable, creating a smooth routine for your exercise regimen.
 
-### What If I Don’t Know How To Use The Equipment?
+### What If I Don’t Know How To Use The Equipment? {#what-if-i-don-t-know-how-to-use-the-equipment}
 
 > You may ask, "As a beginner, I don't know the movements and get overwhelmed by equipment. What should I do?"
 
@@ -49,7 +49,7 @@ That's because you can incorporate your gym time into three parts of your day: "
 4. Youtube
    - Although there are many videos, as a beginner it's hard to filter good information. Videos also have some degree of misinformation and can't cover everything in one video. Try options 1-3 first before resorting to Youtube.
 
-#### Don't Let Coaching Classes Be the End of Your Fitness
+#### Don't Let Coaching Classes Be the End of Your Fitness {#don-t-let-coaching-classes-be-the-end-of-your-fitness}
 
 Many people, myself included, run into this:
 
@@ -58,7 +58,7 @@ Many people, myself included, run into this:
 
 Building the habit of regular gym sessions is more important than classes alone. **Classes without practice puts the cart before the horse!**
 
-### The Two-Minute Rule
+### The Two-Minute Rule {#the-two-minute-rule}
 
 This rule, also borrowed from Atomic Habits, suggests condensing a new habit down to just "two minutes". The crux is to make starting the habit as easy as possible.
 
@@ -68,7 +68,7 @@ A new habit shouldn't feel like a challenge. It can evolve into a challenge late
 
 **Consistency is more important than intensity** - the key is to just keep going!
 
-### Push Through the Valley of the Beginner, Creating A Positive Cycle
+### Push Through the Valley of the Beginner, Creating A Positive Cycle {#push-through-the-valley-of-the-beginner-creating-a-positive-cycle}
 
 According to **the Learning Curve theory** , initial progress can be slow and difficult. But as we persistently invest effort and accumulate experience, the efficiency of learning improves, and the progress curve becomes steeper. I call this initial phase the "Valley of the Beginner".
 
@@ -78,7 +78,7 @@ But once you push through this period, you will gradually notice a difference in
 
 Once you begin to receive this feedback, you'll be motivated to exercise more. With increased frequency, the feedback becomes more tangible, creating a positive cycle.
 
-### Post When You Hit The Gym, Leverage The Power of Community
+### Post When You Hit The Gym, Leverage The Power of Community {#post-when-you-hit-the-gym-leverage-the-power-of-community}
 
 I often post on social media when I'm at the gym. Getting responses from people, like likes or comments saying "Strong", "Huge", "Looking good!" acts as motivation to keep going.
 
@@ -88,7 +88,7 @@ As my body starts changing, I also get more positive feedback. This feedback kee
 
 Seeing friends post their workouts often motivates me to hit the gym the next day too.
 
-### Habit Tracking
+### Habit Tracking {#habit-tracking}
 
 Recording what you do each workout can help remind you of your progress and how long you've been at it.
 
@@ -96,13 +96,13 @@ This applies **the Paper Clip Strategy** from Atomic Habits. Originally, a sal
 
 I keep a list of my workouts, checking them off as I complete them. The satisfaction from checking things off helps me maintain the habit.
 
-### Have A Workout Schedule
+### Have A Workout Schedule {#have-a-workout-schedule}
 
 Having a set workout schedule reduces cognitive load. You don't have to figure out what to do when you get to the gym - you already know your plan and just need to execute it.
 
 My schedule includes two sets each for chest, back, and legs. I alternate between two different workouts. One schedule can last at least three months, gradually increasing the weight each workout.
 
-### In The Beginning: Compound Exercises > Isolation Exercises
+### In The Beginning: Compound Exercises > Isolation Exercises {#in-the-beginning-compound-exercises-isolation-exercises}
 
 For office workers, we usually don't have much time for exercise. Hence, choosing compound exercises, which work multiple muscle groups at once, can be more efficient than isolation exercises.
 
@@ -114,9 +114,9 @@ As you increase your training frequency, you can gradually transition from comp
 
 ---
 
-## Mindset
+## Mindset {#mindset}
 
-### Don't Beat Yourself Up Over Missed Workouts
+### Don't Beat Yourself Up Over Missed Workouts {#don-t-beat-yourself-up-over-missed-workouts}
 
 Sometimes work or life gets in the way and you miss a workout. The key is not to spiral and give up entirely. One missed session doesn't mean you've failed. It's crucial to get back on track right away.
 
@@ -124,13 +124,13 @@ Treat each missed workout as an independent event. It's not the first mistake th
 
 > The point isn't the act itself, but becoming the person who doesn't miss workouts. —— Atomic Habits
 
-### Find Your Why
+### Find Your Why {#find-your-why}
 
 Finding an exercise purpose that resonates with you is key to maintaining the habit.
 
 Maybe it's to have the energy to explore the world, or stay healthy to keep learning and growing. Personally, I enjoy the challenge of obstacle course races, like Spartan race.
 
-### Don't Be A Slave To The Scale
+### Don't Be A Slave To The Scale {#don-t-be-a-slave-to-the-scale}
 
 From March until now I've only lost 4 kg.
 
@@ -138,7 +138,7 @@ While the weight loss isn't huge, many people say I look healthier and have mo
 
 Throughout your fitness journey, focus more on your body's changes and your perception of health rather than the numbers.
 
-## In Summary
+## In Summary {#in-summary}
 
 Aside from these methods, one thought keeps me going to the gym:
 

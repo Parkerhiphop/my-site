@@ -16,7 +16,7 @@ When I met an old friend from Taiwan again before leaving Australia, she said "I
 
 After all, friends I met here wished I could be a bit quieter.
 
-## Same Yet Different Starting Point
+## Same Yet Different Starting Point {#same-yet-different-starting-point}
 
 Thinking that my original plan was to resign and go to Japan after the monthly rent in Taipei expired in November, didn't expect to still follow this schedule after a trip to Australia.
 
@@ -60,7 +60,7 @@ Transition process:
 
 8. November, With the help of an agent found a job at a ski resort in Gunma, Japan. After going around in a circle, still returned to the most original plan
 
-## Why Leave Australia
+## Why Leave Australia {#why-leave-australia}
 
 Since I was glad to run to Australia, then why did I leave early?
 
@@ -74,7 +74,7 @@ The reason for not having it is not entirely because of Australia, but because *
 
 Therefore, when thinking about the next step here, the first thought that popped up was "Go to Japan by next June at the latest". All planning must be carried out under this major premise. This made me feel quite annoyed, like a fishbone stuck in the throat.
 
-### Don't Want to Miss the Snow Season
+### Don't Want to Miss the Snow Season {#don-t-want-to-miss-the-snow-season}
 
 My plan for going to Japan is to practice Japanese for a few months while working part-time, then go all out to find a job that can issue a formal work visa to me.
 
@@ -82,7 +82,7 @@ If staying in Australia for a full year, go to Japan next June. Snow season is a
 
 If go now, after snow season ends next March, I still have about half a year to look for. Although won't become easier but at least time is a bit more abundant.
 
-### Current Situation of Australian Working Holiday
+### Current Situation of Australian Working Holiday {#current-situation-of-australian-working-holiday}
 
 Coming to Australia for working holiday can really kill many birds with one stone. Can earn a sum of money, can live well, can get along with people from all over the world, can broaden horizons, can see rain forests, deserts, ocean, snow. There are many things can be done, except for "visa and status".
 
@@ -90,7 +90,7 @@ Jobs that working holiday visa can do are mostly primary industries (farms, meat
 
 I came out with a goal to obtain formal visa and status. Choices I know currently in Australia can't really help me achieve this, or can't do it within a year. I seriously considered doing construction engineering, finding ways to switch to technical blue-collar, but need time to hone and also need luck to enter the industry. Having a Japanese plan stuck in the middle makes it hard to try. This also facilitated me to end this exploration of Australia early. If come back again next time can at least have two continuous years to invest.
 
-### Want to Find Home
+### Want to Find Home {#want-to-find-home}
 
 Wrote in [Written After Homelessness](/life/after-homelessness), I actually want a "home". When in Taipei, I always felt like a passer-by because I wanted to go to Japan in the future. Coming to Australia, I found I still feel like a passer-by for the same reason.
 
@@ -104,7 +104,7 @@ Emotional connection with family is relatively weak, might lead to me valuing pe
 
 Rather than experiencing the cycle of "building life circle and have to break it" again within Australia, better spend this energy directly on my real goal — Japan.
 
-## Review Expectations Before Departure
+## Review Expectations Before Departure {#review-expectations-before-departure}
 
 Reviewing what I wanted to do in Australia mentioned in [Leaving Taiwan for Two Years: Heading to Australia and Japan](/life/leaving-taiwan-working-holiday) and [From Coding to Cutting Pumpkins: Official Start of Australian Working Holiday](/life/from-coding-to-pumpkin-in-australia#%E6%B2%92%E6%9C%89%E7%AD%94%E6%A1%88%E4%BD%86%E6%9C%89%E6%96%B9%E5%90%91): find different life rhythm, explore various possibilities, write, write software I identify with or open source contribution. Things I didn't write out but wanted to do also included editing short videos to share journey and continuing to improve Japanese.
 
@@ -126,7 +126,7 @@ I thought coming to Australia was taking a detour, but unexpectedly helped my or
 
 As for other parts not done are continuous improvement and tracking.
 
-## Conclusion
+## Conclusion {#conclusion}
 
 This article was written for a long time. From mid-October confirming to leave until now person is already in Taiwan. Accumulated three or four versions in between. Also details of my life in Australia and other changes brought to me were not written in.
 

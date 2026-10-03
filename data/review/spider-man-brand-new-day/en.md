@@ -27,7 +27,7 @@ The things he usually does also feel a lot like me: writing code and talking wit
 
 It suddenly reminded me that when I used to watch sci-fi movies like this, I always thought the scientists typing away in front of multiple screens looked so cool. Maybe that was also one small reason I wanted to become a software engineer back then.
 
-## From Loneliness to Mutation
+## From Loneliness to Mutation {#from-loneliness-to-mutation}
 
 The opening quickly runs through the past four years of him being Spider-Man, recreating classic comic covers one by one. He has defeated Scorpion, Tombstone, the Hand, Tarantula, and Boomerang.
 
@@ -39,7 +39,7 @@ In the first half of the film, he is unable to control the mutation because both
 
 For a time, the spider mutation slips out of his control, and he even hurts the police.
 
-## Spider-Man or Peter Parker
+## Spider-Man or Peter Parker {#spider-man-or-peter-parker}
 
 When Peter Parker meets MJ, Ned, and Bruce Banner, he uses fake names. When he fights crime, the police director and everyone around him only call him Spider-Man. For a long time, the film never says the name "Peter Parker."
 
@@ -57,7 +57,7 @@ At the very end, when Peter Parker goes to buy flowers and runs into Ned, he is 
 
 After experiencing such intense loneliness, he finally realizes that he cannot remain alone forever, and he takes that step forward on his own.
 
-## The Self-Indulgence of Sacrifice
+## The Self-Indulgence of Sacrifice {#the-self-indulgence-of-sacrifice}
 
 During his conversation with MJ, I also really liked the way MJ questions him. To keep MJ safe, Peter Parker chooses to keep his distance after being forgotten. But that decision is one he made entirely on his own. From MJ's perspective, it would definitely feel deeply hurtful. It also points to many problems in modern relationships: we often make decisions for the other person, take burdens on their behalf, and fail to choose honest, open discussion.
 
@@ -67,7 +67,7 @@ The film's arrangement is also clever. Even though Peter Parker keeps his distan
 
 Fortunately, though, this also becomes the trigger that breaks Peter Parker out of his continued, silent sacrifice.
 
-## Redemption Through Love
+## Redemption Through Love {#redemption-through-love}
 
 I actually quite like the way Marvel explores the psychology of heroes in Thunderbolts and Spider-Man: Brand New Day.
 

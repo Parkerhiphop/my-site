@@ -12,6 +12,12 @@ async function compile(source) {
   const toc = [];
   const { code } = await bundleMDX({
     source: prepareHeadingAnchors(source),
+    // The rejection tests below expect compilation errors; node:test reports
+    // unexpected failures, so esbuild does not need to print them separately.
+    esbuildOptions(options) {
+      options.logLevel = 'silent';
+      return options;
+    },
     xdmOptions(options) {
       options.remarkPlugins = [
         ...(options.remarkPlugins || []),

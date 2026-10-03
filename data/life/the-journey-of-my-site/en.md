@@ -6,7 +6,7 @@ summary: About "Why set up a personal website", "why write" and "how to choose t
 review-by-me: false
 ---
 
-## Why Set Up a Personal Website?
+## Why Set Up a Personal Website? {#why-set-up-a-personal-website}
 
 As front-end engineers, most of us might thought about (or dreamed of) setting up our own websites. However, we may be held back by the curse of knowledge and the burden of perfectionism.
 
@@ -24,7 +24,7 @@ Since 2019, my annual goal has been to set up a personal website, and I have fin
 
 ---
 
-## Why write?
+## Why write? {#why-write}
 
 **1. To Satisfy Myself**
 
@@ -54,7 +54,7 @@ In addition to the benefits of writing mentioned above, practicing other languag
 
 ---
 
-## Technical Choices
+## Technical Choices {#technical-choices}
 
 > As I'm a web engineer myself, I wouldn't consider Wordpress or other template websites. The time spent exploring these tools could be longer than writing by myself, and there's less sense of accomplishment and too many issues, haha.
 
@@ -83,7 +83,7 @@ Deployment is to use Vercel first, and then wait for the traffic to increase to 
 
 ---
 
-## Current Planning and Expectations for the Website
+## Current Planning and Expectations for the Website {#current-planning-and-expectations-for-the-website}
 
 The first thing, of course, is to move and translate the articles I've written before. I plan to post one per week! Practicing writing an English and Japanese article each week sounds about right (but reality is tough, we'll see how much I can actually do).
 

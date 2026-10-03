@@ -25,7 +25,7 @@ Traffic is also very inconvenient, with only two options: bus or car. It takes f
 
 When I was in Australia, I also lived in the countryside, surrounded by nothing but grass. But it was easy for backpackers to buy cars, and easy to hitch a ride to the supermarket. Supermarkets in Australia like Woolies, Coles, Aldi, etc., sold a wide variety of things, making me feel that the countryside in Australia had better living amenities than Kusatsu.
 
-## Zip Line Operator
+## Zip Line Operator {#zip-line-operator}
 
 ![Banzip Tengu](/life/life-in-kusatsu/zip-line.webp)
 
@@ -39,11 +39,11 @@ The reception is shared with the lift ticket counter, so ticket staff also help 
 
 Originally, I had a chance to go up to the start point, but it was occupied by a Japanese senior. After we went up together for two days, he reported to the supervisor that I was not qualified. Since then, I could only stay at the end point. I will mention him again later.
 
-### But It's Not the Work That's Tiring
+### But It's Not the Work That's Tiring {#but-it-s-not-the-work-that-s-tiring}
 
 Although the zip line job is physical labor—walking back and forth, moving zip line pulleys—the work itself is usually not the most tiring part. What makes me most exhausted here are the annoying senior, the frustration with Japanese, and the torture of boredom.
 
-#### The Annoying Senior
+#### The Annoying Senior {#the-annoying-senior}
 
 A Japanese senior in the same zip line department puts a lot of pressure on me and makes me feel repulsed. The interaction was good at first, but slowly friction started to appear. He is good at questioning me on how to do things even though I hadn't learned them at all. Whenever I made a mistake, he would focus heavily on that error. He also likes to make inappropriate dirty jokes. I found it hard to tolerate working with him, so I even booked an online session with my previous counselor to discuss his negative impact on me.
 
@@ -51,7 +51,7 @@ At first, I was annoyed that I had to seek counseling because of him, but the co
 
 Changing countries and jobs, I think I finally need to practice how to deal with incompatible colleagues in the workplace and reduce their impact on me.
 
-#### The Frustration with Japanese
+#### The Frustration with Japanese {#the-frustration-with-japanese}
 
 I have JLPT N2 and take conversation lessons with a Japanese teacher in Tokyo on an online platform regularly. I also made a group of Japanese friends when I was in Australia and spoke Japanese with them occasionally.
 
@@ -65,7 +65,7 @@ Realizing my current Japanese level and finding that I need to spend much more t
 
 Slowly accepting that I have a longer road to tread, the reality that my Japanese is not good enough needs time to change, but the state of internal mental exhaustion can be changed immediately. I hope I can move forward without being crushed by anxiety.
 
-#### The Torture of Boredom
+#### The Torture of Boredom {#the-torture-of-boredom}
 
 Another troubling aspect of this job is that it's too idle when there are no guests.
 
@@ -77,7 +77,7 @@ It reminds me of the "Solitude and Electric Shock Experiment". This experiment f
 
 I would rather have that button to click when I'm at work.
 
-## Getting Better Slowly
+## Getting Better Slowly {#getting-better-slowly}
 
 ![Snow Mountains](/life/life-in-kusatsu/snow-mountains.jpeg)
 

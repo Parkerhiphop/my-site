@@ -16,9 +16,9 @@ Remember initially hoping to write one article per week, but unfortunately, havi
 
 This article is a bit like a running account confession and self-talk. If interested in seeing some of my thoughts and struggles on writing, continue reading!
 
-## Difficulties Encountered
+## Difficulties Encountered {#difficulties-encountered}
 
-### No Margin in Life for Writing
+### No Margin in Life for Writing {#no-margin-in-life-for-writing}
 
 So-called no margin means neither mood nor time.
 
@@ -34,7 +34,7 @@ Anyway, took stock of this period, thoughts and time were all occupied. Naturall
 
 (Speaking of which, recently happen to go to Japan office for two weeks. Landlord suddenly sold the house and have to move out before 12/31. Another round of toss. Hope to settle down soon...)
 
-### Qualification Theory
+### Qualification Theory {#qualification-theory}
 
 I occasionally think, "What qualification do I have to write these"?
 
@@ -48,7 +48,7 @@ I want to try my best to start from "I". Avoid imposing personal values on other
 
 Also want to continue "**Moving from diode to spectrum**" mentioned in [2023->2024](/life/2023-2024). Some parts of article written wrong doesn't mean completely valueless. Just change it. And don't need to rise to scope of self-denial.
 
-### I Want to Write Everything, Write Nothing Out
+### I Want to Write Everything, Write Nothing Out {#i-want-to-write-everything-write-nothing-out}
 
 Armin in "Attack on Titan" said "**People who can't throw away anything, can't change anything**". This sentence always echoes in my heart.
 
@@ -68,7 +68,7 @@ I also often wrote half casually then left it to deal with other things. Coming 
 
 Current coping method will be mentioned later. Anyway don't think writing too complicated first.
 
-### Self-hosted Website Makes me Write and Run to Develop Features or Fix Bugs
+### Self-hosted Website Makes me Write and Run to Develop Features or Fix Bugs {#self-hosted-website-makes-me-write-and-run-to-develop-features-or-fix-bugs}
 
 Fortunate to have experience contacting many content websites in current job. Slowly feel previous version made really unbearable. When opening wanting to write feel self-hosted really bad. Given another chance might directly use Substack XD
 
@@ -78,9 +78,9 @@ Original version SEO broken, no RSS support. Also not quite satisfied with many 
 
 But I feel this is not a way to continue. Treat here as a warehouse to sync a copy of articles. Focus on writing. Write first then talk.
 
-## Mindset Adjustment
+## Mindset Adjustment {#mindset-adjustment}
 
-### No Longer Tangled in Theme, Write Whatever Want to Write
+### No Longer Tangled in Theme, Write Whatever Want to Write {#no-longer-tangled-in-theme-write-whatever-want-to-write}
 
 Probably in May saw [leafwind](https://leafwind.tw/) and [Kalan](https://blog.kalan.dev/) discussed "Whether to concentrate on one theme to write".
 
@@ -96,7 +96,7 @@ Writing is just a hobby currently. Don't need to put too many unnecessary frames
 
 Having said that, learning to prioritize and give up will still be life lesson need to face continuously. Remember "Four Thousand Weeks" discussed related issues. Read it again recently.
 
-### I Want to Write What I Like to Read, What I Like to Read is Process of Thinking
+### I Want to Write What I Like to Read, What I Like to Read is Process of Thinking {#i-want-to-write-what-i-like-to-read-what-i-like-to-read-is-process-of-thinking}
 
 In [2023→2024](/life/2023-2024), mentioned vanity and steadiness. Difference lies in whether written out is only for envy or for reference.
 
@@ -110,7 +110,7 @@ By the way respond to previous qualification theory. I think qualification is su
 
 Current Chatbot AI and human difference might also be so? Whether ChatGPT or Claude directly spit out a bunch of answers or hallucinations. But missing process. How to think of this solution step by step? I think I care more about this part. Like **rather than giving me fish, better show me how you fish**.
 
-### Temporarily Remove Multi-language, Fish Not Caught Yet, Don't Think About Eating One Fish Many Ways
+### Temporarily Remove Multi-language, Fish Not Caught Yet, Don't Think About Eating One Fish Many Ways {#temporarily-remove-multi-language-fish-not-caught-yet-don-t-think-about-eating-one-fish-many-ways}
 
 When just built website, I originally wanted to write trilingual. But I decided to remove English and Japanese temporarily.
 
@@ -118,7 +118,7 @@ I can't even write stably yet. Just don't think about practicing language by the
 
 Okay, maybe don't need to define as failure. Just still exploring and adjusting. Previous articles only talked about benefits of writing, why should write. After more than a year, finally slowly outlined again, what I want to write, how I want to write. Step by step!
 
-### Meaning of Personal Website to Me
+### Meaning of Personal Website to Me {#meaning-of-personal-website-to-me}
 
 Roughly same as "Self-hosted Website Journey" written initially.
 
@@ -132,7 +132,7 @@ Also on Twitter(X) after someone posted a certain article, someone will quote an
 
 This kind of mutual interaction leaving traces on respective websites. I think also quite thumb up.
 
-### What if No One Reads?
+### What if No One Reads? {#what-if-no-one-reads}
 
 I found two types of writers. One is purely writing for self. Whether anyone reads is second. Another is like me if no one reads will lose motivation. Or care too much about readers.
 
@@ -144,7 +144,7 @@ I posted some articles on IG before. Found people around actually not much inter
 
 Then there is **Quality over Quantity**. Like ten thousand people read but all skim through. Compare to only one person read but very helpful to him. I will choose the latter.
 
-## Written at End, Aim for Regular Writing
+## Written at End, Aim for Regular Writing {#written-at-end-aim-for-regular-writing}
 
 I write because I like it. Because writing can enrich my life. But can't let writing affect my life.
 

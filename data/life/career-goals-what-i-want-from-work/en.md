@@ -20,7 +20,7 @@ This is also true for most backpackers here, so everyone is working here just to
 
 After staying for three months to get the second-year visa qualification, I will leave this factory. These three months are a short break and experience for me (spiritually only, because cutting pumpkins is really tiring).
 
-## Visa and Identity
+## Visa and Identity {#visa-and-identity}
 
 The first point is also the most unpretentious point, "Visa and Identity".
 
@@ -28,7 +28,7 @@ I still want to work in Japan. Under this major premise, other items described l
 
 In Australia (or most countries), due to the recent policy shift towards anti-immigration, employer sponsorship has become difficult, and work visas are becoming harder and harder to issue.
 
-## Money
+## Money {#money}
 
 Money is not the most important but also the second most important part of work. When I first entered the society, I was deceived by words like "learning", "accumulating experience" and "sense of mission". Now I know that most jobs that don't pay enough are just shitty jobs. Unless it is to start a business together or there is really a strong relevance, one should not waste one's life to wrong oneself to achieve others' careers.
 
@@ -40,7 +40,7 @@ Thinking back to the previous pursuit of higher salary, rather than improving my
 
 Isaka mentioned self-esteem many times in this novel, mainly describing a character who is very good at apologizing. later, roughly used this sentence to end the discussion on self-esteem. It's a bit nonsensical but I quite like it.
 
-### Compared to how much you earn, how much you can save is real.
+### Compared to how much you earn, how much you can save is real. {#compared-to-how-much-you-earn-how-much-you-can-save-is-real}
 
 Working as a software engineer in Taiwan, I feel that the pressure and anxiety brought by work made me have a lot of unnecessary expenses. Now cutting pumpkins in Australia, my mood is quite calm, and actually I don't want to spend money when I have nothing to do.
 
@@ -50,7 +50,7 @@ The relationship between work and money, I quite like the current state. hope th
 
 Finally, regarding thinking about money, I also want to recommend Huli's thinking on money in [Currently oscillating 29](https://life.huli.tw/2024/09/23/being-29/). It may not give an answer, but the thinking process is very enjoyable to watch.
 
-## Great Connections
+## Great Connections {#great-connections}
 
 When I switched from insurance sales to programming before, I wrote "I like contact with people, but I don't want contact with people at work", but after these years, I found that I still like the feeling of working with people.
 
@@ -68,7 +68,7 @@ However, there will definitely not only be colleagues who get along well in the 
 
 Can only say that having people you hate makes people you like exist. If you like everyone and hate no one, then maybe you haven't figured out what you like at all.
 
-## Peace of Mind
+## Peace of Mind {#peace-of-mind}
 
 Many software I have developed seem to have little value to me, so if I get high income from it, I often feel very uneasy. Someone willing to pay me this money is good, I also want to make money easily, but I also know that many people are making hard money, sometimes I still feel why me.
 
@@ -82,7 +82,7 @@ In contrast, the labor work of cutting pumpkins now makes me feel very at ease w
 
 However, I didn't want to specially choose this kind of work that is tired enough to doubt life. Just besides money, I hope what I can earn at work is also peace of mind.
 
-## Influence
+## Influence {#influence}
 
 In my 2022→2023 annual review [Written at the end: Why should exert own influence](/life/2023-2024#%E5%AF%AB%E5%9C%A8%E6%9C%80%E5%BE%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E6%87%89%E8%A9%B2%E7%99%BC%E6%8F%AE%E8%87%AA%E8%BA%AB%E5%BD%B1%E9%9F%BF%E5%8A%9B), posting Irene's sentence again here:
 
@@ -96,7 +96,7 @@ Just a while ago I also read the article written by [Vincent](https://vincentcwy
 
 Finally adding a little story. When I finally finished the Ministry of Science and Technology's college student research project thesis in the year of delayed graduation, due to career planning, I couldn't continue to study sociology. At that time, I said a bit childishly to Professor Gao of Sociology who guided me at that time: "I want to change the world". He first asked me which world I wanted to change, and then told me just start from the people around me first. The people around me will then influence others, so that something will slowly change.
 
-## Conclusion: Become Strong
+## Conclusion: Become Strong {#conclusion-become-strong}
 
 This article is what the current me hopes to pursue in future work. I still have a long, long time to work. Thoughts deemed to change. Writing this article is also to let future me come back and see how I used to view work.
 

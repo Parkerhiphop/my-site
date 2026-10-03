@@ -6,7 +6,7 @@ summary: Atomic Habits Reading Notes
 review-by-me: false
 ---
 
-# Atomic Habits
+# Atomic Habits {#atomic-habits}
 
 :::info
 Proven Way to Build Good Habits & Break Bad Ones
@@ -29,7 +29,7 @@ Through this book, will be able to answer:
 2. How good habits are formed, how bad habits are eliminated
 3. How to make good use of power of "technology" to help yourself
 
-# How Habits Affect Our Lives?
+# How Habits Affect Our Lives? {#how-habits-affect-life}
 
 :::info
 Success is product of daily habits—not once-in-a-lifetime transformations.
@@ -58,50 +58,50 @@ Example of melting ice
 
 ![](https://i.imgur.com/PbE8A28.png)
 
-## Fallacy of Goal-oriented, System is Truth
+## Fallacy of Goal-oriented, System is Truth {#goals-versus-systems}
 
 Goals are results you want to achieve. Systems are processes letting you achieve those results.
 
-### 1. Winners and losers have same goals
+### 1. Winners and losers have same goals {#same-goals}
 
 - Goal-oriented is affected by "survivorship bias"
 - If winners and losers have same goals, then difference between the two doesn't lie in "goals"
 
-### 2. Goals can only bring short-term changes
+### 2. Goals can only bring short-term changes {#short-term-changes}
 
 - Example of organizing room
 - You can only continuously pursue same results, because you didn't change system behind, this is ==treating symptoms but not root cause==.
 
-### 3. Goals limit your happiness
+### 3. Goals limit your happiness {#goals-limit-happiness}
 
 - Behind any goal implies such assumption: "Once achieve goal, I will be happy."
 - Problem of goal-first mindset lies in you will keep delaying happiness until after next milestone.
 - ==Happiness has always been something exclusively for future me to enjoy.==
 
-#### Goals created a conflict of "Either A or B"
+#### Goals created a conflict of "Either A or B" {#either-or-conflict}
 
 - If not achieve goal and succeed, then fail and disappointing.
 - You frame yourself in narrow happiness in heart. This is biased.
 - Real life journey is unlikely to be exactly same as expectation at start.
 
-#### System lets you enjoy process
+#### System lets you enjoy process {#enjoy-the-process}
 
 - When you fall in love with process, not product, don't have to wait until getting own permission to be happy.
 - As long as system is operating, you can feel satisfied anytime.
 - Moreover, ==system can succeed in many forms, not limited to the one you envisioned at beginning.==
 
-### 4. Goals and long-term progress contradict each other: "Yo-yo Effect"
+### 4. Goals and long-term progress contradict each other: "Yo-yo Effect" {#goals-versus-progress}
 
 - Why many athletes deteriorate after winning awards?
 - When all your efforts focus on a specific goal, what can push you forward after achieving goal?
 - Purpose of setting goals is to win game. Purpose of building system is to continue staying in game.
 
-#### True long-term thinking is thinking disregarding goals
+#### True long-term thinking is thinking disregarding goals {#long-term-thinking}
 
 - Point lies not in any single achievement, but in cycle of continuous refining and improvement.
 - Essential condition for progress is investment in process.
 
-# Changing Habits Starts from Changing "Identity"
+# Changing Habits Starts from Changing "Identity" {#identity-change}
 
 :::info
 Shift focus from "What I want to achieve" to "What kind of person I hope to become".
@@ -124,7 +124,7 @@ Why Changing Habits is Hard to Achieve:
 - Process: Habits and Systems
 - Identity: Beliefs, Worldview, Self-image
 
-## Two Steps to Change Identity
+## Two Steps to Change Identity {#identity-change-steps}
 
 1. Decide what kind of person you want to become
 2. Prove to yourself through small wins in life
@@ -133,11 +133,11 @@ Why Changing Habits is Hard to Achieve:
 - However, when you repeatedly execute these actions, evidence accumulates gradually, your self-image also starts to transform.
 - Take reading club as example. Meet every week to listen to everyone talking about books. Self also slowly reading. Will gradually consider self as a person who loves reading and knowledge.
 
-### Focus should always be placed on becoming a certain kind of person, not getting a certain kind of result.
+### Focus should always be placed on becoming a certain kind of person, not getting a certain kind of result. {#becoming-a-person}
 
 - ==Every habit is like a suggestion: "Hey, maybe I am this kind of person."==
 
-# Seriously Talk About "Habit"
+# Seriously Talk About "Habit" {#understanding-habits}
 
 :::info
 So-called habit, is behavior repeated enough times to be automated.
@@ -146,7 +146,7 @@ So-called habit, is behavior repeated enough times to be automated.
 - Whenever you encounter a new situation in life, brain must make a decision: How should I respond?
   - Feedback loop: Try, fail, learn
 
-## Habits Can Make You Free Up Time Needed for Free Thinking and Creativity!
+## Habits Can Make You Free Up Time Needed for Free Thinking and Creativity! {#time-for-creativity}
 
 - When habits are created, degree of activity in brain decreases accordingly. You learn to focus on cues that can bring success, block other noises out.
 - Encountering similar situations in future, you know exactly what should seek. Need to analyze situation from every angle no longer exists.
@@ -155,7 +155,7 @@ On above basis, speak more precisely:
 
 - ==So-called habit, is a set of automated solutions for regular problems and stress==
 
-## Habits Won't Limit Freedom, Habits will Create Freedom
+## Habits Won't Limit Freedom, Habits will Create Freedom {#habits-create-freedom}
 
 Seeing here, my question is: Is such me still myself? Will I become just an efficiency robot?
 
@@ -163,21 +163,21 @@ Seeing here, my question is: Is such me still myself? Will I become just an effi
 - ❌ Before: While reading manga, I would think "When will I start exercising?"
 - ⭕️ Now: Automate exercise into a habit executed regularly. When I am reading manga or doing other things, don't need to consider problem of exercise anymore. Can be in the moment more at ease.
 
-### Ultimate goal of habits
+### Ultimate goal of habits {#purpose-of-habits}
 
 :::info
 Solve problems in life with "least energy and effort".
 :::
 
-# Four Steps of Habit Functioning
+# Four Steps of Habit Functioning {#habit-loop-steps}
 
-## 1. Cue: Something reminds you to do that thing
+## 1. Cue: Something reminds you to do that thing {#cue}
 
 - Your mind constantly analyzes internal and external environment, looking for various hints where rewards are located. Because cue is our first indicator approaching reward, naturally brings craving
 
 Improvement Way: Law (1) Make it Obvious
 
-## 2. Craving: Inner desire stimulated by cue
+## 2. Craving: Inner desire stimulated by cue {#craving}
 
 - Craving is second step, also motivation behind all habits.
 - Lacking certain degree of motivation or desire -- lacking craving for change -- have no reason to act.
@@ -185,14 +185,14 @@ Improvement Way: Law (1) Make it Obvious
   - What motivates you to brush teeth is not behavior itself, but refreshing feeling of mouth
   - Example of own manga: Not want to read manga, what you want is entertainment
 
-### Cue and Craving rely on context of person involved
+### Cue and Craving rely on context of person involved {#context}
 
 - Gambler hearing sound of slot machine, dancer hearing music
 - Before interpretation and decoding, cue has no meaning. Transforming cue into craving are thoughts, feelings and emotions of observer.
 
 Improvement Way: Law (2) Make it Attractive
 
-## 3. Response: Thoughts generated or actions taken based on craving
+## 3. Response: Thoughts generated or actions taken based on craving {#response}
 
 - Response is habit you actually execute, might present in way of thought or behavior.
 - Whether response happens depends on how much stimulation you received, and how much resistance linked to behavior.
@@ -200,23 +200,23 @@ Improvement Way: Law (2) Make it Attractive
 
 Improvement Way: Law (3) Make it Easy
 
-## 4. Reward: Result obtained after responding to craving (action)
+## 4. Reward: Result obtained after responding to craving (action) {#reward}
 
 - Ultimate goal of every habit
   - Cue is about noticing reward, Craving is about wanting reward, Response is about obtaining reward
 
-### Purpose of Reward
+### Purpose of Reward {#purpose-of-reward}
 
 1. Satisfy craving
 2. Teach us which behaviors are worth remembering in future
 
 Improvement Way: Law (4) Make it Satisfying
 
-## Four Aspects Indispensable
+## Four Aspects Indispensable {#four-aspects}
 
 - Missing first three steps, behavior won't happen; missing fourth step, behavior won't be repeated
 
-## Habit Loop
+## Habit Loop {#habit-loop}
 
 - Cue triggers craving, craving stimulates response, response provides reward, reward satisfies craving, looping around, connects with cue again
 
@@ -224,11 +224,11 @@ Improvement Way: Law (4) Make it Satisfying
 
 ![](https://i.imgur.com/QI6INPI.png)
 
-# Four Laws of Habit Formation
+# Four Laws of Habit Formation {#four-laws}
 
-## Law 1: Make it Obvious
+## Law 1: Make it Obvious {#make-it-obvious}
 
-### Process of behavior change starts from awareness
+### Process of behavior change starts from awareness {#awareness}
 
 :::info
 As psychologist Jung said: "Until you make the unconscious conscious, it will direct your life and you will call it fate."
@@ -236,7 +236,7 @@ As psychologist Jung said: "Until you make the unconscious conscious, it will di
 
 - There are too many things we do subconsciously in our daily life, for example: picking up phone
 
-### Pointing and Calling
+### Pointing and Calling {#pointing-and-calling}
 
 - Japan Subway
   - Pointing and calling reduced errors by 85%, and avoided accidents by 30%.
@@ -246,7 +246,7 @@ As psychologist Jung said: "Until you make the unconscious conscious, it will di
 
 - Own example: Slogan before going out
 
-### Habits Scorecard
+### Habits Scorecard {#habits-scorecard}
 
 :::info
 Good Habit(+): Helpful to become "kind of person you want to become"
@@ -263,7 +263,7 @@ Normal Habit(=): Helpful nor harmful things.
 | Check phone    |   -    |
 | ... ...        |   ?    |
 
-### Two Most Common Cues: Time and Location
+### Two Most Common Cues: Time and Location {#time-and-location}
 
 People who make exact plan on when and where to execute a new habit are more likely to really execute.
 
@@ -274,7 +274,7 @@ People who make exact plan on when and where to execute a new habit are more lik
 
 - Own case: I will write thesis at Rebirth at 7:30 after work.
 
-### Habit Stacking
+### Habit Stacking {#habit-stacking}
 
 :::info
 Bind wanted behavior with things already doing
@@ -298,7 +298,7 @@ Habit stacking allows you to create a set of simple rules guiding future behavio
 
 ![](https://i.imgur.com/bo6ejHp.png)
 
-## Motivation is Overestimated, Environment Often More Important
+## Motivation is Overestimated, Environment Often More Important {#environment-over-motivation}
 
 People choose products often not because "what makes" product, but "where is" product
 
@@ -306,7 +306,7 @@ Habit change depends on space located, and cues in front.
 
 Most common form of change is not internal, but external: We are changed by things around us. Every habit depends on context.
 
-### Visual Cue is Strongest Catalyst for Humans
+### Visual Cue is Strongest Catalyst for Humans {#visual-cues}
 
 - Our reliance on vision is far higher than other senses
   Creating obvious visual cues can draw your attention to habit you want
@@ -317,7 +317,7 @@ Make sure to make best choice become most obvious. When cue of good habit is rig
 
 Environment design lets you take back control, become architect of life. Don't be just a customer of world you are in, also become its designer.
 
-### What defines behavior is not objects in environment, but our relationship with objects
+### What defines behavior is not objects in environment, but our relationship with objects {#relationship-with-environment}
 
 :::info
 Environment is not full of objects, but full of relationships.
@@ -330,7 +330,7 @@ Environment is not full of objects, but full of relationships.
   - Own example: Management of digital space
 - Want to make behavior stable and predictable, need stable and predictable environment
 
-### Secret of Self-control
+### Secret of Self-control {#self-control}
 
 Example: Heroin addiction of US military in Vietnam
 
@@ -346,7 +346,7 @@ Persistence, grit and willpower are necessary conditions for success. And ways t
 - ❌ Pray for self to become a more disciplined person
 - ⭕️ Build a more disciplined environment.
 
-### Reverse Law 1 (Make Cue Invisible) to Eliminate Bad Habits
+### Reverse Law 1 (Make Cue Invisible) to Eliminate Bad Habits {#make-it-invisible}
 
 Once habit is established, as long as cue in environment appears again, craving for action follows
 
@@ -359,7 +359,7 @@ Bad habit is self-catalyzing. Bad habit promotes emotions it attempts to numb
 - Crazy binge-watching makes you lethargic, spent too much time again. But you continue watching because having no time and energy to do other things.
 - You are anxious because smoking is harmful to health. But seeing disgusting photo on cigarette pack generates more anxiety. Thus smoked another cigarette to relieve anxiety.
 
-#### "Cue-induced Wanting"
+#### "Cue-induced Wanting" {#cue-induced-wanting}
 
 - An external stimulus caused a compulsive craving wanting to repeat bad habit. ==Once noticed something, you start to want==
 - One of most practical ways to eliminate a bad habit is to reduce exposure to cues stimulating this bad habit.
@@ -371,11 +371,11 @@ In short term, you can use willpower to overpower temptation; in long run, we re
 
 - Self-control is a short-term strategy, not applicable to long term. You might be able to resist temptation once or twice, but unlikely to let willpower override desire every time. Rather than drumming up willpower every time wanting to do right thing, better use energy to optimize environment located.
 
-#### ==This is secret of self-control: Make cues of good habits obvious, make cues of bad habits invisible.==
+#### ==This is secret of self-control: Make cues of good habits obvious, make cues of bad habits invisible.== {#cues-and-self-control}
 
 ---
 
-## Law 2: Make Habit Attractive
+## Law 2: Make Habit Attractive {#make-it-attractive}
 
 - Bliss Point of Food
 
@@ -384,7 +384,7 @@ In short term, you can use willpower to overpower temptation; in long run, we re
 - Supernormal Stimulus
   - Like: Social media (likes count), satisfy craving for "recognition"
 
-#### Dopamine Feedback Loop
+#### Dopamine Feedback Loop {#dopamine}
 
 - Rat experiment
   - Still "like" sugar, but without dopamine, no longer "want"
@@ -392,7 +392,7 @@ In short term, you can use willpower to overpower temptation; in long run, we re
 - Reward system activated in brain when receiving reward is same as system activated when expecting reward
 - Neural circuits your brain allocates to wanting reward are far more than allocated to liking reward
 
-### Temptation Bundling
+### Temptation Bundling {#temptation-bundling}
 
 Case: Connect Relax with TV Program
 
@@ -414,7 +414,7 @@ Concept: Strengthen desire through Supernormal Stimulus, then execute through ha
 1. After taking out phone, will do ten burpees (need)
 2. After jumping, browse Facebook feed (want)
 
-### Cultural Environment (Family and Friends)
+### Cultural Environment (Family and Friends) {#culture}
 
 - Example: Chess prodigy family
 
@@ -439,17 +439,17 @@ Objects of imitation
    - We will care very much about habits of successful people or people admired, and try to imitate them
      - "If it were XXX" what would do?
 
-#### Craving is just specific manifestation of deep underlying motive
+#### Craving is just specific manifestation of deep underlying motive {#underlying-motives}
 
 - In process of evolution, human brain didn't have desires for smoking, checking Instagram or playing video games; at deeper level, you just want to reduce uncertainty and relieve anxiety, want to win social acceptance and recognition, or want to obtain status
   - Craving: Smoking, social media, playing video games
   - Deep underlying motive: Relieve anxiety, obtain sense of recognition
 
-#### Life feels like reactive, but actually predictive
+#### Life feels like reactive, but actually predictive {#predictive-brain}
 
 - We are always reading hints from environment, but only act when predicting "changing state will make self better", and this is "craving"
 
-#### Reprogram Brain (Adjust mindset)
+#### Reprogram Brain (Adjust mindset) {#reprogram-the-brain}
 
 - Focus on benefits, not drawbacks. Make habit more attractive / unattractive
 
@@ -457,15 +457,15 @@ Objects of imitation
 Change two words, not "Have to", but "Get to"
 :::
 
-#### Motivation Ritual
+#### Motivation Ritual {#motivation-ritual}
 
 Practice associating habit you want to cultivate with something you enjoy. Later when need motivation, this cue can be used.
 
 - Own case: Putting on headphones (don't need to play music) enters focused state.
 
-## Law 3: Make Action Easy
+## Law 3: Make Action Easy {#make-it-easy}
 
-### Repeat Execution > Pursue Perfection
+### Repeat Execution > Pursue Perfection {#repetition-over-perfection}
 
 :::info
 "The best is the enemy of the good"
@@ -489,7 +489,7 @@ Establishing new habit, point lies in:
 
 - Flow of time has no magical power, what's important is proportion of executing that behavior.
 
-### Principle of Least Effort
+### Principle of Least Effort {#least-effort}
 
 :::info
 If you really want, maybe will really do. But our real motivation is being lazy, then find convenient things to do.
@@ -502,7 +502,7 @@ If you really want, maybe will really do. But our real motivation is being lazy,
 
 - Best thing popular products good at is also this, like: food delivery apps, dating apps, ride-sharing services, communication apps
 
-#### Reduce energy consumption through environment design
+#### Reduce energy consumption through environment design {#reduce-friction}
 
 :::info
 ⚠️ ==Create an environment making right things as easy as possible==
@@ -516,7 +516,7 @@ Reduce resistance related to good habits in environment. Increase trouble relate
   - → Change task, make violating good habit spends more effort than starting to execute good habit
   - Counter example: Netflix's auto-play service
 
-### Two-minute Rule, Stop Procrastinating!
+### Two-minute Rule, Stop Procrastinating! {#two-minute-rule}
 
 Master daily "decisive moment". Habit is starting point, not end point.
 
@@ -530,13 +530,13 @@ Gateway Habit
 - New habit shouldn't be like a challenge. Follow-up can be challenge, but ==must be easy when starting==
   - Echo: Repeat>Pursue perfection. Do continuously first. == "Standardize before optimize."==
 
-## Law 4: Make Reward Satisfying
+## Law 4: Make Reward Satisfying {#make-it-satisfying}
 
 :::info
 When experience is satisfying, we are likely to repeat a behavior
 :::
 
-### Immediate Reward vs Delayed Reward
+### Immediate Reward vs Delayed Reward {#immediate-versus-delayed-rewards}
 
 - People tend to do things "effective immediately". Therefore need to let good habit get "feedback" immediately
   - Example: Toothpaste added mint
@@ -544,7 +544,7 @@ When experience is satisfying, we are likely to repeat a behavior
 
 Price of good habit is in moment (bitter first sweet later). Price of bad habit is in future (sweet first bitter later).
 
-### Habit Tracker
+### Habit Tracker {#habit-tracker}
 
 Basic type: Record items on To-Do, check after finishing.
 
@@ -568,7 +568,7 @@ Paradox: Before trying to form habit, you need to form habit of recording this h
 - Minimize, automate tracking process.
 - Habit stacking: After finishing "current habit", I will "track that habit".
 
-### What to do after Habit Interrupted?
+### What to do after Habit Interrupted? {#interrupted-habits}
 
 1. Never miss twice
 
@@ -587,15 +587,15 @@ Habit tracking is tracking purpose behind data, not data itself alone.
 - ==Goodhart's Law: "When a measure becomes a target, it ceases to be a good measure."==
 - Measurement is useful only when guiding you, helping you see big picture clearly, not consuming mind!
 
-### Habit Contract
+### Habit Contract {#habit-contract}
 
 :::info
 Knowing someone is watching will be a powerful motivation.
 :::
 
-# Advanced Optimization Ways, From "A" To "A+"
+# Advanced Optimization Ways, From "A" To "A+" {#advanced-optimization}
 
-## Influence of Genes
+## Influence of Genes {#genes}
 
 :::info
 Open question: Is talent important?
@@ -607,7 +607,7 @@ Genes determine not your fate, but in which field you have opportunity
 
 - Can determine tendency in advance, but can't determine fate.
 
-### How to know which field is favorable?
+### How to know which field is favorable? {#find-your-field}
 
 1. Start from understanding own personality
 
@@ -634,7 +634,7 @@ Genes determine not your fate, but in which field you have opportunity
   - Speed of learning things, growth rate of self-media fans etc.
 - "What is natural to me"
 
-### What if unable to find favorable playing field?
+### What if unable to find favorable playing field? {#finding-a-playing-field}
 
 - After all being able to find own talent actually still relies on luck quite a bit.
 
@@ -650,7 +650,7 @@ Real case:
   - Painting not top level, can't make living by painting
   - Sense of humor also not strong enough to host talk show
 
-### Genes won't eliminate necessity of effort, but make direction of effort clear.
+### Genes won't eliminate necessity of effort, but make direction of effort clear. {#genes-and-effort}
 
 Genes tell us what to work hard on.
 
@@ -658,7 +658,7 @@ Genes tell us what to work hard on.
   - People too obsessed with "having limitations", so that rarely really try best to approach those limits.
 - If you didn't invest equal amount of training, impossible to be sure whether cards you got in genes are better or worse
 
-## Goldilocks Rule
+## Goldilocks Rule {#goldilocks-rule}
 
 :::info
 Key to maintaining motivation and reaching highest point of desire: Execute tasks of "just right difficulty"
@@ -672,13 +672,13 @@ Key to maintaining motivation and reaching highest point of desire: Execute task
 
 ![](https://i.imgur.com/fuKziIQ.png)
 
-## Biggest Threat to Success is Not Failure, But Boredom
+## Biggest Threat to Success is Not Failure, But Boredom {#boredom}
 
 - From A to A+ needs to be able to endure boredom in day-to-day behavior followed after habit executed to a stage.
   - On journey of self-improvement, upon certain time point, everyone will face same challenge: ==You must fall in love with boredom==.
   - We all have goals want to achieve, dreams want to realize. But no matter which aspect you attempt to improve in, ==if only work hard when convenient or excited, never unable to get extraordinary results==
 
-## Disadvantages of Building Good Habits
+## Disadvantages of Building Good Habits {#disadvantages-of-habits}
 
 1. Automation makes us easy to ignore errors
 
@@ -696,7 +696,7 @@ Key to maintaining motivation and reaching highest point of desire: Execute task
 
 ==Lack of self-awareness is poison. Reflection and review are antidote.==
 
-## Conclusion: From A To A+
+## Conclusion: From A To A+ {#deliberate-practice}
 
 Everything is impermanent. Life is always changing. So must periodically review whether old habits and beliefs are still useful to self.
 

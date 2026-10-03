@@ -8,7 +8,7 @@ review-by-me: false
 
 ![hokkyoku-departmant-store](/review/hokkyoku-departmant-store/cover-zh-TW.png)
 
-## Thoughts
+## Thoughts {#thoughts}
 
 Really like watching this kind of heartwarming work without too much scheming recently.
 
@@ -16,17 +16,17 @@ At the same time, also like how many Japanese works observe and present interact
 
 From eyes of concierge Akino of department store, it presented Japan's respectful service attitude of treating customers as priority. But compared to superficial politeness, I think what author wanted to present more is Akino's sincerity of thinking for customers behind, wanting to let everyone have a happy shopping experience here.
 
-## Plot
+## Plot {#plot}
 
 Tells a world where animals are anthropomorphized living together with humans. Besides appearance, animals are no different from humans inside. Can communicate with humans, also shop, dress up, make desserts and engage in art. In such a world, there is a department store called "Hokkyoku Department Store". Staff are all humans, customers are all animals, mostly V.I.A (Very Important Animals). True meaning about this name will be gradually revealed along plot.
 
 Protagonist of work Akino visited Hokkyoku Department Store when she was little, since then had longing for working here. Plot focuses on Akino entering this department store as she wished, some workplace little stories happening between first day and passing probation. As customers are all animals, workplace appearance that can be presented is also richer.
 
-## Production
+## Production {#production}
 
 There is original manga. This theatrical version is produced by Production I.G. Smoothness of animation really goes without saying. Physical movements of characters and moving ways of different animals are really very meticulous. At the same time, characters are almost all voiced by big-name voice actors (There are Jun Fukuyama, Kenjiro Tsuda, Kana Hanazawa etc.). Their voices make emotions of whole movie very abundant.
 
-## Couldn't Stop Crying Watching
+## Couldn't Stop Crying Watching {#couldn-t-stop-crying-watching}
 
 I was surprised myself, but thought about it later, it is because emotions are portrayed very sincerely. I am easily moved by that mood of really wanting to do a thing well.
 
@@ -38,7 +38,7 @@ Although just a fictional work with fantasy elements, I am still very moved that
 
 Really no matter if possible in reality, just knowing someone also imagines like this, even materialized it into a work, and this work is done so well, I am very satisfied and happy.
 
-## Spoiler Thoughts
+## Spoiler Thoughts {#spoiler-thoughts}
 
 .
 
@@ -56,7 +56,7 @@ Therefore at first glance it is workplace daily life, but actually also portrayi
 
 .
 
-## Miscellaneous Thoughts Unrelated to Plot
+## Miscellaneous Thoughts Unrelated to Plot {#miscellaneous-thoughts-unrelated-to-plot}
 
 Watching this movie also made me confirm my writing motivation and goal again. I know world is full of malice, heard quite a few related stories, also experienced some things myself, but I still want to try my best to describe goodness of humans, or describe goodness that can still be seen when facing these malice.
 

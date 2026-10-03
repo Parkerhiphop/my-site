@@ -6,11 +6,11 @@ summary: 'My Facebook account was suspended without warning, losing all past pos
 review-by-me: false
 ---
 
-## Preface
+## Preface {#preface}
 
 Every accident allows me to break away from the habitual state, look at the present with a relatively detached state, and realize what aspects of the current state I am unsatisfied or satisfied with. Like losing my phone abroad before, and this time my Facebook being suspended, both made me think a lot.
 
-## Meta's Warningless Suspension
+## Meta's Warningless Suspension {#meta-s-warningless-suspension}
 
 On 2024/12/27, my Facebook was logged out, showing this screen:
 
@@ -33,7 +33,7 @@ In the case of unable to log in to that IG account, the official didn't provide 
 
 Found another method is to send a physical letter to the US, will try later.
 
-## What Did I Lose After Losing My Facebook Account?
+## What Did I Lose After Losing My Facebook Account? {#what-did-i-lose-after-losing-my-facebook-account}
 
 Facebook has a "Download File" button, but an error occurred, so probably no backup available.
 
@@ -55,7 +55,7 @@ Messages I sent will become like this (the gray background of the text box is no
 
 There is also a silver lining in misfortune that I don't have many services bound to Facebook login.
 
-## Comparison with IG Suspension Three Years Ago
+## Comparison with IG Suspension Three Years Ago {#comparison-with-ig-suspension-three-years-ago}
 
 Actually, on 2021/05/05, my IG account was also suspended without warning once.
 
@@ -75,7 +75,7 @@ At the same time, I also recognized more clearly what kind of people I want to g
 
 It is a pity that I didn't learn a lesson on information backup. I didn't realize FB has so many things to backup. FB being suspended this time still caught me off guard.
 
-## How Easy It Is to Be Forgotten Without Social Media
+## How Easy It Is to Be Forgotten Without Social Media {#how-easy-it-is-to-be-forgotten-without-social-media}
 
 I wonder if everyone has seen "Coco"?
 
@@ -93,7 +93,7 @@ Some friends use Facebook to organize events. If can't find my account, might mi
 
 This feeling of being disappeared and forgotten scares me.
 
-## How to Speak Out Without Social Media
+## How to Speak Out Without Social Media {#how-to-speak-out-without-social-media}
 
 This is another worry after being suspended.
 
@@ -103,7 +103,7 @@ Ironically, I can only use Meta's IG to find friends who used to contact via mes
 
 Regarding this point, I don't have much thought yet. Maybe we have entered an era where we can't live without social media. If really want to say something, even if account is banned, can only quickly create another account back (or should prepare backup account usually). Efficiency of spreading information on social media with certain traffic is really much more effective than other methods.
 
-## Next Step
+## Next Step {#next-step}
 
 No longer trust social media to manage my content and account well. After all, have been deleted by Meta without warning twice (IG and Facebook once each).
 
@@ -111,7 +111,7 @@ But Taiwan's mainstream social media are Meta. And Twitter under Elon Musk's ope
 
 Currently thinking of can start doing these:
 
-### Ensure Data Autonomy: Backup Text, Photos and Important Contacts
+### Ensure Data Autonomy: Backup Text, Photos and Important Contacts {#ensure-data-autonomy-backup-text-photos-and-important-contacts}
 
 Given distrust of official, all content must be managed by myself, keep own digital footprint. I agree very much with Obsidian author's concept [File Over App] (https://stephango.com/file-over-app) regarding this part.
 
@@ -123,13 +123,13 @@ Album uses Google Photos and additionally uses external hard drive for backup.
 
 Establish Personal Relationship Management system. This title seems cool, but actually just regularly record who are important people around and want to keep in touch. Did organize once with Notion three years ago. Try Heptabase this time.
 
-### Actively Manage Information Sources
+### Actively Manage Information Sources {#actively-manage-information-sources}
 
 Shift from social feeds to RSS feed, newsletter, personal website, official blog, Discord Server and specific groups.
 
 Last year saw Ya-Xuan sharing recommended websites ([Personal Website List](https://yaxuanhe.me/post/personal-website-list/)) and information sources. Want to follow suit to organize!
 
-### Formulate Social Media Usage Guidelines
+### Formulate Social Media Usage Guidelines {#formulate-social-media-usage-guidelines}
 
 Mainly used for:
 
@@ -144,7 +144,7 @@ Avoid:
 2. Talking past each other with people whose cognition is too different and don't want to understand
 3. Seeking social validation
 
-### Focus on Building Small and Close Communities
+### Focus on Building Small and Close Communities {#focus-on-building-small-and-close-communities}
 
 Now thought of an approach is when have things want to share, not just posting on social media, but focus on finding some groups or communities to share directly with them.
 
@@ -157,7 +157,7 @@ Groups I currently have:
 
 I want to focus on cultivating these communities, not just a single social media. Every time posting on social media feeling a bit boring when no response. And I increasingly found social media can't help me find too many echo chambers, nor can continue to cultivated certain connections deeply. Occasionally not using algorithm starts pushing randomly or lowering reach. And account might be banned by official (Facebook tragedy). Better find communities love early, communicate, share and support each other directly and closely inside.
 
-## Conclusion
+## Conclusion {#conclusion}
 
 Losing a Facebook makes me feel disappeared, making me feel might be too dependent on social media. I no longer want to pursue a lot of weak ties and numbers on social media, but want to maintain and solidify those real and warm connections. Maybe not entirely in real world, because like software development and some topics I am interested in, really don't meet much in real world. And also met quite a few warm netizens (mainly Twitter friends). So later will focus more on newsletter, personal website and some closer friends around. And hope can ensure myself can be contacted by them.
 

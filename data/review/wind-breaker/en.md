@@ -14,9 +14,9 @@ Didn't expect it could present Choji's darkening, Togame's self-blame and Umemiy
 
 To me, Shishitoren Arc is about goal and process.
 
-## Shishitoren Arc
+## Shishitoren Arc {#shishitoren-arc}
 
-### Why did Choji darken?
+### Why did Choji darken? {#why-did-choji-darken}
 
 Because he stood on peak of Shishitoren.
 
@@ -40,7 +40,7 @@ Therefore he distorted, taking "strength" as sole criterion, discarding weak one
 
 .
 
-### Why did Togame feel guilty?
+### Why did Togame feel guilty? {#why-did-togame-feel-guilty}
 
 Because at moment Choji went astray he chickened out. He looked away. He didn't have courage to defend his inner thoughts, compromised to obey distorted Choji.
 
@@ -52,7 +52,7 @@ However, he submitted, fulfilled Choji's distortion, helped him deal with not st
 
 .
 
-### How did Umemiya wake Choji up?
+### How did Umemiya wake Choji up? {#how-did-umemiya-wake-choji-up}
 
 He found Choji was already on edge of collapse midway. Thus didn't use violence to counter violence, just like Sakura's reflection afterwards "Is this fighting?". Umemiya let Choji face that sense of discord in heart himself, didn't fight back from middle stage.
 
@@ -62,7 +62,7 @@ And Choji finally realized strangeness. Finally after being knocked down on grou
 
 .
 
-### Choji asked Umemiya, why you seem not empty like me after standing on peak?
+### Choji asked Umemiya, why you seem not empty like me after standing on peak? {#choji-asked-umemiya-why-you-seem-not-empty-like-me-after-standing-on-peak}
 
 Because for Umemiya, standing on peak is not his goal, but means. He has things can only do after standing on peak. This made Choji suddenly enlightened. He found Umemiya "climbed to peak only after understanding himself first".
 
@@ -74,7 +74,7 @@ Finally, Choji felt empty, mainly because he was already happy originally. Happi
 
 ![wind-breaker-shishitouren-3](/review/wind-breaker-shishitouren/3.png)
 
-### Inspiration for me
+### Inspiration for me {#inspiration-for-me}
 
 "Always remember what you are working hard for. If forgot or started to get lost, might as well think clearly first or rely on others for help. And process is as important as result. Achieving a thing might be happy but also might be empty".
 

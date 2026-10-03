@@ -20,7 +20,7 @@ I know I have other strengths, but what bothers me in daily life are these negat
 
 But such me is also "envied" by many people. This is the strongest emotion I have felt in the past half year, and also the one that makes me most overwhelmed.
 
-## Simple and Crude Envy
+## Simple and Crude Envy {#simple-and-crude-envy}
 
 Some people will crudely envy my state of being able to go anywhere abroad. There were also other envied situations before.
 
@@ -34,7 +34,7 @@ I realized I hate this feeling of being envied. Part of the reason is that they 
 
 I also know that powerlessness is sometimes not their problem, but I still resent it.
 
-## Envy from Mother
+## Envy from Mother {#envy-from-mother}
 
 At Christmas, I sent a message to my mom saying Merry's Christmas, and sent a photo of me at the snow resort. The reply I got was "You work happier, living a different life, I really want to be like this too".
 
@@ -52,7 +52,7 @@ My current life is the result of being abandoned by her, unexpectedly envied by 
 
 Maybe I should thank her for not taking me with her back then, otherwise I wouldn't be able to live the life she envisions.
 
-## Demand from Father
+## Demand from Father {#demand-from-father}
 
 As for my father, it is less of an emotion of envy, but more like Pavlov's conditioning experiment, making me fear "living well".
 
@@ -64,7 +64,7 @@ So when I told him I switched to engineer, he would congratulate me first, and a
 
 When I lent him money the first few times, he paid back, but as long as I shared good news with him, I was borrowed money. Slowly it became a kind of conditioning. I am afraid of living well myself, because that might lead to me being demanded, emotionally blackmailed, blamed, or even hinted that my happiness is built on their suffering.
 
-## Envy with Good Intentions
+## Envy with Good Intentions {#envy-with-good-intentions}
 
 Although I really want to delete IG, IG has gradually become a communication software. Due to working holiday, meeting new friends often requires exchanging IG.
 
@@ -74,7 +74,7 @@ But once I accidentally chatted with a netizen that I don't like being envied. H
 
 I also heard from his tone that his envy is different from my parents' envy. It is a feeling of close friends teasing each other, without throwing out powerlessness, nor demanding.
 
-## Conclusion
+## Conclusion {#conclusion}
 
 Finally, to respond to the title, I am afraid of "living well", then what is living well to me?
 

@@ -9,7 +9,7 @@ review-by-me: false
 
 I first talked about making my [Now page](/now) back in 2024 with [leafwind](https://midori.land/), [Kalan](https://blog.kalan.dev/now/), and [Ya Xuan](https://yaxuanhe.me/about/). In the end, I only actually made it two years later.
 
-## Why Now
+## Why Now {#why-now}
 
 In _Four Thousand Weeks_, the book says that if you do not do the things you want to do "now," you usually never will, because we can always find other things to fill the "now" and pile what we want to do onto a to-do list. The book quotes writer Jessica Abel: "You will never magically get all your work done at some future point, leaving you with plenty of free time."
 
@@ -25,7 +25,7 @@ This time, the opportunity was seeing [Wei Lee](https://blog.wei-lee.me/posts/ra
 
 Other things, like entering the software industry, starting to learn Japanese, building a personal website, starting a newsletter, going to Australia, and coming to Japan, were all built up by one opportunity after another.
 
-## Changing the World
+## Changing the World {#changing-the-world}
 
 This reminds me of something from the past. Before graduating from university, I talked with my thesis advisor about my fear of leaving sociology. Studying sociology had filled me with critical thoughts about the world, and with all the hot-blooded immaturity of youth, I wanted to correct everything, which sounds a bit like becoming a villain. I told him, "I want to change the world." He did not laugh after hearing that, and precisely because of that, I dared to say it to him.
 
@@ -37,7 +37,7 @@ Those words influenced me deeply, and they are also one of the reasons I write n
 
 I share this little story simply because writing my Now page this time also feels like the result of people influencing one another and connecting with one another.
 
-## The International NOW Connection
+## The International NOW Connection {#the-international-now-connection}
 
 [Derek Sivers](https://sive.rs/) has been promoting this movement around the world through [nownownow.com](https://nownownow.com/about). Many people were inspired by him. You can go there to see what people around the world are doing now, and if you do not know how to begin, you can also see how others do it. Taiwan is in there too!
 

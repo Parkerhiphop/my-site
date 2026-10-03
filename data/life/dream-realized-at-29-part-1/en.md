@@ -31,7 +31,7 @@ As I wrote in [The Thought of an Ideal Life](https://www.parkerchang.life/en/lif
 
 I have to emphasize that this is about me, because I know plenty of people who were reborn after going to Japan, the United States, or Australia. That story simply did not happen to me.
 
-## Why I Came to Japan
+## Why I Came to Japan {#why-japan}
 
 > At first, I wanted to go to Japan because I longed for Japanese culture, the climate, and the living environment. I also liked listening to JPop, it is close to Taiwan, and I already had many friends there. -- [Leaving Taiwan for Two Years: Going to Australia and Japan](https://www.parkerchang.life/en/life/leaving-taiwan-working-holiday)
 
@@ -51,7 +51,7 @@ These are all things I once longed for. They really exist, and they are within r
 
 But besides these things, Japan has also brought many new problems. I have started weighing the new problems Japan gives me against the problems I had in Taiwan. Which problems do I want to coexist with?
 
-## Coming Here and Staying Here
+## Coming Here and Staying Here {#coming-and-staying}
 
 Coming to Japan has already completed one item on my life list. I can answer to the version of myself from five years ago. Staying here is another question.
 
@@ -63,7 +63,7 @@ It is like what my friends who invest often say: "It does not count until you pu
 
 After working in Japan as a software engineer for a month, that sense of immediacy and the shape of life afterward suddenly emerged from the fog. Both joy and pain were branded onto my body.
 
-### The Challenge of My Current Job
+### The Challenge of My Current Job {#current-job}
 
 The company I work at now is a fake foreign company and real Japanese company. It is also the first stop for many people who come to Japan, often jokingly called a stepping stone. Based on all that, some people can probably guess where I work.
 
@@ -85,7 +85,7 @@ It has been about two months since I joined at the end of May. Aside from shift 
 
 I think engineers here really will not be replaced by AI, because too many things require a person to be there and take responsibility.
 
-### The Challenge of Japanese
+### The Challenge of Japanese {#japanese-language}
 
 Having the language of daily life become a foreign language in every direction is actually quite stressful. I did not feel it as strongly during working holiday.
 
@@ -97,7 +97,7 @@ At the same time, I see friends who majored in Japanese and friends who have sta
 
 After coming here, one wall after another appeared in front of me. How many more walls do I still need to cross? What lies ahead?
 
-### Being a Foreigner in Japan
+### Being a Foreigner in Japan {#being-a-foreigner}
 
 Attitudes toward immigration probably come in waves, but right now both Australia and Japan are on the anti-immigration side. Compared with Australia, Japan is even less used to immigrants. About one third of Australia's residents are foreign-born, while in Japan the figure is only 3%.
 
@@ -111,11 +111,11 @@ All I can say is that being a foreigner in another place means getting used to h
 
 On this topic, I want to recommend [觀光以上，公民未滿。](https://tokyostartupyacho.substack.com/p/8fa).
 
-## Things Japan Did Not Change
+## Things Japan Did Not Change {#what-did-not-change}
 
 The pressure and burnout of being a software engineer, the tug-of-war between career and creation, and loneliness.
 
-### Burnout in My Software Career
+### Burnout in My Software Career {#career-burnout}
 
 I probably started feeling burned out with my software career after changing to my second job. That is why I have written very few technical articles. I have held onto being a software engineer because it is a job that gives me a chance to go abroad without going back to school, and it is currently the best way I know to earn a good income.
 
@@ -133,7 +133,7 @@ In more than five years of a software career, I feel like an ape trying to learn
 
 Of course, work is largely about making a living, so even if I am burned out, I still have to keep doing it. Earlier, I made it sound as if I could simply decide not to be a software engineer anymore. But if working holidays in Australia and Japan taught me anything, it is that living on basic hourly pay is also possible, and the key to living well is not money. I will talk about the next step and money in "Part 2."
 
-### Loneliness
+### Loneliness {#loneliness}
 
 After coming to Japan, I have felt a stronger loneliness than before.
 
@@ -151,7 +151,7 @@ I think I have only now truly stepped onto the road of looking for home.
 
 > I am in Australia now and will go to Japan next year. I hope I can encounter a place that gives me the feeling of home, or find people with whom I can create a sense of belonging, like Cikapasi, the Ainu orphan in **Golden Kamuy**, who traveled with Tanigaki and Inkarmat and later stayed in Karafuto after meeting people willing to accept him. -- [Written After Becoming Homeless](https://www.parkerchang.life/en/life/after-homelessness)
 
-## Closing
+## Closing {#closing}
 
 Thank you to everyone who read this far. Although I am giving a warning that there may not necessarily be a "Part 2," I will still try to write it. This article is mostly about "now." The next one will write about some things "afterward."
 

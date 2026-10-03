@@ -16,7 +16,7 @@ But this year I finally found a review method that I am relatively satisfied wit
 
 ---
 
-## Some big-picture questions aka Soul-searching questions
+## Some big-picture questions aka Soul-searching questions {#some-big-picture-questions-aka-soul-searching-questions}
 
 These eight questions are not difficult to answer, but they can help me think through several important aspects of the past year. Below I will talk about "Three Most Valuable Lessons". I won't list the others one by one, everyone just needs to have their own answers!
 
@@ -29,7 +29,7 @@ These eight questions are not difficult to answer, but they can help me think th
 7. 5 people who influenced you the most this year
 8. Happy things this year (no upper limit, happiness is unlimited)
 
-## Weekly Journal and Calendar
+## Weekly Journal and Calendar {#weekly-journal-and-calendar}
 
 Basically, a weekly journal is a running account of what happened each week. Every Sunday night, I set aside half an hour to write down my evaluation of the week and what I did. Sometimes I thought I didn't do anything, but unexpectedly achieved some things, or I didn't do much, but actually I was quite happy and it was interesting.
 
@@ -63,9 +63,9 @@ The preface seems to be too long, let's come back to talk about 2021.
 
 2021 actually had a lot of pain for me, and there probably weren't many happy times, but correspondingly, I grew a lot. Mainly, the imposter syndrome of switching to a software engineer has alleviated with the increase of knowledge. I started to be able to weigh inputs, practice enjoying the process, and finally tried many things I always wanted to do.
 
-## About the three valuable lessons of 2021
+## About the three valuable lessons of 2021 {#about-the-three-valuable-lessons-of-2021}
 
-### 1. I cannot keep all friends, fate cannot be grasped
+### 1. I cannot keep all friends, fate cannot be grasped {#1-i-cannot-keep-all-friends-fate-cannot-be-grasped}
 
 I've always heard a metaphor from somewhere — "Even a webbed hand cannot hold all the water in it" (The protagonist I heard about at the beginning was even Buddha, but I can't find it so I won't mislead people).
 
@@ -73,7 +73,7 @@ This metaphor says that when we cup water in our hands, the water will flow away
 
 My past self really tried too hard to hold on to all the friends I knew and wanted to keep in touch with everyone, but this only made me burn out. The result is that those who will leave will leave.
 
-### 2. Leave time for myself, live with "myself" as the starting point, learn to say "no"
+### 2. Leave time for myself, live with "myself" as the starting point, learn to say "no" {#2-leave-time-for-myself-live-with-myself-as-the-starting-point-learn-to-say-no}
 
 This is somewhat related to the first point. It was also because I wanted to maintain all relationships too much, so I paid a lot of time. At the same time, I wasn't very good at refusing many gatherings. I always convinced myself that it was rare to get together or to relieve loneliness, and gave almost every night and holiday to others. The result of continuous accumulation was that I couldn't focus on the moment when I was with friends. I only thought about what I hadn't done in my mind. The result was low social quality and things that should be done were not done.
 
@@ -85,7 +85,7 @@ And the previous step of time management is "leave time for yourself". Only when
 
 > Some roads can only be walked by oneself, and only after walking through can one get along with friends in a more complete and healthy state.
 
-### 3. Enjoy the process, not the result
+### 3. Enjoy the process, not the result {#3-enjoy-the-process-not-the-result}
 
 > After entering society, hard work no longer has an end. You must constantly satisfy yourself in the process.
 

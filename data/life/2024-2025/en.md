@@ -13,7 +13,7 @@ Since [last year's review](/life/2023-2024) received some feedback, I also want 
 
 I want to be as true to myself as possible, have a clear conscience about my words, and follow the expectation of writing the review last year "**Down-to-earth, not vanity**".
 
-## A year where the spring loosened
+## A year where the spring loosened {#a-year-where-the-spring-loosened}
 
 Looking back, whether it was the first sales job, career change, or changing jobs, every time was sprinting with the spring tight, but in 2024 the spring suddenly loosened.
 
@@ -29,15 +29,15 @@ Went to Japan once in March and October respectively (Mie Prefecture Wakayama, T
 
 Overall, 2024 gave me a feeling of crossing the storm circle to the eye of the typhoon, suddenly calm around, and I suddenly relaxed.
 
-### Can I really rest?
+### Can I really rest? {#can-i-really-rest}
 
 Comparing with " [Expectations for 2024](/life/2023-2024#%E5%B0%8D-2024-%E7%9A%84%E6%9C%9F%E5%BE%85) " written in last year's review, besides room for improvement in work, I gained more margin in finance, and indeed focused on myself in interpersonal relationships.
 
 Being able to rest in 2024, isn't it the proof of "getting more margin"? So I don't think I need to be too harsh on myself, treat "being able to rest" as proof of growth.
 
-## My Insights This Year
+## My Insights This Year {#my-insights-this-year}
 
-### Find my own passion, dive in boldly
+### Find my own passion, dive in boldly {#find-my-own-passion-dive-in-boldly}
 
 I want to find things I want to seriously invest in and can safely throw a lot of time into.
 
@@ -51,7 +51,7 @@ Speaking of writing, I want to write a lot of things, but sitting at the desk fo
 
 In these moments, I would think, do I really want to invest such a large amount of time? The result is always hesitating or doing other things with short-term results, and just letting time pass like this.
 
-#### Not just measured by money
+#### Not just measured by money {#not-just-measured-by-money}
 
 Besides time, I often **subconsciously use "can it make money" as a basis for doing something**. Last year when I saw the article [Formula killed interest](https://leafwind.tw/2024/04/05/formulaic-solutions-killed-the-interest/), I had a rude awakening. I found that when chatting with friends about things I wanted to do, the most frequently asked question was not details, but "Can that make money?". What makes me sadder is that I am often the one asking that question.
 
@@ -67,7 +67,7 @@ Remembering the inspiration from the [interview](https://www.yomiuri.co.jp/cultu
 
 I hope I can dive in boldly with this attitude, and have no regrets about my choice.
 
-### Take my body seriously
+### Take my body seriously {#take-my-body-seriously}
 
 **Humans are just a kind of creature after all, physiological and psychological influences are very direct.**
 
@@ -79,7 +79,7 @@ Last year due to moving and changing jobs, after canceling the contract with the
 
 Going for massage and physical therapy didn't improve much. It improved a lot after recovering some basic training. Deeply realized "**Prevention is better than cure**". Regular exercise can properly "prevent" the occupational hazard of engineers sitting for a long time. Not moving the body is just treating the symptoms but not the root cause.
 
-### Learning without thought is labor lost; thought without learning is perilous
+### Learning without thought is labor lost; thought without learning is perilous {#learning-without-thought-is-labor-lost-thought-without-learning-is-perilous}
 
 Currently, many articles written are empty thoughts by myself. But without absorbing new knowledge, there will be no progress. Many things should have been thought by others earlier and deeper and more comprehensively. I want to stand on their shoulders and look forward.
 
@@ -87,7 +87,7 @@ For example, "Notes of Giants" has many recording mindsets and methods that are 
 
 Hope to absorb more information (not limited to reading books) in 2025. Outputting after absorbing will also be easier.
 
-## Things Completed This Year
+## Things Completed This Year {#things-completed-this-year}
 
 1. Solo travel to Japanese countryside (**Wakayama, Mie Prefecture, Kumano Kodo, Urashima Hotel**)
 
@@ -117,7 +117,7 @@ Hope to absorb more information (not limited to reading books) in 2025. Outputti
 
 9. Ended eight years of being single
 
-## Things Not Completed This Year
+## Things Not Completed This Year {#things-not-completed-this-year}
 
 1. Stopped Japanese classes after June
 2. Didn't read many books
@@ -126,7 +126,7 @@ Hope to absorb more information (not limited to reading books) in 2025. Outputti
 5. Didn't eat a balanced diet
 6. Didn't write novels
 
-## Pain of This Year
+## Pain of This Year {#pain-of-this-year}
 
 1. Uncertainty about software career
 2. Myself without fitness, writing, learning
@@ -134,9 +134,9 @@ Hope to absorb more information (not limited to reading books) in 2025. Outputti
 4. Terrible rental environment in Taipei
 5. Listened to friends' stock tips twice, lost money both times. I ultimately cannot earn money beyond my cognition, let's do more homework first.
 
-## Expectations for 2025
+## Expectations for 2025 {#expectations-for-2025}
 
-### Career
+### Career {#career}
 
 The general direction is still "**Have more choices**", but I hope to **find my own passion**.
 
@@ -157,7 +157,7 @@ Talked a lot, specifically what I want to do in 2025 is
 3. Continue to learn from supervisors and colleagues in the current job, and also take care of non-technical aspects, such as business models and workplace interaction and sensitivity.
 4. Slowly think about **what else I can do besides writing code**.
 
-### Finance: FIRE
+### Finance: FIRE {#finance-fire}
 
 Last year realized **working to make money is redeeming one's freedom from society**, **financial freedom is the status of "redemption completed"**, thus contacted the concept of **FIRE (Financial Independence, Retire Early)**.
 
@@ -169,11 +169,11 @@ However, I added a variable to the table, which is monthly DCA, and assumed annu
 
 2025 will track and adjust according to this table, will also find some people to ask for advice. Will publish another article to share after having more insights!
 
-### Interpersonal Relationships
+### Interpersonal Relationships {#interpersonal-relationships}
 
 Last year executed **putting myself first** very well. After cutting off contact with many people, I really lived better.
 
-#### Sense of Distance
+#### Sense of Distance {#sense-of-distance}
 
 Some people need decluttering, but most friends just need to keep a distance.
 
@@ -187,7 +187,7 @@ Previously just too unskilled at grasping this sense of distance, so getting clo
 
 2025 continue to practice maintaining appropriate distance with friends.
 
-#### Entering a Relationship
+#### Entering a Relationship {#entering-a-relationship}
 
 I finally ended eight years of being single.
 
@@ -197,7 +197,7 @@ Previously would definitely want to post on social media (actually just IG), but
 
 Hope to become better together with her company in 2025. The first challenge we have to face is I want to work abroad and she doesn't. But when love comes, it can't be stopped. Ensured she knew my future plan when we got together, and she still supports me going to Japan for work in the future, so let's see as we go. Cherish every day together first, hope no regrets for each other no matter what in the future.
 
-## Written at the end: Take care of myself first
+## Written at the end: Take care of myself first {#written-at-the-end-take-care-of-myself-first}
 
 The idea of exerting influence is unchanged from last year, but this year felt before that, must find a way to take care of myself first.
 

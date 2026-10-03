@@ -19,7 +19,7 @@ After struggling for a while, decided to arrange a three-day quick trip to Tokyo
 
 Result was after coming here found out how much I needed these three days.
 
-## Vast Sky and Ocean
+## Vast Sky and Ocean {#vast-sky-and-ocean}
 
 Leaving original environment for a bit, don't need too much, just three days, can get rid of foul atmosphere shrouding me. Coming for this **feels like instantly sober and pupils dilated after taking a cold shower**.
 
@@ -47,7 +47,7 @@ This plain and simple sentence, I remembered until now. On the road of Tokyo, th
 
 After returning to Taiwan, my life didn't change much. Things and problems annoying me before leaving were not solved either. But I didn't feel that cloud shrouding feeling before going out anymore. I possess another way to look at these problems. I can also choose to push aside those clouds shrouding me. Maybe wait until I can't push aside again next time, it is time to give myself another three days.
 
-## Tsubame-yu
+## Tsubame-yu {#tsubame-yu}
 
 ![tsubame-yu.png](/life/tokyo-three-days/tsubame-yu.png)
 
@@ -67,7 +67,7 @@ I also accidentally used soap of an uncle. Luckily he very kindly taught me how 
 
 Maybe also inspired by same movie, felt very calm feeling here. Washing body, entering bath, doing nothing, just existing there.
 
-## Hachinoki
+## Hachinoki {#hachinoki}
 
 A very Japanese style hot pot / sukiyaki (nonsense here is Japan). Quite delicious but portion not large.
 
@@ -77,7 +77,7 @@ Traveling alone sometimes feel a bit awkward to eat yakiniku or sukiyaki. But cl
 
 Heard clerk chatting with a regular customer in Chinese when paying bill. Heard accent felt like Taiwanese. But I didn't summon courage to speak Chinese with her. Later still used Japanese to communicate with her.
 
-## Oyokogawa Water Park Kawazu Sakura
+## Oyokogawa Water Park Kawazu Sakura {#oyokogawa-water-park-kawazu-sakura}
 
 Came to Japan many times. First time seeing cherry blossoms in full bloom.
 
@@ -91,7 +91,7 @@ I am a person not very good at taking photos can take such photos. Shows really 
 
 By the way promote her IG travel account: [Q です 🙋🏻‍♀️ ｜日本走跳生活分享 🇯🇵](https://www.instagram.com/q_tokyo_japan/)
 
-## Friends
+## Friends {#friends}
 
 This paragraph was not written when sending newsletter. Hesitated for a night still wrote in. Felt still want to record briefly.
 
@@ -101,7 +101,7 @@ Thank one of them took me to eat beef tongue in Shinjuku. Another accompanied me
 
 Even earlier when went to Tokyo chatted with some friends already lived there for several years. Their lives in Tokyo are becoming more and more stable. Already started permanent residence process. Originally very afraid I will have no friends going to Japan later. But I think currently already have these people as guarantee. Maybe don't need to worry so much!
 
-## Aimer
+## Aimer {#aimer}
 
 Finally chat about reason for this quick trip.
 
@@ -123,6 +123,6 @@ Excerpt a little note seen on social media:
 
 I think, being able to hear these warm songs live, staying with fans who also appreciate such warm songs together, this trip is worth it.
 
-## Acknowledgements
+## Acknowledgements {#acknowledgements}
 
 Thank Jo, Hsuan, Ning for helping read first draft of article and giving feedback, and [min](https://www.minw.blog/), [YA-Xuan](https://yaxuanhe.me/) and [Hyuanverse](https://hyuanverse.com/newsletter/).

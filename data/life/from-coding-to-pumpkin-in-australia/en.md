@@ -6,7 +6,7 @@ summary: I have been in Australia for a full month! I have also been working on 
 review-by-me: false
 ---
 
-## Still Anxious Too Quickly
+## Still Anxious Too Quickly {#still-anxious-too-quickly}
 
 The leisurely feeling disappeared after the first week, and started to get a little anxious about not finding a job.
 
@@ -14,7 +14,7 @@ I decided to come to Australia temporarily, and didn't have much time to look up
 
 software engineer's experience is useless for the work that can be done in WH (Working Holiday). Feeling that past experience is like a dream, as if back to seven years ago when I switched to software engineer, feeling doubtful about past life, and unfamiliar with the future.
 
-### Dead Loop of Car, Job, Renting
+### Dead Loop of Car, Job, Renting {#dead-loop-of-car-job-renting}
 
 Watched some WH YouTubers, originally made up my mind to work on construction sites, but couldn't find a job at all and didn't know where to look. Besides, construction sites require buying a car and tools first, which costs a lot.
 
@@ -28,7 +28,7 @@ I am staying at a friend's place temporarily, so there is no legal proof of addr
 
 Then rent a house first? But Australia is really too big. afraid that after renting, find the workplace is super far. Therefore fell into a dead loop of "**No job, don't know where to live → No address, can't buy a car → No car, can't go to many workplaces**".
 
-### Finding a Job
+### Finding a Job {#finding-a-job}
 
 In the following two weeks, I first cast a wide net on FB, various groups or Seek, and also directly looked for Career pages of hotels or inns on Google Maps to submit resumes, but there was no news.
 
@@ -42,7 +42,7 @@ Although didn't want to work in farms and meat factories at first, but to have s
 
 I am going to Japan next year. Actually I don't need to collect visa days, but I want to keep options for myself, so that I still have a chance to come back to Australia.
 
-### Not Being a Goody-Two-Shoes
+### Not Being a Goody-Two-Shoes {#not-being-a-goody-two-shoes}
 
 In [Leaving Taiwan for Two Years: Heading to Australia and Japan](/life/leaving-taiwan-working-holiday), mentioned "My life before this followed a conveyor belt". Partly because my family background didn't allow me to fall off the conveyor belt. I had no money and no time to retake exams. I also didn't have the margin to find a job only after graduating from university. Without working part-time during university would wait to starve to death, so only went to work part-time as an insurance agent in junior year, and then switched to software engineer.
 
@@ -60,7 +60,7 @@ Maybe not limited to Australia either. In the past I often limited myself and di
 
 I needed the stability of the conveyor belt before, but now I have grown to have the ability to take risks. **Environment and ability are different, I can use different methods to break through**.
 
-## What I Do in the Fruit and Vegetable Factory
+## What I Do in the Fruit and Vegetable Factory {#what-i-do-in-the-fruit-and-vegetable-factory}
 
 The factory I stay in will process vegetables and fruits transported from farms through the assembly line then package and ship. Main customers are some supermarkets or wholesalers.
 
@@ -97,7 +97,7 @@ Actually very boring at work. Just holding razor, scraper or small knife in hand
 
 Currently working for more than a week, hand has been hurting since the first day till now. Because holding knife to cut for eight hours, grasping pumpkin steady also needs grip strength. Don't know if will get used to it. Also accidentally cut index finger.
 
-## Why on Earth Am I Here
+## Why on Earth Am I Here {#why-on-earth-am-i-here}
 
 > "He who has a why to live for can bear almost any how." — Twilight of the Idols, Nietzsche
 
@@ -105,7 +105,7 @@ Actually coming to WH can't earn the salary I had as a software engineer in Taiw
 
 When cutting pumpkins here until hands are very sore, inevitably will doubt life a bit. Why did I come here, to be an assembly line worker in a factory?
 
-### Simple Beauty
+### Simple Beauty {#simple-beauty}
 
 Working eight hours in the factory, off work is off work. I don't need to continue thinking about how to cut pumpkins after work. I was an insurance agent for one and a half years and a software engineer for six and a half years. When being an agent there was no off work time, always thinking about developing customers. When being a software engineer, was always FOMOing technology after work. Experience this simple feeling again after eight years.
 
@@ -119,7 +119,7 @@ Coming to WH is really can have a not bad income, have a lot of time, and also c
 
 Left blank for brain and time for contemplation, this is a habit I would want to continue to keep later.
 
-## Thanks for Every Encounter
+## Thanks for Every Encounter {#thanks-for-every-encounter}
 
 The most important thing in WH is really "people". Someone helps introduce jobs, someone shares information, someone has a car can help give a ride or someone can complain, work hard together etc.
 
@@ -131,7 +131,7 @@ Each of these encounters reminds me of the good between people.
 
 And everyone represents a way of living. I would ask people I meet what they did before, thoughts for later whenever I catch a chance. Even met a technician from Taiwan when renting a car, I also took the chance to ask him how long he has been here, why wanted to come, how stayed down and why wanted to stay down. Also thank him for being quite willing to share (maybe also because I will buy a car from him later).
 
-### Multi-national Exchange in Library
+### Multi-national Exchange in Library {#multi-national-exchange-in-library}
 
 After hearing English conversation activity on broadcast when going to Gold Coast library with friends, I went to almost every session before finding a job.
 
@@ -149,7 +149,7 @@ Really hope I came out earlier, but coming out too early might not be able to ha
 
 Quite interesting is I really want to go to Japan, but a large part of Japanese here want to leave Japan, and all people who want to leave have the same reason — low salary. But apart from salary, I found they all still love Japan very much.
 
-## The Terrible Part
+## The Terrible Part {#the-terrible-part}
 
 Although seemed to say a lot of good words before, still have to report the terrible part for balance.
 
@@ -167,7 +167,7 @@ Impression after chatting with locals and some immigrants is, Australian politic
 
 Australian public institutions, insurance and so on are also very expensive, speed is not fast either. Like my driving license for one year costs 92 AUD (longer validity will be more expensive), still have to wait for ordinary mail to arrive within two weeks.
 
-## No Answer But Have Direction
+## No Answer But Have Direction {#no-answer-but-have-direction}
 
 After knowing more and more people's lifestyles and plans, although no change to my current situation, my vision has become broader.
 

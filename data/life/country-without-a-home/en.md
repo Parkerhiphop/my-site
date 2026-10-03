@@ -34,7 +34,7 @@ But none of these places were places I often went when I lived in Taipei, so I d
 
 When I heard "Welcome back to your country" while passing through immigration at the airport, I felt that the boundary of "country" was just right. It was not "welcome home" or even "welcome back." I have citizenship, but that does not mean I have a home here. Taiwan is the country where I have no home.
 
-## Like Graduation
+## Like Graduation {#like-graduation}
 
 Before going to Australia last July, before going to Japan last December, and this June when I came back to switch visas, I arranged to meet many people. I packed my Taipei schedule very tightly, with lunch and dinner appointments, and on some days even breakfast appointments.
 
@@ -56,7 +56,7 @@ As I write this, the melody of "This Summer" is almost playing in my head. Do pe
 
 Of course, no one can say for sure what will happen in the future. I might stay for a few years and then return to Taiwan, or I might fail to obtain status and come back. But I have already prepared myself not to have to return.
 
-## The Beginning of the End
+## The Beginning of the End {#the-beginning-of-the-end}
 
 On my personal website, I actually secretly posted a lower-pressure [diary: the fourth week after starting work in Japan and my feelings before returning to Taiwan](https://www.parkerchang.life/en/life/returning-to-software-fourth-week). It had been a long time since I returned to a software engineering workplace. I was using Japanese that was still not good enough and English that was just about usable. Everyone worked quietly at their seats, which was very different from the interactive atmosphere of working holiday jobs. At the same time, I suddenly had much less time for myself. I really needed some time to adapt.
 

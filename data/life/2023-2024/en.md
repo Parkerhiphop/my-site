@@ -32,7 +32,7 @@ And this standard of vanity and down-to-earth is still in everyone's mind, becau
 
 As for **why review**, this year is also **hoping to leave a trace. Writing it down is taking a snapshot of myself at this time. I believe the future me will definitely thank the current me for writing it down**, just like I am very grateful that the past me has done reviews.
 
-## Reviewing 2022's expectation for 2023: Hope to live with more margin (Yuyu).
+## Reviewing 2022's expectation for 2023: Hope to live with more margin (Yuyu). {#reviewing-2022-s-expectation-for-2023-hope-to-live-with-more-margin-yuyu}
 
 > Overall it is on track. Gained some margin in interpersonal relationships and finance, but faced many choices and setbacks in career development.
 
@@ -44,9 +44,9 @@ The consequence of lack of concentration is doing A while thinking about B. Want
 
 Interpersonal relationships have always brought me a lot of pressure. Although I am extroverted, I try too hard to feel and presuppose the other party's position, and often put myself behind others, ignoring my own feelings for a long time. My heart has no margin due to too many worries. But after starting counseling this year, there is great progress, which will be mentioned below!
 
-## My Insights This Year
+## My Insights This Year {#my-insights-this-year}
 
-### 1. I am not Sisyphus, I can push the stone away and walk towards the top of the mountain
+### 1. I am not Sisyphus, I can push the stone away and walk towards the top of the mountain {#1-i-am-not-sisyphus-i-can-push-the-stone-away-and-walk-towards-the-top-of-the-mountain}
 
 Sisyphus is a mythological fable, often used by people to compare themselves, thinking that their day-to-day work and life are like Sisyphus pushing a stone repeatedly every day.
 
@@ -62,7 +62,7 @@ Realizing the nature of this burden and what I really want to do, only then can 
 
 Although I pushed the stone away, I also realized the process of repeatedly picking it back up. Now I hope to continue practicing awareness and actively let go of the burden I should not bear. And if one day, I find that I want to bear this burden, and the scenery I want to see cannot be seen without carrying the stone up, I will push the stone with a more open-minded attitude.
 
-### 2. Planning a calendar is harmful to me
+### 2. Planning a calendar is harmful to me {#2-planning-a-calendar-is-harmful-to-me}
 
 (The calendar I am talking about here is a very extreme way of planning. In the past few years, I planned and reviewed to record every period of every day.)
 
@@ -85,13 +85,13 @@ Finally, I also realized that "**Energy Management**" is more important than "**
 After all, when energy is bad, even if there is double time, it may not be possible to do it.
 If interested, you can watch this [How to maintain high energy?](https://youtu.be/oXqfijUX0GQ)
 
-### 3. No longer account to others, no longer responsible for others' expectations
+### 3. No longer account to others, no longer responsible for others' expectations {#3-no-longer-account-to-others-no-longer-responsible-for-others-expectations}
 
 I often feel stressed if I can't account to others properly or might disappoint others.
 
 The anxiety of needing to account might come from:
 
-#### 3-1. Social Media
+#### 3-1. Social Media {#3-1-social-media}
 
 Posting my life on it actually feels like accounting to others. For example, because there are many things that should be done, but I still posted updates about playing while not doing them. It makes me guess if they will criticize me: "Didn't come to the event / Didn't finish things, how dare you play?", or recently preparing for an interview, I would be afraid that others think "Aren't you preparing for an interview? How dare you play?"
 
@@ -99,7 +99,7 @@ The time when I need social media is often halfway through reading. Perhaps I re
 
 But I now realize **Social media cannot help me solve this loneliness. Social media will only stack a layer of anxiety on top of this loneliness.**
 
-#### 3-2. Participated in too many "Self-growth" groups
+#### 3-2. Participated in too many "Self-growth" groups {#3-2-participated-in-too-many-self-growth-groups}
 
 I joined many groups last year that could "grow myself", including miscellaneous knowledge clubs, groups for regular foreign language practice, and projects cooperated after work. I easily filled up from Monday to Sunday.
 
@@ -107,7 +107,7 @@ But the current me actually doesn't have the spare energy. Filling myself up wil
 
 Therefore, I realized that I just don't have the spare energy to participate in these things, so I should withdraw. Handle my own affairs first, and participate in some random things when I really have margin and extra time. This ensures that besides doing things important to myself first, I can also enjoy it better without bringing too much pressure to myself and team members.
 
-#### 3-3. Solution: Leaving is not escaping, but valuing myself more
+#### 3-3. Solution: Leaving is not escaping, but valuing myself more {#3-3-solution-leaving-is-not-escaping-but-valuing-myself-more}
 
 Previously I felt that anything that could make me better should be gathered, but that "good" might be very "vague", or it might be "others'". Think about "is this good" and "do I want it" first. A better way is to **have a map about myself first, so that everything I do can find a destination on that map**, otherwise it is easy to get lost on the ocean.
 
@@ -127,7 +127,7 @@ Regarding social media and comparison anxiety, I also heard a saying:
 
 **Many people are anxious to let you hear them, selling anxiety to you, hoping you follow their ideas. But no need! Don't be led by others' ideas.**
 
-### 4. Truly hardworking people will not be treated badly, but fake diligence will not be sympathized with
+### 4. Truly hardworking people will not be treated badly, but fake diligence will not be sympathized with {#4-truly-hardworking-people-will-not-be-treated-badly-but-fake-diligence-will-not-be-sympathized-with}
 
 Simply sprinting all the time, but not following the map, or even without a map of my own, getting lost is just expected.
 
@@ -137,7 +137,7 @@ Fake diligence for a long time will only find myself living harder and harder, g
 
 And true effort should be with awareness, checking the direction all the time, whether it is introspection or asking others. Just sprinting is fake diligence.
 
-### 5. From diode to spectrum
+### 5. From diode to spectrum {#5-from-diode-to-spectrum}
 
 Actually it means getting rid of dualism.
 
@@ -147,9 +147,9 @@ Just like "self", I used to be afraid that "expressing my own thoughts" would be
 
 And **someone being better than me does not equal me not being excellent. People who are excellent having different views from mine does not equal my views being wrong.**
 
-## Best Decisions This Year
+## Best Decisions This Year {#best-decisions-this-year}
 
-### 1. Counseling
+### 1. Counseling {#1-counseling}
 
 Many things, although I can think clearly, are not down-to-earth. I am afraid that I did not think clearly, or even if I understood, I couldn't do it.
 
@@ -172,7 +172,7 @@ These problems that have plagued me most seriously have been slowly clarified:
 5. Love to escape, dare not solve problems positively, not good at rejecting (I don't need to be responsible for others' failed expectations)
 6. ...
 
-### 2. Draw my own map
+### 2. Draw my own map {#2-draw-my-own-map}
 
 Mentioned above **Planning a calendar is harmful to me**, but that is just removing the paranoia about time management. Still need to know roughly which direction I want to go.
 
@@ -184,7 +184,7 @@ The content of the map will roughly be several fields I follow: "Programming", "
 
 Detailed planning, I will write another article later!
 
-### 3. Use X(Twitter) more than Instagram
+### 3. Use X(Twitter) more than Instagram {#3-use-x-twitter-more-than-instagram}
 
 Reasons for not liking Instagram
 
@@ -204,7 +204,7 @@ As for the reason not using FB, there is too much noise there. Friends, fan page
 
 And Threads I am still watching. But what is recommended to me now are mostly storytelling or political posts. I observed there are quite a few language learning posts, maybe can develop in that direction.
 
-## Things Completed in 2023
+## Things Completed in 2023 {#things-completed-in-2023}
 
 > Although mentioned down-to-earth and vanity at the beginning, I still want to share what I did this year, but modified the original title "Achievements, Milestones" to be more neutral "Things Completed".
 
@@ -226,7 +226,7 @@ And Threads I am still watching. But what is recommended to me now are mostly st
 9. Participated in a half marathon for the first time, successfully finished!
    - **Finally can experience the marathon mentality, from wanting to finish quickly, to steadily moving forward step by step, no longer just thinking about the finish line**
 
-## Expectations for 2024
+## Expectations for 2024 {#expectations-for-2024}
 
 Starting this year, I believe in "**Making yourself strong is the only way to solve problems.**"
 
@@ -234,9 +234,9 @@ I always thought I was a bit allergic to this kind of law of the jungle remarks,
 
 Overall still aiming to "**Let every aspect of life possess more margin**".
 
-### Work (Software Development)
+### Work (Software Development) {#work-software-development}
 
-#### Maintain competitiveness and options at any time
+#### Maintain competitiveness and options at any time {#maintain-competitiveness-and-options-at-any-time}
 
 Company closed down early last year and transferred to a partner company, and the new company had layoffs in the middle of the year, and finally some unpleasant things happened at the end of the year.
 
@@ -248,7 +248,7 @@ Let myself not fall into the state of "no choice" or "stuck in the middle". This
 
 Specific means to accumulate stronger competitiveness, I think the first is to understand the market better, maintain the habit of regular interviews and save more emergency funds. Daily routine is to make up for the "rigid demand" technical hard skills.
 
-#### Not blindly following trends
+#### Not blindly following trends {#not-blindly-following-trends}
 
 > For new technologies, pay attention, understand, but don't chase
 
@@ -278,7 +278,7 @@ Finally record current thoughts:
 >
 > And exercising the vision to select technology and allocating time and energy spent on learning programming more cautiously is also a major goal of mine in 2024.
 
-### Finance: Redeem more freedom than in 2023
+### Finance: Redeem more freedom than in 2023 {#finance-redeem-more-freedom-than-in-2023}
 
 Used to think talking about money was tacky, but now realize this is the most important thing. **Money may not buy happiness, and the process of making money may be painful, but money is needed to deal with many accidents. Being able to deal with accidents also means having more margin**.
 
@@ -288,7 +288,7 @@ And in a capitalist society **working to make money is redeeming one's freedom f
 
 This year has formulated a more specific budget, investment method, and working hard to increase the principal. Hope it goes well!
 
-### Interpersonal Relationships: Put myself first
+### Interpersonal Relationships: Put myself first {#interpersonal-relationships-put-myself-first}
 
 Thank you to the people I met and stayed by my side this year, but I really let too many people live in.
 
@@ -304,7 +304,7 @@ For many former good friends, the reason we could get along so well was partly b
 
 In addition, seeing some friends around not doing very well, need to often remind myself to turn down empathy a bit. Can empathize, but don't substitute. Rather than acting emo together, taking good care of myself, reaching out when they need it is better than acting emo together.
 
-## Written at the end: Why should exert own influence
+## Written at the end: Why should exert own influence {#written-at-the-end-why-should-exert-own-influence}
 
 Saw a [tweet](https://twitter.com/irena_yuan/status/1752990332986470412?s=61&t=UQh8jjbhKNZ_ZwcEMSfkfg) on Twitter saying "**Exerting one's influence is attempting to build the compound interest of one's ideal world. The biggest punishment for people who only care about themselves is getting more and more terrible people (in their own values).**"
 

@@ -14,7 +14,7 @@ Although the title says first week in Australia, actually still quite a lot of m
 
 (If really want to see information related to Australian Working Holiday, other backpackers' experiences should be more detailed.)
 
-## Only Realized Taiwan is Hometown After Leaving
+## Only Realized Taiwan is Hometown After Leaving {#only-realized-taiwan-is-hometown-after-leaving}
 
 Saying goodbye to more and more people, becoming more and more attached to Taiwan.
 
@@ -36,7 +36,7 @@ However after calming down a bit here, still feel I really need to come out for 
 
 (Also thank everyone who gave me blessings after seeing [Leaving Taiwan for Two Years: Heading to Australia and Japan](/life/leaving-taiwan-working-holiday). Even if didn't meet, I am also very grateful to everyone willing to move fingers to bless me.)
 
-### Maybe the Last Time
+### Maybe the Last Time {#maybe-the-last-time}
 
 Before this departure, tried to arrange meeting with friends who asked.
 
@@ -46,7 +46,7 @@ As age grows, some people will get married and have children, some people will s
 
 So, before this departure I cherished every gathering with the mood of the last time. Of course still hope everyone can be well wherever they are.
 
-## Here to Heal
+## Here to Heal {#here-to-heal}
 
 Thinking of when sharing my plan with a senior, he said "Looks like you were severely heartbroken by Taiwan".
 
@@ -64,7 +64,7 @@ I really want to cut off relationship with him, but I am too weak. I can't do it
 
 I can only choose to leave Taiwan temporarily. I won't step on China's land either. Hope I can become braver in these two years.
 
-## Can't See the Truth Because Being In It
+## Can't See the Truth Because Being In It {#can-t-see-the-truth-because-being-in-it}
 
 Counting from resignation time, I haven't written code for nearly two weeks. In my six years of work, first time didn't write code for more than three days.
 
@@ -80,7 +80,7 @@ This also reminds me of blood test before going abroad. Only then knew my body l
 
 Don't know if I will continue to go back to write code, but just continue to observe and try in these two years!
 
-## Haven't Started Working
+## Haven't Started Working {#haven-t-started-working}
 
 Since this trip was arranged very suddenly. Decided on 5/25, resigned on 6/30, ended lease on 7/03, departed on 7/08.
 
@@ -100,7 +100,7 @@ Proof of address needs lease or utility bill etc. other documents with my name, 
 
 I am not sure what type I will do, where to do. Therefore dare not to rent house rashly. I still have time for second visa after coming back from Japan. So might find some hard labor or remote work that can collect visa days to do for 88 days to qualify for second visa first. During this period also look up information, know more people, see what can do.
 
-## Miscellaneous Thoughts on Australia
+## Miscellaneous Thoughts on Australia {#miscellaneous-thoughts-on-australia}
 
 Finally still use to share interesting discoveries in Australia currently!
 

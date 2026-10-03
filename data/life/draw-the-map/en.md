@@ -14,7 +14,7 @@ However, as mentioned in the "Qualification Theory" of the previous article "Som
 
 I also thought that even Marie Kondo of "The Life-Changing Magic of Tidying Up", if she no longer uses this set of organizing methods, it does not mean that others or people who read it later will not apply either. Everyone is just at a different stage.
 
-## Enlightenment from Atomic Habits
+## Enlightenment from Atomic Habits {#enlightenment-from-atomic-habits}
 
 At first, when I read "Atomic Habits" for the first time in 2020, I was shocked to understand the concepts of "Goal-oriented Fallacy" and "Identity". Only then did I discover that I had always been blindly and hastily setting a bunch of "goals", and then using the results to define myself. Every time after achieving them, I would lose my goal and feel a little empty, and then rush to find the next goal to achieve.
 
@@ -29,15 +29,15 @@ The preparatory work for drawing the map is also to clarify your identity first,
 
 If you are interested in "Atomic Habits", I have written ["Atomic Habits" Full Book Notes](/life/atomic-habits-note) before, so I won't repeat the concepts in the book here. In short, highly recommend this book!
 
-## How Drawing My Own Map Helped Me
+## How Drawing My Own Map Helped Me {#how-drawing-my-own-map-helped-me}
 
-### Navigation for Daily Life
+### Navigation for Daily Life {#navigation-for-daily-life}
 
 Just open it when free to remind myself where I want to go.
 
 After investing in work or some goals for a while, will also be too focused on that matter and cannot jump out. At this time, looking at the map will also be very helpful. Can detach myself from the moment, see where I ultimately want to go, sometimes will be suddenly enlightened.
 
-### Basis for Making Choices, Courage to Give Up, Less Regret
+### Basis for Making Choices, Courage to Give Up, Less Regret {#basis-for-making-choices-courage-to-give-up-less-regret}
 
 There are occasionally unexpected opportunities or possibilities in life, but not every opportunity and chance is good.
 
@@ -45,17 +45,17 @@ In the past, I often devoted myself passionately to some things because I was in
 
 And regret is often **feeling "I had a better choice"**, "If only back then...", but having a map of my own allows me to recognize in advance **I would not choose that way no matter what**, those choices are just not suitable for me.
 
-### Avoid Being Busy for Nothing
+### Avoid Being Busy for Nothing {#avoid-being-busy-for-nothing}
 
 In the past, I often rushed to do things for the feeling of "doing something", but actually those things at hand may not be the most important things. Looking at the map can force myself to face "those truly important things".
 
-### Get Rid of Comparing Mentality a Bit
+### Get Rid of Comparing Mentality a Bit {#get-rid-of-comparing-mentality-a-bit}
 
 I no longer treat people around me as competitors.
 
 Sometimes still fall into envy and jealousy, thinking why others are so fast. At this time, open the map, remind myself of the road I want to walk, others are also walking their roads.
 
-## Is This a Good Map?
+## Is This a Good Map? {#is-this-a-good-map}
 
 How to know if this is a good map? Just look at if this map corresponds to the reason **"Why draw it"**.
 
@@ -65,7 +65,7 @@ The reasons why I draw the map are those helps mentioned above. Can it become my
 
 Adjust the map step by step in the process of confirming these "Whys" one by one.
 
-## How Do I Draw the Map?
+## How Do I Draw the Map? {#how-do-i-draw-the-map}
 
 First, can think about your identity first. What kind of person are you? What kind of person do you want to become? What kind of things do you like? It doesn't matter if it's abstract.
 
@@ -85,12 +85,12 @@ There is still a long distance between "knowing what I don't want" and "knowing 
 
 In addition, besides trying by yourself, can also ask seniors for opinions before trying. Can think about questions to ask following your identity, let yourself imagine if want to be like that through their experience.
 
-## My Map Version Records
+## My Map Version Records {#my-map-version-records}
 
 Too wordy, let's look at my map version records directly!
 But previous maps can just take a look, now have changed to minimalist style.
 
-### 2019~2022
+### 2019~2022 {#2019-2022}
 
 I gave myself these identities **"Creator", "Changer", "Strong Person", "Adventurer", "Person Surrounded by People"**. Counted as a most abstract appearance I want to become (a bit childish but I like it).
 
@@ -116,7 +116,7 @@ Like setting gathering for two hours, then programming for one and a half hours,
 
 Besides planning method having problems, there were also many psychological problems dealing with, like not good at rejecting causing not leaving much time for myself, tending to escape when encountering difficulties etc.
 
-### 2023
+### 2023 {#2023}
 
 Realizing it won't work being so tight, I readjusted a version. This version is not so rigorous. I gave up OKR method. Recall now might be based on "want to manage myself as a company", but I am a person, I should treat myself in a "human" way.
 
@@ -132,7 +132,7 @@ Then counselor also let me know through some very key questions that my expectat
 
 **I planned so extremely, partly because I have an imperfect, not matching imagination, incapable self in my heart, and I always wanted to reject him, so I catalyzed these goals, hoping to stay away from him.**
 
-### 2023~2024
+### 2023~2024 {#2023-2024}
 
 Now is minimalist. Basically only "Identity" and more specific topics, because most have already been internalized. I only need some general directions instead of a pile of details. According to several experiences, many details will be naturally discovered when I do them. Listing too detailed beforehand just makes myself unable to move.
 
@@ -140,7 +140,7 @@ I also largely got rid of inferiority and Imposter Syndrome. What I need is to b
 
 ![map-v3](/life/draw-the-map/map-v3.png)
 
-## Current Situation and Reflection
+## Current Situation and Reflection {#current-situation-and-reflection}
 
 Seeing my map this year so simplified, some people might feel contradictory. Isn't it about drawing your own map? How come there are only a few points? Can this count as a map?
 

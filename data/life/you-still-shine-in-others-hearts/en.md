@@ -7,7 +7,7 @@ summary: A quick life update, a years-old essay I wanted to share after watching
 review-by-me: false
 ---
 
-## Life Update
+## Life Update {#life-update}
 
 Hi! How has everyone been lately? If it is a Blue Monday, maybe reading my letter will help a little.
 
@@ -27,7 +27,7 @@ That is the life update. What I actually wanted to share today is an old essay, 
 
 Reading it again after almost four years feels a little embarrassing, but I still like it very much, so I decided to share it anyway. If I keep leaving it there, I will probably only feel even more embarrassed and even less willing to publish it.
 
-## The Essay Begins
+## The Essay Begins {#the-essay-begins}
 
 It has been three years since I graduated from university, and I feel as if I have slowly been disappearing.
 
@@ -85,7 +85,7 @@ N was like a space telescope that belonged only to me. Through him, I saw the li
 
 At four in the morning, I got into a taxi home. In the reflection of the car window, I saw my own image. The person looking back at me seemed to have a glimmer of light deep in his eyes.
 
-## Closing
+## Closing {#closing}
 
 Reading it again still feels a little embarrassing, almost like I am bragging about myself. But this morning, while talking to my uncle, I showed him the fried instant noodles I made. He said they looked delicious, and I instinctively wanted to say, "No, not really." Once again, I realized that I am not good at accepting compliments. So this essay can also be one more step outward, one more attempt to accept positive views of myself, even if they are from four years ago, and even if they are about a version of me from even earlier.
 

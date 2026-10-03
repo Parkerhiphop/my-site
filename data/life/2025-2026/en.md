@@ -7,7 +7,7 @@ summary: My 2025 annual review and 2026 expectations.
 review-by-me: false
 ---
 
-## Prologue
+## Prologue {#prologue}
 
 Like this year, I dragged my annual review until the Lunar New Year. In the past, it was because of the long holidays during the New Year period which allowed me to reflect. This year in Japan, despite not having holidays, I allow myself to delay it until now.
 
@@ -23,9 +23,9 @@ I'm also a little scared of doing this review. I fear that the 2025 me just ran 
 
 But I still have to write it. I need to capture a snapshot of the 2025 me. I want to continue witnessing myself.
 
-## Realizations of the Year
+## Realizations of the Year {#realizations-of-the-year}
 
-### 1. Anxiety Fatigue, Stop Punishing Myself in Advance
+### 1. Anxiety Fatigue, Stop Punishing Myself in Advance {#1-anxiety-fatigue-stop-punishing-myself-in-advance}
 
 I vaguely remember being an optimistic person before I entered university. Even though I overly craved validation and engaged in self-pity, I wasn't particularly pessimistic. After that, I slowly turned into a pessimistic and negative person.
 
@@ -57,7 +57,7 @@ I don't think I've become optimistic because of this, but I choose to refuse pun
 
 Conversely, after the anxiety fatigue, I want to practice focusing on the beautiful parts of life—those beautiful things I don't need to be highly successful, wealthy, or own anything to enjoy. Such as the clarity of mind waking up early (shifts compel me to wake up early, which makes my mornings super clear), the tingling sensation after exercising and showering, the tranquility when hanging out with compatible friends, and the snowy mountain views right now in Kusatsu, Gunma.
 
-### 2. Living is Simply Eating Well and Sleeping Soundly
+### 2. Living is Simply Eating Well and Sleeping Soundly {#2-living-is-simply-eating-well-and-sleeping-soundly}
 
 As a strict core Taipei native, it was only after coming to work in the countryside of Australia and Japan that I deeply understood this.
 
@@ -79,7 +79,7 @@ Coincidentally, it was also in Australia that I finally finished reading the ent
 
 Ah, staying alive is this simple. Never give up on it arbitrarily.
 
-### 3. Running Away is Not Shameful
+### 3. Running Away is Not Shameful {#3-running-away-is-not-shameful}
 
 Towards my parents, towards Taiwan, I used to think leaving was cowardice. I felt a sense of guilt leaving my own country. But after really leaving, I finally found out that this has always just been an option. Searching for a place better suited to one's survival isn't something that deserves blame.
 
@@ -93,7 +93,7 @@ Similarly, if I choose to go back in the end, it's also not something to be blam
 
 Because if I finally went back, it would mean I've also achieved one of my purposes of leaving in the first place: [Unable to Feel the Good of Taiwan](/life/leaving-taiwan-working-holiday#unable-to-feel-the-good-of-taiwan)—to truly feel how good Taiwan is.
 
-## Happy Things of the Year
+## Happy Things of the Year {#happy-things-of-the-year}
 
 1. **Alopecia AREATA healed by 80%!**
    My right side hadn't grown any hair for five or six years, so I had been relying on letting the top top lengthen to cover it. I did DPCP treatment at Cathay General Hospital this time, and I sunbathed extensively in Australia, so I'm not sure which one took effect.
@@ -102,14 +102,14 @@ Because if I finally went back, it would mean I've also achieved one of my purpo
    I genuinely felt that the Australian sunshine cured over half of my depression.
 4. **Started snowboarding**
 
-## Accomplished Things of the Year
+## Accomplished Things of the Year {#accomplished-things-of-the-year}
 
 1. Wrote eleven articles
 2. Bought the first car of my life in Australia (and already sold it)
 3. Earned incomes in TWD, AUD, and JPY
 4. Lost eight kilograms from work
 
-## Unfinished Things of the Year
+## Unfinished Things of the Year {#unfinished-things-of-the-year}
 
 This year I also had countless unfinished matters. Whenever one wasn't done, there were feelings of regret and unwillingness. Yet while reflecting backward, I can hardly recall any specific one, or find none particularly worth documenting in the annual review. If forced to list them... they're similar to last year, such as never finishing a book, never completing some code, not learning certain things, not joining certain plans, inconsistently exercising, not perfecting my languages, etc.
 
@@ -123,7 +123,7 @@ This year, the intensity of this condemnation weakened. Maybe I gradually accept
 
 In summary, I'll leave this 2025 space empty for now. We'll see how my thoughts evolve after 2026.
 
-## Painful Things of the Year
+## Painful Things of the Year {#painful-things-of-the-year}
 
 1. AI
 2. Parents
@@ -131,22 +131,22 @@ In summary, I'll leave this 2025 space empty for now. We'll see how my thoughts 
 4. Identity
 5. Seeking belongingness overseas
 
-## The Top Three Best Decisions
+## The Top Three Best Decisions {#the-top-three-best-decisions}
 
 1. Leaving Taiwan
 2. Taking a hiatus from being a software engineer
 3. (Can't think of the third)
 
-## The Most Satisfied Purchases
+## The Most Satisfied Purchases {#the-most-satisfied-purchases}
 
 1. **Laser eye surgery**
 2. **One-way ticket to Australia**
 3. **Samsung Z fold 7**
    I switched from iPhone to Samsung three years ago, and this year I upgraded from s23u to Z fold 7. Never imagined the day I'd use a foldable phone, but post-laser surgery resulting in the desire to look at a larger screen made me do it. Coincidentally, during my working holiday when my computer wasn’t always around, this unfolded large screen and multitasking abilities have been remarkably fantastic.
 
-## Expectations for 2026
+## Expectations for 2026 {#expectations-for-2026}
 
-### Career
+### Career {#career}
 
 TL;DR, I'm preparing to return to the software engineer workplace.
 
@@ -158,19 +158,19 @@ Regarding burnout, I think I just needed to put down everything to rest, distanc
 
 The guiding stars this year are "Identity first," "Coexisting with AI," and "Prioritize securing oneself first."
 
-#### Identity First
+#### Identity First {#identity-first}
 
 Compared to the progression of AI, what I need now is a grounded identity. I want to score a job and a working visa in Japan while my software engineer background still holds onto bits of relevance.
 
 Even if the future for software developers becomes increasingly grim, it’s still a skillset. For a near-30 foreigner whose Japanese isn't that pristine without other skills, it continues to be my best shot.
 
-#### Coexisting with AI
+#### Coexisting with AI {#coexisting-with-ai}
 
 This half-year resting stretch also allowed me to accept the reality that AI really alters everything. Welcoming the aid of AI to accomplish tasks, and acknowledging the forthcoming environment for software developers and white-collar workers could steeply plummet.
 
 Originally when I graduated from college to become a developer, I was merely tailing a trend. Now that the trend is shifting towards AI, I just have to follow suit again. I must believe my accumulation throughout the years are still valid—the traces of hard work, the logical path in executing a project, empathy towards people, and awareness of the market. Anyway, I will proactively learn and utilize AI, continuing to walk this thread, tracking how far I can wander.
 
-#### Prioritize Securing Oneself First
+#### Prioritize Securing Oneself First {#prioritize-securing-oneself-first}
 
 This point bogged me down for quite a long time. It’s the portion I didn't clearly spell out in [The Peace of Mind I Wish to Pursue in Work](/life/career-goals-what-i-want-from-work). Admixing with some of [My Fear of Living Well](/life/fear-of-living-well) mentality.
 
@@ -184,11 +184,11 @@ Perhaps an arrow can be tossed at how capitalism mechanisms function, while anot
 
 Even bereft of answers this year, I plan on keeping myself safe first. Solidifying my footing first, bolstering up strength. Those questions are up for debate but cannot mold into chains tripping me. I have to perform while simultaneously scrutinizing, and not erase the contemplations on what kind of questions I was pondering upon.
 
-### Financials
+### Financials {#financials}
 
 Currently standing in the phase of burning savings.
 
-### Creation
+### Creation {#creation}
 
 This year, I scripted eleven posts capturing life and ideas. Tracing steps back, I noted the pieces I authored veered off the spectrum of what I originally presumed my pen would write.
 
@@ -208,7 +208,7 @@ This year, aiming to at minimum sustain the momentum of one monthly article, whi
 
 For the inquisitive eyes, free to keep tabs on IG at parker_life_path.
 
-### Interpersonal Relationships
+### Interpersonal Relationships {#interpersonal-relationships}
 
 This half-year of overseas life ingrained in me fundamentally exactly how pivotal 'Interpersonal connections' really stand.
 
@@ -237,7 +237,7 @@ There’s also an intriguing remark spotting how socializing holds equivalent st
 
 Anyhow, this coming year's module drills on shielding away detested ties traversing the workspace. Pre-briefed inside the foregoing [The Annoying Senior](/life/life-in-kusatsu#the-annoying-senior) section.
 
-## Last Write-Ups, The Gratitude Checklist for the Year
+## Last Write-Ups, The Gratitude Checklist for the Year {#last-write-ups-the-gratitude-checklist-for-the-year}
 
 Living flipped radically within the year boundaries, notwithstanding backed immensely heavily by associates' help. Sheltering when roofless, dragging out the quick-sinking emotional bogs, passionately feasting with just brief-history relations, and mapping blueprints on a zero-clue scale alongside, primarily — breathing life paths alongside me.
 

@@ -8,6 +8,7 @@ const groups = new Map();
 let files = 0;
 let headings = 0;
 let failed = false;
+let translationDifferences = 0;
 
 async function walk(directory) {
   for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
@@ -60,11 +61,17 @@ for (const [directory, locales] of groups) {
   const union = new Set(Object.values(locales).flat());
   for (const locale of ['zh-TW', 'en', 'ja']) {
     const missing = [...union].filter((id) => !locales[locale]?.includes(id));
-    if (missing.length)
-      console.warn(`${directory}/${locale}: no corresponding heading for ${missing.join(', ')}`);
+    if (missing.length) {
+      translationDifferences++;
+      console.warn(`WARN ${directory}/${locale}: no corresponding heading for ${missing.join(', ')}`);
+    }
   }
 }
-console.log(
-  `Checked ${files} files and ${headings} headings. Translation differences above require editorial review; no headings were matched by position.`
-);
+console.log(`Checked ${files} files and ${headings} headings.`);
+if (failed) console.error('Anchor check failed; fix the errors above.');
+else if (translationDifferences)
+  console.log(
+    `${translationDifferences} language versions have unmatched headings (warnings only; anchor check passed).`
+  );
+else console.log('Anchor check passed.');
 if (failed) process.exitCode = 1;

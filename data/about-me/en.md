@@ -23,7 +23,7 @@ I used to [worry too much about writing](/en/life/my-struggle-of-writing), but a
 
 You can subscribe to the [RSS feed](/feed.en.xml) to get updates on new posts under [life](/life).
 
-## Background
+## Background {#background}
 
 I am a software engineer who switched careers from philosophy. You can read more about that journey in [Reviewing My First Three Years as a Software Engineer](/en/software/my-first-three-year-in-code).
 
@@ -37,13 +37,13 @@ I decided to give it another shot in Japan, while continuing to actively explore
 
 I was born in Taipei, Taiwan, but I do not really have a home in Taiwan. I wrote about my thoughts on home in [After Becoming Homeless](/en/life/after-homelessness).
 
-## What I Like
+## What I Like {#what-i-like}
 
 1. Writing. I deeply believe the person who benefits most from writing is the writer. I tend to think a lot, and writing helps me organize my thoughts. Sharing them also lets me connect with others, and I am very happy when an idea resonates.
 2. Stories. Experiencing different works is what I look forward to most and the fastest way for me to recharge, so I built a [Works Database](/en/database).
 3. J-Pop. I first encountered J-Pop through anime. My first concert was milet. I like Japanese concert culture, and you can read my [J-Pop Live Log](/en/live).
 
-## My Beliefs
+## My Beliefs {#my-beliefs}
 
 1. Sincerity. Every word here will be true. I only use AI for translation.
 2. Creation. It makes me feel that life has meaning.
@@ -59,7 +59,7 @@ I was born in Taipei, Taiwan, but I do not really have a home in Taiwan. I wrote
 12. Nothing I have should ever be taken for granted. Being able to gain something through effort alone is a privilege.
 13. It is never too late. "The best time to plant a tree was ten years ago. The second-best time is now."
 
-## About Support
+## About Support {#about-support}
 
 Thank you for being willing to stop by my site in an age where attention is precious. You could have chosen social media, YouTube, or short videos, but you came here. I hope this place feels worthwhile and gives you something to take with you.
 
@@ -71,7 +71,7 @@ I will keep thinking, improving, and asking what my work can bring to you. I may
 
 <BobaButton>Give me a Boba!</BobaButton>
 
-## Contact Me
+## Contact Me {#contact-me}
 
 Feel free to sign the guestbook. If something I shared resonated with you, you can leave a comment under the article. I also appear on [Substack](https://substack.com/@parkerchang).
 

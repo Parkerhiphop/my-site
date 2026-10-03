@@ -15,7 +15,7 @@ This article will share a major change in my life — Leaving Taiwan for two yea
 
 Current plan is working holiday in Australia for one year, then working holiday in Japan for one year.
 
-## Finally Took That Step
+## Finally Took That Step {#finally-took-that-step}
 
 I have always wanted to go abroad. Envied many friends going for exchange during university. Met many seniors working abroad after switching to software engineer. Only slowly felt that I might be able to do it too.
 
@@ -37,7 +37,7 @@ At the same time, I had a friend who took working holiday visa to Japan last yea
 
 His success encouraged me. I know everyone's situation is different, but I am also almost unable to apply for working holiday. Applying doesn't mean must go. Why not get the visa first then think about whether to go.
 
-## Decided to Go to Australia Temporarily
+## Decided to Go to Australia Temporarily {#decided-to-go-to-australia-temporarily}
 
 I applied for Japanese working holiday visa at the end of April. Originally planned to stay in Taiwan until November when rental contract expires then depart.
 
@@ -55,9 +55,9 @@ Checked later, Japanese working holiday visa needs to be collected within half a
 
 I resigned on the day Australian working holiday visa came down. Then contacted landlord to terminate contract early, booked flight ticket, contacted local friends.
 
-## Why Want to Go Abroad So Much
+## Why Want to Go Abroad So Much {#why-want-to-go-abroad-so-much}
 
-### Labor Environment and Software Career Bottleneck
+### Labor Environment and Software Career Bottleneck {#labor-environment-and-software-career-bottleneck}
 
 In the review of [2024 -> 2025](/life/2024-2025#%E8%81%B7%E6%B6%AF) at the beginning of this year, I started to slowly think about "**What else can I do besides being an engineer**".
 
@@ -79,7 +79,7 @@ Career so far, I haven't made a product I identify with. Maybe I should put down
 
 Maybe I am not good at finding jobs, but this is my personal feeling of writing software in Taiwan.
 
-### Original Family and Housing Justice
+### Original Family and Housing Justice {#original-family-and-housing-justice}
 
 But compared to work, more important factors are "Original Family" and "Housing Justice".
 
@@ -97,7 +97,7 @@ I don't have my own home to go back to. Every time moving I even move graduation
 
 I can't imagine days continuing to rent in Taiwan. And I don't want to join this morbid real estate market in Taiwan.
 
-### Unable to Feel the Good of Taiwan
+### Unable to Feel the Good of Taiwan {#unable-to-feel-the-good-of-taiwan}
 
 Besides, also traffic environment never improves despite scolding. JPop concerts always have terrible organizers. Many groups and self-media claiming self-growth end up manufacturing anxiety and selling courses. Not to mention enemy country always aiming missiles at Taiwan and messy politics of KMT, TPP and their supporters.
 
@@ -107,7 +107,7 @@ Because I know Taiwan also has many advantages. Good public security. Things lef
 
 I want to go out for a trip. I want to really experience good and bad of other places and other industries. Maybe I can rediscover how good Taiwan is.
 
-## Unease Before Departure
+## Unease Before Departure {#unease-before-departure}
 
 > The price of leaving is the huge uncertainty coming face to face.
 
@@ -137,7 +137,7 @@ I used to think I was very independent. Now realized people flying out alone are
 
 I also worry English is not good enough. Or office sitting too long unable to adapt to physical work. But just go out and try then will know result!
 
-## Expectations for These Two Years
+## Expectations for These Two Years {#expectations-for-these-two-years}
 
 I don't preset must earn money in these two years. Breaking even might be good enough.
 
