@@ -31,7 +31,6 @@ pnpm check:anchors
 目前三組文章的段落結構不同：
 
 - `atomic-habits-note`：中文版經過重整，部分細節已合併或新增；已按內容配對相同主題的 ID。
-- `how-to-build-a-fitness-habit`：英文版沒有「推薦資源」段落。
-- `life-in-kusatsu`：日文版沒有「應對討厭的同事」段落。
+- `life-in-kusatsu`：日文版缺乏的部分可忽略。
 
 這些文章只有實際存在對應 ID 的段落能跨語言精確跳轉。可用 `check:anchors` 查看完整缺少清單。
