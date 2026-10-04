@@ -13,6 +13,8 @@ const i18nConfig = require('../i18n.json');
     'data/review/**/*.md',
     'data/life/**/*.mdx',
     'data/life/**/*.md',
+    'data/stream/*/*.mdx',
+    'data/stream/*/*.md',
     'public/tags/**/*.xml',
     '!pages/_*.js',
     '!pages/_*.tsx',
@@ -53,6 +55,7 @@ const i18nConfig = require('../i18n.json');
           .replace('pages/', '/')
           .replace('data/review', '/review')
           .replace('data/life', '/life')
+          .replace('data/stream', '/stream')
           .replace('public/', '/')
           .replace('.js', '')
           .replace('.mdx', '')
@@ -87,6 +90,7 @@ const i18nConfig = require('../i18n.json');
                   path.includes(`/404.js`) ||
                   path.includes(`/review/[...slug].js`) ||
                   path.includes(`/life/[...slug].js`) ||
+                  path.includes(`/stream/[...slug].js`) ||
                   alreadyPresent
                 ) {
                   // Not sure about the [...slug] condition...

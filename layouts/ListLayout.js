@@ -1,11 +1,11 @@
 import Link from '@/components/Link';
 import Image from '@/components/Image';
+import CategoryHeader from '@/components/CategoryHeader';
 
 import { useState } from 'react';
 import formatDate from '@/lib/utils/formatDate';
 import useTranslation from 'next-translate/useTranslation';
 import { useRouter } from 'next/router';
-import siteMetadata from '@/data/siteMetadata';
 
 const listCopy = {
   'zh-TW': {
@@ -59,18 +59,7 @@ export default function ListLayout({ type, posts, title, description, filters = 
 
   return (
     <div className="space-y-8">
-      <header className="border-b border-gray-200 pb-8 dark:border-gray-800">
-        <div className="grid gap-6 md:items-end">
-          <div>
-            <h1 className="heading-1 mt-2">
-              {siteMetadata.iconMap[type]} {title}
-            </h1>
-            <div className="mt-4 text-lg leading-8 text-gray-600 dark:text-gray-400">
-              {description}
-            </div>
-          </div>
-        </div>
-      </header>
+      <CategoryHeader type={type} title={title} description={description} />
 
       <section className="space-y-5">
         <div className="flex flex-col gap-4 border-b border-gray-200 pb-5 dark:border-gray-800 md:flex-row md:items-end md:justify-between">

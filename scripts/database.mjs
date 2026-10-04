@@ -8,9 +8,9 @@ import { Converter } from 'opencc-js';
 
 const ROOT = process.cwd();
 const DATABASE_DIR = path.join(ROOT, 'data', 'database');
-const WORK_FORMS = ['anime', 'film', 'manga', 'novel', 'series'];
+const WORK_FORMS = ['anime', 'film', 'manga', 'webtoon', 'novel', 'series'];
 const SCORE_VALUES = new Set([1, 2, 3, 5]);
-const REVIEW_STATUSES = new Set(['pending', 'approved', 'needs_fix']);
+const CHECK_STATUSES = new Set(['pending', 'approved']);
 const DATE_PATTERN = /^\d{4}(\/\d{2})?$/;
 const toTraditional = Converter({ from: 'cn', to: 'tw' });
 const execFileAsync = promisify(execFile);
@@ -362,9 +362,7 @@ function normalizeWork(work, form, usedKeys, publishers, index) {
     my_score: normalizeScore(work.my_score),
     note: work.note ?? null,
     has_article: normalizeBoolean(work.has_article) || Boolean(oldLink),
-    data_review: {
-      title_zh: work.data_review?.title_zh ?? 'pending',
-    },
+    check: work.check ?? 'pending',
   };
 }
 
@@ -500,8 +498,8 @@ async function validate({ silent = false } = {}) {
       if (typeof work.note !== 'string' && work.note !== null) {
         errors.push(`${context}: note must be null or a string.`);
       }
-      if (!REVIEW_STATUSES.has(work.data_review?.title_zh)) {
-        errors.push(`${context}: data_review.title_zh must be pending, approved, or needs_fix.`);
+      if (!CHECK_STATUSES.has(work.check)) {
+        errors.push(`${context}: check must be pending or approved.`);
       }
       for (const date of work.release_dates ?? [])
         validateDate(date, 'release_dates[]', context, errors);
@@ -636,7 +634,7 @@ async function edit() {
     work.my_completed_date = flags.completed === 'null' ? null : flags.completed;
   if (flags.titleZh !== undefined) {
     work.title.zh = zhTw(String(flags.titleZh));
-    work.data_review = { ...(work.data_review ?? {}), title_zh: 'approved' };
+    work.check = 'approved';
   }
 
   await writeWorks(collections);
@@ -721,9 +719,7 @@ async function add() {
       my_score: score,
       note: parseNullable(await ask(rl, 'note', flags.note ?? null)),
       has_article: parseBooleanInput(await ask(rl, 'has_article', flags.hasArticle ?? false)),
-      data_review: {
-        title_zh: titleReviewed ? 'approved' : 'pending',
-      },
+      check: titleReviewed ? 'approved' : 'pending',
     };
 
     collections[form].unshift(work);

@@ -78,7 +78,7 @@ inquirer
       name: 'blogFolder',
       message: 'Choose blog folder:',
       type: 'list',
-      choices: ['life', 'review', 'novel'],
+      choices: ['life', 'stream', 'review', 'novel'],
     },
     {
       name: 'folderName',

@@ -61,6 +61,8 @@ const generateRssItem = (post, locale, defaultLocale) => `
     'data/life/**/*.md',
     'data/review/**/*.mdx',
     'data/review/**/*.md',
+    'data/stream/*/*.mdx',
+    'data/stream/*/*.md',
   ]);
 
   const allPosts = await Promise.all(

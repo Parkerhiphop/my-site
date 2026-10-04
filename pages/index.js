@@ -42,6 +42,7 @@ const homeCopy = {
     },
     categories: {
       life: '生活',
+      stream: 'Stream',
       review: '感想',
       novel: '小說',
     },
@@ -83,6 +84,7 @@ const homeCopy = {
     },
     categories: {
       life: 'Life',
+      stream: 'Stream',
       review: 'Review',
       novel: 'Novel',
     },
@@ -124,6 +126,7 @@ const homeCopy = {
     },
     categories: {
       life: '生活',
+      stream: 'Stream',
       review: '感想',
       novel: '小説',
     },
@@ -132,6 +135,8 @@ const homeCopy = {
 
 const categoryStyles = {
   life: 'bg-emerald-50 text-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300 hover:bg-emerald-100 dark:hover:bg-emerald-900/70',
+  stream:
+    'bg-cyan-50 text-cyan-800 dark:bg-cyan-950/60 dark:text-cyan-300 hover:bg-cyan-100 dark:hover:bg-cyan-900/70',
   review:
     'bg-violet-50 text-violet-800 dark:bg-violet-950/60 dark:text-violet-300 hover:bg-violet-100 dark:hover:bg-violet-900/70',
   novel:
@@ -196,7 +201,7 @@ export async function getStaticProps({ locale, locales }) {
     .filter((post) => !pinnedPosts.some((pinnedPost) => pinnedPost.slug === post.slug))
     .slice(0, 3 - pinnedPosts.length);
 
-  const stats = ['life', 'review', 'novel']
+  const stats = ['life', 'stream', 'review', 'novel']
     .map((category) => ({
       category,
       count: posts.filter((post) => post.category === category).length,

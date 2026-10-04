@@ -41,7 +41,7 @@
 }
 
 .locale-ja {
-  font-family: 'DM Sans', 'Noto Serif JP', ui-serif, Georgia, serif;
+  font-family: 'DM Sans', 'Noto Sans JP', ui-sans-serif, system-ui, sans-serif;
 }
 
 h1 {
