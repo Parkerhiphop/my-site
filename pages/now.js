@@ -4,6 +4,29 @@ import Link from '@/components/Link';
 import { PageSEO } from '@/components/SEO';
 import siteMetadata from '@/data/siteMetadata';
 
+function renderInlineLinks(text) {
+  const linkPattern = /\[([^\]]+)\]\((https?:\/\/[^\s)]+|\/[^\s)]+)\)/g;
+  const parts = [];
+  let lastIndex = 0;
+
+  for (const match of text.matchAll(linkPattern)) {
+    if (match.index > lastIndex) parts.push(text.slice(lastIndex, match.index));
+    parts.push(
+      <Link
+        key={`${match.index}-${match[2]}`}
+        href={match[2]}
+        className="break-words font-medium text-primary-500 underline decoration-primary-500/40 underline-offset-2 hover:text-primary-600 dark:hover:text-primary-400"
+      >
+        {match[1]}
+      </Link>
+    );
+    lastIndex = match.index + match[0].length;
+  }
+
+  if (lastIndex < text.length) parts.push(text.slice(lastIndex));
+  return parts;
+}
+
 export async function getStaticProps({ locale, locales }) {
   return { props: { locale, availableLocales: locales } };
 }
@@ -56,7 +79,7 @@ export default function Now({ availableLocales }) {
                   {section.items.map((item) => (
                     <li key={item} className="flex gap-3">
                       <span className="mt-3 h-1.5 w-1.5 shrink-0 rounded-full bg-primary-400 dark:bg-primary-300" />
-                      <span>{item}</span>
+                      <span className="min-w-0">{renderInlineLinks(item)}</span>
                     </li>
                   ))}
                 </ul>

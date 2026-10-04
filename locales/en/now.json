@@ -1,67 +1,61 @@
 {
   "review-by-me": false,
-  "updatedAt": "2026-05-06",
+  "updatedAt": "2026-10-04",
   "updatedAtLabel": "Last updated",
-  "intro": "A record of where I am right now, what I am practicing, and a few snapshots of life.",
+  "intro": "A snapshot of how I've been lately.",
   "databaseLink": "Works Database",
   "databaseOngoingLink": "Watching now",
   "sections": [
     {
       "icon": "📍",
-      "title": "Where I Am Now",
+      "title": "Current Status",
       "items": [
-        "I just received a contractor offer as a software engineer in Tokyo, so I ended my working-holiday life in Australia and Japan earlier than planned.",
-        "I want to build my own circle of life in Tokyo: favorite shops, favorite corners, and favorite people."
+        "I briefly worked as a software engineer in Tokyo, but left the role for several reasons. I'm looking for another full stack job in Tokyo."
       ]
     },
     {
       "icon": "💪",
       "title": "Recent Practices",
       "items": [
-        "No longer getting anxious ahead of time",
-        "Recovering a regular routine and exercise habit, and adjusting my eating habits",
-        "Improving my Japanese so I am less often troubled by not having enough Japanese",
-        "Modern System Design Bootcamp",
-        "Keeping up with AI developments: LLM, Harness, Agent"
+        "Taking action instead of giving in to anxiety.",
+        "Staying focused while working at home. I'm paying more attention to managing my focus than managing my time, and doing one thing at a time.",
+        "Leaving room in my life instead of filling every spare moment.",
+        "Finding better sources of information and spending less time doomscrolling on social media.",
+        "Improving my Japanese and passing the JLPT N1 this December!",
+        "Contributing to Apache Kafka with [源來適你](https://github.com/opensource4you/readme).",
+        "Reading [Stanford CS329z](https://cs329z.stanford.edu/) with Bohr and friends.",
+        "Returning to pen and paper: writing journal entries, notes, and ideas on sticky notes and loose leaf paper, and letting go of my attachment to note taking apps."
       ]
     },
     {
       "icon": "🏁",
-      "title": "Recent Achievements",
+      "title": "Recent Satisfactions",
       "items": [
-        "Found a job in Tokyo",
-        "Made friends in a non-native language",
-        "Got better at cooking for myself (still not brave enough to cook for others)",
-        "Redesigned my personal website"
+        "Getting back into the gym without chasing heavy weights or big goals; first, I'm building a steady routine.",
+        "Cooking better meals for myself and starting to cook for other people, too.",
+        "Contributing regularly to the [Apache Kafka](https://github.com/apache/kafka) open source project.",
+        "Continuing to update my personal site: I added [Stream](/stream) for short posts and spun off [Parker's Dev Blog](https://dev.parkerchang.life) for more software development writing."
       ]
     },
     {
       "icon": "🧩",
       "title": "Recent Frustrations",
       "items": [
-        "Japanese and AI anxiety",
-        "The regular routine I built during working holiday has fallen apart again",
-        "It is too easy to spend too much time reading novels and manga"
-      ]
-    },
-    {
-      "icon": "💡",
-      "title": "Recent Discoveries",
-      "items": [
-        "The world is vast, vast enough that I can surely find people somewhere doing things similar to what I am doing. No one can really be that special, but that also means even if I feel out of place in my current environment, there must be some corner of the world where I can belong.",
-        "I have been away from the software industry for almost a year. The things I worried about and felt anxious over last year did not happen, or at least did not happen that quickly. I suffered more in my imagination than in reality. Following the trend means doing it for as long as I can, but I should not eliminate myself first."
+        "My first software engineering job in Tokyo didn't go well. I hope I can find another one and stay here.",
+        "I fulfilled my wish of moving to Japan, but changing countries didn't make all my problems disappear. I have no excuse to avoid them now.",
+        "Making choices about the things I want to do and the relationships I want to maintain."
       ]
     },
     {
       "icon": "✨",
       "title": "Recent Favorites",
       "items": [
-        "☀️ The comfortable weather right now: not too cold, not too hot, with sunlight falling down",
-        "😎 My redesigned personal website",
-        "🎵 J-Pop: The Story of Us (milet), Hitotarashi (Keisuke Kuwata), Salad Bowl (Aooo), illusion (Ryokuoushoku Shakai)",
-        "🎨 Manga: Fujii on the Roadside, 100 Meters",
-        "📺 Anime: Re:ZERO Season 4, Akane-banashi (the OP is amazing), Yomi no Tsugai",
-        "🎬 Movie: Project Hail Mary"
+        "🍁 The cooler autumn weather. Even with Tokyo's record stretch of rain, Aoba Ward in Kanagawa still gets plenty of sunny days. The commute is the price I pay for good weather.",
+        "📖 Book: 一本書終結你的拖延症",
+        "🎵 J-Pop: わたしの代わり (Ai Higuchi), 24hours (Chilli Beans), Christmas Eve (milet)",
+        "🎨 Manga: Welcome to Demon School! Iruma-kun (I picked it up again after season 4 of the anime and love it), Yomi no Tsugai (I caught up with the manga after the anime ended)",
+        "📺 Anime: Draw This, Then Die!, JoJo's Bizarre Adventure: Steel Ball Run",
+        "🎬 Movie: Spider-Man: Brand New Day"
       ],
       "footer": ""
     }
