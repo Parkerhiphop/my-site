@@ -9,7 +9,10 @@
       "icon": "📍",
       "title": "現在的狀態",
       "items": [
-        "在東京一度入職軟體工程師的職位但由於一些因素再度離職，重新在東京尋找 Fullstack 的工作中。"
+        "在東京一度入職軟體工程師的職位但由於一些因素再度離職，重新在東京尋找 Fullstack 的工作中。",
+        "跟著 [源來適你](https://github.com/opensource4you/readme) 一起開源貢獻 Apache Kafka",
+        "跟著 Bohr 和其他夥伴一起閱讀 [Stanford CS329z](https://cs329z.stanford.edu/)",
+        "與翰元、雅瑄、min 每個月固定討論寫作"
       ]
     },
     {
@@ -21,8 +24,6 @@
         "主動在生活中留白，不再塞滿所有空閒、零碎時間。",
         "建立更好的資訊來源，減少 Doom scrolling 社群媒體。",
         "精進日文，12 月要成功考取日檢 N1！",
-        "跟著 [源來適你](https://github.com/opensource4you/readme) 一起開源貢獻 Apache Kafka",
-        "跟著 Bohr 和其他夥伴一起閱讀 [Stanford CS329z](https://cs329z.stanford.edu/)",
         "重拾紙筆，用便條紙跟活頁筆記本寫日記、筆記跟想法，放棄對筆記軟體的堅持。"
       ]
     },
@@ -54,7 +55,7 @@
         "🎵 J-Pop：わたしの代わり（樋口愛）、24hours（Chilli Beans）、Christmas Eve (milet）",
         "🎨 漫畫：入間同學入魔了（動畫第四季完結撿回來看，真的好喜歡）、黃泉使者（同樣是動畫完結後直接把漫畫追到最新）",
         "📺 動畫：畫完這個再去死、JOJO的奇妙冒險 飆馬野郎",
-        "🎬 電影：《蜘蛛人：重生日》"
+        "🎬 電影：[《蜘蛛人：重生日》](/review/spider-man-brand-new-day)"
       ],
       "footer": ""
     }
