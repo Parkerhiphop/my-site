@@ -2,7 +2,7 @@
 title: I Can't Have It All
 date: '2026-10-05'
 draft: false
-summary: Facing the cost of my choices means making the most of the path I'm on, then giving my time to writing and other possibilities.
+summary: If I'm unwilling to pay that price, I shouldn't imagine I'll get the result.
 review-by-me: false
 ---
 
