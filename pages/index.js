@@ -42,7 +42,7 @@ const homeCopy = {
     },
     categories: {
       life: '生活',
-      stream: 'Stream',
+      stream: '隨筆',
       review: '感想',
       novel: '小說',
     },
@@ -126,7 +126,7 @@ const homeCopy = {
     },
     categories: {
       life: '生活',
-      stream: 'Stream',
+      stream: '雑記',
       review: '感想',
       novel: '小説',
     },

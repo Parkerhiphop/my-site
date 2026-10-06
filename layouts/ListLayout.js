@@ -43,7 +43,6 @@ export default function ListLayout({ type, posts, title, description, filters = 
   const { t } = useTranslation();
   const { locale } = useRouter();
   const copy = listCopy[locale] || listCopy['zh-TW'];
-  const latestPost = posts[0];
 
   const categoryPosts =
     activeFilter === 'all'
@@ -126,68 +125,75 @@ export default function ListLayout({ type, posts, title, description, filters = 
         )}
 
         {!filteredBlogPosts.length && (
-          <div className="rounded-lg border border-dashed border-gray-300 px-5 py-10 dark:border-gray-700">
-            <p className="text-3xl">🚧</p>
-            <h2 className="heading-2 mt-4">{copy.emptyTitle}</h2>
+          <div className="border-b border-gray-200 py-10 dark:border-gray-800">
+            <h2 className="text-xl font-bold leading-8 text-gray-900 dark:text-gray-100">
+              {copy.emptyTitle}
+            </h2>
             <p className="mt-2 text-base leading-7 text-gray-500 dark:text-gray-400">
               {copy.emptyDescription}
             </p>
           </div>
         )}
 
-        <ul className="space-y-3 md:space-y-0 md:divide-y md:divide-gray-300 md:dark:divide-gray-700">
-          {filteredBlogPosts.map((frontMatter) => {
-            const { slug, date, title, summary, description, category, cover } = frontMatter;
-            return (
-              <li
-                key={slug}
-                className="overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-colors hover:border-primary-200 hover:bg-gray-50/70 dark:border-gray-700 dark:bg-gray-900/30 dark:hover:border-primary-800 dark:hover:bg-gray-900/60 md:overflow-visible md:rounded-md md:border-0 md:bg-transparent md:shadow-none md:hover:bg-gray-50/70 md:dark:bg-transparent md:dark:hover:bg-gray-900/40"
-              >
-                <article className="group px-4 py-4 md:grid md:grid-cols-[8rem_minmax(0,1fr)_12rem] md:gap-6 md:px-3 md:py-8">
-                  <dl className="mb-2 md:mb-0">
-                    <dt className="sr-only">{t('common:pub')}</dt>
-                    <dd className="text-sm font-semibold leading-6 text-gray-500 dark:text-gray-400">
-                      <time dateTime={date}>{formatDate(date, locale)}</time>
-                    </dd>
-                  </dl>
-                  <div className="min-w-0">
-                    <h2 className="heading-2">
+        {!!filteredBlogPosts.length && (
+          <ul className="divide-y divide-gray-200 border-b border-gray-200 dark:divide-gray-800 dark:border-gray-800 md:divide-gray-300 md:dark:divide-gray-700">
+            {filteredBlogPosts.map((frontMatter) => {
+              const { slug, date, title, summary, description, category, cover } = frontMatter;
+              return (
+                <li
+                  key={slug}
+                  className="md:rounded-md md:transition-colors md:hover:bg-gray-50/70 md:dark:hover:bg-gray-900/40"
+                >
+                  <article
+                    className={`group grid gap-x-4 py-6 md:grid-cols-[8rem_minmax(0,1fr)_12rem] md:gap-6 md:px-3 md:py-8 ${
+                      cover ? 'grid-cols-[minmax(0,1fr)_5.5rem]' : 'grid-cols-1'
+                    }`}
+                  >
+                    <dl className="col-span-full mb-2 md:col-span-1 md:mb-0">
+                      <dt className="sr-only">{t('common:pub')}</dt>
+                      <dd className="text-sm font-medium leading-6 tracking-wide text-gray-500 dark:text-gray-400 md:font-semibold md:tracking-normal">
+                        <time dateTime={date}>{formatDate(date, locale)}</time>
+                      </dd>
+                    </dl>
+                    <div className="min-w-0">
+                      <h2 className="text-xl font-bold leading-snug tracking-tight text-gray-950 dark:text-gray-50 md:text-3xl md:leading-9">
+                        <Link
+                          href={`/${category}/${slug}`}
+                          className="transition-colors hover:text-primary-700 focus-visible:underline dark:hover:text-primary-300"
+                        >
+                          {title}
+                        </Link>
+                      </h2>
+                      <div className="mt-2 line-clamp-3 text-base leading-7 text-gray-600 dark:text-gray-400 md:line-clamp-none md:text-lg md:leading-8">
+                        {summary || description}
+                      </div>
                       <Link
                         href={`/${category}/${slug}`}
-                        className="text-gray-950 transition group-hover:text-primary-700 dark:text-gray-50 dark:group-hover:text-primary-300"
+                        className="mt-3 hidden text-sm font-semibold text-primary-600 transition hover:text-primary-700 dark:text-primary-300 dark:hover:text-primary-200 md:inline-flex"
                       >
-                        {title}
+                        {t('common:more')} →
                       </Link>
-                    </h2>
-                    <div className="mt-2 text-base leading-7 text-gray-600 dark:text-gray-400 md:text-lg md:leading-8">
-                      {summary || description}
                     </div>
-                    <Link
-                      href={`/${category}/${slug}`}
-                      className="mt-3 inline-flex text-sm font-semibold text-primary-600 transition hover:text-primary-700 dark:text-primary-300 dark:hover:text-primary-200"
-                    >
-                      {t('common:more')} →
-                    </Link>
-                  </div>
-                  {cover && (
-                    <Link
-                      href={`/${category}/${slug}`}
-                      className="relative mt-4 block aspect-[16/9] overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800 md:mt-0"
-                    >
-                      <Image
-                        src={cover}
-                        alt={title}
-                        fill
-                        sizes="(min-width: 768px) 12rem, 100vw"
-                        className="object-cover transition duration-500 group-hover:scale-105"
-                      />
-                    </Link>
-                  )}
-                </article>
-              </li>
-            );
-          })}
-        </ul>
+                    {cover && (
+                      <Link
+                        href={`/${category}/${slug}`}
+                        className="relative mt-1 block aspect-square overflow-hidden bg-gray-100 dark:bg-gray-800 md:mt-0 md:aspect-[16/9] md:rounded-md"
+                      >
+                        <Image
+                          src={cover}
+                          alt={title}
+                          fill
+                          sizes="(min-width: 768px) 12rem, 5.5rem"
+                          className="object-cover transition duration-500 group-hover:scale-105"
+                        />
+                      </Link>
+                    )}
+                  </article>
+                </li>
+              );
+            })}
+          </ul>
+        )}
       </section>
     </div>
   );

@@ -4,31 +4,26 @@ import { MDXLayoutRenderer } from '@/components/MDXComponents';
 import { PageSEO } from '@/components/SEO';
 import siteMetadata from '@/data/siteMetadata';
 import { getAllFilesFrontMatter, getFileBySlug } from '@/lib/mdx';
+import useTranslation from 'next-translate/useTranslation';
 
 const copy = {
   'zh-TW': {
-    title: 'Stream',
+    title: '隨筆',
     intro: '紀錄隨筆性質的短文章，也會寫一些零碎想法，專屬我的動態牆。',
-    updated: '按時間倒序排列',
     emptyTitle: '近期會開始更新，也會放上之前一些隨筆，敬請期待。',
-    articleLink: '單篇連結與留言',
-    countUnit: '篇',
+    articleLink: '留言',
   },
   en: {
     title: 'Stream',
     intro: 'A place for short, informal posts and scattered thoughts—my own personal feed.',
-    updated: 'Newest first',
     emptyTitle: "I'll start posting here soon and add some older notes too. Stay tuned.",
-    articleLink: 'Article link and comments',
-    countUnit: 'articles',
+    articleLink: 'Comments',
   },
   ja: {
-    title: 'Stream',
+    title: '雑記',
     intro: '気ままな短い文章や、ふと思いついたことを記録する、私だけのタイムラインです。',
-    updated: '新しい順',
-    emptyTitle: '近いうちに更新を始め、以前の随筆も載せていきます。お楽しみに。',
-    articleLink: '記事のリンクとコメント',
-    countUnit: '件',
+    emptyTitle: '近いうちに更新を始め、以前に書いたものも載せていきます。お楽しみに。',
+    articleLink: 'コメント',
   },
 };
 
@@ -46,6 +41,7 @@ export async function getStaticProps({ locale, locales }) {
 
 export default function Stream({ posts, locale, availableLocales }) {
   const text = copy[locale] || copy['zh-TW'];
+  const { t } = useTranslation();
   const formatDate = new Intl.DateTimeFormat(locale, {
     month: 'short',
     day: 'numeric',
@@ -62,26 +58,42 @@ export default function Stream({ posts, locale, availableLocales }) {
       <div className="space-y-8">
         <CategoryHeader type="stream" title={text.title} description={text.intro} />
 
-        <section className="space-y-8">
-          <div className="flex flex-wrap items-center gap-3 text-sm font-semibold text-gray-500 dark:text-gray-400">
-            <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-500" />
-            {text.updated} <span className="text-gray-300 dark:text-gray-700">·</span>
-            {posts.length} {text.countUnit}
-          </div>
-
+        <section>
           {!posts.length ? (
-            <div className="border-y border-dashed border-gray-300 pb-4 dark:border-gray-700">
-              <h2 className="mt-5">{text.emptyTitle}</h2>
+            <div className="mx-auto max-w-3xl pt-2 md:pt-4">
+              <p className="max-w-2xl text-lg leading-8 text-gray-700 dark:text-gray-300">
+                {text.emptyTitle}
+              </p>
+              <div className="mt-7 flex flex-wrap gap-x-6 gap-y-3 text-sm font-semibold">
+                <Link
+                  href="/life"
+                  className="text-primary-700 hover:underline dark:text-primary-300"
+                >
+                  {t('headerNavLinks:life')} <span aria-hidden="true">↗</span>
+                </Link>
+                <Link
+                  href="/review"
+                  className="text-primary-700 hover:underline dark:text-primary-300"
+                >
+                  {t('headerNavLinks:review')} <span aria-hidden="true">↗</span>
+                </Link>
+              </div>
             </div>
           ) : (
-            <div className="relative ml-3 border-l border-gray-200 dark:border-gray-800">
+            <div className="relative ml-3 border-l border-gray-200 dark:border-gray-800 md:mx-auto md:max-w-3xl">
               {posts.map((post) => (
                 <article
                   key={post.slug}
                   id={`stream-${post.slug}`}
                   className="group relative ml-7 border-b border-gray-200 py-7 first:pt-0 dark:border-gray-800 md:ml-12 md:py-10"
                 >
-                  <span className="absolute -left-[2.12rem] top-8 h-2.5 w-2.5 rounded-full border-2 border-white bg-primary-500 ring-4 ring-primary-100 transition group-hover:scale-125 dark:border-gray-950 dark:ring-primary-950 md:-left-[3.12rem] md:top-12" />
+                  <span
+                    aria-hidden="true"
+                    className="absolute -left-[2.12rem] top-8 h-2.5 w-2.5 md:-left-[3.12rem] md:top-12"
+                  >
+                    <span className="absolute inset-0 animate-ping rounded-full bg-primary-400 opacity-75 motion-reduce:animate-none" />
+                    <span className="relative block h-full w-full rounded-full border-2 border-white bg-primary-500 ring-4 ring-primary-100 transition group-hover:scale-125 dark:border-gray-950 dark:ring-primary-950" />
+                  </span>
                   <time
                     className="text-sm font-semibold text-gray-500 dark:text-gray-400"
                     dateTime={post.date}
@@ -96,7 +108,7 @@ export default function Stream({ posts, locale, availableLocales }) {
                       {post.title}
                     </Link>
                   </h2>
-                  <div className="mt-4 max-w-3xl">
+                  <div className="mt-4 max-w-2xl">
                     <MDXLayoutRenderer layout="StreamInlineLayout" mdxSource={post.mdxSource} />
                   </div>
                   {post.tags?.length > 0 && (
@@ -109,7 +121,7 @@ export default function Stream({ posts, locale, availableLocales }) {
                     </div>
                   )}
                   <Link
-                    href={`/stream/${post.slug}`}
+                    href={`/stream/${post.slug}#comments`}
                     className="mt-5 inline-block text-sm font-semibold text-primary-600 hover:underline dark:text-primary-400"
                   >
                     {text.articleLink} →
