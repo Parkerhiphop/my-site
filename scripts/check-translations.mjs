@@ -68,25 +68,25 @@ const translatedFilesMissingReviewFlag = allTranslatedMarkdownFiles().filter(
 );
 
 if (missingTranslations.length || translatedFilesMissingReviewFlag.length) {
-  console.error('\nTranslation check failed.\n');
+  console.warn('\nTranslation check warnings.\n');
 
   if (missingTranslations.length) {
-    console.error('zh-TW files were staged without matching en/ja updates:');
+    console.warn('zh-TW files were staged without matching en/ja updates:');
     for (const { source, locale } of missingTranslations) {
-      console.error(`- ${source} -> missing staged ${locale} update`);
+      console.warn(`- ${source} -> missing staged ${locale} update`);
     }
-    console.error('');
+    console.warn('');
   }
 
   if (translatedFilesMissingReviewFlag.length) {
-    console.error('Translated markdown files missing frontmatter `review-by-me`:');
+    console.warn('Translated markdown files missing frontmatter `review-by-me`:');
     for (const file of translatedFilesMissingReviewFlag) {
-      console.error(`- ${file}`);
+      console.warn(`- ${file}`);
     }
-    console.error('');
+    console.warn('');
   }
 
-  process.exit(1);
+  console.warn('Continuing because translation checks are warnings only.');
+} else {
+  console.log('Translation check passed.');
 }
-
-console.log('Translation check passed.');

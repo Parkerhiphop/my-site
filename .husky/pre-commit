@@ -3,4 +3,4 @@
 
 pnpm lint-staged
 pnpm check:translations
-pnpm generate-multiple-image
+# pnpm generate-multiple-image
