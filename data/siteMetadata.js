@@ -52,6 +52,7 @@ const siteMetadata = {
     now: '📍',
     stream: '🌊',
     about: '🙌',
+    timeline: '🕰️',
   },
 };
 

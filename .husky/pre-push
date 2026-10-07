@@ -1,0 +1,5 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "Calculating homepage statistics with a production build before push..."
+pnpm exec next build

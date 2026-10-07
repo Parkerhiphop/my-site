@@ -4,6 +4,12 @@ import headerNavLinks from '@/data/headerNavLinks';
 
 import useTranslation from 'next-translate/useTranslation';
 
+const mobileNavLinks = [
+  ...headerNavLinks.slice(0, 3),
+  { href: '/timeline', title: 'timeline' },
+  ...headerNavLinks.slice(3),
+];
+
 const MobileNav = ({ iconMap }) => {
   const { t } = useTranslation();
   const [navShow, setNavShow] = useState(false);
@@ -71,7 +77,7 @@ const MobileNav = ({ iconMap }) => {
             </button>
           </div>
           <nav className="mt-10 pb-12">
-            {headerNavLinks.map((link) => (
+            {mobileNavLinks.map((link) => (
               <div key={link.title} className="px-12 py-5">
                 <Link
                   href={link.href}

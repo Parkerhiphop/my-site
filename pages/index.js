@@ -20,6 +20,15 @@ const homeCopy = {
     timelineTitle: 'Timeline',
     statsTitle: '目前站上有',
     postsUnit: '篇文章',
+    approx: '約',
+    wordsUnit: '字',
+    averageLabel: '平均每篇',
+    yearsLabel: '累積寫作',
+    yearsUnit: '年',
+    databaseStatus: '整理中',
+    otherPagesTitle: '其他頁面',
+    devBlogLabel: '技術寫在這：',
+    timelineLink: '完整 Timeline',
     supportTitle: '喜歡這些文字嗎？',
     areaTitle: '我喜歡的區域',
     webLinks: {
@@ -58,6 +67,15 @@ const homeCopy = {
     timelineTitle: 'Timeline',
     statsTitle: 'On this site',
     postsUnit: 'posts',
+    approx: 'about',
+    wordsUnit: 'words',
+    averageLabel: 'Average per post',
+    yearsLabel: 'Writing for',
+    yearsUnit: 'years',
+    databaseStatus: 'In progress',
+    otherPagesTitle: 'Other pages',
+    devBlogLabel: 'Technical writing:',
+    timelineLink: 'Full Timeline',
     supportTitle: 'Enjoy the writing?',
     supportLabel: 'Support',
     supportDescription: 'If something here kept you company, you can buy me a boba.',
@@ -100,6 +118,15 @@ const homeCopy = {
     timelineTitle: 'Timeline',
     statsTitle: 'このサイトには',
     postsUnit: 'posts',
+    approx: '約',
+    wordsUnit: '文字',
+    averageLabel: '記事あたりの平均',
+    yearsLabel: '執筆',
+    yearsUnit: '年',
+    databaseStatus: '整理中',
+    otherPagesTitle: 'ほかのページ',
+    devBlogLabel: '技術記事はこちら：',
+    timelineLink: 'すべての Timeline',
     supportTitle: '文章を楽しめましたか？',
     supportLabel: '応援',
     supportDescription:
@@ -171,19 +198,12 @@ function CategoryBadge({ category }) {
 
 export async function getStaticProps({ locale, locales }) {
   const posts = await getAllPosts(locale);
-
-  const start = {
-    'zh-TW': '這是起點！',
-    en: "It's Jumping-off Point!",
-    ja: 'これがスタート地点です！',
-  };
-
-  const years = [...new Set(posts.map((post) => post.date.split('-')[0])), `👆 ${start[locale]}`];
-
+  const latestPosts = posts.slice(0, 5);
+  const years = [...new Set(latestPosts.map((post) => post.date.slice(0, 4)))];
   const postsByYear = years.map((year) => ({
-    year: year,
-    posts: posts
-      .filter((post) => post.date.split('-')[0] === year)
+    year,
+    posts: latestPosts
+      .filter((post) => post.date.startsWith(year))
       .map((post) => ({
         category: post.category,
         slug: post.slug,
@@ -208,6 +228,19 @@ export async function getStaticProps({ locale, locales }) {
     }))
     .filter((stat) => stat.count > 0);
 
+  const totalWords = posts.reduce((total, post) => total + post.wordCount, 0);
+  const earliestDate = posts.length ? new Date(posts[posts.length - 1].date) : null;
+  const today = new Date();
+  const writingYears = earliestDate
+    ? today.getUTCFullYear() -
+      earliestDate.getUTCFullYear() -
+      (today.getUTCMonth() < earliestDate.getUTCMonth() ||
+      (today.getUTCMonth() === earliestDate.getUTCMonth() &&
+        today.getUTCDate() < earliestDate.getUTCDate())
+        ? 1
+        : 0)
+    : 0;
+
   return {
     props: {
       posts: postsByYear,
@@ -220,15 +253,28 @@ export async function getStaticProps({ locale, locales }) {
         cover: getPostCover(post.category, post.slug, locale),
       })),
       stats,
+      totalWords,
+      averageWords: posts.length ? Math.round(totalWords / posts.length) : 0,
+      writingYears,
       locale,
       availableLocales: locales,
     },
   };
 }
 
-export default function Home({ posts, pinnedPosts, stats, locale, availableLocales }) {
+export default function Home({
+  posts,
+  pinnedPosts,
+  stats,
+  totalWords,
+  averageWords,
+  writingYears,
+  locale,
+  availableLocales,
+}) {
   const copy = homeCopy[locale] || homeCopy['zh-TW'];
   const articleCount = stats.reduce((total, stat) => total + stat.count, 0);
+  const number = new Intl.NumberFormat(locale);
   const webLinks = [
     { key: 'database', href: '/database' },
     { key: 'guestbook', href: '/guestbook' },
@@ -257,21 +303,56 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
                   {copy.aboutLink}
                 </Link>
               </p>
-              <div className="flex flex-wrap gap-x-4 gap-y-2 text-sm font-medium text-gray-500 dark:text-gray-400">
+              <div className="flex flex-wrap items-center gap-x-3 gap-y-1.5 rounded-xl border border-gray-200 bg-gray-50/60 px-3 py-2 text-xs text-gray-500 dark:border-gray-700 dark:bg-gray-900/30 dark:text-gray-400 sm:text-sm">
                 <span>{copy.statsTitle}</span>
                 <span>
-                  {articleCount} {copy.postsUnit}
+                  <strong className="font-semibold text-gray-700 dark:text-gray-200">
+                    {number.format(articleCount)}
+                  </strong>{' '}
+                  {copy.postsUnit}
                 </span>
-                {stats.map((stat) => (
+                <span>
+                  {copy.approx}{' '}
+                  <strong className="font-semibold text-gray-700 dark:text-gray-200">
+                    {number.format(totalWords)}
+                  </strong>{' '}
+                  {copy.wordsUnit}
+                </span>
+                <span>
+                  {copy.averageLabel}{' '}
+                  <strong className="font-semibold text-gray-700 dark:text-gray-200">
+                    {number.format(averageWords)}
+                  </strong>{' '}
+                  {copy.wordsUnit}
+                </span>
+                <span>
+                  {copy.yearsLabel}{' '}
+                  <strong className="font-semibold text-gray-700 dark:text-gray-200">
+                    {number.format(writingYears)}
+                  </strong>{' '}
+                  {copy.yearsUnit}
+                </span>
+                <span className="inline-flex flex-wrap gap-x-3 gap-y-1.5">
+                  {stats.map((stat) => (
+                    <Link
+                      key={stat.category}
+                      href={`/${stat.category}`}
+                      className="underline decoration-gray-300 underline-offset-4 transition hover:text-primary-600 hover:decoration-primary-400 dark:decoration-gray-600 dark:hover:text-primary-400"
+                    >
+                      {siteMetadata.iconMap[stat.category]} {copy.categories[stat.category]}{' '}
+                      {stat.count}
+                    </Link>
+                  ))}
+                </span>
+                <span className="inline-flex flex-wrap gap-x-3 gap-y-1.5 font-medium text-gray-700 dark:text-gray-300">
+                  <span>{copy.devBlogLabel}</span>
                   <Link
-                    key={stat.category}
-                    href={`/${stat.category}`}
-                    className="text-gray-500 underline decoration-gray-300 underline-offset-4 transition hover:text-primary-600 hover:decoration-primary-400 dark:text-gray-400 dark:decoration-gray-600 dark:hover:text-primary-400"
+                    href="https://dev.parkerchang.life/"
+                    className="hover:text-primary-600 dark:hover:text-primary-400"
                   >
-                    {siteMetadata.iconMap[stat.category]} {copy.categories[stat.category]}{' '}
-                    {stat.count}
+                    🧑‍💻 Parker's Dev Blog ↗
                   </Link>
-                ))}
+                </span>
               </div>
             </div>
           </section>
@@ -294,6 +375,11 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
                     </span>
                     <span>
                       {siteMetadata.iconMap[link.key]} {copy.webLinks[link.key].title}
+                      {link.key === 'database' && (
+                        <span className="ml-2 text-xs font-normal text-gray-500 dark:text-gray-400">
+                          {copy.databaseStatus}
+                        </span>
+                      )}
                     </span>
                   </div>
                   <p className="mt-1 text-sm leading-6 text-gray-500 dark:text-gray-400 md:mt-3 md:text-base md:leading-7">
@@ -414,6 +500,12 @@ export default function Home({ posts, pinnedPosts, stats, locale, availableLocal
             </div>
           ))}
         </ul>
+        <Link
+          href="/timeline"
+          className="inline-block font-semibold text-primary-600 underline decoration-primary-300 underline-offset-4 hover:text-primary-700 dark:text-primary-400 dark:decoration-primary-700 dark:hover:text-primary-300"
+        >
+          {copy.timelineLink} →
+        </Link>
       </div>
     </>
   );
