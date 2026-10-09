@@ -50,6 +50,7 @@ const siteMetadata = {
     guestbook: '✍️',
     database: '🗃️',
     now: '📍',
+    resource: '📚',
     stream: '🌊',
     about: '🙌',
     timeline: '🕰️',

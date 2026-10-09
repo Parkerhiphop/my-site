@@ -7,6 +7,7 @@ const headerNavLinks = [
   { href: '/guestbook', title: 'guestbook' },
   { href: '/about', title: 'about' },
   { href: '/now', title: 'now' },
+  { href: '/resource', title: 'resource' },
 ];
 
 export default headerNavLinks;

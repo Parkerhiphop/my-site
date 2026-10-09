@@ -36,6 +36,10 @@ const homeCopy = {
         title: '作品資料庫',
         description: '目前最喜歡的功能，收錄我看過的作品！',
       },
+      resource: {
+        title: '我的資訊清單',
+        description: '我在看的部落格、Podcast，以及訂閱和常用工具。',
+      },
       guestbook: {
         title: '簽名板',
         description: '走過路過不要錯過，歡迎來簽到！',
@@ -87,6 +91,10 @@ const homeCopy = {
         description:
           'My current favorite feature: a public index of things I have watched, read, and played.',
       },
+      resource: {
+        title: 'My Resource List',
+        description: 'Blogs and podcasts I follow, plus subscriptions and everyday tools.',
+      },
       guestbook: {
         title: 'Guestbook',
         description: 'Leave a note, let me know this web reached your side!',
@@ -137,6 +145,10 @@ const homeCopy = {
       database: {
         title: '作品データベース',
         description: '今いちばん気に入っている機能。今まで拝見した作品をまとめてあります！',
+      },
+      resource: {
+        title: '私の情報源リスト',
+        description: '読んでいるブログやポッドキャスト、サブスクとよく使うツール。',
       },
       guestbook: {
         title: 'ゲストブック',
@@ -277,6 +289,7 @@ export default function Home({
   const number = new Intl.NumberFormat(locale);
   const webLinks = [
     { key: 'database', href: '/database' },
+    { key: 'resource', href: '/resource' },
     { key: 'guestbook', href: '/guestbook' },
     { key: 'now', href: '/now' },
     { key: 'random', href: '/random' },
@@ -359,7 +372,7 @@ export default function Home({
 
           <section className="space-y-4">
             <h2 className={`${highlightedHeadingClass} heading-2`}>{copy.areaTitle}</h2>
-            <div className="md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-4">
+            <div className="md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-3 xl:grid-cols-5">
               {webLinks.map((link) => (
                 <Link
                   key={link.key}

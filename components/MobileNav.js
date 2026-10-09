@@ -76,12 +76,12 @@ const MobileNav = ({ iconMap }) => {
               </svg>
             </button>
           </div>
-          <nav className="mt-10 pb-12">
+          <nav className="mt-4 pb-4">
             {mobileNavLinks.map((link) => (
-              <div key={link.title} className="px-12 py-5">
+              <div key={link.title} className="px-12 py-2">
                 <Link
                   href={link.href}
-                  className="text-3xl font-bold leading-relaxed tracking-wide text-gray-900 dark:text-gray-100"
+                  className="text-xl font-bold leading-tight tracking-wide text-gray-900 dark:text-gray-100"
                   onClick={onToggleNav}
                 >
                   {iconMap[link.title]} {t(`headerNavLinks:${link.title.toLowerCase()}`)}
