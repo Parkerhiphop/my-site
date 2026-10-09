@@ -365,13 +365,6 @@ const liveEvents = [
     country: 'JP',
   },
   {
-    date: '2026-09-21',
-    artist: 'Ado、ano、女王蜂、ファントムシータ',
-    title: 'ROCK IN JAPAN FESTIVAL',
-    venue: venues.chibaSogaSportsPark,
-    country: 'JP',
-  },
-  {
     date: '2026-11-01',
     artist: 'milet',
     title: 'ホールツアー',
