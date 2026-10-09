@@ -1,6 +1,5 @@
 ---
 title: 我的資訊清單
-description: 持續整理與充實的資訊來源、訂閱和日常使用的工具。
 jumpLabel: 跳到清單分類
 commentTitle: 推薦給我
 sections:
