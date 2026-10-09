@@ -1,6 +1,5 @@
 ---
 title: 私の情報源リスト
-description: よく読む書き手やサブスク、日々使っているツールを少しずつまとめています。
 jumpLabel: セクションへ移動
 commentTitle: おすすめを教えてください
 sections:
