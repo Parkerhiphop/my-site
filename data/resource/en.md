@@ -1,6 +1,5 @@
 ---
 title: My Resource List
-description: The writers, subscriptions, and everyday tools I keep returning to.
 jumpLabel: Jump to a section
 commentTitle: What would you recommend?
 sections:
