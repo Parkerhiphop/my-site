@@ -50,15 +50,24 @@ const MobileNav = ({ iconMap }) => {
           />
         </svg>
       </button>
-      {navShow && (
+      <div
+        id="mobile-navigation"
+        aria-hidden={!navShow}
+        className={`fixed inset-0 z-10 flex justify-end bg-black/30 transition-opacity duration-300 dark:bg-black/50 ${
+          navShow ? 'visible opacity-100 delay-0' : 'invisible opacity-0 delay-300'
+        }`}
+        onClick={() => setNavShow(false)}
+      >
         <div
-          id="mobile-navigation"
-          className="fixed inset-0 z-10 overflow-y-auto overscroll-contain bg-gray-100/95 dark:bg-gray-900/95"
+          className={`h-full max-h-[100dvh] w-[min(85vw,24rem)] overflow-y-auto overscroll-contain bg-gray-100 shadow-xl transition-transform duration-300 ease-out dark:bg-gray-900 ${
+            navShow ? 'translate-x-0' : 'translate-x-full'
+          }`}
+          onClick={(event) => event.stopPropagation()}
         >
-          <div className="flex justify-end">
+          <div className="flex justify-end px-3 pt-3">
             <button
               type="button"
-              className="mr-5 mt-11 h-8 w-8 rounded"
+              className="h-8 w-8 rounded"
               aria-label="Toggle Menu"
               onClick={onToggleNav}
             >
@@ -76,12 +85,12 @@ const MobileNav = ({ iconMap }) => {
               </svg>
             </button>
           </div>
-          <nav className="mt-4 pb-4">
+          <nav className="pb-6">
             {mobileNavLinks.map((link) => (
-              <div key={link.title} className="px-12 py-2">
+              <div key={link.title} className="px-12 py-3">
                 <Link
                   href={link.href}
-                  className="text-xl font-bold leading-tight tracking-wide text-gray-900 dark:text-gray-100"
+                  className="text-2xl font-bold leading-snug tracking-wide text-gray-900 dark:text-gray-100"
                   onClick={onToggleNav}
                 >
                   {iconMap[link.title]} {t(`headerNavLinks:${link.title.toLowerCase()}`)}
@@ -90,7 +99,7 @@ const MobileNav = ({ iconMap }) => {
             ))}
           </nav>
         </div>
-      )}
+      </div>
     </div>
   );
 };
