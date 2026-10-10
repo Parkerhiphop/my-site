@@ -277,7 +277,6 @@ export default function Home({
   const number = new Intl.NumberFormat(locale);
   const webLinks = [
     { key: 'database', href: '/database' },
-    { key: 'resource', href: '/resource' },
     { key: 'guestbook', href: '/guestbook' },
     { key: 'now', href: '/now' },
     { key: 'random', href: '/random' },
@@ -360,7 +359,7 @@ export default function Home({
 
           <section className="space-y-4">
             <h2 className={`${highlightedHeadingClass} heading-2`}>{copy.areaTitle}</h2>
-            <div className="md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-3 xl:grid-cols-5">
+            <div className="md:grid md:grid-cols-2 md:gap-4 lg:grid-cols-3 xl:grid-cols-4">
               {webLinks.map((link) => (
                 <Link
                   key={link.key}
