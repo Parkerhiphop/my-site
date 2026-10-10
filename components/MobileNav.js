@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import Link from './Link';
 import headerNavLinks from '@/data/headerNavLinks';
 
@@ -13,6 +13,7 @@ const mobileNavLinks = [
 const MobileNav = ({ iconMap }) => {
   const { t } = useTranslation();
   const [navShow, setNavShow] = useState(false);
+  const menuButtonRef = useRef(null);
 
   useEffect(() => {
     if (!navShow) return;
@@ -25,12 +26,25 @@ const MobileNav = ({ iconMap }) => {
     };
   }, [navShow]);
 
-  const onToggleNav = () => setNavShow((status) => !status);
+  const closeNav = () => {
+    menuButtonRef.current?.focus();
+    setNavShow(false);
+  };
+
+  const onToggleNav = () => {
+    if (navShow) {
+      closeNav();
+      return;
+    }
+
+    setNavShow(true);
+  };
 
   return (
     <div className="lg:hidden">
       <button
         type="button"
+        ref={menuButtonRef}
         className="ml-1 mr-1 h-8 w-8 rounded"
         aria-label="Toggle Menu"
         aria-expanded={navShow}
@@ -56,7 +70,7 @@ const MobileNav = ({ iconMap }) => {
         className={`fixed inset-0 z-10 flex justify-end bg-black/30 transition-opacity duration-300 dark:bg-black/50 ${
           navShow ? 'visible opacity-100 delay-0' : 'invisible opacity-0 delay-300'
         }`}
-        onClick={() => setNavShow(false)}
+        onClick={closeNav}
       >
         <div
           className={`h-full max-h-[100dvh] w-[min(85vw,24rem)] overflow-y-auto overscroll-contain bg-gray-100 shadow-xl transition-transform duration-300 ease-out dark:bg-gray-900 ${
