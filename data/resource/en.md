@@ -1,5 +1,6 @@
 ---
-title: My Resource List
+title: My Favorite Resource List
+description: For now, most of my sources are in Mandarin, written in traditional characters.
 jumpLabel: Jump to a section
 commentTitle: What would you recommend?
 sections:
@@ -19,7 +20,7 @@ sections:
 
 In [After Losing My Facebook Account Used for Twelve Years](/life/i-lost-my-facebook#actively-manage-information-sources), I wrote about actively managing my information sources. In [The August I Flared and Burned Out](/life/august-flare#reclaiming-empty-space), I wrote about reclaiming empty space. That led me to put together this list of information sources and keep adding to it over time.
 
-For now, most of my sources are in Mandarin, written in traditional characters. I've considered reading more in English and Japanese, but Mandarin-language creators already cover a wide range of topics. Finding and reading good resources in languages other than my native one takes more effort, too. I'll add any worthwhile ones I come across later!
+I've considered reading more in English and Japanese, but Mandarin-language creators already cover a wide range of topics. Finding and reading good resources in languages other than my native one takes more effort, too. I'll add any worthwhile ones I come across later!
 
 **Recommendations and self-nominations are welcome in the comments!**
 

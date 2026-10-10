@@ -21,7 +21,7 @@ export default function ResourceLayout({ children, frontMatter, availableLocales
           <h1 className="heading-1">
             {siteMetadata.iconMap.resource} {title}
           </h1>
-          <p className="mt-5 max-w-2xl leading-8 text-gray-600 dark:text-gray-300">{description}</p>
+          <p className="mt-5 leading-8 text-gray-600 dark:text-gray-300">{description}</p>
         </header>
 
         <nav aria-label={jumpLabel} className="border-b border-gray-200 py-6 dark:border-gray-700">
