@@ -1,5 +1,5 @@
 ---
-title: Building Myself, Sort of in Public
+title: Build me in public
 date: '2026-10-10'
 draft: false
 review-by-me: false

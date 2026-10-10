@@ -54,6 +54,11 @@ const securityHeaders = [
 ];
 
 const redirects = [
+  {
+    source: '/stream/build-me-in-semi-public',
+    destination: '/stream/build-me-in-public',
+    statusCode: 301,
+  },
   // Software articles now live on dev-blog; preserve each language URL.
   ...['', '/zh-TW', '/en', '/ja'].flatMap((prefix) => {
     const destinationPrefix = prefix === '/zh-TW' ? '' : prefix;

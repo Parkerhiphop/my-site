@@ -1,5 +1,5 @@
 ---
-title: 自分を「半公開」でつくっていく
+title: 公開しながら自分をつくる
 date: '2026-10-10'
 draft: false
 review-by-me: false
