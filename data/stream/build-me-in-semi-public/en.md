@@ -17,7 +17,7 @@ I haven't felt like opening Substack much lately, and I've switched its in-app n
 
 One thing about a personal website is that feedback comes slowly. I rarely know who's reading. I've added emoji reactions and comments, but not many people use them yet. With my recent Stream posts, I can't even tell whether anyone has seen them. For now, I imagine most readers are other writers or friends, though I do occasionally get an email or hear from someone.
 
-Wiwi and Lee Wei are part of why I've been updating more often. Since pulling back from social media, I've spent more time in my RSS reader. I still catch myself wanting to scroll through something. Both of them post pretty frequently, so their writing keeps showing up. Seeing them use their own websites to document their lives and thoughts made me want to do the same.
+[Wiwi](https://wiwi.blog/) and [Lee Wei](https://blog.wei-lee.me/) are part of why I've been updating more often. Since pulling back from social media, I've spent more time in my RSS reader. I still catch myself wanting to scroll through something. Both of them post pretty frequently, so their writing keeps showing up. Seeing them use their own websites to document their lives and thoughts made me want to do the same.
 
 So I finally made a [Stream](/stream) section. I can post here without feeling like every piece has to be as complete as a [Life](/life) article.
 
