@@ -45,6 +45,8 @@ export default function PostLayout({
   const { locale } = useRouter();
   const { category, slug, date, title, cover, coverCaption, showSubstackEmbed, wordCount } =
     frontMatter;
+  const updatedAt = frontMatter.updatedAt;
+  const updatedDate = updatedAt ? new Date(updatedAt).toISOString().slice(0, 10) : null;
   const categoryLabel = category ? t(`headerNavLinks:${category}`) : '';
   const categoryIcon = siteMetadata.iconMap[category] || '🕸️';
   const description = frontMatter.summary || frontMatter.description;
@@ -83,6 +85,14 @@ export default function PostLayout({
                 /
               </span>
               <time dateTime={date}>{formatDate(new Date(date), locale)}</time>
+              {updatedDate && (
+                <>
+                  <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
+                    /
+                  </span>
+                  <time dateTime={updatedDate}>{t('common:updatedAt', { date: updatedDate })}</time>
+                </>
+              )}
               <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
                 /
               </span>

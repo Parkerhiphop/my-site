@@ -77,6 +77,7 @@ export const BlogSEO = ({
   summary,
   date,
   lastmod,
+  updatedAt,
   url,
   availableLocales,
   locale,
@@ -84,7 +85,8 @@ export const BlogSEO = ({
 }) => {
   const router = useRouter();
   const publishedAt = new Date(date).toISOString();
-  const modifiedAt = new Date(lastmod || date).toISOString();
+  const lastModifiedAt = updatedAt || lastmod;
+  const modifiedAt = new Date(lastModifiedAt || date).toISOString();
 
   const ogImage = cover
     ? `${siteMetadata.siteUrl}${cover}`
@@ -139,7 +141,7 @@ export const BlogSEO = ({
       />
       <Head>
         {date && <meta property="article:published_time" content={publishedAt} />}
-        {lastmod && <meta property="article:modified_time" content={modifiedAt} />}
+        {lastModifiedAt && <meta property="article:modified_time" content={modifiedAt} />}
         {availableLocales && generateLinks(router, availableLocales)}
         <script
           type="application/ld+json"
