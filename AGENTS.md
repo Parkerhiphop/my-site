@@ -8,3 +8,7 @@ When translating or editing posts in `data/stream`, `data/review`, or `data/life
 - For `data/life/**/ja.md`, use consistent です／ます style.
 
 Apply these conventions to new and updated posts. An explicit instruction from the user takes precedence.
+
+## Git attribution
+
+When committing or pushing, use the repository's configured owner identity. Do not add assistant attribution, co-author trailers, generated-by notices, or tool credits to commit messages or published content unless the user explicitly requests them. Preserve mentions of tools that are part of the author's own writing.
