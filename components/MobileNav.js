@@ -73,7 +73,7 @@ const MobileNav = ({ iconMap }) => {
         onClick={closeNav}
       >
         <div
-          className={`h-full max-h-[100dvh] w-[min(85vw,24rem)] overflow-y-auto overscroll-contain bg-gray-100 shadow-xl transition-transform duration-300 ease-out dark:bg-gray-900 ${
+          className={`flex h-[100dvh] max-h-[100dvh] w-[min(85vw,24rem)] flex-col overflow-y-auto overscroll-contain bg-gray-100 shadow-xl transition-transform duration-300 ease-out dark:bg-gray-900 ${
             navShow ? 'translate-x-0' : 'translate-x-full'
           }`}
           onClick={(event) => event.stopPropagation()}
@@ -99,9 +99,12 @@ const MobileNav = ({ iconMap }) => {
               </svg>
             </button>
           </div>
-          <nav className="pb-6">
+          <nav className="flex flex-1 flex-col pb-[env(safe-area-inset-bottom)]">
             {mobileNavLinks.map((link) => (
-              <div key={link.title} className="px-12 py-3">
+              <div
+                key={link.title}
+                className="flex min-h-12 flex-1 basis-0 items-center px-8 py-2 sm:px-12"
+              >
                 <Link
                   href={link.href}
                   className="text-2xl font-bold leading-snug tracking-wide text-gray-900 dark:text-gray-100"
