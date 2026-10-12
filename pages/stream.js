@@ -103,7 +103,7 @@ export default function Stream({ posts, locale, availableLocales }) {
                   <h2 className="mt-3 text-2xl font-bold leading-snug text-gray-900 dark:text-gray-100">
                     <Link
                       href={`/stream/${post.slug}`}
-                      className="hover:text-primary-600 hover:underline dark:hover:text-primary-400"
+                      className="underline decoration-primary-300 decoration-2 underline-offset-4 transition-colors hover:text-primary-600 focus-visible:rounded-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 dark:decoration-primary-700 dark:hover:text-primary-400"
                     >
                       {post.title}
                     </Link>
