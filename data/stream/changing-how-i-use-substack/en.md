@@ -13,4 +13,4 @@ To me, Substack sits somewhere between a personal website and social media. Mayb
 
 Still, I haven't felt like using Substack much lately. The social features are part of it, but I also want to focus more on newsletters. When I open the app now, it drops me straight into the Notes feed. The posts there aren't always about a clear topic, and they aren't quite what I came to Substack to read.
 
-I want to use Substack more as a newsletter platform: spend less time scrolling the feed or watching the numbers, read more newsletters from other writers, and send my own more often. I'd also like a little more feedback than I get on my personal website.
+I want to use Substack more as a newsletter platform: spend less time scrolling the feed or watching the numbers, read more newsletters from other writers, and send my own more often.
