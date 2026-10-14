@@ -8,26 +8,40 @@ const copy = {
     title: '網站大事紀',
     description: '網站功能與設計的重要變動。',
     updated: '上次更新',
-    visit: '看看頁面',
+    latest: '最新更新',
+    changes: '項變動',
+    types: { added: '新增', changed: '調整', fixed: '修正', removed: '移除' },
     posts: '文章時間軸',
   },
   en: {
     title: 'Site history',
     description: 'Key changes to this site and its design.',
     updated: 'Last updated',
-    visit: 'Visit page',
+    latest: 'Latest',
+    change: 'change',
+    changes: 'changes',
+    types: { added: 'Added', changed: 'Changed', fixed: 'Fixed', removed: 'Removed' },
     posts: 'Article timeline',
   },
   ja: {
     title: 'サイトの歩み',
     description: 'サイトの機能とデザインの主な変更点。',
     updated: '最終更新',
-    visit: 'ページを見る',
+    latest: '最新',
+    changes: '件の変更',
+    types: { added: '追加', changed: '変更', fixed: '修正', removed: '削除' },
     posts: '記事のタイムライン',
   },
 };
 
-const lastUpdated = '2026-10-10';
+const lastUpdated = '2026-10-15';
+
+const typeStyles = {
+  added: 'bg-emerald-50 text-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300',
+  changed: 'bg-primary-50 text-primary-800 dark:bg-primary-950/60 dark:text-primary-300',
+  fixed: 'bg-amber-50 text-amber-800 dark:bg-amber-950/60 dark:text-amber-300',
+  removed: 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300',
+};
 
 export async function getStaticProps({ locale, locales }) {
   return { props: { locale, availableLocales: locales } };
@@ -35,8 +49,16 @@ export async function getStaticProps({ locale, locales }) {
 
 export default function Changelog({ locale, availableLocales }) {
   const text = copy[locale] || copy['zh-TW'];
-  const years = [...new Set(changelog.map((item) => item.date.slice(0, 4)))];
-  const dateLocale = locale === 'zh-TW' ? 'zh-TW' : locale;
+  const releases = changelog.reduce((groups, item) => {
+    const latestGroup = groups[groups.length - 1];
+    if (latestGroup?.date === item.date) {
+      latestGroup.items.push(item);
+    } else {
+      groups.push({ date: item.date, items: [item] });
+    }
+    return groups;
+  }, []);
+  const years = [...new Set(releases.map((release) => release.date.slice(0, 4)))];
 
   return (
     <>
@@ -46,70 +68,111 @@ export default function Changelog({ locale, availableLocales }) {
         availableLocales={availableLocales}
       />
       <div className="mx-auto max-w-5xl">
-        <header className="border-b border-gray-200 pb-7 dark:border-gray-700">
+        <header className="flex flex-wrap items-end justify-between gap-x-8 gap-y-4 border-b border-gray-200 pb-7 dark:border-gray-700">
           <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 md:text-4xl">
             {text.title}
           </h1>
-          <p className="mt-3 text-xs text-gray-500 dark:text-gray-400">
+          <p className="text-xs text-gray-500 dark:text-gray-400">
             {text.updated}：<time dateTime={lastUpdated}>{lastUpdated}</time>
           </p>
         </header>
 
-        <div className="divide-y divide-gray-200 dark:divide-gray-700">
+        <nav aria-label={text.title} className="flex flex-wrap gap-2 py-5">
+          {years.map((year) => (
+            <a
+              key={year}
+              href={`#year-${year}`}
+              className="rounded-full border border-gray-200 px-3 py-1 text-sm font-semibold text-gray-600 transition-colors hover:border-primary-400 hover:text-primary-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 dark:border-gray-700 dark:text-gray-300 dark:hover:text-primary-300"
+            >
+              {year}
+            </a>
+          ))}
+        </nav>
+
+        <div>
           {years.map((year) => (
             <section
               key={year}
-              aria-labelledby={`year-${year}`}
-              className="grid gap-4 py-8 md:grid-cols-[8rem_minmax(0,1fr)] md:gap-8 md:py-10"
+              id={`year-${year}`}
+              aria-labelledby={`year-heading-${year}`}
+              className="scroll-mt-28 border-t border-gray-200 py-8 dark:border-gray-700 md:py-10"
             >
               <h2
-                id={`year-${year}`}
-                className="text-2xl font-bold tracking-tight text-primary-600 dark:text-primary-300 md:text-3xl"
+                id={`year-heading-${year}`}
+                className="mb-2 text-2xl font-bold tracking-tight text-primary-600 dark:text-primary-300 md:text-3xl"
               >
                 {year}
               </h2>
-              <ol className="relative border-l border-gray-300 pl-6 dark:border-gray-600 md:pl-9">
-                {changelog
-                  .filter((item) => item.date.startsWith(year))
-                  .map((item) => {
-                    const [title, description] = item.text[locale] || item.text['zh-TW'];
-                    return (
-                      <li
-                        key={`${item.commit}-${item.text['zh-TW'][0]}`}
-                        className="relative pb-7 last:pb-0"
-                      >
-                        <span
-                          aria-hidden="true"
-                          className="absolute -left-[1.75rem] top-2 h-3 w-3 rounded-full border-[3px] border-white bg-primary-500 dark:border-gray-900 md:-left-[2.56rem]"
-                        />
-                        <time
-                          dateTime={item.date}
-                          className="text-xs font-semibold tabular-nums text-gray-500 dark:text-gray-400"
-                        >
-                          {new Intl.DateTimeFormat(dateLocale, {
-                            month: 'long',
-                            day: 'numeric',
-                          }).format(new Date(`${item.date}T12:00:00Z`))}
-                        </time>
-                        <h3 className="mt-1 text-lg font-bold leading-snug text-gray-900 dark:text-gray-100 md:text-xl">
-                          {title}
-                        </h3>
-                        <p className="mt-1 max-w-2xl text-sm leading-6 text-gray-600 dark:text-gray-300 md:text-base">
-                          {description}
-                        </p>
-                        {item.href && (
-                          <div className="mt-2 text-xs font-semibold">
-                            <Link
-                              href={item.href}
-                              className="text-primary-600 hover:underline dark:text-primary-300"
+              <ol className="divide-y divide-gray-200 dark:divide-gray-700">
+                {releases
+                  .filter((release) => release.date.startsWith(year))
+                  .map((release) => (
+                    <li
+                      key={release.date}
+                      id={`release-${release.date}`}
+                      className="grid scroll-mt-28 gap-4 py-7 md:grid-cols-[11rem_minmax(0,1fr)] md:gap-8"
+                    >
+                      <div>
+                        <div className="flex flex-wrap items-center gap-2">
+                          <time
+                            dateTime={release.date}
+                            className="text-base font-bold tabular-nums text-gray-900 dark:text-gray-100"
+                          >
+                            {release.date.replaceAll('-', '.')}
+                          </time>
+                          {release.date === releases[0].date && (
+                            <span className="rounded-full bg-primary-100 px-2 py-0.5 text-[0.7rem] font-semibold text-primary-800 dark:bg-primary-900/60 dark:text-primary-200">
+                              {text.latest}
+                            </span>
+                          )}
+                        </div>
+                        <span className="mt-1 block text-xs text-gray-500 dark:text-gray-400">
+                          {release.items.length}{' '}
+                          {locale === 'en' && release.items.length === 1
+                            ? text.change
+                            : text.changes}
+                        </span>
+                      </div>
+                      <ul className="divide-y divide-gray-100 dark:divide-gray-800">
+                        {release.items.map((item) => {
+                          const [title, description] = item.text[locale] || item.text['zh-TW'];
+                          return (
+                            <li
+                              key={`${item.commit}-${item.text['zh-TW'][0]}`}
+                              className="grid gap-2 py-4 first:pt-0 last:pb-0 sm:grid-cols-[4.5rem_minmax(0,1fr)] sm:gap-4"
                             >
-                              {text.visit} →
-                            </Link>
-                          </div>
-                        )}
-                      </li>
-                    );
-                  })}
+                              <div>
+                                <span
+                                  className={`inline-flex rounded px-2 py-0.5 text-xs font-semibold ${
+                                    typeStyles[item.type]
+                                  }`}
+                                >
+                                  {text.types[item.type]}
+                                </span>
+                              </div>
+                              <div className="min-w-0">
+                                <h3 className="text-base font-bold leading-6 text-gray-900 dark:text-gray-100 md:text-lg">
+                                  {item.href ? (
+                                    <Link
+                                      href={item.href}
+                                      className="break-words text-primary-600 transition-colors hover:text-primary-700 focus-visible:rounded-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 dark:text-primary-300 dark:hover:text-primary-200"
+                                    >
+                                      {title}
+                                    </Link>
+                                  ) : (
+                                    title
+                                  )}
+                                </h3>
+                                <p className="mt-1 max-w-2xl text-sm leading-6 text-gray-600 dark:text-gray-300">
+                                  {description}
+                                </p>
+                              </div>
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    </li>
+                  ))}
               </ol>
             </section>
           ))}

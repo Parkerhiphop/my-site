@@ -4,6 +4,7 @@ const changelog = [
   {
     date: '2026-10-09',
     commit: 'eecd39a',
+    type: 'added',
     href: '/resource',
     text: {
       'zh-TW': ['新增資源頁', '整理值得持續閱讀的資訊來源。'],
@@ -14,6 +15,7 @@ const changelog = [
   {
     date: '2026-10-07',
     commit: '985f5ab',
+    type: 'added',
     href: '/timeline',
     text: {
       'zh-TW': ['新增文章時間軸', '把散落在各分類的文章依年份串起來。'],
@@ -27,9 +29,10 @@ const changelog = [
   {
     date: '2026-10-04',
     commit: '8fbe243',
+    type: 'added',
     href: '/stream',
     text: {
-      'zh-TW': ['隨筆回來了', '重新開放 Stream，讓短一點的念頭也有地方安放。'],
+      'zh-TW': ['開始寫隨筆', '重新開放 Stream，讓短一點的念頭也有地方安放。'],
       en: ['Stream returned', 'Brought back a home for shorter thoughts.'],
       ja: ['雑記が復活', '短い考えを書き留める場所を再び作りました。'],
     },
@@ -37,6 +40,7 @@ const changelog = [
   {
     date: '2026-10-03',
     commit: 'dec37d8',
+    type: 'added',
     href: '/database',
     text: {
       'zh-TW': ['資料庫加入網漫', '新增 Webtoon 分類，重新整理部分作品資料。'],
@@ -53,6 +57,7 @@ const changelog = [
   {
     date: '2026-10-03',
     commit: 'ea1152d',
+    type: 'changed',
     text: {
       'zh-TW': ['導覽列固定在畫面頂端', '往下閱讀時仍能快速切換網站頁面。'],
       en: ['Made the header sticky', 'Navigation stays within reach while reading.'],
@@ -62,6 +67,7 @@ const changelog = [
   {
     date: '2026-10-03',
     commit: '6d23293',
+    type: 'changed',
     href: 'https://dev.parkerchang.life',
     text: {
       'zh-TW': ['軟體文章搬往開發部落格', '把軟體內容從這個網站移出，留在獨立的開發部落格。'],
@@ -78,6 +84,7 @@ const changelog = [
   {
     date: '2026-09-28',
     commit: '04714b3',
+    type: 'fixed',
     text: {
       'zh-TW': ['多語標題連結更穩定', '切換語言後仍能對應到文章裡同一個段落。'],
       en: [
@@ -93,6 +100,7 @@ const changelog = [
   {
     date: '2026-09-17',
     commit: '26dacd8',
+    type: 'changed',
     href: '/database',
     text: {
       'zh-TW': ['資料庫顯示已選篩選條件', '篩選按鈕直接列出目前條件，查找作品時更容易掌握結果。'],
@@ -106,6 +114,7 @@ const changelog = [
   {
     date: '2026-09-12',
     commit: '1d20c4e',
+    type: 'changed',
     text: {
       'zh-TW': ['重新整理全站字體排版', '調整標題、內文與文章頁的字級和間距。'],
       en: [
@@ -121,6 +130,7 @@ const changelog = [
   {
     date: '2026-08-04',
     commit: '950f0b9',
+    type: 'added',
     href: '/database',
     text: {
       'zh-TW': ['資料庫加入「想看」清單', '新增待看作品篩選，也擴充出版社資料。'],
@@ -134,6 +144,7 @@ const changelog = [
   {
     date: '2026-08-01',
     commit: '8c454d7',
+    type: 'changed',
     href: '/live',
     text: {
       'zh-TW': ['擴充 Live 紀錄', '補上更多演出，並整理場地資料。'],
@@ -144,6 +155,7 @@ const changelog = [
   {
     date: '2026-05-24',
     commit: 'c47564f',
+    type: 'changed',
     href: '/about',
     text: {
       'zh-TW': ['改寫關於頁', '重新整理自我介紹，讓這個網站背後的人更清楚。'],
@@ -154,6 +166,7 @@ const changelog = [
   {
     date: '2026-05-24',
     commit: 'b7e5eac',
+    type: 'removed',
     text: {
       'zh-TW': ['移除小說獨立分類', '重新整理文章分類與導覽連結。'],
       en: ['Removed the separate Novel section', 'Simplified the categories and navigation links.'],
@@ -163,6 +176,7 @@ const changelog = [
   {
     date: '2026-05-24',
     commit: '1d4bd61',
+    type: 'changed',
     text: {
       'zh-TW': ['更新網站配色', '調整首頁與贊助區塊的色彩和元件樣式。'],
       en: [
@@ -175,6 +189,7 @@ const changelog = [
   {
     date: '2026-05-23',
     commit: 'b626f40',
+    type: 'changed',
     href: '/',
     text: {
       'zh-TW': ['首頁大改版', '加入精選內容與網站捷徑，重新安排首頁的閱讀動線。'],
@@ -188,6 +203,7 @@ const changelog = [
   {
     date: '2026-05-23',
     commit: 'b27489c',
+    type: 'added',
     href: '/live',
     text: {
       'zh-TW': ['新增 Live 紀錄', '為看過的現場演出留下一份清單。'],
@@ -198,6 +214,7 @@ const changelog = [
   {
     date: '2026-05-23',
     commit: '33621f6',
+    type: 'added',
     href: '/guestbook',
     text: {
       'zh-TW': ['新增簽名板', '訪客可以簽到、分享網站，也可以留下想說的話。'],
@@ -211,6 +228,7 @@ const changelog = [
   {
     date: '2026-05-23',
     commit: '33621f6',
+    type: 'added',
     text: {
       'zh-TW': ['加入贊助區塊與文章評論', '在文章與關於頁加入支持入口，文章重新開放留言。'],
       en: [
@@ -223,6 +241,7 @@ const changelog = [
   {
     date: '2026-05-23',
     commit: '942628b',
+    type: 'changed',
     href: '/database',
     text: {
       'zh-TW': ['作品資料庫擴充', '把看過的作品拆成結構化清單，加入更完整的篩選與資料。'],
@@ -236,6 +255,7 @@ const changelog = [
   {
     date: '2026-05-23',
     commit: 'ea20d27',
+    type: 'removed',
     text: {
       'zh-TW': ['Stream 暫時下線', '在網站分類調整時，先移除了舊的隨筆頁。'],
       en: ['Stream temporarily retired', 'Removed the old Stream page during a category cleanup.'],
@@ -245,6 +265,7 @@ const changelog = [
   {
     date: '2026-05-23',
     commit: '114d516',
+    type: 'changed',
     href: '/review',
     text: {
       'zh-TW': ['感想文章搬到 Review', '重新整理作品感想與讀書筆記的分類。'],
@@ -255,6 +276,7 @@ const changelog = [
   {
     date: '2026-05-07',
     commit: 'b9a8f1a',
+    type: 'added',
     href: '/now',
     text: {
       'zh-TW': ['新增 NOW 頁', '集中記錄目前所在的位置、近況與正在做的事。'],
@@ -265,6 +287,7 @@ const changelog = [
   {
     date: '2026-05-07',
     commit: 'b9a8f1a',
+    type: 'added',
     href: '/random',
     text: {
       'zh-TW': ['新增 Random', '隨機挑出一篇文章，提供另一種逛網站的方式。'],
@@ -278,6 +301,7 @@ const changelog = [
   {
     date: '2026-05-07',
     commit: 'b9a8f1a',
+    type: 'added',
     href: '/database',
     text: {
       'zh-TW': ['作品清單初登場', '開始整理讀過與看過的作品，成為後來作品資料庫的起點。'],
@@ -294,6 +318,7 @@ const changelog = [
   {
     date: '2026-05-07',
     commit: 'b9a8f1a',
+    type: 'added',
     text: {
       'zh-TW': ['補回軟體文章', '再次把軟體分類與舊文章放進網站導覽。'],
       en: [
@@ -306,6 +331,7 @@ const changelog = [
   {
     date: '2026-04-30',
     commit: '408b4a8',
+    type: 'added',
     text: {
       'zh-TW': ['文章圖片加入說明文字', '讓封面圖片可以附上圖說。'],
       en: ['Added cover captions', 'Post cover images can now include a caption.'],
@@ -318,6 +344,7 @@ const changelog = [
   {
     date: '2026-02-23',
     commit: '488e77c',
+    type: 'added',
     text: {
       'zh-TW': ['啟用語言偵測', '網站會依瀏覽器語言選擇初次進入的版本。'],
       en: [
@@ -330,33 +357,58 @@ const changelog = [
   {
     date: '2026-02-09',
     commit: '7aa178d',
+    type: 'changed',
     text: {
-      'zh-TW': ['調整手機版語言切換', '手機選單移除語言切換入口；網站仍維持三語內容。'],
+      'zh-TW': ['精簡手機選單', '移除側邊選單裡重複的語言切換；頁首仍可切換三語。'],
       en: [
-        'Adjusted mobile language switching',
-        'Removed the language switch from the mobile menu; the site still has three-language content.',
+        'Simplified the mobile menu',
+        'Removed the duplicate language selector in the drawer; switching remained available in the header.',
       ],
       ja: [
-        'モバイルの言語切り替えを調整',
-        'モバイルメニューから切り替えを外しましたが、三言語のコンテンツは続いています。',
+        'モバイルメニューを整理',
+        'メニュー内の重複した言語切り替えを外し、ヘッダーの切り替えは残しました。',
       ],
     },
   },
   {
     date: '2026-02-07',
-    commit: 'd82beb7',
+    commit: '925790c',
+    type: 'added',
     text: {
-      'zh-TW': ['擴充三語文章', '為大量既有文章補上英文與日文版本。'],
-      en: [
-        'Expanded multilingual writing',
-        'Added English and Japanese versions of many existing posts.',
+      'zh-TW': [
+        '補齊既有文章的三語版本',
+        '接續補上軟體等文章的英日文版本，當時各分類的三語文章數量已對齊。',
       ],
-      ja: ['三言語の記事を拡充', '既存の記事に英語版と日本語版を多数追加しました。'],
+      en: [
+        'Completed translations of existing posts',
+        'Added the remaining English and Japanese versions, including software posts, bringing the language collections into line.',
+      ],
+      ja: [
+        '既存記事の三言語版をそろえる',
+        '技術記事などの英語版・日本語版を追加し、当時の記事数を三言語でそろえました。',
+      ],
     },
   },
   {
     date: '2026-02-07',
     commit: 'd82beb7',
+    type: 'added',
+    text: {
+      'zh-TW': ['重啟三語切換', '把語言切換放回頁首，並為大量既有文章補上英文與日文版本。'],
+      en: [
+        'Brought back language switching',
+        'Restored the header selector and added English and Japanese versions of many posts.',
+      ],
+      ja: [
+        '三言語の切り替えを再開',
+        'ヘッダーの切り替えを戻し、既存の記事に英語版と日本語版を多数追加しました。',
+      ],
+    },
+  },
+  {
+    date: '2026-02-07',
+    commit: 'd82beb7',
+    type: 'removed',
     text: {
       'zh-TW': ['移除舊標籤系統', '精簡分類方式，改以文章類別作為主要入口。'],
       en: ['Removed the old tag system', 'Simplified browsing around article categories.'],
@@ -366,6 +418,7 @@ const changelog = [
   {
     date: '2025-11-20',
     commit: 'e82a9df',
+    type: 'added',
     text: {
       'zh-TW': ['文章標題可直接連結', '可以複製小標題的網址，分享文章中的特定段落。'],
       en: [
@@ -378,6 +431,7 @@ const changelog = [
   {
     date: '2025-01-05',
     commit: '1fc8a55',
+    type: 'added',
     text: {
       'zh-TW': ['文章加入 Substack 嵌入內容', '讓文章可以呈現 Substack 的內容。'],
       en: ['Added Substack embeds', 'Posts gained support for embedded Substack content.'],
@@ -390,6 +444,7 @@ const changelog = [
   {
     date: '2024-09-25',
     commit: '8c2b7da',
+    type: 'changed',
     text: {
       'zh-TW': ['文章目錄固定顯示', '閱讀長文時，目錄可以隨捲動保持在視線內。'],
       en: [
@@ -402,6 +457,7 @@ const changelog = [
   {
     date: '2024-09-17',
     commit: '037d0fc',
+    type: 'changed',
     text: {
       'zh-TW': ['日常改名為 Stream', '把短篇日常內容整理成隨筆分類。'],
       en: ['Daily became Stream', 'Reframed shorter everyday posts as Stream.'],
@@ -411,6 +467,7 @@ const changelog = [
   {
     date: '2024-09-16',
     commit: '64b00c9',
+    type: 'added',
     text: {
       'zh-TW': ['RSS 提供文章內容', '重新整理訂閱檔，讓閱讀器能取得文章內容。'],
       en: [
@@ -423,6 +480,7 @@ const changelog = [
   {
     date: '2024-09-15',
     commit: 'ee5b4cc',
+    type: 'changed',
     text: {
       'zh-TW': ['網站第二版', '文章從單一部落格拆成生活、閱讀、感想與軟體等分類，也重做導覽。'],
       en: [
@@ -436,8 +494,25 @@ const changelog = [
     },
   },
   {
+    date: '2024-09-15',
+    commit: 'ee5b4cc',
+    type: 'removed',
+    text: {
+      'zh-TW': ['暫停三語切換', '第二版改版時隱藏語言切換入口；少量英日文文章仍留在網站裡。'],
+      en: [
+        'Paused language switching',
+        'The version two redesign hid the language selector, while a few translated posts remained.',
+      ],
+      ja: [
+        '三言語の切り替えを一時停止',
+        '第2版への改修で言語切り替えを隠しましたが、少数の翻訳記事は残りました。',
+      ],
+    },
+  },
+  {
     date: '2024-06-17',
     commit: '2c344ae',
+    type: 'changed',
     text: {
       'zh-TW': ['調整配色與圖示', '為當時的版面換上新的色彩與圖示。'],
       en: [
@@ -450,6 +525,7 @@ const changelog = [
   {
     date: '2023-10-29',
     commit: '245b8f7',
+    type: 'added',
     text: {
       'zh-TW': ['加入文章分享圖片', '為文章建立專屬的社群分享預覽圖。'],
       en: ['Added social preview images', 'Posts gained their own images for link previews.'],
@@ -459,6 +535,7 @@ const changelog = [
   {
     date: '2023-07-16',
     commit: 'acf98a4',
+    type: 'added',
     text: {
       'zh-TW': ['文章加入目錄', '長文開始提供段落導覽。'],
       en: ['Added tables of contents', 'Long posts gained section navigation.'],
@@ -468,22 +545,27 @@ const changelog = [
   {
     date: '2023-06-01',
     commit: 'cb955e6',
+    type: 'added',
     text: {
-      'zh-TW': ['建立三語入口', '初版就規劃了繁體中文、英文與日文的語言選項。'],
+      'zh-TW': ['原型加入三語入口', '早期程式版本已有繁中、英文與日文選項。'],
       en: [
-        'Introduced three-language navigation',
-        'The first version offered Traditional Chinese, English and Japanese language options.',
+        'Added three-language navigation to the prototype',
+        'The early codebase included Traditional Chinese, English and Japanese options.',
       ],
-      ja: ['三言語の入口を用意', '初期版から繁体字中国語・英語・日本語の選択肢を設けました。'],
+      ja: [
+        '試作版に三言語の入口を追加',
+        '初期のコードには繁体字中国語・英語・日本語の選択肢がありました。',
+      ],
     },
   },
   {
     date: '2023-05-29',
     commit: '8bf0c70',
+    type: 'added',
     text: {
-      'zh-TW': ['網站開始', '第一個可運作的版本上線。'],
-      en: ['The site began', 'The first working version took shape.'],
-      ja: ['サイトの始まり', '最初に動く形ができました。'],
+      'zh-TW': ['網站原型建立', '第一個可運作的程式版本完成。'],
+      en: ['Built the site prototype', 'The first working codebase took shape.'],
+      ja: ['サイトの試作版を作成', '最初に動くコードができました。'],
     },
   },
 ];
