@@ -12,6 +12,7 @@ const WORK_FORMS = ['anime', 'film', 'manga', 'webtoon', 'novel', 'series'];
 const SCORE_VALUES = new Set([1, 2, 3, 5]);
 const CHECK_STATUSES = new Set(['pending', 'approved']);
 const DATE_PATTERN = /^\d{4}(\/\d{2})?$/;
+const COMPLETED_DATE_PATTERN = /^\d{4}\/\d{2}(\/\d{2})?$/;
 const toTraditional = Converter({ from: 'cn', to: 'tw' });
 const execFileAsync = promisify(execFile);
 
@@ -423,8 +424,10 @@ async function migrate() {
 
 function validateDate(value, field, context, errors) {
   if (value === null || value === undefined) return;
-  if (typeof value !== 'string' || !DATE_PATTERN.test(value)) {
-    errors.push(`${context}: ${field} must be null or YYYY/MM.`);
+  const pattern = field === 'my_completed_date' ? COMPLETED_DATE_PATTERN : DATE_PATTERN;
+  if (typeof value !== 'string' || !pattern.test(value)) {
+    const format = field === 'my_completed_date' ? 'YYYY/MM or YYYY/MM/DD' : 'YYYY/MM';
+    errors.push(`${context}: ${field} must be null or ${format}.`);
   }
 }
 
