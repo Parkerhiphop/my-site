@@ -3,7 +3,7 @@ title: 'The August I Flared and Burned Out'
 date: '2026-09-28'
 draft: false
 showSubstackEmbed: true
-summary: A disastrous August, out of work again, and reclaiming some empty space.
+description: A disastrous August, out of work again, and reclaiming some empty space.
 coverCaption: A sunset photographed from the rooftop of a friend's new home after I left my job.
 review-by-me: false
 ---

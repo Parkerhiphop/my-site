@@ -2,7 +2,7 @@
 title: 白熊效應
 date: '2026-10-06'
 draft: false
-summary: 指人們在壓抑某個想法時，那個想法反而會更鮮明。實驗中叫受試者「不要想白熊」，結果他們的腦中不斷浮現「白熊」的形象。
+description: 指人們在壓抑某個想法時，那個想法反而會更鮮明。實驗中叫受試者「不要想白熊」，結果他們的腦中不斷浮現「白熊」的形象。
 ---
 
 英文是 The White Bear Effect，也可以被稱作 Ironic Process Theory（諷刺反彈理論）。

@@ -3,7 +3,7 @@ title: 2024 → 2025
 date: '2025-02-17'
 draft: false
 showSubstackEmbed: true
-summary: 2024 Year in Review, a year where the spring loosened, briefly mentioned what I completed and what I didn't, and my pain. Discussed my expectations for 2025 from life, career, finance, and interpersonal relationships, and decided to take good care of myself before exerting influence.
+description: 2024 Year in Review, a year where the spring loosened, briefly mentioned what I completed and what I didn't, and my pain. Discussed my expectations for 2025 from life, career, finance, and interpersonal relationships, and decided to take good care of myself before exerting influence.
 review-by-me: false
 ---
 

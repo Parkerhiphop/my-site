@@ -3,7 +3,7 @@ title: You Still Shine in Other People's Hearts
 date: '2026-05-17'
 draft: false
 showSubstackEmbed: true
-summary: A quick life update, a years-old essay I wanted to share after watching The Return, and what I think about that essay now.
+description: A quick life update, a years-old essay I wanted to share after watching The Return, and what I think about that essay now.
 review-by-me: false
 ---
 

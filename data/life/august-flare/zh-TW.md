@@ -3,7 +3,7 @@ title: '驟燒殆盡的八月'
 date: '2026-09-28'
 draft: false
 showSubstackEmbed: true
-summary: 災難的八月，再次的無職和找回的空白。
+description: 災難的八月，再次的無職和找回的空白。
 coverCaption: 離職後，在友人新家的屋頂上拍出去的夕陽。
 ---
 

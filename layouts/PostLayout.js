@@ -49,7 +49,7 @@ export default function PostLayout({
   const updatedDate = updatedAt ? new Date(updatedAt).toISOString().slice(0, 10) : null;
   const categoryLabel = category ? t(`headerNavLinks:${category}`) : '';
   const categoryIcon = siteMetadata.iconMap[category] || '🕸️';
-  const description = frontMatter.summary || frontMatter.description;
+  const description = frontMatter.description;
   const formattedWordCount = new Intl.NumberFormat(locale).format(wordCount || 0);
   const wordCountLabel =
     locale === 'en'

@@ -2,7 +2,7 @@
 title: What I Want to Pursue in Work
 date: '2025-09-30'
 showSubstackEmbed: true
-summary: Having worked in an Australian vegetable and fruit factory for almost two months, labor work, which is at the opposite end of the scale from brain-using software engineers, unexpectedly gave me a lot of insights. This article will share the aspects I hope to pursue in work in the future, such as identity that can be stayed, money that can be saved, easy-to-get-along partners, peace of mind, and accumulating influence, etc.
+description: Having worked in an Australian vegetable and fruit factory for almost two months, labor work, which is at the opposite end of the scale from brain-using software engineers, unexpectedly gave me a lot of insights. This article will share the aspects I hope to pursue in work in the future, such as identity that can be stayed, money that can be saved, easy-to-get-along partners, peace of mind, and accumulating influence, etc.
 review-by-me: false
 ---
 

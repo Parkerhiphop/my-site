@@ -45,7 +45,7 @@ const generateRssItem = (post, locale, defaultLocale) => `
     <link>${siteMetadata.siteUrl}${defaultLocale === locale ? '' : '/' + locale}/${post.category}/${
   post.slug
 }</link>
-    ${post.summary && `<description>${escape(post.summary)}</description>`}
+    ${post.description && `<description>${escape(post.description)}</description>`}
     <pubDate>${new Date(post.date).toUTCString()}</pubDate>
     <author>${siteMetadata.email} (${siteMetadata.author})</author>
     ${post.tags && post.tags.map((t) => `<category>${t}</category>`).join('')}

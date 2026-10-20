@@ -2,7 +2,7 @@
 title: 'The Journey of My Site: Why write and Technology Choices'
 date: '2023-05-30'
 draft: false
-summary: About "Why set up a personal website", "why write" and "how to choose the tech stack"
+description: About "Why set up a personal website", "why write" and "how to choose the tech stack"
 review-by-me: false
 ---
 

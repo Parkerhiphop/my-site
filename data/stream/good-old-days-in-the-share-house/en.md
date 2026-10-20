@@ -1,11 +1,12 @@
 ---
 title: Good Old Days in the share house
+description: The people I mentioned in "Save Point Update" have all left the share house, so it's not as fun as when I first moved in.
 date: '2026-10-14'
 draft: false
 review-by-me: false
 ---
 
-I still live in the share house I wrote about in [Save Point Update](https://www.parkerchang.life/life/save-point-update).
+I still live in the share house I wrote about in [Save Point Update](/en/life/save-point-update).
 
 Everyone I mentioned in that post has since moved out. The French guy went home, and the American spent a while in Kyoto before going home, too. The German guy later moved to a share house in Saitama.
 
@@ -31,9 +32,9 @@ I think the Japanese man is still here. He seems to have lived here for years. H
 
 As for Taiwanese residents, there was one before I moved in, and three more have arrived recently. The one who's been here longer works from home and keeps a remarkably steady schedule: he always eats at 1 p.m. and 7 p.m. When I want to speak Chinese, I time my meals so I can catch him in the common room. I also ask him about things I don't understand. I only struck up a conversation with another Taiwanese resident in the hallway yesterday. He's here on a working holiday and is still unsure whether he wants to stay in Japan afterward.
 
-These days, the people I still run into include a Nepali woman who's often in the smoking room, an Indonesian animator, the Taiwanese resident with the steady routine, and the Japanese man who's been here for years. We still chat now and then, but the common room isn't as lively as it used to be.
+These days, I still talk with a Nepali woman who's often in the smoking room, my neighbor from Myanmar, a Vietnamese engineer, an Indonesian animator, the Taiwanese resident with the steady routine, and the Japanese man who's been here for years. We still chat when we run into each other in the hallway, but the common room has gone quiet. Nobody gathers there to talk anymore.
 
-That's what a share house is like. People come and go; staying for a long time is the unusual part.
+That's what a share house is like. People come and go; staying for a long time is the unusual part. Come to think of it, working holidays are much the same.
 
 As of today, I've been here for six months. I'd originally planned to move out around now, but things haven't gone to plan. I'll wait until I have a new job lined up before moving. I hope it'll happen early next year. Then I'll be one of the people who left this place, too.
 

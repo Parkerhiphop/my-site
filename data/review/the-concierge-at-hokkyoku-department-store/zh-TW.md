@@ -2,7 +2,7 @@
 title: 北極百貨的秋乃小姐 The Concierge
 date: '2024-03-27'
 draft: false
-summary: 關於《北極百貨的秋乃小姐》這部電影的心得，以及被觸動的生活感想
+description: 關於《北極百貨的秋乃小姐》這部電影的心得，以及被觸動的生活感想
 ---
 
 ![hokkyoku-departmant-store](/review/hokkyoku-departmant-store/cover-zh-TW.png)

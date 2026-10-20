@@ -3,7 +3,7 @@ title: 'Thoughts on an Ideal Life'
 date: '2026-03-27'
 draft: false
 showSubstackEmbed: true
-summary: Taipei, Brisbane, Kusatsu, and the fleeting thoughts in between. If I could give a faint smile the moment I step out the door, perhaps that would be my ideal life.
+description: Taipei, Brisbane, Kusatsu, and the fleeting thoughts in between. If I could give a faint smile the moment I step out the door, perhaps that would be my ideal life.
 review-by-me: false
 ---
 

@@ -3,7 +3,7 @@ title: '一気に燃え尽きた8月'
 date: '2026-09-28'
 draft: false
 showSubstackEmbed: true
-summary: 散々だった8月。再び無職になり、余白を取り戻す。
+description: 散々だった8月。再び無職になり、余白を取り戻す。
 coverCaption: 退職後、友人の新居の屋上から撮った夕日。
 review-by-me: false
 ---

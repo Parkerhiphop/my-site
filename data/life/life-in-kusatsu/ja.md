@@ -3,7 +3,7 @@ title: '草津での生活'
 date: '2026-01-31'
 draft: false
 showSubstackEmbed: true
-summary: 草津温泉スキー場でのアルバイト生活、この1ヶ月半の感想と少しずつ良くなっていく過程の記録。
+description: 草津温泉スキー場でのアルバイト生活、この1ヶ月半の感想と少しずつ良くなっていく過程の記録。
 review-by-me: false
 ---
 

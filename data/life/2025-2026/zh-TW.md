@@ -3,7 +3,7 @@ title: '2025 → 2026'
 date: '2026-02-23'
 draft: false
 showSubstackEmbed: true
-summary: 我 2025 的年度回顧與 2026 的期待。
+description: 我 2025 的年度回顧與 2026 的期待。
 ---
 
 ## 前言 {#prologue}

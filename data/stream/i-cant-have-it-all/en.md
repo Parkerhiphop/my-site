@@ -2,7 +2,7 @@
 title: I Can't Have It All
 date: '2026-10-05'
 draft: false
-summary: If I'm unwilling to pay that price, I shouldn't imagine I'll get the result.
+description: If I'm unwilling to pay that price, I shouldn't imagine I'll get the result.
 review-by-me: false
 ---
 

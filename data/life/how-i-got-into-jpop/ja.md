@@ -3,7 +3,7 @@ title: 'J-Popにハマったきっかけ'
 date: '2026-06-30'
 draft: true
 showSubstackEmbed: true
-summary: アニメソングやストリートダンス、コーディング中に流していたMV、そして2023年以降のライブ体験まで、J-Popにハマっていった道のりを振り返ります。
+description: アニメソングやストリートダンス、コーディング中に流していたMV、そして2023年以降のライブ体験まで、J-Popにハマっていった道のりを振り返ります。
 review-by-me: false
 ---
 

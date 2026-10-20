@@ -2,7 +2,7 @@
 title: 2022 → 2023
 date: '2023-03-18'
 draft: false
-summary: 2022 Year in Review
+description: 2022 Year in Review
 review-by-me: false
 ---
 

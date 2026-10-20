@@ -1,5 +1,6 @@
 ---
 title: 公開しながら自分をつくる
+description: 自分のいろいろな面や考えを、少しずつここに置いていきたい。なんだか build me in public しているような気分だ。
 date: '2026-10-10'
 draft: false
 review-by-me: false

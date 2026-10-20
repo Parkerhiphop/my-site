@@ -27,7 +27,7 @@ const genFrontMatter = (answers) => {
   date: '${date}'
   date: '${date}'
   draft: ${answers.draft === 'yes' ? true : false}
-  summary: ${answers.summary ? answers.summary : ' '}
+  description: ${answers.description ? answers.description : ' '}
   images: []
   layout: ${answers.layout}
   canonicalUrl: ${answers.canonicalUrl}
@@ -52,8 +52,8 @@ inquirer
       choices: ['mdx', 'md'],
     },
     {
-      name: 'summary',
-      message: 'Enter post summary:',
+      name: 'description',
+      message: 'Enter post description:',
       type: 'input',
     },
     {

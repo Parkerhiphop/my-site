@@ -2,7 +2,7 @@
 title: 『ジェームズ・クリアー式 複利で伸びる1つの習慣（Atomic Habits）』全書要約
 date: '2020-03-28'
 draft: false
-summary: アトミック・ハビッツ読書ノート
+description: アトミック・ハビッツ読書ノート
 review-by-me: false
 ---
 

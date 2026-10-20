@@ -2,7 +2,7 @@
 title: 私はあれもこれも手に入れられない
 date: '2026-10-05'
 draft: false
-summary: その代償を払いたくないのなら、何かを得られると夢見てはいけない。
+description: その代償を払いたくないのなら、何かを得られると夢見てはいけない。
 review-by-me: false
 ---
 

@@ -50,7 +50,7 @@ export async function getStaticProps({ locale, locales }) {
         slug: post.slug,
         title: post.title,
         date: post.date,
-        summary: post.summary || post.description || '',
+        description: post.description || '',
       })),
   }));
 
@@ -85,7 +85,7 @@ export default function Timeline({ postsByYear, locale, availableLocales }) {
                 )}
               </div>
               <ul className="border-l-4 border-primary-500 my-4 md:my-8 pl-4">
-                {postByYear.posts.map(({ category, slug, date, title, summary }) => (
+                {postByYear.posts.map(({ category, slug, date, title, description }) => (
                   <li key={category + '-' + slug} className="py-4">
                     <div className="grid gap-2 md:grid-cols-[6rem_minmax(0,1fr)] md:gap-x-4">
                       <div className="flex gap-4">
@@ -113,7 +113,7 @@ export default function Timeline({ postsByYear, locale, availableLocales }) {
                             </Link>
                           </div>
                           <div className="prose max-w-none text-gray-500 dark:text-gray-400 hidden md:block">
-                            {summary}
+                            {description}
                           </div>
                         </div>
                       </article>

@@ -3,7 +3,7 @@ title: Three Days in Tokyo
 date: '2025-03-31'
 draft: false
 showSubstackEmbed: true
-summary: A three-day trip to Tokyo chasing stars that I didn't want to go initially, allowed me to detach from daily life, rediscover the vastness and relaxation of the world. Also chatting about Tsubame-yu, Kawazu Sakura and Aimer's concert.
+description: A three-day trip to Tokyo chasing stars that I didn't want to go initially, allowed me to detach from daily life, rediscover the vastness and relaxation of the world. Also chatting about Tsubame-yu, Kawazu Sakura and Aimer's concert.
 review-by-me: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 公開打造自己
+description: 想慢慢地把自己的各種面向、想法都放上來，有種在 build me in public 的感覺。
 date: '2026-10-10'
 draft: false
 ---

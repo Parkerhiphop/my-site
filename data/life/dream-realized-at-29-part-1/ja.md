@@ -3,7 +3,7 @@ title: '夢が叶った29歳？（上）'
 date: '2026-07-31'
 draft: false
 showSubstackEmbed: true
-summary: 29歳で、夢だった日本に来ることができた。でも現実は、思っていたものとは少し違うことが多い。
+description: 29歳で、夢だった日本に来ることができた。でも現実は、思っていたものとは少し違うことが多い。
 coverCaption: 下北沢盆踊り。日本の地域のお祭りに初めて参加しました。
 canonicalUrl: https://parkerhiphop027.substack.com/p/29
 review-by-me: false

@@ -74,7 +74,7 @@ export const BlogSEO = ({
   title,
   category,
   slug,
-  summary,
+  description,
   date,
   lastmod,
   updatedAt,
@@ -127,14 +127,14 @@ export const BlogSEO = ({
         url: `${siteMetadata.siteUrl}${siteMetadata.siteLogo}`,
       },
     },
-    description: summary,
+    description,
   };
 
   return (
     <>
       <CommonSEO
         title={title}
-        description={summary}
+        description={description}
         ogType="article"
         ogImage={ogImage}
         availableLocales={availableLocales}

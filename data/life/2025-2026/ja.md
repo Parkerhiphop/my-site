@@ -3,7 +3,7 @@ title: '2025 → 2026'
 date: '2026-02-23'
 draft: false
 showSubstackEmbed: true
-summary: 私の2025年の振り返りと2026年への期待。
+description: 私の2025年の振り返りと2026年への期待。
 review-by-me: false
 ---
 

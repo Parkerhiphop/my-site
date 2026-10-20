@@ -2,7 +2,7 @@
 title: WIND BREAKER —Shishitoren Arc—
 date: '2024-06-10'
 draft: false
-summary: Thoughts on Shishitoren Arc, saw goal and process in it. Presented Togame's self-blame, Choji's darkening and Umemiya's broad-mindedness well.
+description: Thoughts on Shishitoren Arc, saw goal and process in it. Presented Togame's self-blame, Choji's darkening and Umemiya's broad-mindedness well.
 review-by-me: false
 ---
 

@@ -2,7 +2,7 @@
 title: ロボット・ドリームズ
 date: '2024-03-02'
 draft: false
-summary: 映画『ロボット・ドリームズ』についての感想、および触発された生活への思い
+description: 映画『ロボット・ドリームズ』についての感想、および触発された生活への思い
 review-by-me: false
 ---
 

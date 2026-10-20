@@ -3,7 +3,7 @@ title: 'Life in Kusatsu'
 date: '2026-01-31'
 draft: false
 showSubstackEmbed: true
-summary: Documenting my life working at Kusatsu Onsen Ski Resort, the feelings of the past month and a half, and the process of slowly getting better.
+description: Documenting my life working at Kusatsu Onsen Ski Resort, the feelings of the past month and a half, and the process of slowly getting better.
 review-by-me: false
 ---
 

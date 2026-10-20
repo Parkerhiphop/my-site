@@ -2,7 +2,7 @@
 title: Robot Dreams
 date: '2024-03-02'
 draft: false
-summary: Thoughts on the movie "Robot Dreams", and life reflections touched by it
+description: Thoughts on the movie "Robot Dreams", and life reflections touched by it
 review-by-me: false
 ---
 

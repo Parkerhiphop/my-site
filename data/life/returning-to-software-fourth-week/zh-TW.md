@@ -3,7 +3,7 @@ title: 日記：日本入職第四週與回台前的心情
 date: '2026-06-18'
 draft: false
 showSubstackEmbed: false
-summary: 離開軟體業近一年後，在日本入職第四週、準備回台換簽證的 emo 小日記。
+description: 離開軟體業近一年後，在日本入職第四週、準備回台換簽證的 emo 小日記。
 ---
 
 離開軟體業近一年後，回歸職場第四週。

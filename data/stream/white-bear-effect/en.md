@@ -2,7 +2,7 @@
 title: The White Bear Effect
 date: '2026-10-06'
 draft: false
-summary: it describes how trying to suppress a thought can make it even more vivid. In the experiment, participants were told not to think of a white bear, but the image kept appearing in their minds.
+description: it describes how trying to suppress a thought can make it even more vivid. In the experiment, participants were told not to think of a white bear, but the image kept appearing in their minds.
 review-by-me: false
 ---
 

@@ -2,7 +2,7 @@
 title: 自分のサイトを立ち上げる道のり
 date: '2023-05-30'
 draft: false
-summary: このウェブサイトについてのいくつかの大きな疑問
+description: このウェブサイトについてのいくつかの大きな疑問
 review-by-me: false
 ---
 

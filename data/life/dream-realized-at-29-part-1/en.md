@@ -3,7 +3,7 @@ title: 'Did My Dream Come True at 29? (Part 1)'
 date: '2026-07-31'
 draft: false
 showSubstackEmbed: true
-summary: At 29, I made it to Japan, the dream I had been chasing. But reality often turns out a little different from what I imagined.
+description: At 29, I made it to Japan, the dream I had been chasing. But reality often turns out a little different from what I imagined.
 coverCaption: Shimokitazawa Bon Odori, my first time joining a local festival in Japan.
 canonicalUrl: https://parkerhiphop027.substack.com/p/29
 review-by-me: false

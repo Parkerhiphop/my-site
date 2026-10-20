@@ -3,7 +3,7 @@ title: 'Diary: My Fourth Week at a New Job in Japan and Thoughts Before Returnin
 date: '2026-06-18'
 draft: false
 showSubstackEmbed: false
-summary: A slightly emo diary entry about my fourth week at a new job in Japan after nearly a year away from the software industry, and getting ready to return to Taiwan to sort out my visa.
+description: A slightly emo diary entry about my fourth week at a new job in Japan after nearly a year away from the software industry, and getting ready to return to Taiwan to sort out my visa.
 review-by-me: false
 ---
 

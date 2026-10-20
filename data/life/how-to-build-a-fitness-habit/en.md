@@ -2,7 +2,7 @@
 title: How to Build a Fitness Habit
 date: '2023-07-15'
 draft: false
-summary: Methodology and mindset about how I build my workout habits as an office workers
+description: Methodology and mindset about how I build my workout habits as an office workers
 review-by-me: false
 ---
 

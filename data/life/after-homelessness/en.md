@@ -2,7 +2,7 @@
 title: Written After Homelessness
 date: '2025-08-31'
 showSubstackEmbed: true
-summary: Being in a foreign land makes the idea of "home" particularly strong, but actually I don't have a "home" to return to in Taiwan either. I might still be able to stay at relatives' or friends' houses, but those won't be my home. In this article, I will share my current imagination of home through self-questioning and answering, and how I hope to pursue my "home" in the future.
+description: Being in a foreign land makes the idea of "home" particularly strong, but actually I don't have a "home" to return to in Taiwan either. I might still be able to stay at relatives' or friends' houses, but those won't be my home. In this article, I will share my current imagination of home through self-questioning and answering, and how I hope to pursue my "home" in the future.
 review-by-me: false
 ---
 

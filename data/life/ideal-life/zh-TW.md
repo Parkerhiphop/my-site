@@ -3,7 +3,7 @@ title: '理想生活的念想'
 date: '2026-03-27'
 draft: false
 showSubstackEmbed: true
-summary: 台北、布里斯本、草津，以及那一念之間。如果踏出門的那一刻能淡淡地微笑，那或許就是我的理想生活。
+description: 台北、布里斯本、草津，以及那一念之間。如果踏出門的那一刻能淡淡地微笑，那或許就是我的理想生活。
 ---
 
 > 這是我的「[BlogBlog 同樂會 - 2026 年 3 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[理想的日常](https://alexhsu.com/perfect-days)」，由 [Alex Hsu](https://alexhsu.com/) 主持。如果你有自己的部落格，歡迎一起來參加！

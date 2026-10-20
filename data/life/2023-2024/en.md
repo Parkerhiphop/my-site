@@ -2,7 +2,7 @@
 title: 2023 → 2024
 date: '2024-02-16'
 draft: false
-summary: 2023 Year in Review, discussed my views on annual reviews, last year's insights, decisions, things completed, expectations for next year, and why we should exert influence.
+description: 2023 Year in Review, discussed my views on annual reviews, last year's insights, decisions, things completed, expectations for next year, and why we should exert influence.
 review-by-me: false
 ---
 

@@ -3,7 +3,7 @@ title: '夢想實現的 29 歲？（上）'
 date: '2026-07-31'
 draft: false
 showSubstackEmbed: true
-summary: 29 歲，夢想實現來到日本，但現實往往會跟想得不太一樣呢。
+description: 29 歲，夢想實現來到日本，但現實往往會跟想得不太一樣呢。
 coverCaption: 下北沢盆踊り，第一次參加日本當地的祭典。
 ---
 

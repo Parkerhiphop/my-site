@@ -3,7 +3,7 @@ title: 'The Country Where I Have No Home'
 date: '2026-06-30'
 draft: false
 showSubstackEmbed: true
-summary: After starting work, I returned to Taiwan for two weeks to switch visas. This time I stayed in hostels, returning to my own country like a tourist. Changing visas felt like graduation, with a sense of ceremony before seriously beginning my life in Japan.
+description: After starting work, I returned to Taiwan for two weeks to switch visas. This time I stayed in hostels, returning to my own country like a tourist. Changing visas felt like graduation, with a sense of ceremony before seriously beginning my life in Japan.
 coverCaption: A seafood restaurant in Wanli that my friend took me to. The window seats would probably be beautiful on a sunny day.
 review-by-me: false
 ---

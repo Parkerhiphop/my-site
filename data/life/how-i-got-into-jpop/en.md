@@ -3,7 +3,7 @@ title: 'How I Got Into J-Pop'
 date: '2026-06-30'
 draft: true
 showSubstackEmbed: true
-summary: From anime songs and street dance to music videos while coding and live shows after 2023, a look back at how I got into J-Pop.
+description: From anime songs and street dance to music videos while coding and live shows after 2023, a look back at how I got into J-Pop.
 review-by-me: false
 ---
 

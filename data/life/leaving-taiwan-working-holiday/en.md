@@ -2,7 +2,7 @@
 title: 'Leaving Taiwan for Two Years: Heading to Australia and Japan'
 date: '2025-06-21'
 showSubstackEmbed: true
-summary: A software engineer pressed the career pause button and decided to leave Taiwan temporarily. From career bottlenecks, housing justice to struggles with the original family, this is my true journey of leaving for Australia and Japan to find a different way of life.
+description: A software engineer pressed the career pause button and decided to leave Taiwan temporarily. From career bottlenecks, housing justice to struggles with the original family, this is my true journey of leaving for Australia and Japan to find a different way of life.
 review-by-me: false
 ---
 

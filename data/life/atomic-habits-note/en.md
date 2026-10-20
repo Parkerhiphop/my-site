@@ -2,7 +2,7 @@
 title: '"Atomic Habits" Full Book Notes'
 date: '2020-03-28'
 draft: false
-summary: Atomic Habits Reading Notes
+description: Atomic Habits Reading Notes
 review-by-me: false
 ---
 

@@ -2,7 +2,7 @@
 title: The Concierge
 date: '2024-03-27'
 draft: false
-summary: Thoughts on the movie "The Concierge", and life reflections touched by it
+description: Thoughts on the movie "The Concierge", and life reflections touched by it
 review-by-me: false
 ---
 

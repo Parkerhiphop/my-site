@@ -50,9 +50,7 @@ export default function ListLayout({ type, posts, title, description, filters = 
       : posts.filter((frontMatter) => frontMatter.section === activeFilter);
 
   const filteredBlogPosts = categoryPosts.filter((frontMatter) => {
-    const searchContent = `${frontMatter.title || ''} ${frontMatter.summary || ''} ${
-      frontMatter.description || ''
-    }`;
+    const searchContent = `${frontMatter.title || ''} ${frontMatter.description || ''}`;
     return searchContent.toLowerCase().includes(searchValue.toLowerCase());
   });
 
@@ -138,7 +136,7 @@ export default function ListLayout({ type, posts, title, description, filters = 
         {!!filteredBlogPosts.length && (
           <ul className="divide-y divide-gray-200 border-b border-gray-200 dark:divide-gray-800 dark:border-gray-800 md:divide-gray-300 md:dark:divide-gray-700">
             {filteredBlogPosts.map((frontMatter) => {
-              const { slug, date, title, summary, description, category, cover } = frontMatter;
+              const { slug, date, title, description, category, cover } = frontMatter;
               return (
                 <li
                   key={slug}
@@ -165,7 +163,7 @@ export default function ListLayout({ type, posts, title, description, filters = 
                         </Link>
                       </h2>
                       <div className="mt-2 line-clamp-3 text-base leading-7 text-gray-600 dark:text-gray-400 md:line-clamp-none md:text-lg md:leading-8">
-                        {summary || description}
+                        {description}
                       </div>
                       <Link
                         href={`/${category}/${slug}`}

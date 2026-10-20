@@ -1,11 +1,12 @@
 ---
 title: Build me in public
+description: "I want to gradually put more of myself on it: the different sides of me, the things I think about. It feels a little like I'm building myself in public."
 date: '2026-10-10'
 draft: false
 review-by-me: false
 ---
 
-I've been updating my personal website more often lately. I want to gradually put more of myself on it: the different sides of me, the things I think about. It feels a little like I'm building myself in public. I know “build me in public” sounds a bit odd, but it has the right feel.
+I've been updating my personal website more often lately. I want to gradually put more of myself on it: the different sides of me, the things I think about. It feels a little like I'm building myself in public.
 
 Or maybe it's more like building in _semi-public_. A personal website sits somewhere between social media and a notes app. It doesn't feel quite so exposed, but it isn't entirely private either.
 

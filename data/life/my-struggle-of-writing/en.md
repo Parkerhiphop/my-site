@@ -3,7 +3,7 @@ title: Some Self-inflicted Troubles and Thoughts on Writing
 date: '2024-09-26'
 draft: false
 showSubstackEmbed: true
-summary: One year after building my personal website, I only wrote six articles. Why didn't I write more? This article records some thoughts during this period and before, including difficulties encountered in writing, mindset adjustments afterwards, and current goals.
+description: One year after building my personal website, I only wrote six articles. Why didn't I write more? This article records some thoughts during this period and before, including difficulties encountered in writing, mindset adjustments afterwards, and current goals.
 canonicalUrl:
 review-by-me: false
 ---

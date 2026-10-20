@@ -2,7 +2,7 @@
 title: 'Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train'
 date: '2021-07-18'
 draft: false
-summary: Thoughts on Mugen Train, making peace with our own weakness, and redefining strength.
+description: Thoughts on Mugen Train, making peace with our own weakness, and redefining strength.
 review-by-me: false
 ---
 

@@ -3,7 +3,7 @@ title: 你仍然在他人心中散發光芒
 date: '2026-05-17'
 draft: false
 showSubstackEmbed: true
-summary: 閒聊一下近況，因為看完《極限返航》後想分享一篇多年前寫的舊文章，以及現在對文章的想法。
+description: 閒聊一下近況，因為看完《極限返航》後想分享一篇多年前寫的舊文章，以及現在對文章的想法。
 ---
 
 ## 近況分享 {#life-update}

@@ -2,7 +2,7 @@
 title: Draw Your Own Map
 date: '2024-10-31'
 showSubstackEmbed: true
-summary: Discussing in detail "Draw Your Own Map" mentioned in the 2023->2024 Annual Review, how the map helped me, how to draw it, and my map version records and current status.
+description: Discussing in detail "Draw Your Own Map" mentioned in the 2023->2024 Annual Review, how the map helped me, how to draw it, and my map version records and current status.
 review-by-me: false
 ---
 
