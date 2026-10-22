@@ -365,6 +365,13 @@ const liveEvents = [
     country: 'JP',
   },
   {
+    date: '2026-10-17',
+    artist: 'milet',
+    title: 'ホールツアー',
+    venue: venues.tokyoGardenTheater,
+    country: 'JP',
+  },
+  {
     date: '2026-11-01',
     artist: 'milet',
     title: 'ホールツアー',
