@@ -7,7 +7,9 @@ description: From anime songs and street dance to music videos while coding and 
 review-by-me: false
 ---
 
-The main reason I wanted to write this post was to share my [J-Pop concert attendance list](https://www.parkerchang.life/live). One of the nice things about having a personal website is being able to make little corners exactly the way I like them!
+> This is my contribution to the [BlogBlog Carnival for June 2026](https://blogblog.club/party/). This month’s theme is [Music and Memories](https://www.yozblog.com/posts/music-and-memories), hosted by [Yuzu](https://www.yozblog.com/). If you have a blog of your own, you’re welcome to join in!
+
+The main reason I wanted to write this post was to share my [J-Pop concert attendance list](/en/live). One of the nice things about having a personal website is being able to make little corners exactly the way I like them!
 
 I originally wanted to write about my history with music, but since it's already the last day of the month, I'll share how I got into J-Pop for this gathering and save the rest for another time.
 
@@ -23,13 +25,13 @@ I couldn't really listen to J-Pop while dancing, either, because those songs rar
 
 One song that gave me a lot of strength in those earlier years was Mika Nakashima's [僕が死のうと思ったのは](https://www.youtube.com/watch?v=QL3T2Nzcqcs) (The Reason I Thought I'd Die). The link is to a 2016 live performance, and it's truly overwhelming. It gives me the drive and resolve to keep going. I still pull it up every now and then, and I'm so glad I got to hear it live in Taiwan in 2025!
 
-For a while, J-Pop music videos were so beautifully made that I'd put one on a screen while I coded. I used to watch Zutomayo, Eve, Yorushika, Yama, Minami, and others.
+J-Pop music videos are so beautifully made that, for a while, I would dedicate one of my screens to playing them while I coded. I used to watch Zutomayo, Eve, Yorushika, Yama, Minami, and others.
 
 Up to that point, most of the J-Pop I listened to was closely connected to anime. But the main reason I like J-Pop is that it's easy to find bands, and the sound tends to be light and energetic (even if the lyrics are often another story).
 
-I really fell into J-Pop after COVID restrictions were lifted at the end of 2023, when more and more J-Pop artists started coming to Taiwan.
+I really got hooked on J-Pop in late 2023, after COVID restrictions had been lifted and J-Pop artists started coming to Taiwan in large numbers.
 
-The first J-Pop show I saw live was Ryokuoushoku Shakai at Super Slippa. They even had an event where you could get something signed in person if you bought merchandise! I first got to know them through their cover of amazarashi's [空に歌えば](https://www.youtube.com/results?search_query=%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A+%E7%A9%BA%E3%81%AB%E6%AD%8C%E3%81%88%E3%81%B0), and lately my favorite has been [花になって](https://www.youtube.com/watch?v=v-WcMQbXbKY). I love how grand and assertive it sounds, like it's proclaiming its own presence. By the way, it's also the theme song for _The Apothecary Diaries_.
+The first J-Pop show I saw live was Ryokuoushoku Shakai at Super Slippa. They even had an event where you could get something signed in person if you bought merchandise! What first drew me to them was their cover of amazarashi's [空に歌えば](https://www.youtube.com/results?search_query=%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A+%E7%A9%BA%E3%81%AB%E6%AD%8C%E3%81%88%E3%81%B0), and lately my favorite has been [花になって](https://www.youtube.com/watch?v=v-WcMQbXbKY). I love how grand and assertive it sounds, like it's proclaiming its own presence. By the way, it's also the theme song for _The Apothecary Diaries_.
 
 But the artists who made me fall completely for J-Pop were Airi Suzuki and milet.
 
@@ -45,7 +47,7 @@ I discovered milet through [Prover](https://www.youtube.com/results?search_query
 
 When I first looked up the music video, I thought the person starring in it was beautiful. Only after searching did I realize she was the singer herself. The contrast between her appearance and her voice surprised me.
 
-The first solo concert I ever attended was also milet's “Hey Taipei, I'm milet” at the end of 2023. Before then, I couldn't understand why anyone would spend so much money to go to a concert. After that show, I realized I was one of those people.
+The first solo concert I ever attended was also milet's “Hey Taipei, I'm milet” at the end of 2023. Before then, I never understood the appeal of concerts. I even wondered why anyone would spend so much money to go to one. After that show, I realized I was one of those people.
 
 I also have to mention Ado. I got into her through _One Piece Film: Red_. I love [New Genesis](https://www.youtube.com/watch?v=1FliVTcX8bQ), [私は最強](https://www.youtube.com/results?search_query=Ado+%E7%A7%81%E3%81%AF%E6%9C%80%E5%BC%B7), and [逆光](https://www.youtube.com/results?search_query=Ado+%E9%80%86%E5%85%89), and lately my favorite has been [Show](https://www.youtube.com/watch?v=pgXpM4l_MwI).
 
