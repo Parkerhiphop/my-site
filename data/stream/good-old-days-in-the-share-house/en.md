@@ -26,9 +26,9 @@ The British DJ is still in Tokyo, and I'm going to see him again this week. We o
 
 Around the time they all left, I was about to start at my previous company. The share house became very quiet. For a while, a group of Indian residents would gather together, but after the person at the center of the group left Japan for Dubai, the group drifted apart.
 
-I've mostly been talking about people from Europe and America, but most of the residents are Japanese. A retired Japanese woman and a Japanese man were the two who interacted with everyone most. When I first moved in, she took me to a Chinese restaurant nearby. Whenever we met in the common room, she'd ask how I was doing and say she hoped I could stay in Japan. This month, she moved back in with her son.
+I tend to mention the European and American residents more because they're the ones who more often strike up a conversation with me. Most of the residents are still Japanese, and I've met some who are easy to talk to as well. One older Japanese woman took me to a nearby Chinese restaurant when I first moved in. Whenever we met in the common room, she'd ask how I was doing and say she hoped I could stay in Japan. This month, she moved back in with her son.
 
-I think the Japanese man is still here. He seems to have lived here for years. His accent is strong, so I don't always understand him, but he's kind and helps the other residents even when they don't share a language.
+There's also an older Japanese man who's lived here for years. I have trouble understanding his Japanese, but he's kind and helps the other residents even when there's a language barrier.
 
 As for Taiwanese residents, there was one before I moved in, and three more have arrived recently. The one who's been here longer works from home and keeps a remarkably steady schedule: he always eats at 1 p.m. and 7 p.m. When I want to speak Chinese, I time my meals so I can catch him in the common room. I also ask him about things I don't understand. I only struck up a conversation with another Taiwanese resident in the hallway yesterday. He's here on a working holiday and is still unsure whether he wants to stay in Japan afterward.
 
@@ -43,3 +43,15 @@ Maybe some periods of our lives stay beautiful because they end while they're st
 I still look back on my working holidays in Australia and at the ski resort. But if I'd stayed longer, or if I went back now, I doubt those places would feel as wonderful as they do in my memory.
 
 I want to live well in the present. The ordinary days I'm living now might become my good old days someday, too.
+
+---
+
+## October 15 update
+
+As it turned out, the day after I wrote this post, I happened to start talking with some of the newer residents.
+I'd planned to go to the British DJ's party that evening, but I had a bit of a cold and stayed home. That turned into a fresh start for getting to know the new people here.
+I met Harry, who's from South Africa, and we were joking with each other almost immediately. He called me Peter Parker, Spider-Man, and I called him Harry Potter. Both our names came with a movie character. At first, I'd assumed he was Australian because he was white and had a British-sounding accent. Writing that down makes me embarrassed by how narrow my picture of other countries can be. Still, a quick search showed that white South Africans make up less than 10% of the population and mostly live around Cape Town. That happens to be where he's from.
+He said he'd come to Japan because South Africa was too dangerous. His example was the same one people from Taiwan often bring up: being able to leave your phone on the table in a restaurant or café. He said he used to see people rush into restaurants and snatch things off the tables all the time. His mother even made the news once for refusing to give up chasing a thief until she caught them. As for his own experience, he once had to leave his phone in his bag outside an exam room, as the rules required. When he came out after the exam, it was gone.
+He loves South Africa and showed me lots of beautiful photos he'd taken there. The neighborhood where he lived looked like something from an American TV show, with detached houses and yards. But the crime makes him reluctant to go back. He wants to stay in Japan permanently. Some people around him complain about Japan, but compared with his life in South Africa, he feels those complaints come from a very fortunate place.
+It wasn't easy for him to adjust when he first arrived in Japan, either. He's still working hard to learn Japanese from scratch. Later, through Meetup, he met an American who'd been living here for a long time and helped him work through a lot of problems.
+Through Harry, I also got talking with two Japanese residents, Masaki-san and Chika-san. They also feel the house has become too quiet and are thinking about moving to another share house two stations away. We may only know each other for a short time, but it's still nice to make some new friends during these last days here.
