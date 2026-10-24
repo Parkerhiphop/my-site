@@ -25,6 +25,7 @@ const venues = {
   theWallTaipei: 'The WALL TAIPEI',
   yoyogiNationalGymnasium: '国立代々木競技場 第一体育館',
   zeppOsakaBayside: 'Zepp Osaka Bayside',
+  toyosuPIT: '豊洲PIT',
 };
 
 const liveEvents = [
@@ -390,6 +391,13 @@ const liveEvents = [
     artist: 'aooo',
     title: 'ワンマンライブ『Budoookan』',
     venue: venues.nipponBudokan,
+    country: 'JP',
+  },
+  {
+    date: '2026-02-28',
+    artist: 'ano',
+    title: '猫吐祭',
+    venue: venues.toyosuPIT,
     country: 'JP',
   },
 ];
