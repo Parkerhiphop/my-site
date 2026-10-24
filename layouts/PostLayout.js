@@ -70,7 +70,7 @@ export default function PostLayout({
       <ScrollTopAndComment />
       <article className="pb-12">
         <header className="border-b border-gray-200 pb-8 dark:border-gray-800 md:pb-10">
-          <div className="mx-auto max-w-3xl">
+          <div className="mx-auto max-w-2xl">
             <div className="flex flex-wrap items-center gap-x-3 gap-y-2 text-sm font-semibold text-gray-500 dark:text-gray-400">
               {category && (
                 <Link

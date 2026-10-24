@@ -11,19 +11,19 @@ const copy = {
     title: '隨筆',
     intro: '紀錄隨筆性質的短文章，也會寫一些零碎想法，專屬我的動態牆。',
     emptyTitle: '近期會開始更新，也會放上之前一些隨筆，敬請期待。',
-    articleLink: '留言',
+    articleLink: '去留言',
   },
   en: {
     title: 'Stream',
     intro: 'A place for short, informal posts and scattered thoughts—my own personal feed.',
     emptyTitle: "I'll start posting here soon and add some older notes too. Stay tuned.",
-    articleLink: 'Comments',
+    articleLink: 'Go To Comments',
   },
   ja: {
     title: '雑記',
     intro: '気ままな短い文章や、ふと思いついたことを記録する、私だけのタイムラインです。',
     emptyTitle: '近いうちに更新を始め、以前に書いたものも載せていきます。お楽しみに。',
-    articleLink: 'コメント',
+    articleLink: 'コメントへ',
   },
 };
 
