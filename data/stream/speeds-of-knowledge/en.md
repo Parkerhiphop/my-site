@@ -1,6 +1,7 @@
 ---
 title: Knowledge Moves at Different Speeds
 date: '2026-10-21'
+description: This title comes from a talk by Kuo-Wei Cheng, founder of 🇹🇼 PanSci, about his journey in science communication. Here are a few of my thoughts.
 draft: false
 review-by-me: false
 ---
