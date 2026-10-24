@@ -66,8 +66,6 @@ Only after finishing these things did I finally feel like I was going to continu
 
 I am grateful for every encounter. I cherish every person I met during this trip back to Taiwan. It is still a pity that there were some people I could not meet, but maybe that is fate.
 
-Although I do not like Taiwan, I sincerely hope my friends in Taiwan are all doing well, and that Taiwan can keep becoming better. My inability to continue staying in Taiwan is my personal situation. I hope everyone simply makes their own choice.
-
 I do not know when I will return to Taiwan next time, and it is unlikely I will stay for two weeks. See you in Japan.
 
 ---
